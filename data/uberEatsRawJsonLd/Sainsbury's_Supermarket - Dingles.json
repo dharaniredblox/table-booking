@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/sainsburys-supermarket-dingles/bMVaxuqWRCq8Cx6yd-Xc0A",
+  "name": "Sainsbury's Supermarket - Dingles",
+  "servesCuisine": [
+    "Alcohol",
+    "Convenience",
+    "Everyday Essentials",
+    "Grocery",
+    "Specialty Foods",
+    "Beauty Supply",
+    "Retail",
+    "Baby",
+    "Electronics",
+    "Pharmacy",
+    "Personal Care"
+  ],
+  "priceRange": "₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/5dcd0dc2d58f16db77b9f3fa5dd43293/19ec62ba51fde35ba0aff5b84321c5af.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/5dcd0dc2d58f16db77b9f3fa5dd43293/c67d558c633281f9c71fc6a90ef470ae.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/5dcd0dc2d58f16db77b9f3fa5dd43293/8681e511c0910e0052cb155c50f01f89.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/5dcd0dc2d58f16db77b9f3fa5dd43293/6ea4f72e303000fbf403bbb36f971f85.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/5dcd0dc2d58f16db77b9f3fa5dd43293/4bee0baf259f2b3c95aacdebea87e950.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/5dcd0dc2d58f16db77b9f3fa5dd43293/5283d81c664b43c5f57a3a186d273063.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/sainsburys-supermarket-dingles/bMVaxuqWRCq8Cx6yd-Xc0A?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "",
+    "postalCode": "BS8 1",
+    "addressCountry": "GB",
+    "streetAddress": "Queens Rd, Clifton"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.4567159,
+    "longitude": -2.6069145
+  },
+  "telephone": "+441179221693",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.5,
+    "reviewCount": "6000"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "12:0",
+      "closes": "17:30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "7:0",
+      "closes": "22:30"
+    }
+  ],
+  "hasMenu": null
+}

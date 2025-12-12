@@ -1,0 +1,2438 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/greggs-bristol-46-queens-rd/h1gzI2VQXuOQlFoR9hl7EA",
+  "name": "Greggs (Bristol, 46 Queens Rd)",
+  "servesCuisine": [
+    "Sandwiches",
+    "Breakfast and Brunch",
+    "Coffee and Tea",
+    "Pastry",
+    "Drinks",
+    "Rolls",
+    "Bakery"
+  ],
+  "priceRange": "₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/745a638ad52cde523ca3a105a41079e8/19ec62ba51fde35ba0aff5b84321c5af.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/745a638ad52cde523ca3a105a41079e8/c67d558c633281f9c71fc6a90ef470ae.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/745a638ad52cde523ca3a105a41079e8/8681e511c0910e0052cb155c50f01f89.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/745a638ad52cde523ca3a105a41079e8/6ea4f72e303000fbf403bbb36f971f85.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/745a638ad52cde523ca3a105a41079e8/4bee0baf259f2b3c95aacdebea87e950.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/745a638ad52cde523ca3a105a41079e8/5283d81c664b43c5f57a3a186d273063.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/greggs-bristol-46-queens-rd/h1gzI2VQXuOQlFoR9hl7EA?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet",
+      "http://purl.org/goodrelations/v1#DeliveryModePickUp"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "EMEA",
+    "postalCode": "BS8 1RE",
+    "addressCountry": "GB",
+    "streetAddress": "46 Queens Road"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.45653945981537,
+    "longitude": -2.6064188110881084
+  },
+  "telephone": "+441173321198",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.2,
+    "reviewCount": "53"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "7:30",
+      "closes": "11:0"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "11:0",
+      "closes": "16:0"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "16:0",
+      "closes": "18:0"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "6:30",
+      "closes": "11:0"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "11:0",
+      "closes": "16:0"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "16:0",
+      "closes": "19:0"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "name": "Tasty New Deals",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "The Big Deal",
+            "description": "Build your dream meal deal with a main, side and a regular drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "The Big Deal (Large Drink)",
+            "description": "Build your dream meal deal with a main, side and a large drink or iced drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.75",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "What's New",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Fajita Chicken Bake",
+            "description": "Smoky fajita flavour shredded chicken breast, grilled peppers and tomato in a spicy fajita style sauce – all wrapped up in our famous puff pastry and topped with a black pepper crumb. A portable (and very mouth-watering) party in just one bite.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ham &amp; Cheese Toastie (New Recipe)",
+            "description": "Honey roast ham and mature Cheddar cheese sandwiched between white bread with sourdough, topped with béchamel sauce and grated mixed cheese. A lunchtime champion.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "All Day Breakfast Baguette",
+            "description": "Freshly baked baguette filled with cheese omelette, sausage, sweetcure bacon, Cheddar cheese, and Heinz ketchup. The tastiest meal of the day, served all day.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Toffee Fudge Muffin",
+            "description": "A toffee flavour muffin with toffee pieces, topped with toffee flavour frosting and a vanilla fudge piece What’s not to love?",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Firecracker Crispy Chicken Burger",
+            "description": "Succulent chicken breast coated in a crispy crumb with salad leaves, jalapeños and firecracker style sauce in a soft corn top roll. Tastebud-tingling and stomach-rumbling.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Firecracker Chicken Wrap",
+            "description": "Southern Fried Chicken Goujons, salad leaves, cucumber and firecracker style sauce loaded into a soft tortilla wrap. There’s simply no beating a bit of heat.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Pumpkin Spice Latte (New Recipe)",
+            "description": "Freshly ground Fairtrade coffee, steamed milk, sweet pumpkin spice flavour syrup with sugar and sweetener and topped with spiced sugar sprinkles. After all, it’s not really autumn until you’ve had that first spiced sip.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Pumpkin Spice Latte (New Recipe)",
+            "description": "Freshly ground Fairtrade coffee, steamed milk, sweet pumpkin spice flavour syrup with sugar and sweetener and topped with spiced sugar sprinkles. After all, it’s not really autumn until you’ve had that first spiced sip.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Caramel Mocha",
+            "description": "Freshly ground Fairtrade Espresso, steamed milk, hot chocolate and caramel flavour syrup with sugar and sweetener. Try it, fall in love with it and thank us later.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Caramel Mocha",
+            "description": "Freshly ground Fairtrade Espresso, steamed milk, hot chocolate and caramel flavour syrup with sugar and sweetener. Try it, fall in love with it and thank us later.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Caramel Hot Chocolate",
+            "description": "Fairtrade hot chocolate and caramel flavour syrup with sugar and sweetener. The most mouthwatering three words in existence: Caramel. Hot. Chocolate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Caramel Hot Chocolate",
+            "description": "Fairtrade hot chocolate and caramel flavour syrup with sugar and sweetener. The most mouthwatering three words in existence: Caramel. Hot. Chocolate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "6 Slice Firecracker Chicken Pizza Box",
+            "description": "Six slices of pizza made with our classic focaccia style base, topped with pizza sauce, a blend of cheeses, roasted spicy flavoured chicken slices, mixed peppers and a fiery tomato and chipotle chilli sauce with a smoky flavour. Heat? Turned up. Flavour? On max.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "4 Slice Firecracker Chicken Pizza Box",
+            "description": "Four slices of pizza made with our classic focaccia style base, topped with pizza sauce, a blend of cheeses, roasted spicy flavoured chicken slices, mixed peppers and a fiery tomato and chipotle chilli sauce with a  smoky flavour. Heat? Turned up. Flavour? On max.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "2 Slice Firecracker Chicken Pizza Box",
+            "description": "Two slices of pizza made with our classic focaccia style base, topped with pizza sauce, a blend of cheeses, roasted spicy flavoured chicken slices, mixed peppers and a fiery tomato and chipotle chilli sauce with a smoky flavour. Heat? Turned up. Flavour? On max.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Free Range Egg Pot",
+            "description": "Two ready-to-eat free range hard boiled eggs. Pre-gym? Sorted. Post-gym? Even better.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.95",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sharing Deals",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "6 Slice Pizza Meal Deal Bundle",
+            "description": "Six slices of your favourite pizza, two boxes of Southern Fried Potato Wedges and a warm box  of something sweet. The ultimate night in",
+            "offers": {
+              "@type": "Offer",
+              "price": "15.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "4 Slice Pizza Meal Deal Bundle",
+            "description": "Four slices of your favourite pizza, two boxes of Southern Fried Potato Wedges and a warm box  of something sweet. The ultimate night in",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "2 Slice Pizza Box, Wedges &amp; Hot Sweet",
+            "description": "Choose two tasty pizza slices, some wedges on the side and a warm box of something sweet",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bake Deal - Choose any 6 Bakes",
+            "description": "Six delicious bakes of your choice. So good that you won't blame us for all the flakes you'll get on the couch.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "4 Bakes &amp; 4 Filled Doughnuts",
+            "description": "Four delicious bakes and four filled doughnuts of your choice. Because sometimes it's nice to share.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Box of Assorted Filled Doughnuts (12)",
+            "description": "Select an assortment of twelve filled doughnuts to share with your friends. We're not responsible for any fights over who gets the last one.",
+            "offers": {
+              "@type": "Offer",
+              "price": "15.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Box of Assorted Ring Doughnuts (4)",
+            "description": "Select an assortment of four ring doughnuts from our delicious menu. You know what they say. If you like it...",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.65",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Meal Deals For One",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Pulled Pork Sandwich Bundle",
+            "description": "Choose one of our freshly prepared Pulled Pork Sandwiches with wedges or a side salad,  cheese bites or BBQ bites and a drink",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Burger and Sides Meal Deal",
+            "description": "Choose from a Chicken Burger or a Fish Finger Sandwich and pair it with a side, any drink and  either Mozzarella &amp; Cheddar Bites or BBQ Chicken Bites. The perfect \"treat yourself\" lunch.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pulled Pork Sandwich Meal Deal",
+            "description": "Choose one of our freshly prepared pulled pork sandwiches with a side and a drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fish Finger Sandwich Deal",
+            "description": "Choose one of our fish finger sandwiches, a side with a  drink",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Burger, Side &amp; Drink Deal",
+            "description": "Choose one of our chicken burgers, a side with a  drink",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wrap and Sides Meal Deal",
+            "description": "Choose from a Chicken Wrap or a Fish Finger Wrap and pair it with a side, any drink and  either Mozzarella &amp; Cheddar Bites or BBQ Chicken Bites. Whichever combo you go for, you’re guaranteed an \"mmm\" to last all day.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.39",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wrap, Side &amp; Drink Deal",
+            "description": "Choose one of our hot wraps,  a side with a drink",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hot Sandwich and Sides Meal Deal",
+            "description": "Any hot sandwich and a drink paired with your choice of side, and Mozzarella  &amp; Cheddar Bites or Chicken Bites.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.39",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hot Sandwich Meal Deal",
+            "description": "Choose one of our freshly prepared hot sandwiches with Southern Fried Potato Wedges (Where  Available) or a Side Salad and a drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hot Sandwich &amp; Drink Meal Deal",
+            "description": "Choose one of our freshly prepared sandwiches with a drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Goujon and Sides Meal Deal",
+            "description": "Portion of Southern Fried Chicken Goujons and a drink paired with your choice of side and Mozzarella &amp; Cheddar Bites or Chicken Bites.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.39",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Meal Deal",
+            "description": "Treat yourself and get stuck into our Chicken Meal deal. Complete with four tasty Chicken Goujons, a side and a drink of your choice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pasta and Drink Deal",
+            "description": "Mac &amp; Cheese Pasta paired with any cold drink or  regular hot drink with a side",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "BBQ Bites Meal Box",
+            "description": "Our crunchy BBQ chicken bites, served with a portion of southern fried style potato wedges. Pair with a sauce pot of your choice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Spicy Chicken BBQ Bites Meal Box &amp; Drink",
+            "description": "Our crunchy BBQ chicken bites, served with a portion of lightly spiced potato wedges. Pair with  a drink and sauce pot of your choice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cold Sandwich &amp; Drink Meal Deal",
+            "description": "Choose one of our freshly made sandwiches with a drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Salad &amp; Drink Meal Deal",
+            "description": "Choose one of our delicious salads with a drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza &amp; Drink Meal Deal",
+            "description": "A slice of delicious freshly baked pizza with a drink - a perfect combination!",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bake &amp; Hot Drink Meal Deal",
+            "description": "Choose one of our delicious bakes with a hot drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Savoury Roll and Hot Drink Meal Deal",
+            "description": "Choose one of our delicious savoury rolls and a hot drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sweet &amp; Hot Drink Deal",
+            "description": "Choose one of our famous sweet treats with a hot drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.60",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Burgers &amp; Wraps",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Mayo Crispy Chicken Burger",
+            "description": "Made from succulent chicken breast in a crispy coating, with salad leaves and seasoned mayonnaise. Pair it with our Southern Fried Wedges for a mouth-watering meal.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Firecracker Crispy Chicken Burger",
+            "description": "Succulent chicken breast coated in a crispy crumb with salad leaves, jalapeños and firecracker style sauce in a soft corn top roll. Tastebud-tingling and stomach-rumbling.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Double Up Mayo Crispy Chicken Burger",
+            "description": "Made with two succulent chicken breasts in a crispy coating, salad leaves and seasoned mayonnaise. Double-up the \"mmmm\"…",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fish Finger Sandwich with Mayo",
+            "description": "Cod fillet fish fingers in batter with salad leaves in our classic soft corn-topped roll, topped with seasoned mayonnaise. Once you catch a bite, it’s shore to be your next fave.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fish Finger Sandwich with Ketchup",
+            "description": "Cod fillet fish fingers in batter with salad leaves in our classic soft corn-topped roll, topped with ketchup. Time to get hooked on our take on everyone’s favourite childhood dinner.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mayo Chicken Wrap",
+            "description": "Made with Southern Fried Chicken Goujons, mixed leaf, cucumber and a delicious dollop of seasoned mayonnaise - lovingly packaged in a soft tortilla wrap. There’s nothing quite like that first bite into a freshly prepared, tasty Greggs wrap.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sweet Chilli Chicken Wrap",
+            "description": "Made with Southern Fried Chicken Goujons, sweet chilli sauce, salad, cucumber and a delicious dollop of seasoned mayonnaise - lovingly packed in a soft tortilla wrap. Now, that's a wrap.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Firecracker Chicken Wrap",
+            "description": "Southern Fried Chicken Goujons, salad leaves, cucumber and firecracker style sauce loaded into a soft tortilla wrap. There’s simply no beating a bit of heat.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fish Finger Wrap with Mayo",
+            "description": "Cod fillet fish fingers in batter with mixed leaves and cucumber in a soft tortilla wrap. With a creamy layer of seasoned mayonnaise added for a finishing touch, we’ve definitely sussed a tasty twist on the British classic.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.65",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Pizza Boxes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "6 Slice Mixed Pizza Box",
+            "description": "Six slices of focaccia style pizza. Go half and half and get three slices of your two favourite  Greggs pizza toppings.  That way, the whole gang’s happy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "4 Slice Mixed Pizza Box",
+            "description": "Four slices of focaccia style pizza. Go half and half and get two slices of your two favourite  Greggs pizza toppings.  That way, the whole gang’s happy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "6 Slice Pepperoni Pizza Box",
+            "description": "Six slices of pizza made with our classic focaccia style base, topped with cheese and tomato, then finished with sliced pepperoni. A mouthwatering pizza delivered straight to your door? What more could you want?",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "4 Slice Pepperoni Pizza Box",
+            "description": "Four slices of focaccia style pizza made with our classic focaccia base, topped with cheese and tomato, then finished with sliced pepperoni. A mouthwatering pizza delivered straight to your door? What more could you want.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "2 Slice Pepperoni Pizza Box",
+            "description": "Two slices of pizza made with our classic focaccia style base, topped with cheese and pizza sauce, then finished with sliced pepperoni. Mama mia, that’s a delicious dish.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "6 Slice BBQ Chicken &amp; Bacon Pizza Box",
+            "description": "Six slices of pizza made with our classic focaccia style base, topped with cheese and tomato, then finished with roasted marinated chicken, sweetcure bacon, sliced red onion and a drizzle of BBQ sauce. This isn’t our first rodeo with making your mouth water.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "4 Slice BBQ Chicken &amp; Bacon Pizza Box",
+            "description": "Four slices of pizza made with our classic focaccia style base, topped with cheese and tomato, then finished with roasted marinated chicken, sweetcure bacon, sliced red onion and a drizzle of BBQ sauce. This isn’t our first rodeo with making your mouth water.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "2 Slice BBQ Chicken &amp; Bacon Pizza Box",
+            "description": "Two slices of pizza made with our classic focaccia style base, topped with cheese and pizza sauce, then finished with roasted marinated chicken, sweetcure bacon, sliced red onion and a drizzle of BBQ sauce. With a slice of this, it’s always BBQ weather.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "6 Slice Spicy Veg Pizza Box",
+            "description": "Six slices of pizza made with our classic focaccia style base, topped with cheese and tomato, then finished with sliced peppers, red onion and jalapeños. Grab your pals… they’re going to want a slice of this.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "4 Slice Spicy Veg Pizza Box",
+            "description": "Four slices of focaccia style pizza made with our classic focaccia base, topped with cheese and tomato, then finished with sliced peppers, red onion and jalapeños. Grab your pals… they’re going to want a slice of this.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "2 Slice Spicy Veg Pizza Box",
+            "description": "Two slices of pizza made with our classic focaccia style base, topped with cheese and pizza sauce, then finished with sliced peppers, red onion and jalapeños. Consider this your sign to tuck in immediately.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "4 Slice Margherita Pizza Box",
+            "description": "Four slices of focaccia style pizza topped with a blend of cheeses and the sauciest pizza sauce. Our rumbling stomachs tell us that’s a tasty meal whichever way you cut it.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "2 Slice Margherita Pizza Box",
+            "description": "Two slices of pizza topped with a blend of cheeses and the sauciest pizza sauce. For when one slice just isn’t enough.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Margherita Pizza",
+            "description": "A focaccia style pizza base topped with our tasty pizza sauce and a blend of cheeses. You're going to want a 'pizza' this…",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "2 Slice Spicy Chicken Pizza Box",
+            "description": "Two slices of pizza made with our classic focaccia style base, topped with cheese and pizza sauce, then finished with spicy chicken, sliced jalapeños and red onion. The perfect party for two spicy pizza lovers.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "6 Slice Pepperoni Hot Shot Pizza Box",
+            "description": "Six slices of pizza made with our classic focaccia style base, topped with cheese and tomato, then finished with pepperoni, sliced jalapeños and red onion. The ultimate pizza party is only a few clicks away…",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "6 Slice Veggie Feast Pizza Box",
+            "description": "Six slices of pizza made with our classic focaccia style base, topped with pizza sauce and cheese, sliced tomatoes, sweetcorn, mixed peppers and sliced red onion. A feast of colourful, crunchy veg – perfect for the whole crew.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "4 Slice Veggie Feast Pizza Box",
+            "description": "Four slices of pizza made with our classic focaccia style base, topped with pizza sauce and cheese, sliced tomatoes, sweetcorn, mixed peppers and sliced red onion. A masterpiece that even Michelangelo (the artist, not the turtle) would drool over.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "2 Slice Veggie Feast Pizza Box",
+            "description": "Two slices of pizza made with our classic focaccia style base, topped with pizza sauce and cheese, sliced tomatoes, sweetcorn, mixed peppers and sliced red onion. Whoever said that vegetables are boring have obviously never had them loaded on our delicious pizza.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pepperoni Hot Shot Pizza",
+            "description": "A focaccia style pizza made with a rich layer of our unique recipe pizza sauce, topped with a blend of cheeses, pepperoni, jalapenos, and red onions. A lunchtime hero with just the right amount of kick!",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Veggie Feast Pizza",
+            "description": "A focaccia style base topped with pizza sauce, a blend of cheeses, sliced tomatoes, sweetcorn, mixed peppers and sliced red onion. Tasty and technicolour – it’s hard to not savour every bite.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken, Sweetcorn &amp; Red Onion Pizza",
+            "description": "A focaccia style base topped with pizza sauce, a blend of cheeses, succulent sliced chicken, sweetcorn and sliced red onion. Grab a single slice (or a box of four or six slices) and see for yourself how jam-packed with flavour we can make it.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "2 Slice Chicken, Sweetcorn &amp; Red Onion Pizza Box",
+            "description": "Two slices of pizza made with our classic focaccia style base, topped with pizza sauce and cheese, succulent sliced chicken, sweetcorn and sliced red onion. See for yourself how jam-packed with flavour we can make it.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "6 Slice Firecracker Chicken Pizza Box",
+            "description": "Six slices of pizza made with our classic focaccia style base, topped with pizza sauce, a blend of cheeses, roasted spicy flavoured chicken slices, mixed peppers and a fiery tomato and chipotle chilli sauce with a smoky flavour. Heat? Turned up. Flavour? On max.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "4 Slice Firecracker Chicken Pizza Box",
+            "description": "Four slices of pizza made with our classic focaccia style base, topped with pizza sauce, a blend of cheeses, roasted spicy flavoured chicken slices, mixed peppers and a fiery tomato and chipotle chilli sauce with a  smoky flavour. Heat? Turned up. Flavour? On max.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "2 Slice Firecracker Chicken Pizza Box",
+            "description": "Two slices of pizza made with our classic focaccia style base, topped with pizza sauce, a blend of cheeses, roasted spicy flavoured chicken slices, mixed peppers and a fiery tomato and chipotle chilli sauce with a smoky flavour. Heat? Turned up. Flavour? On max.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.45",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Pizza Slices",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Pepperoni Pizza",
+            "description": "A focaccia style pizza base topped with our tasty pizza sauce and a blend of cheeses, finished with spicy pepperoni slices.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Spicy Veg Pizza",
+            "description": "Made with our classic focaccia base, our Spicy Veg Pizza is topped with cheese and tomato, then finished off with sliced peppers, red onion and jalapenos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Margherita Pizza",
+            "description": "A focaccia style pizza base topped with our tasty pizza sauce and a blend of cheeses. You're going to want a 'pizza' this…",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Spicy Chicken Pizza",
+            "description": "Focaccia style pizza topped with succulent spicy chicken breast, sliced red onions and jalapenos. A fiery and feast-worthy focaccia style pizza for a slice of something with a little kick.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pepperoni Hot Shot Pizza",
+            "description": "A focaccia style pizza made with a rich layer of our unique recipe pizza sauce, topped with a blend of cheeses, pepperoni, jalapenos, and red onions. A lunchtime hero with just the right amount of kick!",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Veggie Feast Pizza",
+            "description": "A focaccia style base topped with pizza sauce, a blend of cheeses, sliced tomatoes, sweetcorn, mixed peppers and sliced red onion. Tasty and technicolour – it’s hard to not savour every bite.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken, Sweetcorn &amp; Red Onion Pizza",
+            "description": "A focaccia style base topped with pizza sauce, a blend of cheeses, succulent sliced chicken, sweetcorn and sliced red onion. Grab a single slice (or a box of four or six slices) and see for yourself how jam-packed with flavour we can make it.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.05",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Hot Food",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Southern Fried Chicken Goujons",
+            "description": "Tender chicken breast goujons coated in lightly spiced southern fried style coating. Pair with our wedges and the dip of your choice for the ultimate lunchtime treat.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Spicy BBQ Chicken Bites",
+            "description": "Crunchy, bite-sized Spicy BBQ flavour chicken breast pieces. Includes a free Heinz sauce pot. Small but mighty.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mozzarella &amp; Cheddar Bites",
+            "description": "Made with soft, warm Cheddar cheese, covered in a crispy breaded crumb, and served in a handy little box- our cheese bites are seriously good.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Southern Fried Potato Wedges",
+            "description": "Our wedges are coated in a southern fried style seasoning.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fish Finger Wrap with Mayo",
+            "description": "Cod fillet fish fingers in batter with mixed leaves and cucumber in a soft tortilla wrap. With a creamy layer of seasoned mayonnaise added for a finishing touch, we’ve definitely sussed a tasty twist on the British classic.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fish Finger Wrap with Ketchup",
+            "description": "Cod fillet fish fingers in batter with mixed leaves and cucumber in a soft tortilla wrap. Drizzled with tomato Ketchup  (obviously) – it’s everyone’s favourite childhood dinner wrapped up for you to enjoy anywhere you fancy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sweet Chilli Chicken Wrap",
+            "description": "Made with Southern Fried Chicken Goujons, sweet chilli sauce, salad, cucumber and a delicious dollop of seasoned mayonnaise - lovingly packed in a soft tortilla wrap. Now, that's a wrap.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mayo Chicken Wrap",
+            "description": "Made with Southern Fried Chicken Goujons, mixed leaf, cucumber and a delicious dollop of seasoned mayonnaise - lovingly packaged in a soft tortilla wrap. There’s nothing quite like that first bite into a freshly prepared, tasty Greggs wrap.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fish Finger Sandwich with Ketchup",
+            "description": "Cod fillet fish fingers in batter with salad leaves in our classic soft corn-topped roll, topped with ketchup. Time to get hooked on our take on everyone’s favourite childhood dinner.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fish Finger Sandwich with Mayo",
+            "description": "Cod fillet fish fingers in batter with salad leaves in our classic soft corn-topped roll, topped with seasoned mayonnaise. Once you catch a bite, it’s shore to be your next fave.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mayo Crispy Chicken Burger",
+            "description": "Made from succulent chicken breast in a crispy coating, with salad leaves and seasoned mayonnaise. Pair it with our Southern Fried Wedges for a mouth-watering meal.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.90",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sausage Rolls &amp; Bakes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Bake Deal - Choose any 6 Bakes",
+            "description": "Six delicious bakes of your choice. So good that you won't blame us for all the flakes you'll get on the couch.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sausage Roll",
+            "description": "The Nation's favourite Sausage Roll, made from seasoned sausage meat and wrapped in layers of crisp, golden puff pastry.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cold Sausage Roll (4 pack)",
+            "description": "The Nation's favourite Sausage Roll, made from seasoned sausage meat and wrapped in layers of crisp, golden puff pastry.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegan Sausage Roll",
+            "description": "Greggs' most hotly-debated sausage roll. Seasoned Quorn™  with Mycoprotein filling wrapped in puff pastry.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Steak Bake",
+            "description": "Packed with diced cuts of prime beef in a rich and tasty gravy, this golden puff pastry parcel has been a firm favourite for years.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sausage, Bean &amp; Cheese Melt",
+            "description": "That feel-good childhood favourite (in a bake). Baked beans, mini sausage meatballs  and melted cheese, in a glorious pastry package.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Bake",
+            "description": "Succulent chicken breast pieces in a creamy white sauce with soft cheese, all wrapped up in layers of golden puff pastry. Mmmmm.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese &amp; Onion Bake",
+            "description": "Cheese heaven. A blend of Cheddar cheese and soft cream cheese with diced onions, enclosed in golden puff pastry.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.55",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Corned Beef Bake",
+            "description": "Take lunchtime up a notch with this tasty bake. Made with golden, flaky puff pastry and filled with delicious, corned beef, potato and diced onions.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegetable Bake",
+            "description": "Filled with a delicious mix of vegetables in a creamy sauce made with Cheddar cheese and chillies, lovingly wrapped in our classic flakey, golden puff pastry … a true taste sensation.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.55",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegan Lattice (Steak-Free)",
+            "description": "Layers of golden puff pastry filled with tasty Quorn mycoprotein pieces mixed with diced onions and a vegan-friendly gravy. It’s vegan, it’s steak-free… and it’s back.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fajita Chicken Bake",
+            "description": "Smoky fajita flavour shredded chicken breast, grilled peppers and tomato in a spicy fajita style sauce – all wrapped up in our famous puff pastry and topped with a black pepper crumb. A portable (and very mouth-watering) party in just one bite.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.65",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Hot Sandwiches",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Pulled Pork Sandwich with Apple Sauce",
+            "description": "Pulled pork with apple sauce and crispy onions packed into a soft corn-topped roll. Good luck pulling yourself away from this one.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "BBQ Pulled Pork Sandwich with Slaw",
+            "description": "Pulled pork,  slaw and BBQ sauce loaded in a corn-topped roll. Sounds too good to be true, but we promise it’s real.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "All Day Breakfast Baguette",
+            "description": "Freshly baked baguette filled with cheese omelette, sausage, sweetcure bacon, Cheddar cheese, and Heinz ketchup. The tastiest meal of the day, served all day.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hot Southern Fried Chicken Baguette",
+            "description": "Southern fried style coated chicken strips, sliced mature Cheddar cheese, sliced red onion and chipotle chilli sauce, packed into a crunchy white baguette.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hot Ham and Cheese Baguette",
+            "description": "You can't beat a classic! Ham and cheese stuffed into a crusty baguette, and toasted. Pair with wedges, and you’re onto a winner.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ham &amp; Cheese Toastie (New Recipe)",
+            "description": "Honey roast ham and mature Cheddar cheese sandwiched between white bread with sourdough, topped with béchamel sauce and grated mixed cheese. A lunchtime champion.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.45",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cold Sandwiches",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Roast Chicken and Bacon Club Baguette",
+            "description": "Chicken breast in mayonnaise, bacon and tomato with mixed salad leaves in a crusty baguette. Spoiler alert: it's delicious.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tuna Crunch Baguette",
+            "description": "Made from a delectable combination of tuna in mayonnaise, red pepper relish and tangy red onion; this baguette truly does smash all the other sandwiches out the water.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Honey Roast Ham and Egg Salad Roll",
+            "description": "Honey roast ham, free range egg, tomato, cucumber and mixed salad leaves. Packed into a white &amp; wholemeal roll with  mayonnaise.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mature Cheddar Cheese Ploughmans Oval Bite",
+            "description": "Sliced Mature Cheddar Cheese with Sandwich Pickle, Fresh Salad Leaves, slices of Tomato, slices of Cucumber and sliced Red Onion on a white seeded roll.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chipotle Chicken Flatbread",
+            "description": "Spicy chicken, chipotle chilli sauce, fresh salad leaves, mixed peppers and spicy mayonnaise in a soft folded flatbread. It packs a punch and delivers on deliciousness.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "BLT Sandwich",
+            "description": "Sweetcure bacon, fresh salad leaves, tomato and mayonnaise in malted brown bread. Need a lunch date? Here’s a tasty love triangle to keep your mouth watering.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tuna Mayonnaise &amp; Cucumber Sandwich",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.85",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Salads &amp; Fruit",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chicken &amp; Bacon Pasta",
+            "description": "Cooked pasta in a mayonnaise style dressing, with sweetcorn, tomato and smoked bacon pieces topped with barbeque flavour chicken. It’s big on flavour, but also a Balanced Choice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tuna Pasta",
+            "description": "Pasta with tuna, sweetcorn, chives and mixed pickled vegetables in a mayonnaise style dressing. After a lunch that’s Balanced Choice but still tastes like a guilty pleasure? Look no further.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pesto and Mozzarella Pasta",
+            "description": "Cooked pasta in a pesto dressing with slow-roasted tomatoes, peppers and spinach topped with mozzarella pearls. Up there with lightbulbs and Bluetooth – this addition to our Balanced Choice range is something to marvel.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Smoky Cajun Rice with BBQ Chicken &amp; Sweetcorn Fritters",
+            "description": "Cooked rice mixed with roasted peppers, sweetcorn, roasted red onion with a smoky paprika dressing. We then add BBQ flavour chicken slices, sweetcorn fritters and sliced spinach, just to make sure it’s jam- packed with taste.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fat Free Greek Style Yoghurt with Strawberry Compote",
+            "description": "Rich and thick Greek style yoghurt layered on top of a fruity strawberry compote.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Melon &amp; Grape Fruit Pot",
+            "description": "Get fruity with our Melon and Grape Fruit Pot, made to enjoy on-the- go.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Apple &amp; Strawberry Fruit Pot",
+            "description": "Apples and strawberries in a nifty pot for you to enjoy wherever you please.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Side Salad",
+            "description": "Part of our Balanced Choice range, our tasty Side Salad is made with mixed leaves and topped with sliced juicy tomatoes and cucumber. Did we mention it’s one of your five a day? Bonus!",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.70",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sweet Treats",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Hot Chocolate Brownies",
+            "description": "8 pieces of chocolate brownie made with dark, milk and white chocolate chunks. Serves four of your sweetest friends. This product contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hot Yum Yums",
+            "description": "Our hot Yum Yum’s are, yes you guessed it, HOT pieces of pillow soft doughnut covered in a sticky sugar glaze and served with a tasty milk chocolate or salted caramel flavour dipping sauce.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hot Milk Chocolate Cookies",
+            "description": "We’ve taken our sweet treats up a notch with these freshly baked, HOT milk chocolate cookies. Made with Fairtrade milk chocolate chunks and served with a delicious milk chocolate or salted caramel flavour dipping sauce.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cookie (4 pack)",
+            "description": "Select any combination of four cookies to treat yourself.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.15",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Yum Yum (2 pack)",
+            "description": "Perfectly covered in a delicious sugar glaze, this doughnut is just about enough to get anyone in a twist (get it?)",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Shortbread 4 pack",
+            "description": "Four delightfully crumbly Shortbreads topped with caramel and milk chocolate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Toffee Fudge Muffin",
+            "description": "A toffee flavour muffin with toffee pieces, topped with toffee flavour frosting and a vanilla fudge piece What’s not to love?",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Triple Chocolate Muffin",
+            "description": "With chunks of moreish chocolate, this decadent chocolate muffin has a rich centre of smooth chocolate flavoured sauce.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Belgian Bun",
+            "description": "A soft fruit bun, lemon flavoured pieces, wonderfully soaked sultanas, tangy apricot jam, topped with fondant icing… AND a cherry on top.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Novelty Bun",
+            "description": "Vanilla flavour fairy bun with fondant icing, sprinkles and sugar paste plaque.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Milk Chocolate Cookie",
+            "description": "Wonderfully Soft and crumbly cookie, with milk chocolate chunks. Perfect with a cuppa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Triple Chocolate Cookie",
+            "description": "A delicious chocolate flavour cookie made from smooth Fairtrade dark chocolate* and packed with mouth-watering chunks of white and dark chocolate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Chocolate Cookie",
+            "description": "Wonderfully Soft and crumbly cookie, with white chocolate chunks. Perfect with a cuppa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Star Biscuit",
+            "description": "Made from crunchy biscuit, coated in milk chocolate and decorated with sugar sprinkles. Perfect on its own, even better when paired with our Mint Hot Chocolate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Cake Bar",
+            "description": "Made from decadently chocolatey flavoured sponge cake, our Chocolate Cake Bar is coated with Fairtrade milk chocolate and topped with a milk chocolate flaked bar. A sweet addition to your afternoon cuppa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Brownie Bar",
+            "description": "Chocolate brownie with dark chocolate, milk chocolate and white chocolate. Go on – get yourself a little treat.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Crispy Bar",
+            "description": "Gluten free crisped rice coated in chocolate, topped with a layer of caramel and milk chocolate and finished with a white chocolate drizzle. This tasty snack is red-carpet-ready and the perfect go-to for when you’re on the move.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fruity Flapjack",
+            "description": "Flapjack with raisins, sultanas, pumpkin seeds and sunflower seeds. Whether you pair it with tea, coffee or a bottle of refreshing Fairtrade juice – tuck in now and thank us later.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fat Free Greek Style Yoghurt with Strawberry Compote",
+            "description": "Rich and thick Greek style yoghurt layered on top of a fruity strawberry compote.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.90",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Crisps &amp; Snacks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Quavers",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Walkers Cheese &amp; Onion Crisps",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Walkers Prawn Cocktail Crisps",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Walkers Ready Salted Crisps",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sea Salt &amp; Cider Vinegar Crisps",
+            "description": "Sea salt and cider vinegar flavour hand cooked crisps. Whether they accompany your lunch or are a snack on their own - you won't be disappointed.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Thai Sweet Chilli Crisps",
+            "description": "Thai Sweet Chilli flavour hand cooked crisps. It’ll be a matter of nano seconds until that packet is empty.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mature Cheddar Cheese &amp; Onion Crisps",
+            "description": "Mature cheddar &amp; onion flavour hand cooked crisps. It’s rumoured to be the nation’s favourite crisp flavour, and seriously, who can blame us?",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Free Range Egg Pot",
+            "description": "Two ready-to-eat free range hard boiled eggs. Pre-gym? Sorted. Post-gym? Even better.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.95",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cold Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Ready to Drink Latte",
+            "description": "Ready to drink latte in a can. Perfect to enjoy on the go.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ready to Drink Caramel Latte",
+            "description": "Ready to drink caramel flavour latte in a can. Pop it in your bag and enjoy it on the go.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca-Cola Original Taste 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca Cola 330ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca-Cola Zero Sugar 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coke Zero Cherry 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Diet Coke 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Diet Coke 330ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.55",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Red Bull",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sprite Zero",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dr Pepper Zero 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lucozade Orange 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lucozade Original 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lucozade Sport 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Oasis Summer Fruit 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Oasis Citrus Punch 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ribena Blackcurrant 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fanta Orange 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sparkling Raspberry Lemonade",
+            "description": "Refreshing on a hot day, and just as tasty on a cold one; a lemon and raspberry flavoured soft drink with sweeteners.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sparkling Mango &amp; Pineapple",
+            "description": "Sparkling mango, pineapple and fruit flavoured soft drink with sweeteners. A splash of sparkling fun.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fairtrade Apple Juice",
+            "description": "Fairtrade Apple Juice made from concentrate. So classically refreshing that it doesn’t need the big sell.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Orange Juice",
+            "description": "Fairtrade Orange Juice made from concentrate. Perfect for breakfast (or any meal, come to think of it).",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Small Orange Juice",
+            "description": "Fairtrade Orange Juice made from concentrate. Perfect for breakfast (or any meal, come to think of it).",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lucozade Energy Zero Pink Lemonade 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Capri-Sun Orange",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Innocent Bolt From The Blue 330ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ribena B/currant No Added Sugar Carton",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Small Still Water",
+            "description": "Brecon Carreg Still Natural Mineral Water.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Still Water",
+            "description": "Brecon Carreg Still Natural Mineral Water.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Innocent Berry Set Go 330ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Plenish Turmeric Recovery",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Plenish Ginger Immunity",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.90",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Hot Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Regular Latte",
+            "description": "A freshly ground double shot of Fairtrade espresso topped with steamed milk. This little cup of pick-me-up is made just the way you know and love.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Latte",
+            "description": "A freshly ground double shot of Fairtrade Espresso topped with steamed milk. This little cup of pick-me-up is made just the way you know and love.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Cappuccino",
+            "description": "Freshly ground coffee, a generous helping of foam on top and dusted with chocolate powder. Because coffee is infinitely more fun the frothier you go.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Cappuccino",
+            "description": "Freshly ground coffee, a generous helping of foam on top and dusted with chocolate powder. Because coffee is infinitely more fun the frothier you go.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular White Coffee",
+            "description": "Freshly ground Fairtrade coffee and semi-skimmed milk. A simple, quality coffee that tastes absolutely delicious.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large White Coffee",
+            "description": "Freshly ground Fairtrade coffee and semi-skimmed milk. A simple, quality coffee that tastes absolutely delicious.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Americano",
+            "description": "A freshly ground Fairtrade espresso topped with hot water. Smooth, strong and full of beans.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Americano",
+            "description": "A freshly ground Fairtrade espresso topped with hot water. Smooth, strong and full of beans.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Caramel Latte",
+            "description": "Freshly ground Fairtrade coffee with caramel flavour syrup, and a chocolate powder. Irresistible!",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Caramel Latte",
+            "description": "Freshly ground Fairtrade coffee with caramel flavour syrup, and a chocolate powder. Irresistible!",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Flat White",
+            "description": "Double espresso, topped with steamed and lightly frothed milk. It's strong and served short, just how it's supposed to be.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Pumpkin Spice Latte (New Recipe)",
+            "description": "Freshly ground Fairtrade coffee, steamed milk, sweet pumpkin spice flavour syrup with sugar and sweetener and topped with spiced sugar sprinkles. After all, it’s not really autumn until you’ve had that first spiced sip.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Pumpkin Spice Latte (New Recipe)",
+            "description": "Freshly ground Fairtrade coffee, steamed milk, sweet pumpkin spice flavour syrup with sugar and sweetener and topped with spiced sugar sprinkles. After all, it’s not really autumn until you’ve had that first spiced sip.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Vanilla Latte",
+            "description": "Vanilla flavour Latte made with Fairtrade coffee beans, topped with chocolate dusting.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Vanilla Latte",
+            "description": "Vanilla flavour Latte made with Fairtrade coffee beans, topped with chocolate dusting.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Tea",
+            "description": "Fairtrade English Breakfast Tea. It’s everyone’s go-to drink, whatever the mood. And who can blame them?",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Tea",
+            "description": "Fairtrade English Breakfast Tea. It’s everyone’s go-to drink, whatever the mood. And who can blame them?",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Hot Chocolate",
+            "description": "Hot chocolate made with fat reduced Fairtrade cocoa powder. This cup of magic is a favourite for every time of year.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Hot Chocolate",
+            "description": "Hot chocolate made with fat reduced Fairtrade cocoa powder. This cup of magic is a favourite for every time of year.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Caramel Mocha",
+            "description": "Freshly ground Fairtrade Espresso, steamed milk, hot chocolate and caramel flavour syrup with sugar and sweetener. Try it, fall in love with it and thank us later.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Caramel Mocha",
+            "description": "Freshly ground Fairtrade Espresso, steamed milk, hot chocolate and caramel flavour syrup with sugar and sweetener. Try it, fall in love with it and thank us later.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Caramel Hot Chocolate",
+            "description": "Fairtrade hot chocolate and caramel flavour syrup with sugar and sweetener. The most mouthwatering three words in existence: Caramel. Hot. Chocolate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Caramel Hot Chocolate",
+            "description": "Fairtrade hot chocolate and caramel flavour syrup with sugar and sweetener. The most mouthwatering three words in existence: Caramel. Hot. Chocolate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Mocha",
+            "description": "Freshly ground espresso, steamed milk and cocoa. It’s coffee and hot chocolate. Together. Genius.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Mocha",
+            "description": "Freshly ground espresso, steamed milk and cocoa. It’s coffee and hot chocolate. Together. Genius.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sauces &amp; Dips",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Heinz Tomato Ketchup Dip Pot",
+            "description": "Add a Heinz Tomato Ketchup Dip pot to take your dining experience to the next level.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Heinz BBQ Sauce Dip Pot",
+            "description": "Add a Heinz BBQ Sauce Dip pot to take your dining experience to the next level.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Heinz Mayonnaise Dip Pot",
+            "description": "Add a Heinz Mayonnaise Dip pot to take your dining experience to the next level.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Heinz Sweet Chilli Dip Pot",
+            "description": "Add a Heinz Sweet Chilli Sauce Dip pot to take your dining experience to the next level.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Garlic &amp; Herb Dip",
+            "description": "Vegan friendly Garlic &amp; Herb Dip. Perfect paired with a pizza sharing box.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Smoky BBQ Dip",
+            "description": "Vegan friendly Smoky BBQ Dip. Perfect paired with a pizza sharing box.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hot Sauce",
+            "description": "Vegan friendly hot sauce made with red chilli purée and fiery cayenne pepper. Perfect paired with a Greggs Hot Shot Pizza or to give your Margherita slice a spicy kick.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.70",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "restaurant_id": "victoriahousecoffeefood_WC1A1NH_51",
+    "restaurant_name": "Victoria House Coffee & Food",
+    "quandoo_restaurant_url": "https://www.quandoo.co.uk/place/victoria-house-coffee-food-87665/menu",
+    "quandoo_cuisine": "Cake & Coffee",
+    "quandoo_location": "Bloomsbury",
+    "quandoo_rating": "5.6/6",
+    "quandoo_address": "5 Coptic Street, London, Greater London, WC1A 1NH",
+    "quandoo_updated_at": "2025-12-12T09:04:18.453Z",
+    "quandoo_scraped_at": "",
+    "quandoo_status": "pending"
+  },
+  {
+    "restaurant_id": "fishcentral_EC1V8AP_51",
+    "restaurant_name": "Fish Central",
+    "quandoo_restaurant_url": "https://www.quandoo.co.uk/place/fish-central-44619/menu",
+    "quandoo_cuisine": "Fish Restaurant",
+    "quandoo_location": "Clerkenwell",
+    "quandoo_rating": "5.6/6",
+    "quandoo_address": "149-155 King Square, London, Greater London, EC1V 8AP",
+    "quandoo_updated_at": "2025-12-12T09:04:21.848Z",
+    "quandoo_scraped_at": "",
+    "quandoo_status": "pending"
+  }
+]

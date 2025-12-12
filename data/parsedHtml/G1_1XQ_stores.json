@@ -1,0 +1,741 @@
+{
+  "source": "UberEats",
+  "postalCode": "G1_1XQ",
+  "timestamp": "2025-09-15T09:57:21.822Z",
+  "count": 90,
+  "data": [
+    {
+      "name": "Sainsbury's Local",
+      "rating": "4.6",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-local-glasgow-george-street/GfJssSM5VFy1BzV9PjXcuA"
+    },
+    {
+      "name": "Jollibee",
+      "rating": "4.4",
+      "reviewCount": "9,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/jollibee-glasgow/voN1V12OU7OroE0i3MnAaA"
+    },
+    {
+      "name": "Greggs",
+      "rating": "4.6",
+      "reviewCount": "99",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-glasgow-100-george-st/8BrAKx-UW6mRB9nAW6vfGg"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.6",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-glasgow-argyle-street/3KTeFqW7X_GOW2lx-QTT7A"
+    },
+    {
+      "name": "Morrisons",
+      "rating": "4.2",
+      "reviewCount": "420+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-cambuslang/fn8BYhmUXaWiBPGG5xirTw"
+    },
+    {
+      "name": "Starbucks ®",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-glasgow-sauchiehall-street/waHwaintRaq5GpFwofat7w"
+    },
+    {
+      "name": "ASDA Superstore",
+      "rating": "4.1",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/asda-superstore-parkhead/_iFn7hKTRzul-yAkpT7T1Q"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "3.8",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/popeyes-glasgow-sauchiehall/d3YiKX7HVx-eQ6YdDOxXFA"
+    },
+    {
+      "name": "Black Sheep Coffee",
+      "rating": "4.4",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/black-sheep-coffee-glasgow-george-street/zu1ESyTfVx-iqje-uVVDrg"
+    },
+    {
+      "name": "Sprigg",
+      "rating": "4.8",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sprigg-waterloo-street/qSp-tjsGU_CLQ1flPHQXAA"
+    },
+    {
+      "name": "Subway",
+      "rating": "3.5",
+      "reviewCount": "20",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/subway-st-vincent-place/oKvwZW5sRBGkHgOaOwPQ-Q"
+    },
+    {
+      "name": "Tim Hortons",
+      "rating": "4.3",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tim-hortons-glasgow-george-street/tMr71OE-TSO-c5jGlXqabg"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.6",
+      "reviewCount": "430+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-bridgeton-cross-2/6W9UgI-hVj6k9t3GstlCXg"
+    },
+    {
+      "name": "KFC Glasgow Renfield Street",
+      "rating": "3.8",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-glasgow-renfield-street/B6L2Mz9TRku4PKArWDo2KQ"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.5",
+      "reviewCount": "390+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/pret-a-manger-sauchiehall-st/_og15OuhQ4eRIbmzBffs9Q"
+    },
+    {
+      "name": "Chaiiwala",
+      "rating": "4.1",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chaiiwala-glasgow-george-st/dGx7p0AfWV6dpUtu7NMa3A"
+    },
+    {
+      "name": "Barras Bites",
+      "rating": "4.1",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/barras-bites/BvxlqAH4UI2uEgcfBdop5Q"
+    },
+    {
+      "name": "Costa Coffee",
+      "rating": "4.1",
+      "reviewCount": "33",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/costa-coffee-glasgow-st-enochs/LjjEVwIFSSSSPAbA1V8rZQ"
+    },
+    {
+      "name": "Waitrose & Partners",
+      "rating": "4.7",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/waitrose-%26-partners-newton-mearns/gz7IQhLvUxapwm55FbhBHw"
+    },
+    {
+      "name": "Paratha Box",
+      "rating": "4.3",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/paratha-box/f9iRdLmgRU2rBG7TK0ixhw"
+    },
+    {
+      "name": "The Brooklyn Cafe",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/the-brooklyn-cafe/cxvr2PKGU46xdcEEB-qr1A"
+    },
+    {
+      "name": "Madisons",
+      "rating": "4.5",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/madisons/rrxtOaa2RWGbYa16OpIeiA"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.3",
+      "reviewCount": "340+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/caffe-nero-glasgow-trongate/zz3Rapg9TseiAHfX3ee0zw"
+    },
+    {
+      "name": "Dino's",
+      "rating": "4.4",
+      "reviewCount": "490+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/dinos/DWYnFQWyWTyCpK3-coWPNA"
+    },
+    {
+      "name": "Soups U",
+      "rating": "4.3",
+      "reviewCount": "380+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/soups-u/YBb6eWSRQkSoZbpJL6k1mw"
+    },
+    {
+      "name": "TOAST’D Deli Bar",
+      "rating": "4.8",
+      "reviewCount": "40",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/toastd-deli-bar/dLIFnofUVQm-EUL0vpdCQA"
+    },
+    {
+      "name": "Toast Gallowgate",
+      "rating": "4.4",
+      "reviewCount": "430+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/toast-gallowgate/oXgotQKDWUqCCnjpHksMRw"
+    },
+    {
+      "name": "Delrico's Cafe",
+      "rating": "4.8",
+      "reviewCount": "67",
+      "deliveryTime": "",
+      "offers": [
+        "10% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/delricos-cafe/_a2m7viKTm2dscDO1rHAJw"
+    },
+    {
+      "name": "McChans",
+      "rating": "4.3",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mcchans/j0ekVn8ZW3ytDBeZeXUC6Q"
+    },
+    {
+      "name": "Joanna Goodbite",
+      "rating": "4.9",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/joanna-goodbite/RYF_jqIBSLS-yRnkQARN2Q"
+    },
+    {
+      "name": "Coia's Cafe",
+      "rating": "4.5",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 30% off (Spend £10)"
+      ],
+      "url": "https://www.ubereats.com/store/coias-cafe/-DIgK8_KS8y8YpU1LHGl1Q"
+    },
+    {
+      "name": "Bayne's the Family Bakers",
+      "rating": "4.4",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/baynes-the-family-bakers-tollcross-glasgow/KVy98GRPV52IaD08mawKuQ"
+    },
+    {
+      "name": "Shamila's Cafe",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shamilas-cafe/b-xuBfPXQf26d6TcFvj4kA"
+    },
+    {
+      "name": "Lorna’s Snacks",
+      "rating": "4.5",
+      "reviewCount": "50",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/lornas-snacks/RZAqzWQ0QSGlPv43oZcPZg"
+    },
+    {
+      "name": "Barburrito",
+      "rating": "4.4",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/barburrito-glasgow-queen-st/ckrKCJOdTJCl2srfBfefzQ"
+    },
+    {
+      "name": "Morrisons Daily",
+      "rating": "In-store prices",
+      "reviewCount": "",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-daily-glasgow-shandwick-square/_lWLXWgUVre1iIiRrs--Lg"
+    },
+    {
+      "name": "Oodles Wok",
+      "rating": "3.6",
+      "reviewCount": "30",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/oodles-wok-hamilton/r1AziTkgWcO5NJCEyeSx5Q"
+    },
+    {
+      "name": "Bagel Mania",
+      "rating": "4.6",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/bagel-mania-south-side/nNHtNalVXTK3kfbVpksDEg"
+    },
+    {
+      "name": "Brunch",
+      "rating": "4.4",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brunch/3g3ulERBRCun2Hxk4z81UA"
+    },
+    {
+      "name": "Piece",
+      "rating": "4.8",
+      "reviewCount": "490+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/piece-city-centre/pDIkntdtSJaOx8XYOr7MVA"
+    },
+    {
+      "name": "Roast",
+      "rating": "4.6",
+      "reviewCount": "83",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/roast-glasgow/KJb1b-TQWz-br9BLU4gJow"
+    },
+    {
+      "name": "Bensons Café- Forge Shopping Centre'",
+      "rating": "4.1",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bensons-cafe-forge-shopping-centre/_BTcsSvgWbyUbjXRjmPIcg"
+    },
+    {
+      "name": "Kcal Kitchen",
+      "rating": "4.4",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 25% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/kcal-kitchen/jrSRRzmNQaC24UXjHm4vXQ"
+    },
+    {
+      "name": "Panini City",
+      "rating": "4.2",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/panini-city/3aJGDrW2RFaLx6T5NdNgVg"
+    },
+    {
+      "name": "Pelican Cafe",
+      "rating": "4.5",
+      "reviewCount": "440+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pelican-cafe/ER4fZB0DXKinmkZbZ1UksA"
+    },
+    {
+      "name": "Aulds the Bakers",
+      "rating": "4.8",
+      "reviewCount": "42",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/aulds-the-bakers-st-enoch/fZVfYaVuW2uSUB6fkHxl2A"
+    },
+    {
+      "name": "Langside Cafe",
+      "rating": "4.5",
+      "reviewCount": "74",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/langside-cafe/M5JAyfSoSgSTZ8v2Oowveg"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.4",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-springburn/W7oK8aP4XOuzPyi5PdtX_g"
+    },
+    {
+      "name": "Bucket List",
+      "rating": "4.4",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bucket-list/0Yw6eMSQSHyqwRtwj3fByA"
+    },
+    {
+      "name": "Blue Lagoon Fish & Chips",
+      "rating": "4.1",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/blue-lagoon-fish-%26-chips-renfield-street/32lkyIOEX7yinQnG0fSJwA"
+    },
+    {
+      "name": "Mother Clucker Fried Chicken",
+      "rating": "3.8",
+      "reviewCount": "18",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mother-clucker-fried-chicken-glasgow/9IwT7oHNVnSttHVOLlz9gw"
+    },
+    {
+      "name": "iCafe Merchant City",
+      "rating": "4.5",
+      "reviewCount": "56",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/icafe-merchant-city/qst_VnB3UuqIBQUXYWotaw"
+    },
+    {
+      "name": "Tapa Coffee & Bakehouse",
+      "rating": "4.7",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tapa-coffee-%26-bakehouse/7o86QZLsSU2Qt-h7E8XI2g"
+    },
+    {
+      "name": "The Brunch Club",
+      "rating": "4.5",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-brunch-club-west-end/KwTOxiaEQES55Qzp3fjSNQ"
+    },
+    {
+      "name": "Morrisons Cafe",
+      "rating": "3.1",
+      "reviewCount": "55",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-cafe-partick/oE2IYzf9WR-z3zhAzhlXbg"
+    },
+    {
+      "name": "Juicy Health Club",
+      "rating": "4.4",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/juicy-health-club/iCoMdYewXTWVPfiHMUwxRA"
+    },
+    {
+      "name": "Bensons Cafe",
+      "rating": "4.5",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bensons-cafe-rutherglen/N37fT7cdSgq6_1_jr52CTw"
+    },
+    {
+      "name": "Byron Burgers & Fries",
+      "rating": "3.6",
+      "reviewCount": "22",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/byron-burgers-%26-fries-glasgow/UC_I6RcHUPScuBK9RCDOkw"
+    },
+    {
+      "name": "Santa Lucia Deli",
+      "rating": "4.4",
+      "reviewCount": "12",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/santa-lucia-deli/diNsLOOFUaeU8ux0vRiVgQ"
+    },
+    {
+      "name": "Newlands Cafe",
+      "rating": "4.9",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/newlands-cafe/VDU0SyWlQreJnawAIWU0kw"
+    },
+    {
+      "name": "Get Stuffed Euro Central",
+      "rating": "4.8",
+      "reviewCount": "15",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/get-stuffed-euro-central/YtdW57h0WZex_ROMCwWotw"
+    },
+    {
+      "name": "Mrs Falafel",
+      "rating": "4.7",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mrs-falafel/Icyv0XHTUEyAf5OuxnLjFA"
+    },
+    {
+      "name": "SLAMBURGER",
+      "rating": "4.4",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/slamburger-glasgow/AzTYHGh1Wfeq3JndaT3cEA"
+    },
+    {
+      "name": "The New Globe",
+      "rating": "4.3",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-new-globe/GHAgY3jfRRyPemSo4tr7aA"
+    },
+    {
+      "name": "Meets Noodle 早点见面",
+      "rating": "4.7",
+      "reviewCount": "410+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/meets-noodle-早点见面-partick/19xAgpAsVNq3rJCi5p5oSg"
+    },
+    {
+      "name": "Panku Sushi Counter",
+      "rating": "4.5",
+      "reviewCount": "10",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/panku-sushi-counter-parkhead-asda/ZmKnwWUTUsyPTWIPI3neDw"
+    },
+    {
+      "name": "Death Valley Burrito",
+      "rating": "4.5",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/death-valley-burrito-glasgow-queen-st/ln9o6XHTSMabcmU4XEASbw"
+    },
+    {
+      "name": "Casa",
+      "rating": "3.9",
+      "reviewCount": "15",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/casa/iYLfC0HCX_u1FCBOvmKjCQ"
+    },
+    {
+      "name": "Mary's Kitchen",
+      "rating": "4.6",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/marys-kitchen/RDLgPxnERoGqFapztkcTdQ"
+    },
+    {
+      "name": "Badass Burritos",
+      "rating": "4.5",
+      "reviewCount": "370+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/badass-burritos-glasgow-queen-st/-Rqk0cvlS2u-lZwZp9Pdcw"
+    },
+    {
+      "name": "Lipsmackers",
+      "rating": "4.4",
+      "reviewCount": "32",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/lipsmackers/mBhFaPXjWhyTHvkdieUzyg"
+    },
+    {
+      "name": "Kick-Ass Burrito",
+      "rating": "3.7",
+      "reviewCount": "37",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/kick-ass-burrito-glasgow-nile-street/axgh3l5bWOSMGRoYMOA2SA"
+    },
+    {
+      "name": "Pitta Greek Street Food",
+      "rating": "4.4",
+      "reviewCount": "83",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pitta-greek-street-food-glasgow/9S6i14xDWFORP7bztXWZoA"
+    },
+    {
+      "name": "YO! sushi counter",
+      "rating": "4.3",
+      "reviewCount": "24",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yo!-sushi-counter-glasgow-shettleston-tesco/dcyQNMoMUdWAdfidYG8zLg"
+    },
+    {
+      "name": "First Class Coffee",
+      "rating": "4.6",
+      "reviewCount": "360+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/first-class-coffee/qL-D0uQbQ_GlK8gywrRHpA"
+    },
+    {
+      "name": "The Roll Shop",
+      "rating": "4.4",
+      "reviewCount": "85",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-roll-shop/PTh-j8j0Xs6F1CY3wjr1fw"
+    },
+    {
+      "name": "Munchies",
+      "rating": "4.7",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/munchies-%40-leisureland/gJqXqPfaTByiWj4pnSgT4A"
+    },
+    {
+      "name": "Palm Tree Kitchen",
+      "rating": "4.4",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/palm-tree-kitchen/P7dbpujNSZaIi-yzF7nj8g"
+    },
+    {
+      "name": "Nics NYC Deli",
+      "rating": "4.8",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/nics-nyc-deli/Iy0xfSuMSHO5ZpKENcqEWw"
+    },
+    {
+      "name": "Meltdown",
+      "rating": "4.7",
+      "reviewCount": "43",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/meltdown/r22MbTaCQzGmePnmk1YOuw"
+    },
+    {
+      "name": "Georgie Porgies",
+      "rating": "4.7",
+      "reviewCount": "87",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/georgie-porgies/AP3PmZulSEOp48QWdOWqUw"
+    },
+    {
+      "name": "Bayt Alsham",
+      "rating": "4.0",
+      "reviewCount": "26",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bayt-alsham/KyyzEq29Qgushux6rkHGXA"
+    },
+    {
+      "name": "Tesco Cafe",
+      "rating": "4.5",
+      "reviewCount": "51",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tesco-cafe-glasgow-st-rollox/PdNHrwJEUCafrzAkQty55A"
+    },
+    {
+      "name": "Twisted Health Kitchen",
+      "rating": "4.5",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/twisted-health-kitchen-glasgow-queen-st/_HR-tZh7R5SHlbTSNmKgLg"
+    },
+    {
+      "name": "Bella Italia Pizza & Pasta",
+      "rating": "3.7",
+      "reviewCount": "320+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bella-italia-pizza-%26-pasta-glasgow-sauchiehall-street/7Wo43AwgSTyBVeNQvyad9g"
+    },
+    {
+      "name": "Super Nonna Pasta, Presto!",
+      "rating": "3.7",
+      "reviewCount": "43",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/super-nonna-pasta-presto!-glasgow-sauchiehall-street/t_LxWDijXb-bNza6cza5cw"
+    },
+    {
+      "name": "Domino's Pizza",
+      "rating": "3.6",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dominos-pizza-glasgow-merchant-city/AMuPk_s_UOi5wloI5xxPjg"
+    },
+    {
+      "name": "Kilmurry & Co",
+      "rating": "3.6",
+      "reviewCount": "26",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kilmurry-%26-co/OJ7zsnavVyWe4hLdxsvqzw"
+    },
+    {
+      "name": "Stacks",
+      "rating": "3.1",
+      "reviewCount": "18",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/stacks-burgers-glasgow-nile-street/kxdWprQJU42kOdWWUiyE5g"
+    },
+    {
+      "name": "Favourite Spot",
+      "rating": "4.6",
+      "reviewCount": "10",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, get a free item"
+      ],
+      "url": "https://www.ubereats.com/store/favourite-spot/3YSp4ZTDVaStZ-Q-0m1PZQ"
+    }
+  ]
+}

@@ -1,0 +1,1575 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/starbucks-bristol-clifton-down/XpjOkr1bSKCfQOzQpLfxMQ",
+  "name": "Starbucks ® (Bristol Clifton Down)",
+  "servesCuisine": [
+    "Cafe",
+    "Coffee and Tea",
+    "Breakfast and Brunch"
+  ],
+  "priceRange": "₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/b9116597fd45cbea8894362a67601e4c/19ec62ba51fde35ba0aff5b84321c5af.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/b9116597fd45cbea8894362a67601e4c/c67d558c633281f9c71fc6a90ef470ae.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/b9116597fd45cbea8894362a67601e4c/8681e511c0910e0052cb155c50f01f89.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/b9116597fd45cbea8894362a67601e4c/6ea4f72e303000fbf403bbb36f971f85.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/b9116597fd45cbea8894362a67601e4c/4bee0baf259f2b3c95aacdebea87e950.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/b9116597fd45cbea8894362a67601e4c/5283d81c664b43c5f57a3a186d273063.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/starbucks-bristol-clifton-down/XpjOkr1bSKCfQOzQpLfxMQ?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "",
+    "postalCode": "BS8 2",
+    "addressCountry": "GB",
+    "streetAddress": "Clifton Downs Shopping Centre, Whiteladies Rd, Redland"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.4645342,
+    "longitude": -2.6100151
+  },
+  "telephone": "+441179467522",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.6,
+    "reviewCount": "1000"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "8:30",
+      "closes": "16:30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "7:30",
+      "closes": "17:30"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "name": "Bundles",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Bakery Break Bundle",
+            "description": "A tasty pairing. Choose a Venti Frappuccino® blended beverage + a bakery item of your choice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lunch Bundle",
+            "description": "Take a break. Choose from a range of Grande/Venti hot or iced drinks + any panini, toastie or wrap.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Lunch favourites",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Iced Caffè Latte",
+            "description": "Our dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.15",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Frappucino® Blended Beverage",
+            "description": "Coffee blended with caramel syrup, milk and ice. Topped with whipped cream and caramel sauce. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Signature Tomato &amp; Mozzarella Panini",
+            "description": "Mozzarella and tomatoes with basil and red pepper pesto on a rustic ciabatta. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Signature Smoked Ham &amp; Cheese Toastie",
+            "description": "Starbucks® signature cheese topped sourdough filled with dry cured oak-smoked ham, Monterey Jack, mozzarella, vintage Cheddar with creamy béchamel and a touch of Dijon and American style mustard. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Macchiato",
+            "description": "Freshly steamed milk with vanilla-flavoured syrup, marked with espresso and finished with caramel sauce. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Chunk Cookie",
+            "description": "All butter cookie with dark chocolate chunks. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kettle Chips Lightly Salted",
+            "description": "Lightly Salted Kettle Chips. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Strawberry Acai Starbucks Refresha® Drink",
+            "description": "A hydrating drink of sweet strawberry flavors accented by açai notes, shaken with real strawberries.  We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.25",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "New In",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Pumpkin Spice Latte",
+            "description": "Our iconic pumpkin spice latte is handcrafted with signature espresso and combined with a pumpkin spice flavour sauce and steamed milk. It is then topped with whipped cream and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Pumpkin Spice Latte",
+            "description": "Our iconic pumpkin spice latte is handcrafted with signature espresso and combined with a pumpkin spice flavour sauce, milk and ice. It is then topped with a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.57",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pumpkin Spice Caramel Macchiato",
+            "description": "Steamed milk with pumpkin spice flavour sauce is blended with signature espresso and finished with caramel drizzle and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Pumpkin Spice Caramel Macchiato",
+            "description": "Signature espresso is combined with pumpkin spice flavour sauce, milk and ice, finished with caramel drizzle and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pumpkin Spice Frappuccino",
+            "description": "Pumpkin spice flavour sauce is blended with coffee, milk and ice, then topped with whipped cream and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pumpkin Spice Crème Frappuccino",
+            "description": "Pumpkin spice flavour sauce is blended with milk and ice, then topped with whipped cream and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pumpkin Marble Loaf Cake",
+            "description": "Rich and aromatic pumpkin spice and vanilla marble loaf cake, coated with a luscious maple and caramel flavour frosting, topped with pumpkin seeds and caramel drizzle. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bear Cake Pop",
+            "description": "A delightful bite of vanilla-flavoured cake and digestive biscuit crumb, enrobed in caramel white chocolate. Topped with caramel white chocolate ears, black icing eyes, and a dark chocolate nose. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Brownie",
+            "description": "A pumpkin-shaped dark chocolate brownie, crowned with a velvety blend of smooth milk and dark chocolate, with an eye-catching marble decoration of rich chocolate swirls. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Chocolate &amp; Cherry Blondie",
+            "description": "A white chocolate blondie swirled with tangy Morello cherry jam, decorated with white chocolate flavour drizzle and freeze-dried cherry pieces. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vintage Cheddar &amp; Smoked Bacon Quiche",
+            "description": "A buttery shortcrust tart filled with vintage cheddar, British smoked streaky bacon, crème fraiche &amp; free-range eggs, finished with dry-cured bacon pieces. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vintage Cheddar &amp; Caramelised Onion Quiche",
+            "description": "A buttery shortcrust tart filled with vintage cheddar, red Leicester, crème fraiche &amp; free-range eggs, topped with caramelised onions and a cheddar &amp; chive crumb. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pork &amp; Maple Bacon Lattice",
+            "description": "A rich and savoury blend of British minced pork and smoky maple bacon, wrapped in golden, all-butter puff pastry. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.20",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Hot Coffee",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Caffè Latte",
+            "description": "Our dark, rich espresso is balanced with steamed milk and topped with a light layer of foam. A perfect milk-forward warm up. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caffè Americano",
+            "description": "Espresso shots are topped with hot water to produce a light layer of crema. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Macchiato",
+            "description": "Freshly steamed milk with vanilla-flavoured syrup, marked with espresso and finished with caramel sauce. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Chocolate Mocha",
+            "description": "Espresso with white chocolate flavoured sauce and steamed milk. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caffè Mocha",
+            "description": "Espresso with bittersweet mocha sauce and steamed milk. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cappuccino",
+            "description": "Dark, rich espresso combined with steamed milk, topped with a deep layer of foam. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Filter Coffee",
+            "description": "Iconic Starbucks coffee that's smooth, balanced and rich in flavour – perfect for every day. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pumpkin Spice Latte",
+            "description": "Our iconic pumpkin spice latte is handcrafted with signature espresso and combined with a pumpkin spice flavour sauce and steamed milk. It is then topped with whipped cream and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pumpkin Spice Caramel Macchiato",
+            "description": "Steamed milk with pumpkin spice flavour sauce is blended with signature espresso and finished with caramel drizzle and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Mocha Caramel Macchiato",
+            "description": "Steamed milk with white mocha flavour sauce is blended with signature espresso and finished with caramel drizzle. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Iced Coffee",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Iced Caffè Latte",
+            "description": "Our dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.15",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Caramel Macchiato",
+            "description": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Brown Sugar Oat Shaken Espresso",
+            "description": "Using our Starbucks Blonde® Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.15",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced White Chocolate Mocha",
+            "description": "Espresso, milk and white chocolate flavoured sauce poured over ice. Topped with whipped cream. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Caffè Americano",
+            "description": "Espresso shots are topped with water to produce a light layer of crema, then served over ice. The result is this wonderfully rich cup with depth and nuance. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cold Brew Coffee",
+            "description": "Our Cold Brew coffee is handcrafted in small batches, slow-steeped in cool water without touching heat, to give a super smooth flavour. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Caffè Mocha",
+            "description": "We combine our rich, full-bodied espresso with bittersweet mocha sauce, milk and ice, then top it off with whipped cream. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Pumpkin Spice Latte",
+            "description": "Our iconic pumpkin spice latte is handcrafted with signature espresso and combined with a pumpkin spice flavour sauce, milk and ice. It is then topped with a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.57",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Pumpkin Spice Caramel Macchiato",
+            "description": "Signature espresso is combined with pumpkin spice flavour sauce, milk and ice, finished with caramel drizzle and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced White Mocha Caramel Macchiato",
+            "description": "Signature espresso is combined with white mocha flavour sauce, milk and ice, and finished with caramel drizzle. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.60",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Coffee Frappuccino®",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Frappucino® Blended Beverage",
+            "description": "Coffee blended with caramel syrup, milk and ice. Topped with whipped cream and caramel sauce. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mocha Frappuccino® Blended Beverage",
+            "description": "Mocha sauce, Frappuccino® roast coffee, milk and ice all come together for a mocha flavour that'll leave you wanting more. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coffee Frappuccino® Blended Beverage",
+            "description": "Coffee meets milk and ice in a blender for a rumble and tumble topped with a swirl of whipped cream and together they create one of our original Frappuccino beverages. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pumpkin Spice Frappuccino",
+            "description": "Pumpkin spice flavour sauce is blended with coffee, milk and ice, then topped with whipped cream and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.30",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cream Frappuccino®",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Cookies &amp; Cream Frappuccino® Blended Beverage",
+            "description": "A mix of cookies, milk and ice are blended to make a perfect icy creamy cookie texture then finished with a delicious cookies &amp; cream topping. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Cream Frappuccino® Blended Beverage",
+            "description": "Blended with milk and ice, the sweet flavour of caramel takes a delightfully refreshing turn. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Strawberries &amp; Cream Frappuccino® Blended Beverage",
+            "description": "Frappuccino® crème syrup blended with milk, strawberry sauce and ice. Topped with whipped cream. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Cream Frappuccino® Blended Beverage",
+            "description": "What makes this cool beverage doubly delicious? The flavour of chocolate and more chocolate – something we just can't get enough of. There's the rich, creamy taste of mocha-flavoured sauce blended with milk.  We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pumpkin Spice Crème Frappuccino",
+            "description": "Pumpkin spice flavour sauce is blended with milk and ice, then topped with whipped cream and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Matcha Green Tea Frappuccino®",
+            "description": "Try your favourite Matcha in a cream Frappuccino - Matcha is combined with milk and vanilla and topped with whipped cream for a deliciously cold treat. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.25",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Hot Chocolate &amp; Teas &amp; Tea Latte",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Classic Hot Chocolate",
+            "description": "Steamed milk swirled with mocha-flavoured syrup. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "English Breakfast Tea",
+            "description": "Full-bodied black tea with rich, malty undertones. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Emperor's Clouds &amp; Mist Tea",
+            "description": "A single-origin pure green tea with light, toasty-sweet notes. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mint Herbal Blend Tea",
+            "description": "Spearmint, peppermint &amp; a touch of lemon verbena. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Earl Grey Tea",
+            "description": "A bright blend of black tea, fragrant bergamot and soft lavender. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Classic Chai Latte",
+            "description": "The warm, aromatic flavours of chai tea have their roots in the ancient Ayurvedic tradition of India, where roadside tea merchants can be found preparing black tea with traditional healing spices like cardamom, cinnamon and black pepper. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Matcha Latte",
+            "description": "Pure Matcha green tea is steamed with milk for a premium cup of zen. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.60",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Refresha® &amp; Iced Teas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Strawberry Acai Starbucks Refresha® Drink",
+            "description": "A hydrating drink of sweet strawberry flavors accented by açai notes, shaken with real strawberries.  We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Melon Pearl Refresha® Drink",
+            "description": "Sweet melon flavour Refresha® drink base poured over ice and combined with juicy pops of melon flavour pearls that burst in your mouth – a delicious hit for Summer! \n*Caution: Potential choking hazard – not suitable for young children. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cool Lime Starbucks Refresha® Drink",
+            "description": "Cool Lime is a lively blend of lime and citrus, shaken with real lime slices. It's a delicious pick-me-up delivering zesty hydration. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Matcha Green Latte",
+            "description": "Pure Matcha green tea is mixed with milk for a premium cup of zen. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Chai Latte",
+            "description": "Black tea infused with cardamom, cinnamon, black pepper and star anise added to milk and ice. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.60",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Breakfast",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Butter Croissant",
+            "description": "Golden pastry with soft, flaky layers and a rich buttery flavour. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Traditional Sausage Sandwich",
+            "description": "Pork sausages served in a classic buttered soft roll *Sausage filled into natural beef casing. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pain au Chocolat",
+            "description": "Golden pastry made from free range eggs and butter, with a rich dark chocolate filling. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Twist",
+            "description": "Twisted butter pastry filled with pastry cream and dark chocolate chips. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Egg Bites with Three Cheese &amp; Ham",
+            "description": "Egg bites are cooked at a precise temperature resulting in a velvety texture.Cooking instructions: Microwave 600W 2 mins. Remove the plastic packaging, place the egg bites on a plate before heating. Heat on full power. Leave to stand for 3-5 mins after heating. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Egg White Bites with Three Cheese &amp; Red Pepper",
+            "description": "Free-range sous vide egg white bites with three cheese, roasted  red peppers and spinach. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ham &amp; Cheese Croissant",
+            "description": "Beechwood smoked ham, medium Cheddar cheese in an all-butter croissant. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Smoked Bacon Roll",
+            "description": "Hickory smoked bacon in a white roll. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Classic Oatmeal (Porridge)",
+            "description": "Made with semi-skimmed milk and single cream &amp; oatmeal; finished with your choice of topping. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Berry Crunch",
+            "description": "Mixed berry compote under reduced fat Greek style yoghurt topped with toasted pumpkin seed granola. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.95",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sandwiches &amp; Toasties",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Caesar Wrap",
+            "description": "Smoked bacon, seared chicken breast and lettuce leaf are paired with a tangy rich ranch style caesar mayonnaise wrapped into a plain barmarked wrap. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vintage Cheddar &amp; Smoked Bacon Quiche",
+            "description": "A buttery shortcrust tart filled with vintage cheddar, British smoked streaky bacon, crème fraiche &amp; free-range eggs, finished with dry-cured bacon pieces. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vintage Cheddar &amp; Caramelised Onion Quiche",
+            "description": "A buttery shortcrust tart filled with vintage cheddar, red Leicester, crème fraiche &amp; free-range eggs, topped with caramelised onions and a cheddar &amp; chive crumb. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Free-Range Egg, Cress &amp; Mayo Sandwich",
+            "description": "Free-range egg with Dijon mustard mayonnaise and cress on malted bread.​ We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Smoked Ham &amp; Cheddar Sandwich",
+            "description": "Smoked ham and Cheddar cheese with mayonnaise on malted bread. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese &amp; Marmite® Mini  Ciabatta",
+            "description": "Mature Cheddar cheese &amp; Marmite® in a ciabatta roll. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.65",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Bakery Treats",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Almond Croissant",
+            "description": "A butter croissant filled with an almond filling, topped with toasted flaked almonds and dusted with powdered sugar. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Birthday Cake Pop",
+            "description": "Bitesize vanilla cake pop mixed with strawberry flavour frosting, dipped in strawberry flavour chocolate, with pink sprinkles. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pumpkin Marble Loaf Cake",
+            "description": "Rich and aromatic pumpkin spice and vanilla marble loaf cake, coated with a luscious maple and caramel flavour frosting, topped with pumpkin seeds and caramel drizzle. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bear Cake Pop",
+            "description": "A delightful bite of vanilla-flavoured cake and digestive biscuit crumb, enrobed in caramel white chocolate. Topped with caramel white chocolate ears, black icing eyes, and a dark chocolate nose. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Brownie",
+            "description": "A pumpkin-shaped dark chocolate brownie, crowned with a velvety blend of smooth milk and dark chocolate, with an eye-catching marble decoration of rich chocolate swirls. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Chocolate &amp; Cherry Blondie",
+            "description": "A white chocolate blondie swirled with tangy Morello cherry jam, decorated with white chocolate flavour drizzle and freeze-dried cherry pieces. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pork &amp; Maple Bacon Lattice",
+            "description": "A rich and savoury blend of British minced pork and smoky maple bacon, wrapped in golden, all-butter puff pastry. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lemon Loaf",
+            "description": "A deliciously moist lemon loaf cake topped with a lemon icing glaze and caramelised lemon zest. “We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.ie/nutrition”",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Blueberry Muffin",
+            "description": "A classic Starbucks muffin packed with blueberries, filled with a smooth blueberry filling. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Chunk Cookie",
+            "description": "All butter cookie with dark chocolate chunks. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cinnamon Bun",
+            "description": "Sweet dough with cinnamon filling and topped with an orange infused cream cheese icing. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Luxury Fruit Toast",
+            "description": "Two slices of luxury fruit toast. Made with dried cranberries, raisins and lemon zest. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Chocolate &amp; Snacks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Kettle Chips Sea Salt &amp; Balsamic Vinegar",
+            "description": "Sea Salt and Balsamic Vinegar Kettle Chips. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cookie Straw",
+            "description": "Chocolate and vanilla flavour cookie straw. Use for your favourite Starbucks cold beverage, or enjoy on its own. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Caramel Waffles",
+            "description": "Pack of two buttery waffles with a sweet, creamy caramel filling. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Gingerbread Biscuit",
+            "description": "An iced gingerbread biscuit in the shape of a Starbucks beverage or Starbucks Bearista®. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mini Waffles",
+            "description": "A sharing size bag of bitesize versions of the iconic Starbucks chewy caramel waffle. Enjoy a few with a Caramel Macchiato for the ultimate sweet delight. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gluten Free Fruit &amp; Nut Bar",
+            "description": "Flapjack made with gluten free oats, mixed toasted nuts &amp; fruit. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ginger Biscuits",
+            "description": "Two moreish, fiery stem ginger biscuits – because as you’ll soon see, one just isn’t enough… Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "All Butter Shortbread Biscuits",
+            "description": "Pack of two perfectly crumbly, all-butter shortbread biscuits. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Starbucks® Milk Chocolate Gold Coin",
+            "description": "Smooth and creamy milk chocolate coin embossed with the Starbucks Siren, wrapped in gold foil. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Raspberry &amp; Coconut Brownie",
+            "description": "A fudgy chocolate brownie with coconut cream and raspberry jam swirled through. Finished with a dark chocolate drizzle and freeze-dried raspberries.​ Plant Based. Gluten-Free. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kettle Chips Mature Cheddar &amp; Red Onion",
+            "description": "Mature Cheddar and Red Onion Kettle Crisps. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kettle Chips Lightly Salted",
+            "description": "Lightly Salted Kettle Chips. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kettle Chips Sweet Chilli &amp; Sour Cream",
+            "description": "Sweet Chilli and Sour Cream Kettle Chips. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.10",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Bottled Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Ginger Shot 100ml",
+            "description": "Punchy apple, ginger and lime blend. Source of vitamin C, providing 12mg (15% RI*) per serving. Enjoy as part of a varied and balanced diet &amp; healthy lifestyle.  *Reference intake.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Turmeric Shot 100ml",
+            "description": "A fiery blend of apple and turmeric with hot cayenne and fresh citrus. Source of vitamin C, providing 12mg (15% RI*) per serving. Enjoy as part of a varied and balanced diet &amp; healthy lifestyle.  *Reference intake.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "ONE Water 500ml Sparkling",
+            "description": "British spring water in 100%* recycled plastic bottles and 100% recyclable.\n*excludes cap and label. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Still Lemonade 330ml",
+            "description": "A refreshing still lemonade made from Spanish lemons.Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "ONE Water 750ml Still",
+            "description": "British spring water in 100%* recycled plastic bottles and 100% recyclable.\n*excludes cap and label. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "ONE Water 500ml Still",
+            "description": "British spring water in 100%* recycled plastic bottles and 100% recyclable.\n*excludes cap and label. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Raspberry Lemonade 330ml",
+            "description": "A refreshing still lemonade made from Spanish lemons with raspberry puree. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Apple &amp; Mango Juice 500ml",
+            "description": "The crisp sweetness of ripe apples with the tropical fruitiness of juicy mangoes. Packed with so much flavour, it's a vibrant drink with no added sugars or artificial ingredients and a source of Vitamin C - perfect for a burst of fruity goodness. Providing 15mg (19% RI*) of Vitamin C per serving. Vitamin C contributes to the normal function of the immune system. Enjoy as part of a varied and balanced diet &amp; a healthy lifestyle.    *Reference intake.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Acerola &amp; Raspberry Vitamin D Shot 100ml",
+            "description": "Tangy acerola, juicy berries and Vitamin D – your daily burst of sunshine.  Providing 1.5ug (30% RI*) of Vitamin D and 120mg (150% RI) of Vitamin C per serving.  Vitamin D &amp; C contribute to the normal function of the immune system. Enjoy as part of a varied and balanced diet &amp; a healthy lifestyle.   *Reference intake",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Strawberry &amp; Watermelon VITWATER 330ml",
+            "description": "Crisp watermelon, ripe strawberry and a refreshing dose of feel-good vitamins B12 and C.  Providing 40mg (50% RI*) of Vitamin C and 1.3ug (50% RI) of Vitamin B12 per serving. Vitamin C contributes to normal energy-yielding metabolism and Vitamin B12 contributes to the reduction of tiredness and fatigue. Enjoy as part of a varied and balanced diet &amp; a healthy lifestyle.    *Reference intake.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Smooth Orange Juice 250ml",
+            "description": "100% pure squeezed fruit with the bits taken out for a deliciously smooth taste for any time of the day. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Berries Juice Drink200ml",
+            "description": "Pasteurised juice drink made with apple and blackcurrant juices and strawberry and raspberry purees. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Peach Iced Tea 330ml",
+            "description": "Pasteurised juice drink made with white grape and peach juices, black tea extract and added natural flavourings.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.45",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Coffee At Home",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Autumn Blend 2025 250g",
+            "description": "Starbucks EMEA introduces a new blend that is a perfect fit for a feast: Autumn Blend. First offered in 2008, Starbucks® Autumn Blend is truly a celebration of the season with richly roasted and delicately sweet distinctive notes.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sumatra",
+            "description": "It's big and bold with distinctive earthy aroma and lingering low notes. The heavy, full body and concentrated herbal spice notes are hallmarks of great coffee from Sumatra and the pride of our most seasoned roasters.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kenya",
+            "description": "Big and juicy with complex layers of blackcurrant, fresh blackberry and even tart grapefruit. It's a refreshing, delicious cup like no other.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ethiopia 250g",
+            "description": "With a velvety soft texture and floral, peppery spice notes, this is our tribute to the birthplace of coffee.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pike Place® Roast",
+            "description": "In 1971 we opened our first store in Seattle's Pike Place Market. Reflecting on our heritage inspired us to create this delicious blend with smooth body and subtle flavours of cocoa and toasted nuts. Fairtrade certified, it is a rich, satisfying and balanced cup.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "House Blend",
+            "description": "It's a hospitable blend of the finest Latin American beans that we've been offering to coffee lovers since the very beginning.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Guatemala Antigua",
+            "description": "This coffee is rich and multidimensional, with a flavour that's consistent, cup after cup - lemon, chocolate and soft spice notes with an elegant mouthfeel unique to this region.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Espresso Roast",
+            "description": "This espresso is part of our history — the same beloved blend we've been serving in our stores since we handcrafted the very first Starbucks latte. Much has changed since then, but we still feel that nothing beats this rich blend of high-grown beans.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Decaf Espresso Roast",
+            "description": "This decaf espresso blend brews up a rich, satisfying cup.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caffè Verona®",
+            "description": "A passion for the culinary romance of Italy inspired this seductive, full-bodied blend of Latin American and Asia/Pacific coffees, with Italian Roast added for depth. It's rich and well-balanced with a dark cocoa texture and a roasty sweetness.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Colombia Nariño",
+            "description": "Complex and elegant, medium-bodied with a juicy acidity, herbal notes and a walnut-like finish.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Starbucks Blonde® Espresso Roast 250g",
+            "description": "Incredibly smooth and subtly sweet, with a creamy mouthfeel. Please check the label for allergens.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Colombia VIA™ Instant Capsules",
+            "description": "A smooth instant coffee with a signature nutty flavour. Grown on some of the highest coffee farms in the majestic Andes mountain range, our medium-roasted Colombia is complex with herbal notes and a walnut like finish. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Italian Roast VIA™ Instant Capsules",
+            "description": "Intense with a rich, deep flavour and notes of caramelised sugar. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pike Place® VIA™ Instant Capsules",
+            "description": "Inspired by the very first store we opened in Seattle's Pike Place Market, Starbucks® Pike Place® Roast is a smooth, medium-roasted coffee with subtle notes of chocolate and toasted nuts. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Starbucks Ristretto Capsules",
+            "description": "Get captivated by the vibrant personality of our ristretto shot, with its smooth intensity and extraordinary taste. Meticulously crafted, this blend brings together beans from Latin America and Africa, slowly roasted to create a delightfully rich mouthfeel that balances sweet caramel notes with a hint of red berries in the finish. A true testament to the artistry of coffee.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Colombia Nespresso® Capsules",
+            "description": "Nutty and floral with extraordinary cup balance and lots of complexity. Please check the label for allergens.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Decaf Espresso Roast Nespresso® Capsules",
+            "description": "Intense and caramelly sweet. Please check the label for allergens.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pike Place® Roast Nespresso® Capsules",
+            "description": "Well-rounded with subtle notes of cocoa and toasted nuts balancing the smooth mouthfeel. Please check the label for allergens.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Espresso Roast Nespresso® Capsules",
+            "description": "Intense and caramelly sweet. Please check the label for allergens.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Starbucks Blonde® Espresso Roast Nespresso® Capsules",
+            "description": "Incredibly smooth and subtly sweet, with a creamy mouthfeel. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Smooth Caramel",
+            "description": "Smooth, buttery caramel and vanilla notes are waiting in every well-rounded cup of STARBUCKS by NESPRESSO - STARBUCKS Blonde Roast Smooth Caramel Flavored Coffee.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Creamy Vanilla",
+            "description": "Savour the simply delicious flavour of sweet vanilla and biscuit notes in every cup of STARBUCKS by NESPRESSO - STARBUCKS Blonde Roast Creamy Vanilla Flavoured Coffee.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

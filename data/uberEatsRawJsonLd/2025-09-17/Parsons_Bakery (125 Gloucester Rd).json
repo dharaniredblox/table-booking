@@ -1,0 +1,554 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/parsons-bakery-125-gloucester-rd/v3AwMTV9TUiPIPZR80_lVg",
+  "name": "Parsons Bakery (125 Gloucester Rd)",
+  "servesCuisine": [
+    "Bakery",
+    "Breakfast and Brunch",
+    "Sandwiches"
+  ],
+  "priceRange": "₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/07d0293507e3d0e3ab1c58ae047e1530/f6deb0afc24fee6f4bd31a35e6bcbd47.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/07d0293507e3d0e3ab1c58ae047e1530/9b3aae4cf90f897799a5ed357d60e09d.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/07d0293507e3d0e3ab1c58ae047e1530/fdf52d66534809b650058f41d517d74a.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/07d0293507e3d0e3ab1c58ae047e1530/8a42ee7a692dfa4155879820804a277f.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/07d0293507e3d0e3ab1c58ae047e1530/783282f6131ef2258e5bcd87c46aa87e.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/07d0293507e3d0e3ab1c58ae047e1530/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/parsons-bakery-125-gloucester-rd/v3AwMTV9TUiPIPZR80_lVg?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet",
+      "http://purl.org/goodrelations/v1#DeliveryModePickUp"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "",
+    "postalCode": "BS7 8AX",
+    "addressCountry": "GB",
+    "streetAddress": "125 Gloucester Road Bishopston"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.4733256,
+    "longitude": -2.5912776
+  },
+  "telephone": "+441179426549",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.4,
+    "reviewCount": "1000"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "9:0",
+      "closes": "14:0"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "8:0",
+      "closes": "15:0"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "16:0",
+      "closes": "18:0"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "name": "Freshly Baked Bread",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "White Sourdough",
+            "description": "A traditional non yeasted loaf, perfect for sandwiches or thick toast. Suitable for vegans.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Baton",
+            "description": "A rustic baguette great for sharing. Suitable for vegans.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Seeded Sourdough",
+            "description": "Small. A multi-seeded version of our sourdough loaf. Suitable for vegans.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Split Tin Loaf",
+            "description": "Large. A classic white loaf baked in a tin. Suitable for vegans.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Granary Loaf",
+            "description": "Our popular Granary Loaf makes it's return.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.30",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "The Big Breakfast",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Sausage Doorstep Sandwich",
+            "description": "A thick doorstep sandwich packed with sausage, using our split tin loaf.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.95",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Oven Fresh Savouries",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "King Size Sausage Roll",
+            "description": "Premium pork sausage encased in layers of golden, flaky, and puff pastry.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon and Cheese Wrap",
+            "description": "Golden, flaky, puff pastry wrapped around best back bacon and topped with mature cheddar.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Traditional Steak Pasty",
+            "description": "A true classic. Juicy steak meat and vegetables hand crimped in our puff pastry.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese and Onion Pasty",
+            "description": "The veggie classic. Mature cheddar, onion, and potato. Hand crimped in our puff pastry.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Veggie Roll",
+            "description": "Layers of golden, flaky, puff pastry encases a scrumptious soya protein suitable for Vegetarians and Vegans.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Filled Baguettes &amp; Sandwiches",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Mayo Baguette",
+            "description": "A freshly baked rustic baguette filled with succulent chunks of chicken mixed with mayo on a bed of mixed leaves.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tuna Mayo and Cucumber Baguette",
+            "description": "A freshly baked rustic baguette filled with our tuna mayo mixed and topped off with slices of cucumber.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ham and Cheese Baguette",
+            "description": "A freshly baked rustic baguette filled with slices of thick ham and mature cheddar.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ham and Salad Baguette",
+            "description": "A freshly baked rustic baguette filled with ham, mixed leaves, tomato, cucumber, and red onion.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.25",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cakes and Treats",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Custard Slice",
+            "description": "A generous helping of custard between two layers of puff pastry, strawberry jam lines the bottom and it is topped with our sticky, fondant icing.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Apple and Sultana Crown",
+            "description": "Golden, flaky puff pastry with an apple and sultana centre, finished off with a drizzle of icing.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chelsea Bun",
+            "description": "A true classic, this sweet bun is filled with juicy sultanas, plump raisins, and mixed spice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Raspberry and White Chocolate Muffin",
+            "description": "A light and fluffy vanilla sponge with a raspberry centre and white chocolate chunks.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ginger Bread Teddy",
+            "description": "A chewy, gingerbread teddy complete with smartie buttons and chocolate dipped feet.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Novelty Biscuit",
+            "description": "Our vanilla biscuit takes many forms but it is always topped with treats. What will you get.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fruit and Nut Flapjack",
+            "description": "A gooey flapjack filled with mixed nuts and dried fruit. 100% tasty and 100% vegan.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Jack",
+            "description": "Gooey Flapjack topped with Caramel &amp; Chocolate",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "School Cake",
+            "description": "Chocolate Sponge, icing &amp; spinkles",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bread Pudding",
+            "description": "A blend of sultanas and spices infused with our split tin loaf create this gorgeous vegan treat. Loved by everybody.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.60",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Drinks and Crisps",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "MAXIMUM TASTE, NO SUGAR. A bold and refreshing fizzy drink",
+            "description": "MAXIMUM TASTE, NO SUGAR. A bold and refreshing fizzy drink",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca Cola",
+            "description": "500ml.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sea Salt and Cider Vinegar Crisps",
+            "description": "40g.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Quavers",
+            "description": "20g.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lightly Sea Salted Crisps",
+            "description": "40g.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Smart Water",
+            "description": "600ml",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mature Cheddar and Chive Crisps",
+            "description": "40g.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sweet Chilli and Red Pepper Crisps",
+            "description": "40g.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.45",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Filled Sandwiches",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Tuna Mayo &amp; Cucumber Sandwich",
+            "description": "Tuna Mayo &amp; Cucumber sandwich made using our freshly baked Granary loaf. Filled with Tuna Mayo &amp; Cucumber",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.10",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Hot Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Latte",
+            "description": "Coffee, Milky and Smooth. 10 oz",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cappuccino",
+            "description": "Frothy, Milky, Dusted with Chocolate. 10 oz",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Americano",
+            "description": "Tall Dark &amp; Havesome. 10 oz",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Flat White",
+            "description": "Milky Micro Foam, Strong Velvety Texture. 6oz",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Americano",
+            "description": "Tall Dark &amp; Havesome with a dash of milk. 10 oz",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mocha",
+            "description": "Coffee &amp; Chocolate Combo! 10oz",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hot Chocolate",
+            "description": "Liquid Chocolatey Yumminess! 10oz",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tea",
+            "description": "Classic Cuppa W/Without Milk. 10 oz",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

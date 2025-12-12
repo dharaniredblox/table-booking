@@ -1,0 +1,705 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/little-bagel-co-baldwin-street/8pFffFyLV86AHUB8ZM0kBA",
+  "name": "Little Bagel Co (Baldwin Street)",
+  "servesCuisine": [
+    "Bagels",
+    "Breakfast and Brunch",
+    "Sandwich"
+  ],
+  "priceRange": "",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/103f5d923467e2621b7a253a0ec37379/08829600257ed8168dd856cafb7446c8.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/103f5d923467e2621b7a253a0ec37379/560a11f5d26e4cb83686f7810a5f5fe2.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/103f5d923467e2621b7a253a0ec37379/35927095c71455a8eb90d48f0168bf20.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/103f5d923467e2621b7a253a0ec37379/66345bbe137cfe4e15769c434c6c397c.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/103f5d923467e2621b7a253a0ec37379/b92d4926516c2635a39581f43cd533a0.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/103f5d923467e2621b7a253a0ec37379/885ba8620d45ab36746a0e8c7b85ee66.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/little-bagel-co-baldwin-street/8pFffFyLV86AHUB8ZM0kBA?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "EMEA",
+    "postalCode": "BS1 4ES",
+    "addressCountry": "GB",
+    "streetAddress": "48-52 Baldwin Street"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.4533106,
+    "longitude": -2.5932408
+  },
+  "telephone": "+447798631375",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.8,
+    "reviewCount": "180"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "9:30",
+      "closes": "14:30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "7:30",
+      "closes": "15:30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "9:0",
+      "closes": "15:30"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "name": "Specials ",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chopped Cheese",
+            "description": "west country beef, american cheese, tomato, lettuce, jalapenos, ketchip &amp; mayo",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Meal Deals",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Salad Meal Deal",
+            "description": "free range chicken, mayonnaise dressing, rocket &amp; tomato - with a drink and crisps",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Salmon Lox Meal Deal",
+            "description": "smoked salmon, cream cheese, dill, capers, pickled red onion &amp; tomato - with a drink and crisps.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegan BLT Meal Deal",
+            "description": "smoked tofu, old bay mayonnaise, lettuce &amp; tomato - with a drink and crisps",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "BEC Meal Deal",
+            "description": "smoked streaky bacon, egg &amp; american cheese - with a drink and crisps.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.45",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Bagels",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "BLT",
+            "description": "smoked streaky bacon, old bay mayonnaise, lettuce &amp; tomato",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Salad",
+            "description": "free range chicken, mayonnaise dressing, rocket &amp; tomato",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Elvis",
+            "description": "peanut butter &amp; sliced banana",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kimcheesy",
+            "description": "homemade kimchi &amp; grilled extra mature cheddar",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "PBJ",
+            "description": "peanut butter &amp; homemade raspberry jam",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Salmon Lox",
+            "description": "smoked salmon, cream cheese, dill, capers, pickled red onion &amp; tomato",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Schmear Deluxe",
+            "description": "cream cheese, capers, dill, pickled onions &amp; tomato",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Spicy Lox",
+            "description": "smoked salmon, tabasco, spicy schmear, tomato, pickled red onion &amp; smashed avo",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "The Rachel",
+            "description": "turkey pastrami, russian dressing, house slaw &amp; melted emmental",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Turkey Club",
+            "description": "turkey pastrami, bacon, fried egg, chilli jam, rocket, emmental &amp; mayonnaise",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegan BLT",
+            "description": "smoked tofu, old bay mayonnaise, lettuce &amp; tomato",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegan Kimcheesy",
+            "description": "homemade kimchi &amp; grilled vegan smoked applewood",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegan Lox",
+            "description": "smoked carrot, homemade cashew cream cheese, dill capers, pickled red onion &amp; tomato",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegan Reuben",
+            "description": "grilled broccoli, mustard, homemade sauerkraut &amp; dill pickles",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.15",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Breakfast",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Bacon Bagel",
+            "description": "dry cured smoked streaky bacon, your choice of sauce",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.15",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon Cream Cheese",
+            "description": "Creamy spread made with bacon and cheese.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "BEC",
+            "description": "smoked streaky bacon, egg &amp; american cheese",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cream Cheese Bagel",
+            "description": "Soft, creamy cheese spread on a toasted bagel.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Egg &amp; Cheese",
+            "description": "double egg &amp; american cheese",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.15",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kimchi Breakfast",
+            "description": "house kimchi, bacon, egg &amp; cheese",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "SEA",
+            "description": "smoked salmon, smashed avo, egg &amp; emmental",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Super BEC",
+            "description": "bacon, egg, american cheese, hash brown &amp; smashed avo",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.15",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Super VBB",
+            "description": "smoked tofu, oyster mushrooms, hashbrown, avocado &amp; chilli jam",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.60",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cookies",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Cranberry &amp; White Chocolate Cookie",
+            "description": "Soft and chewy cookie filled with sweet white chocolate and dried cranberries.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Everything Cookie",
+            "description": "Soft-baked cookie loaded with a mix of sweet treats.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Triple Chocolate Cookie",
+            "description": "Rich, decadent chocolate cookie with a triple dose of chocolate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegan Pecan &amp; Dark Chocolate Cookie",
+            "description": "Rich, dark chocolate and crunchy pecans come together in a delicious cookie.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Walnut &amp; Dark Chocolate Cookie",
+            "description": "Rich, crunchy cookie filled with walnuts and dark chocolate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.85",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Crisps",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chilli Crisps",
+            "description": "Crunchy crisps with a spicy kick.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cretan Herb Crisps",
+            "description": "Crispy crisps infused with the essence of Cretan herbs.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Salt Crisps",
+            "description": "Crispy salted snack perfect for munching.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Truffle Crisps",
+            "description": "Thin slices of crispy potato infused with truffle flavour.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Yellow Paprika Crisps",
+            "description": "Crispy paprika flavoured crisps.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Soft Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Raspberry Elderflower Kombucha",
+            "description": "Fizzy fermented tea drink infused with raspberry and elderflower flavours.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Blood Orange Lemonade",
+            "description": "Citrusy blend of blood orange and lemonade.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca Cola",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coconut Water",
+            "description": "Natural, refreshing beverage from young coconuts.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Diet Coke",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ginger Beer",
+            "description": "Fizzy drink with a hint of ginger.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ginger Kick",
+            "description": "Ginger-infused drink with a zesty kick.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Citrus Yuzu Kombucha",
+            "description": "Fermented tea drink infused with citrus and yuzu flavours.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lemonade",
+            "description": "Refreshing citrus drink",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lime Lemonade",
+            "description": "Refreshing drink made with lime and lemon.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mango, Ginger &amp; Lime Kombucha",
+            "description": "Fermented tea drink infused with mango, ginger, and lime.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Orangeade",
+            "description": "Citrusy drink with a sweet and tangy taste.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Passionfruit Lemonade",
+            "description": "Fruity and tangy drink blending passionfruit and lemonade.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Raspberry Lemonade",
+            "description": "Refreshing drink made with raspberries and lemon.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Rhubarb &amp; Hibiscus Kombucha",
+            "description": "Fruity and floral fermented tea drink",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Rio Tropical",
+            "description": "Fruity and refreshing tropical drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sparkling Water",
+            "description": "Refreshing and bubbly water.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Still Water",
+            "description": "Pure and refreshing water.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sides",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Hashbrown Portion",
+            "description": "A portion of our homemade hashbrowns",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hashbrowns x3",
+            "description": "3 of our homemade hashbrowns",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.40",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

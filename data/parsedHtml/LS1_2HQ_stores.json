@@ -1,0 +1,737 @@
+{
+  "source": "UberEats",
+  "postalCode": "LS1_2HQ",
+  "timestamp": "2025-09-15T09:57:24.758Z",
+  "count": 88,
+  "data": [
+    {
+      "name": "Morrisons",
+      "rating": "4.1",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-merrion-centre/ndgFuH7IVnW5sA4SYIP-RQ"
+    },
+    {
+      "name": "Burger King",
+      "rating": "4.1",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burger-king-leeds-beeston/4-Us3HkDSrK5JQb2fAcROg"
+    },
+    {
+      "name": "Starbucks ®",
+      "rating": "4.5",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-bridgewater-place/nruW_AB7QWmGAQvjqeO5RA"
+    },
+    {
+      "name": "Popina's",
+      "rating": "4.4",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/popinas/yiEbn14pRVuGxscimvF7tw"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.4",
+      "reviewCount": "490+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/pret-a-manger-leeds-victoria-gate/POCpm0SOT4mH55wic4kzqg"
+    },
+    {
+      "name": "Gopuff Groceries",
+      "rating": "4.7",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/gopuff-groceries-leeds/OvnVLwtyWPS5zrz2eiupbQ"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.9",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-leeds-trinity/rQe_O0b5WW6eSKfiijdWag"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.3",
+      "reviewCount": "320+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-leeds-merrion-centre/miol89AbVv6gjFai8w9bGQ"
+    },
+    {
+      "name": "CHAAI",
+      "rating": "4.3",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/chaai/amlZW33DV1CJA8iXpwZlpw"
+    },
+    {
+      "name": "Khao Gaeng Thai",
+      "rating": "4.8",
+      "reviewCount": "350+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/khao-gaeng-thai/-_CWTZ2TQNCWbY00mzS1MA"
+    },
+    {
+      "name": "Costa Coffee",
+      "rating": "4.7",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/costa-coffee-leeds-merrion/X_5XYkNRQDWZBlfBp2DEYg"
+    },
+    {
+      "name": "Deli Chez",
+      "rating": "4.1",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/deli-chez/zVo7ILoWQ_KohIRZ1BoNDg"
+    },
+    {
+      "name": "One Stop Oatland Lane",
+      "rating": "4.7",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-oatland-lane/-AoDIHQQW1CPSoN5Uascyg"
+    },
+    {
+      "name": "Waitrose & Partners",
+      "rating": "4.5",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/waitrose-%26-partners-meanwood/EnGXdNp3XraX6aWaTm6uhQ"
+    },
+    {
+      "name": "Rollette Cafe",
+      "rating": "4.6",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/rollette-cafe/xTqtblWOQPGhcrwV2YHOiQ"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "3.6",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-leeds-trinity/f6SmMar5X7eddIbFcfDDZw"
+    },
+    {
+      "name": "Chai Walay",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chai-walay-cardigan-road/LWVBmICOWDCtOa-EZ9eorA"
+    },
+    {
+      "name": "Anand Sweets",
+      "rating": "4.3",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/anand-sweets/Rqwle_ukXXS4YeHWbftDsQ"
+    },
+    {
+      "name": "Wendy's",
+      "rating": "3.9",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wendys-leeds/xoW5K2HPWj2PaRt4ytdc1A"
+    },
+    {
+      "name": "Bagel Factory",
+      "rating": "4.5",
+      "reviewCount": "73",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bagel-factory-the-station/POLeykB1Q3i8NqQVqrHgmg"
+    },
+    {
+      "name": "The Fisherman's Wife",
+      "rating": "4.5",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-fishermans-wife/uyAVcgoPTKyLtQuVdNynbg"
+    },
+    {
+      "name": "Sunny & Fine's Breakfast Burritos",
+      "rating": "4.0",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/sunny-%26-fines-breakfast-burritos-ls6/O2vNbZ3VXBWorYS6jHrTJA"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.5",
+      "reviewCount": "91",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/caffe-nero-leeds-wellington/yExp60HbR0-iWQB7fFhQyQ"
+    },
+    {
+      "name": "Chicken Village",
+      "rating": "4.2",
+      "reviewCount": "240+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chicken-village/JlbXPN2mW1Wvmv3QlQ-yOA"
+    },
+    {
+      "name": "Signature Sweets",
+      "rating": "4.3",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/signature-sweets/CaFzge1DQJK5hIxMT1XGVw"
+    },
+    {
+      "name": "Slim Chickens",
+      "rating": "3.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/slim-chickens-leeds-trinity/75nDOcHLVLSCVeQ6UEZCKg"
+    },
+    {
+      "name": "Chaiiwala",
+      "rating": "4.2",
+      "reviewCount": "350+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chaiiwala-leeds/zq7bN3hMVqKfRKqZljNnGQ"
+    },
+    {
+      "name": "Mistreci",
+      "rating": "4.7",
+      "reviewCount": "420+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/mistreci/SZRbcsyAS7KhN23BHNVTEQ"
+    },
+    {
+      "name": "Morrisons Daily",
+      "rating": "4.3",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-daily-leeds-belle-vue-road/WAfHUJxLQ5yfhCY9TjNNVw"
+    },
+    {
+      "name": "Koreatown",
+      "rating": "4.5",
+      "reviewCount": "15",
+      "deliveryTime": "",
+      "offers": [
+        "10% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/koreatown-korean-fried-chicken-leeds-britannia-st/QrRUASqFUciv644tCo4FJQ"
+    },
+    {
+      "name": "German Doner Kebab",
+      "rating": "3.8",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "3 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/german-doner-kebab-white-rose-shopping-centre-leeds/S7j_UsTvUCy0DGKcio4U-Q"
+    },
+    {
+      "name": "Greasy Pig Eaterie",
+      "rating": "4.5",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greasy-pig-eaterie/GL4HHUgpTXO1uPc7qlbInQ"
+    },
+    {
+      "name": "Yaadgaar Sweet Centre",
+      "rating": "4.1",
+      "reviewCount": "420+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yaadgaar-sweet-centre/pcRhlvB0S9GDR6Ik002MsQ"
+    },
+    {
+      "name": "Poundbakery",
+      "rating": "3.8",
+      "reviewCount": "26",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/poundbakery-kirkgate-leeds/ajm4oB24U5mz5wV5r3wkOA"
+    },
+    {
+      "name": "Pret a Manger",
+      "rating": "4.5",
+      "reviewCount": "60",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pret-a-manger-wellington-place/HYu59gcDWGeeVRhwmIJkbQ"
+    },
+    {
+      "name": "Jacket Joy",
+      "rating": "4.8",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/jacket-joy/qM0mOvK2TnqwoDeYniPa6Q"
+    },
+    {
+      "name": "Bakery  164",
+      "rating": "4.8",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bakery-164/oOXQ5AI8QdSG6QYZRaKuhA"
+    },
+    {
+      "name": "Elite Cafe & Patisserie",
+      "rating": "4.5",
+      "reviewCount": "460+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/elite-cafe-%26-patisserie/yihNRjn6W_62Je0LOzUL4w"
+    },
+    {
+      "name": "Ben's Kitchen",
+      "rating": "4.3",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/bens-kitchen/gmIWX6KWTuCrUIM7Os5XYg"
+    },
+    {
+      "name": "Cooplands Bakery",
+      "rating": "4.2",
+      "reviewCount": "95",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cooplands-bakery-roundhay/nrEKyYlpWiiMGt17rosHBA"
+    },
+    {
+      "name": "Sound Bites",
+      "rating": "4.5",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sound-bites/DULqLzCWR4OmX4cQ8Uts1Q"
+    },
+    {
+      "name": "Sweet Saeeda",
+      "rating": "4.6",
+      "reviewCount": "96",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sweet-saeeda/jsRXfWxPTQWU9gOXbi4LzA"
+    },
+    {
+      "name": "Lebanese Bites",
+      "rating": "4.4",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/lebanese-bites/L_d9HYKeTAK_bu5uHbkJEw"
+    },
+    {
+      "name": "Kulture",
+      "rating": "4.8",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/kulture/985I_5tLXDyorWfXmbk0Gw"
+    },
+    {
+      "name": "Bloom Juice",
+      "rating": "4.2",
+      "reviewCount": "70",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/bloom-juice/XwWwY1z-VYqsEIr8WR_XjQ"
+    },
+    {
+      "name": "Posh Slice",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/posh-slice/Z8ynxlKsREiBI8Tz5KlBRw"
+    },
+    {
+      "name": "Hot Chick",
+      "rating": "4.5",
+      "reviewCount": "16",
+      "deliveryTime": "",
+      "offers": [
+        "10% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/hot-chick-award-winning-saucy-fried-chicken-leeds-britannia-st/V91O7NBaU4eH_l-DOkRyCA"
+    },
+    {
+      "name": "Aisha’s Cafe",
+      "rating": "4.1",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/aishas-cafe/-oe1EMuPRh6PHwON5SAUZg"
+    },
+    {
+      "name": "Chopstix",
+      "rating": "3.5",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/chopstix-leeds-white-rose/qnFZ0OqtUwaGcYfQEe3fxA"
+    },
+    {
+      "name": "Cafe 54",
+      "rating": "4.2",
+      "reviewCount": "64",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-54/57Adb4YWU3mRHX7d5UPNgQ"
+    },
+    {
+      "name": "Gilchrist Bakery",
+      "rating": "4.8",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/gilchrist-bakery-york-rd/cJbanr17RA2cnzcL6H8Aeg"
+    },
+    {
+      "name": "Bubbleology Leeds",
+      "rating": "4.4",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bubbleology-leeds/RVR15ufhTK650ojMTNNrvA"
+    },
+    {
+      "name": "Kashmir Supermarket",
+      "rating": "4.2",
+      "reviewCount": "240+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kashmir-supermarket/1POBuVTcXGa01JvVif5eyw"
+    },
+    {
+      "name": "Batchd",
+      "rating": "4.4",
+      "reviewCount": "21",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/batchd-leeds-train-station/d6qGZyVjX6Co2tzAcl21nA"
+    },
+    {
+      "name": "Rumbles House Cafe",
+      "rating": "4.1",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/rumbles-house-cafe/ATdQLuZTVA-7KPZFFv4MjQ"
+    },
+    {
+      "name": "Morrisons Cafe",
+      "rating": "3.3",
+      "reviewCount": "42",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-cafe-rothwell/znQLyD1uVfCIggwqr7zm7w"
+    },
+    {
+      "name": "Little Lotus",
+      "rating": "4.6",
+      "reviewCount": "19",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/little-lotus-merrion-way-leeds/h-X-f48-QFS1FXwecYw3IA"
+    },
+    {
+      "name": "Pitta Fan",
+      "rating": "4.7",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/pitta-fan/GG8T2PTvQOqWxlwBL3_63Q"
+    },
+    {
+      "name": "Silvers Deli",
+      "rating": "4.9",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/silvers-deli/xxZ-fZERVbysNJzeq5Y6Mg"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/papa-johns-pizza-leeds-centre/y8or-LM3WP-HbASI4BGa-g"
+    },
+    {
+      "name": "CAFE BY HISE",
+      "rating": "5.0",
+      "reviewCount": "53",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-by-hise/cbBF8-ahVWuQcg6f36V_lw"
+    },
+    {
+      "name": "Brunch by Frankie & Benny's",
+      "rating": "4.4",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brunch-by-frankie-%26-bennys-leeds-white-rose/DSBVEce4UxuIVJtbXyVl5w"
+    },
+    {
+      "name": "Hawkswood Village Bakery",
+      "rating": "4.5",
+      "reviewCount": "68",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/hawkswood-village-bakery/2FSyk8P5XiCwZs2ik9RBUQ"
+    },
+    {
+      "name": "The Barnbow",
+      "rating": "3.8",
+      "reviewCount": "490+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-barnbow-stonehouse-leeds-austhorpe-road/AaW964FgTM-_SgsClRFTzg"
+    },
+    {
+      "name": "Nosh",
+      "rating": "4.7",
+      "reviewCount": "90",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/nosh/4pPKVP68Tny7sptLv6ULDg"
+    },
+    {
+      "name": "Knoops",
+      "rating": "4.6",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/knoops-leeds-trinity/4mMa-1LyUaS1EQsylZmFDg"
+    },
+    {
+      "name": "Philpotts Bridgewater",
+      "rating": "3.0",
+      "reviewCount": "19",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/philpotts-bridgewater/3x12NUKeWeSYL1ndjIhAfA"
+    },
+    {
+      "name": "Mi Chaii",
+      "rating": "3.9",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mi-chaii-leeds-road/GR-bnn3_RpKOTmUlYQf7Kg"
+    },
+    {
+      "name": "Worldwide Foods",
+      "rating": "4.1",
+      "reviewCount": "65",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/worldwide-foods-leeds/h996HNccVFuYVFzVchIyGw"
+    },
+    {
+      "name": "Chichini",
+      "rating": "4.6",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chichini/n_Ezv3QKToe46NIBs8DPWg"
+    },
+    {
+      "name": "The Tree House",
+      "rating": "3.8",
+      "reviewCount": "490+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/the-tree-house-batley/YFdG6hAJV3mmhaeWiBxwZQ"
+    },
+    {
+      "name": "Tesco Cafe",
+      "rating": "3.2",
+      "reviewCount": "76",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tesco-cafe-leeds-seacroft/ZZF1bdAxWKeoP9ROKBycEA"
+    },
+    {
+      "name": "Morrisons Daily Leeds Hunslet",
+      "rating": "4.7",
+      "reviewCount": "5",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/morrisons-daily-leeds-hunslet/M6v2UL_cXwCqbc8iiJ3tPQ"
+    },
+    {
+      "name": "Hasina's Cafe and Breakfast",
+      "rating": "3.7",
+      "reviewCount": "61",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/hasinas-cafe-and-breakfast/D3ilSigcX_2vf5ikmJqYTQ"
+    },
+    {
+      "name": "The Village Shop",
+      "rating": "4.6",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-village-shop/EGwjVNJ2V1qNC8wYB6aihA"
+    },
+    {
+      "name": "Nigella's Cafe",
+      "rating": "3.8",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/nigellas-cafe/abYgU_l4W5OmsmzlhvHRvA"
+    },
+    {
+      "name": "Pickard's Tea Room",
+      "rating": "5.0",
+      "reviewCount": "49",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/pickards-tea-room/u4nHPi0_QJOOsRKU5TTVLQ"
+    },
+    {
+      "name": "Eataliano",
+      "rating": "4.6",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/eataliano/0bagicDQRM6MDFGq0aluJQ"
+    },
+    {
+      "name": "Juice",
+      "rating": "4.5",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/juice-white-rose/CwotE4jIRE6H8zn2LkfL7Q"
+    },
+    {
+      "name": "YO! sushi counter",
+      "rating": "5.0",
+      "reviewCount": "11",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yo!-sushi-counter-leeds-seacroft-tesco/62npyfAvWZmK_pjBkfHziw"
+    },
+    {
+      "name": "Latte Caffe & Deli",
+      "rating": "4.3",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/latte-caffe-%26-deli/QNxGEUDORB2NxC6a3_qcTA"
+    },
+    {
+      "name": "Fat Annie's",
+      "rating": "4.8",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/fat-annies/iWYGj1buT_mculeCh7nRlQ"
+    },
+    {
+      "name": "Watan Superstore",
+      "rating": "4.2",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/watan-superstore/UDZr8jPvUbaFoxa6cn3yVw"
+    },
+    {
+      "name": "Low Lane Cafe",
+      "rating": "4.7",
+      "reviewCount": "81",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/low-lane-cafe/bpPT6JoSX5e6Zw0rG-As2Q"
+    },
+    {
+      "name": "Greggs",
+      "rating": "4.1",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-leeds-boar-lane/0MMKUXTpUPqNGrKlTTa7MQ"
+    },
+    {
+      "name": "Jollibee",
+      "rating": "4.3",
+      "reviewCount": "10,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/jollibee-leeds/Rj8Fe6qcReqQ2IcIa3g7KA"
+    },
+    {
+      "name": "KFC Leeds",
+      "rating": "4.2",
+      "reviewCount": "8,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-leeds-merrion-centre/UtKz27r6QA6AH6DR18Negg"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "3.6",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/popeyes-leeds-commercial-street/ROl-5QxcXniLNEnthUgD1Q"
+    }
+  ]
+}

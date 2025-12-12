@@ -1,0 +1,1561 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/taco-bell-bristol/9v4uzdJPW8OUvepoSvf0RQ",
+  "name": "Taco Bell - Bristol",
+  "servesCuisine": [
+    "Mexican",
+    "American",
+    "Fast Food",
+    "Tacos"
+  ],
+  "priceRange": "₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/32bcfaca5a9f755aa6e13bf040d6d899/19ec62ba51fde35ba0aff5b84321c5af.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/32bcfaca5a9f755aa6e13bf040d6d899/c67d558c633281f9c71fc6a90ef470ae.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/32bcfaca5a9f755aa6e13bf040d6d899/8681e511c0910e0052cb155c50f01f89.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/32bcfaca5a9f755aa6e13bf040d6d899/6ea4f72e303000fbf403bbb36f971f85.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/32bcfaca5a9f755aa6e13bf040d6d899/4bee0baf259f2b3c95aacdebea87e950.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/32bcfaca5a9f755aa6e13bf040d6d899/5283d81c664b43c5f57a3a186d273063.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/taco-bell-bristol/9v4uzdJPW8OUvepoSvf0RQ?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "",
+    "postalCode": "BS8 1RE",
+    "addressCountry": "GB",
+    "streetAddress": "64 Queens Road"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.456943,
+    "longitude": -2.6073722
+  },
+  "telephone": "+441172262545",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 3.9,
+    "reviewCount": "6000"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "10:0",
+      "closes": "4:0"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "name": "New",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Loaded Fries Burrito",
+            "description": "Seasoned fries, seasoned beef, diced tomatoes, sour cream, creamy chipotle sauce, warm nacho cheese sauce, wrapped in a warm flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Loaded Fries Burrito Meal",
+            "description": "Seasoned fries, seasoned beef, diced tomatoes, sour cream, creamy chipotle sauce, warm nacho cheese sauce, wrapped in a warm flour tortilla. Includes regular seasoned fries and a regular soft drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Loaded Fries Burrito Deluxe Box",
+            "description": "Seasoned fries, seasoned beef, diced tomatoes, sour cream, creamy chipotle sauce, warm nacho cheese sauce, wrapped in a warm flour tortilla. Includes a crunchy taco supreme, regular nachos/fries, churros &amp; dip and a regular soft drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Loaded Fries Burrito Deluxe Meal for 2",
+            "description": "Includes 2x loaded fries burritos, 2x crunchy tacos, nachos or fries bell grande, 6x churros and 2x dips and a large bottle of drink. Perfect for a night in for two!",
+            "offers": {
+              "@type": "Offer",
+              "price": "27.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Deluxe Glazed Churros",
+            "description": "3x churros covered with cinnamon sugar, made with Milkybar® pieces and a condensed milk glaze",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.79",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Deluxe Glazed Churros Sharer",
+            "description": "6x churros covered with cinnamon sugar, made with Milkybar® pieces and a condensed milk glaze",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.79",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Groups &amp; Sharer Bundles",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Loaded Fries Burrito Deluxe Meal for 2",
+            "description": "Includes 2x loaded fries burritos, 2x crunchy tacos, nachos or fries bell grande, 6x churros and 2x dips and a large bottle of drink. Perfect for a night in for two!",
+            "offers": {
+              "@type": "Offer",
+              "price": "27.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Deluxe Glazed Churros Sharer",
+            "description": "6x churros covered with cinnamon sugar, made with Milkybar® pieces and a condensed milk glaze",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.79",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Nachos Sharer",
+            "description": "20x Chicken Nachos. Add XL Nacho Cheese Sauce for just £2.49.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cravings Meal for 2",
+            "description": "Two Specialities, two crunchy beef tacos, two regular seasoned fries with nacho cheese sauce and two portions of cinnamon twists.",
+            "offers": {
+              "@type": "Offer",
+              "price": "21.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cravings Meal for 3",
+            "description": "Your choice of three Specialities, three Crunchy Beef Tacos, three regular Seasoned Fries with Nacho Cheese Sauce and three portions of Cinnamon Twists.",
+            "offers": {
+              "@type": "Offer",
+              "price": "29.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Churros Sharer",
+            "description": "6 crunchy dough swirls covered with cinnamon sugar, served with 2 Caramel sauce dips.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cravings Meal For 4",
+            "description": "Your choice of four Specialties, four Crunchy Beef Tacos, two regular Seasoned Fries with Nacho Cheese Sauce, two regular Seasoned Nachos with Nacho Cheese Sauce, and two portions of Cinnamon Twists and two portions of Churros.",
+            "offers": {
+              "@type": "Offer",
+              "price": "36.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Meals",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Loaded Fries Burrito Meal",
+            "description": "Seasoned fries, seasoned beef, diced tomatoes, sour cream, creamy chipotle sauce, warm nacho cheese sauce, wrapped in a warm flour tortilla. Includes regular seasoned fries and a regular soft drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Loaded Fries Burrito Deluxe Box",
+            "description": "Seasoned fries, seasoned beef, diced tomatoes, sour cream, creamy chipotle sauce, warm nacho cheese sauce, wrapped in a warm flour tortilla. Includes a crunchy taco supreme, regular nachos/fries, churros &amp; dip and a regular soft drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Build Your Own Deluxe Box",
+            "description": "Choice of 1 x Burrito or Specialty, Crunchy Taco, Regular Fries or Nachos, Churros &amp; Dip, Can of drink.\n\nChoose from a Beefy Melt, Volcano Burrito, Crispy Chicken Burrito or Quesadilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Volcano Burrito Large Meal",
+            "description": "Seasoned beef, spicy lava sauce, crushed nacho chips, seasoned rice, cheddar cheese, and cool sour cream wrapped inside a grilled flour tortilla. Includes large seasoned fries and a 500ml drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Volcano Burrito Regular Meal",
+            "description": "Seasoned beef, spicy lava sauce, crushed nacho chips, seasoned rice, cheddar cheese, and cool sour cream wrapped inside a grilled flour tortilla. Includes regular seasoned fries and a regular drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "2 Taco Supreme Large Meal",
+            "description": "Two Taco Supremes in crunchy or soft shell. Seasoned beef, crisp lettuce, cool sour cream, diced tomatoes and cheddar cheese in a taco shell. Includes large seasoned fries and a 500ml drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "2 Taco Supreme Regular Meal",
+            "description": "Two Taco Supremes in crunchy or soft shell, with Nachos or Fries and drink",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Quesadilla Large Meal",
+            "description": "Grilled chicken, creamy jalapeño style sauce and three cheese blend melted inside a grilled flour tortilla. Includes large seasoned fries and a 500ml drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.69",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Quesadilla Regular Meal",
+            "description": "Grilled chicken, creamy jalapeño style sauce and three cheese blend melted inside a grilled flour tortilla. Includes regular seasoned fries and a regular drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.19",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Beefy Melt Burrito Large Meal",
+            "description": "Seasoned Rice, Seasoned Beef, Nacho Cheese Sauce, Crushed Nachos, Three Cheese Blend, Sour Cream wrapped in a tortilla. Includes Regular Fries or Nachos and a 500ml drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.39",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Beefy Melt Burrito Regular Meal",
+            "description": "Seasoned Rice, Seasoned Beef, Nacho Cheese Sauce, Crushed Nachos, Three Cheese Blend, Sour Cream wrapped in a tortilla. Served with Regular Fries or Nachos and a Regular Drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.89",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crispy Chicken Burrito Large Meal",
+            "description": "Soft flour tortilla, two crispy chicken strips, creamy jalapeño style sauce, crisp lettuce, diced tomatoes and cheddar cheese. Includes large seasoned fries and a 500ml drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crispy Chicken Burrito Regular Meal",
+            "description": "Soft flour tortilla, two crispy chicken strips, creamy jalapeño style sauce, crisp lettuce, diced tomatoes and cheddar cheese. Includes regular seasoned fries and a regular drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.79",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crunchwrap Supreme® Large Meal",
+            "description": "Seasoned beef, crisp lettuce, diced tomatoes, cool sour cream, a crunchy tostada and nacho cheese sauce inside a warm, grilled, folded flour tortilla, for maximum portability. Includes large seasoned fries and a 500ml drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.89",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crunchwrap Supreme® Meal",
+            "description": "Seasoned beef, crisp lettuce, diced tomatoes, cool sour cream, a crunchy tostada and nacho cheese sauce inside a warm, grilled, folded flour tortilla, for maximum portability. Includes regular seasoned fries and a regular drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.39",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cali Chicken Bowl Meal",
+            "description": "Grilled chicken, black beans, seasoned rice, lettuce, tomatoes, a choice of Cali Ranch sauce or Lava sauce.  Includes regular Seasoned Fries and a regular Soft Drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Naked Chicken Taco Large Meal",
+            "description": "Crispy chicken shell filled with crispy lettuce, diced tomatoes, 3 cheese blend and the choice of sauce. Includes large seasoned fries and a 500ml drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Naked Chicken Taco Regular Meal",
+            "description": "Naked Chicken Taco - crispy chicken shell filled with crispy lettuce, diced tomatoes, 3 cheese blend and the choice of sauce - wiith regular seasoned fries and a regular drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chalupa Supreme Large Meal",
+            "description": "Two flatbread shells filled with seasoned beef, crisp lettuce, diced tomatoes, cool sour cream and three cheese blend. Includes large seasoned fries and a 500ml drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.79",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chalupa Supreme Regular Meal",
+            "description": "Two flatbread shells filled with seasoned beef, crisp lettuce, diced tomatoes, cool sour cream and three cheese blend. Includes regular seasoned fries and a regular drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese Quesadilla Large Meal",
+            "description": "Creamy jalapeño style sauce and three cheese blend melted inside a grilled flour tortilla. Includes large seasoned fries and a 500ml drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese Quesadilla Regular Meal",
+            "description": "Cheese Quesadilla, Regular Fries and a Regular drink",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "7 Layer Burrito Large Meal",
+            "description": "Black beans, seasoned rice, cool sour cream, guacamole, crisp lettuce, diced tomatoes and three cheese blend wrapped in a grilled flour tortilla. Includes large seasoned fries and a 500ml drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "7 Layer Burrito Regular Meal",
+            "description": "Black beans, seasoned rice, cool sour cream, guacamole, crisp lettuce, diced tomatoes and three cheese blend wrapped in a grilled flour tortilla.  Includes regular seasoned fries and a regular drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.79",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "3 x Crispy Chicken Tender Large Meal",
+            "description": "Three Crispy Chicken Tenders, large seasoned fries and a 500ml drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "3x Crispy Chicken Tender Regular Meal",
+            "description": "Three Crispy Chicken Tenders Combo meal, includes regular seasoned fries and a regular drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "5 x Crispy Chicken Tender Large Meal",
+            "description": "Five Crispy Chicken Tenders, large seasoned fries and a 500ml drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "5x Crispy Chicken Tender Regular Meal",
+            "description": "Five Crispy Chicken Tenders Combo meal, includes regular seasoned fries and a regular drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Specialities",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Cali Chicken Bowl",
+            "description": "Grilled chicken, black beans, seasoned rice, lettuce, tomatoes, a choice of Cali Ranch sauce or Lava sauce",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Quesadilla",
+            "description": "Grilled chicken, creamy jalapeño style sauce and three cheese blend melted inside a grilled flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crunchwrap Supreme®",
+            "description": "Seasoned beef, crisp lettuce, diced tomatoes, cool sour cream, a crunchy tostada and nacho cheese sauce inside a warm, grilled, folded flour tortilla, for maximum portability.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.19",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheesy Gordita Crunch",
+            "description": "Pillowy flatbread covered in melted cheese and wrapped around a crunchy taco shell filled with seasoned beef, crisp lettuce, cheddar cheese and Cali ranch sauce​.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.79",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chalupa Supreme",
+            "description": "Chewy fried chalupa bread filled with seasoned beef, cool sour cream, crisp lettuce, three-cheese blend and diced tomatoes.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.59",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese Quesadilla",
+            "description": "Creamy jalapeño style sauce and three cheese blend melted inside a grilled flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mini Chicken Quesadilla",
+            "description": "Grilled chicken, creamy jalapeño style sauce and three blend melted cheese inside a small flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.89",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Crispy Chicken",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Crispy Chicken Burrito",
+            "description": "Two crispy chicken strips, creamy jalapeño style sauce, crisp lettuce, diced tomatoes and cheddar cheese wrapped inside a grilled flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crispy Chicken Burrito Large Meal",
+            "description": "Soft flour tortilla, two crispy chicken strips, creamy jalapeño style sauce, crisp lettuce, diced tomatoes and cheddar cheese. Includes large seasoned fries and a 500ml drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crispy Chicken Burrito Regular Meal",
+            "description": "Soft flour tortilla, two crispy chicken strips, creamy jalapeño style sauce, crisp lettuce, diced tomatoes and cheddar cheese. Includes regular seasoned fries and a regular drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.79",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crispy Chicken Soft Taco",
+            "description": "Crispy chicken, Cali Ranch sauce, crisp lettuce and cheddar cheese inside a grilled flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "3x Chicken Nachos and Nacho Cheese Sauce",
+            "description": "Try the NEW Chicken Nachos! \n\n3x Chicken Nachos and a Nacho Cheese Sauce",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.79",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "5x Chicken Nachos and Nacho Cheese Sauce",
+            "description": "Try the NEW Chicken Nachos! \n\n5x Chicken Nachos and a Nacho Cheese Sauce\nAvailable on their own or in a Deluxe Box!",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Nachos Sharer",
+            "description": "20x Chicken Nachos. Add XL Nacho Cheese Sauce for just £2.49.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "2x Crispy Chicken Tenders",
+            "description": "Two Crispy Chicken Tenders",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "3x Crispy Chicken Tenders and Dip",
+            "description": "Three Crispy Chicken Tenders with a choice of dip.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Crispy Chicken Sharer",
+            "description": "Includes 3x Chicken Tenders and 4x Chicken Nachos",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "5x Crispy Chicken Tenders and Dip",
+            "description": "Five Crispy Chicken Tenders with a choice of dip.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Crispy Chicken Sharer",
+            "description": "Includes 6x Chicken Tenders and 12x Chicken Nachos",
+            "offers": {
+              "@type": "Offer",
+              "price": "14.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "3x Crispy Chicken Tender Regular Meal",
+            "description": "Three Crispy Chicken Tenders Combo meal, includes regular seasoned fries and a regular drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "5x Crispy Chicken Tender Regular Meal",
+            "description": "Five Crispy Chicken Tenders Combo meal, includes regular seasoned fries and a regular drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Naked Chicken Taco",
+            "description": "A crispy chicken shell filled with crispy lettuce, diced tomatoes, 3 cheese blend and the choice of Cali Ranch Sauce (Mild) or Lava Sauce (Wild)",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Naked Chicken Taco Large Meal",
+            "description": "Crispy chicken shell filled with crispy lettuce, diced tomatoes, 3 cheese blend and the choice of sauce. Includes large seasoned fries and a 500ml drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Naked Chicken Taco Regular Meal",
+            "description": "Naked Chicken Taco - crispy chicken shell filled with crispy lettuce, diced tomatoes, 3 cheese blend and the choice of sauce - wiith regular seasoned fries and a regular drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Tacos",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Crunchy Taco Supreme",
+            "description": "Seasoned beef, crisp lettuce, cool sour cream, diced tomatoes and cheddar cheese in a crunchy corn taco shell.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Soft Taco Supreme",
+            "description": "Seasoned beef, crisp lettuce, cool sour cream, diced tomatoes and cheddar cheese in a soft flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crunchy Taco",
+            "description": "Seasoned beef, crisp lettuce and cheddar cheese inside a crunchy corn taco shell.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Soft Taco",
+            "description": "Grilled chicken, crisp lettuce and cheddar cheese inside a soft flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crispy Chicken Soft Taco",
+            "description": "Crispy chicken, Cali Ranch sauce, crisp lettuce and cheddar cheese inside a grilled flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Naked Chicken Taco",
+            "description": "A crispy chicken shell filled with crispy lettuce, diced tomatoes, 3 cheese blend and the choice of Cali Ranch Sauce (Mild) or Lava Sauce (Wild)",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Burritos",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Loaded Fries Burrito",
+            "description": "Seasoned fries, seasoned beef, diced tomatoes, sour cream, creamy chipotle sauce, warm nacho cheese sauce, wrapped in a warm flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crispy Chicken Burrito",
+            "description": "Two crispy chicken strips, creamy jalapeño style sauce, crisp lettuce, diced tomatoes and cheddar cheese wrapped inside a grilled flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Beefy Melt Burrito",
+            "description": "Seasoned Rice, Seasoned Beef, Nacho Cheese Sauce, Crushed Nachos, Three Cheese Blend, Sour Cream wrapped in a tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.39",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Volcano Burrito",
+            "description": "Seasoned beef, spicy lava sauce, crushed nacho chips, seasoned rice, cheddar cheese, and cool sour cream wrapped inside a grilled flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "7 Layer Burrito",
+            "description": "Black beans, seasoned rice, cool sour cream, guacamole, crisp lettuce, diced tomatoes and three cheese blend wrapped in a grilled flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Double Cheesy Black Bean Cravings Burrito",
+            "description": "Black beans, seasoned rice, nacho cheese sauce, and cheddar cheese all wrapped inside a grilled flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Beefy Nacho Cravings Burrito",
+            "description": "Seasoned beef, warm nacho cheese sauce, crushed nacho chips wrapped inside a grilled flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Spicy Chicken Cravings Burrito",
+            "description": "Grilled chicken, jalapeños, cool sour cream wrapped inside a soft flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheesy Roll-up",
+            "description": "A flour tortilla rolled up with a melted three cheese blend.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Fries",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Seasoned Fries",
+            "description": "Seasoned Fries",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.19",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Seasoned Fries",
+            "description": "Large Seasoned Fries",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Seasoned Fries with Nacho Cheese Sauce",
+            "description": "Regular portion of Seasoned Fries with Nacho Cheese Sauce",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Seasoned Fries with Nacho Cheese Sauce",
+            "description": "Large portion of Seasoned Fries with Nacho Cheese Sauce",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.69",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "XL Fries",
+            "description": "An XL portion of Seasoned Fries. 2x size of our Regular Fries",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheesy Topped Large Fries",
+            "description": "A large portion of seasoned fries topped with extra warm nacho cheese sauce and cool sour cream.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fries Supreme",
+            "description": "A regular portion of seasoned fries topped with warm nacho cheese sauce, seasoned beef, diced tomatoes and cool sour cream.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fries BellGrande®",
+            "description": "A large portion of seasoned fries topped with extra warm nacho cheese sauce, seasoned beef, diced tomatoes and cool sour cream.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.79",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sides and Sauces",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Mini Chicken Quesadilla",
+            "description": "Grilled chicken, creamy jalapeño style sauce and three blend melted cheese inside a small flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.89",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheesy Roll-up",
+            "description": "A flour tortilla rolled up with a melted three cheese blend.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Nacho Cheese Sauce",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "XL Nacho Cheese Sauce",
+            "description": "An XL portion of our fan fave Nacho Cheese sauce - THREE times bigger. Because why not?",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Nachos",
+            "description": "Nacho Chips",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.19",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Nachos with Nacho Cheese Sauce",
+            "description": "Regular portion of Seasoned Nachos with Nacho Cheese Sauce",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Nachos with Nacho Cheese Sauce",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.79",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheesy Topped Large Nachos",
+            "description": "A large portion of seasoned nachos topped with extra warm nacho cheese sauce and cool sour cream.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Nachos BellGrande®",
+            "description": "A large portion of seasoned nachos topped with extra warm nacho cheese sauce, black beans, seasoned beef, diced tomatoes and cool sour cream.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.79",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Guacamole",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Jalapeños",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Seasoned Rice",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sour Cream",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Black Beans",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Creamy Jalapeno Dip",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.59",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cali Ranch Dip",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.59",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lava Dip",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.59",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Red Bull Energy Drink",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Red Bull Zero",
+            "description": "Enjoy your wiiings without sugar!",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Red Bull Lilac",
+            "description": "Red Bull Energy Drink with the taste of Grapefruit &amp; Blossom",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pepsi Max 330ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pepsi 330ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Diet Pepsi 330ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tango Orange 330ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "7UP Free 330ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pepsi Max 500ML",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.59",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Diet Pepsi 500ML",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.59",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tango Orange 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.59",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "7UP Free 500ML",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.59",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mountain Dew - Sugar Free 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.59",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bottled Water",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pepsi Max 1.5L",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pepsi 1.5L",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Diet Pepsi 1.5L",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tango Orange 1.5L",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "7UP 1.5L",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Desserts",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Deluxe Glazed Churros",
+            "description": "3x churros covered with cinnamon sugar, made with Milkybar® pieces and a condensed milk glaze",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.79",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Deluxe Glazed Churros Sharer",
+            "description": "6x churros covered with cinnamon sugar, made with Milkybar® pieces and a condensed milk glaze",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.79",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cinnamon Twists",
+            "description": "A crunchy sweet treat dusted with cinnamon sugar.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "2 x Churros",
+            "description": "2 crunchy dough swirls covered with cinnamon sugar.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.79",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "2x Churros + Caramel Dip",
+            "description": "2 crunchy dough swirls covered with cinnamon sugar, and a dip of caramel sauce",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.79",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Churros Sharer",
+            "description": "6 crunchy dough swirls covered with cinnamon sugar, served with 2 Caramel sauce dips.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Grande Cinnamon Twists (Serves 5)",
+            "description": "Crunchy sweet treats dusted with cinnamon sugar.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.59",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Sauce",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Vegetarian",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Veggie Deluxe Box",
+            "description": "Our Veggie Deluxe Box includes 7 Layer Burrito​, Cheesy Black Bean Cravings Burrito​, Churros and Dip​, Regular Drink​, Regular Fries or Nachos​.\n\n**Please note that in some restaurants we use the same frying oil to prepare menu items that may or may not contain meat. All vegetarian ingredients are handled by our employees in common with meat ingredients, which may not be acceptable to certain types of vegetarian diets. We cannot guarantee that cross contact with meat products will not occur.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese Quesadilla Regular Meal",
+            "description": "Cheese Quesadilla, Regular Fries and a Regular drink",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "7 Layer Burrito Regular Meal",
+            "description": "Black beans, seasoned rice, cool sour cream, guacamole, crisp lettuce, diced tomatoes and three cheese blend wrapped in a grilled flour tortilla.  Includes regular seasoned fries and a regular drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.79",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "7 Layer Burrito",
+            "description": "Black beans, seasoned rice, cool sour cream, guacamole, crisp lettuce, diced tomatoes and three cheese blend wrapped in a grilled flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese Quesadilla",
+            "description": "Creamy jalapeño style sauce and three cheese blend melted inside a grilled flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Double Cheesy Black Bean Cravings Burrito",
+            "description": "Black beans, seasoned rice, nacho cheese sauce, and cheddar cheese all wrapped inside a grilled flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheesy Roll-up",
+            "description": "A flour tortilla rolled up with a melted three cheese blend.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cravings Value Burritos",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Beefy Nacho Cravings Burrito",
+            "description": "Seasoned beef, warm nacho cheese sauce, crushed nacho chips wrapped inside a grilled flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Spicy Chicken Cravings Burrito",
+            "description": "Grilled chicken, jalapeños, cool sour cream wrapped inside a soft flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Double Cheesy Black Bean Cravings Burrito",
+            "description": "Black beans, seasoned rice, nacho cheese sauce, and cheddar cheese all wrapped inside a grilled flour tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

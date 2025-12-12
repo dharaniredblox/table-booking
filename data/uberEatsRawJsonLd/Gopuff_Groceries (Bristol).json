@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/gopuff-groceries-bristol/jCh1A62HWqqpFVN69DxnIg",
+  "name": "Gopuff Groceries (Bristol)",
+  "servesCuisine": [
+    "Everyday Essentials",
+    "Snacks",
+    "Store",
+    "with",
+    "Convenience",
+    "Alcohol",
+    "Beauty Supply",
+    "Retail",
+    "Pet Supplies",
+    "Specialty",
+    "Electronics"
+  ],
+  "priceRange": "₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/cb3a5d69a72de101ea8d62f113db1f0c/fa23f51b9c499b035a68831c96e1821e.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/cb3a5d69a72de101ea8d62f113db1f0c/7835428b286acb57646a256c897c0e9e.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/cb3a5d69a72de101ea8d62f113db1f0c/0c09274e3b12c8246a05970e1ef9d835.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/cb3a5d69a72de101ea8d62f113db1f0c/d9be3fc772fc6c0fd6b3471e291aa823.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/cb3a5d69a72de101ea8d62f113db1f0c/cc592037c936600295e9961933037e19.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/cb3a5d69a72de101ea8d62f113db1f0c/30be7d11a3ed6f6183354d1933fbb6c7.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/gopuff-groceries-bristol/jCh1A62HWqqpFVN69DxnIg?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "EMEA",
+    "postalCode": "BS2 0RL",
+    "addressCountry": "GB",
+    "streetAddress": "Unit 3 Barton Manor"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.45404136188362,
+    "longitude": -2.5768208434584086
+  },
+  "telephone": "+441172338616",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.6,
+    "reviewCount": "3000"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "0:0",
+      "closes": "23:59"
+    }
+  ],
+  "hasMenu": null
+}

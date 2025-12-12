@@ -1,0 +1,1600 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/crispy-dosa-bristol/hUqJrV2KVBq2v6IPQ1lveg",
+  "name": "Crispy Dosa (Bristol)",
+  "servesCuisine": [
+    "Pure Veg",
+    "Noodles",
+    "Coffee and Tea",
+    "Desserts",
+    "North Indian",
+    "Asian",
+    "Snacks",
+    "Juice and Smoothies",
+    "Desserts",
+    "South Indian",
+    "Vegetarian",
+    "Vegan",
+    "Vegan Friendly",
+    "Vegetarian Friendly",
+    "Indian",
+    "Indian Curry",
+    "Soup"
+  ],
+  "priceRange": "₹₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/58321ac3e1b3adc7da83a3295cbd2d2a/e39556ef1e4c4565bc6c7dbd8b90869c.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/58321ac3e1b3adc7da83a3295cbd2d2a/7915c4a78a9f94ed56316c7c4dc0ec89.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/58321ac3e1b3adc7da83a3295cbd2d2a/67b1ce06a25a64dc4a71581bb39c36c6.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/58321ac3e1b3adc7da83a3295cbd2d2a/f3376a06b92224efbe50167fb7cb61e4.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/58321ac3e1b3adc7da83a3295cbd2d2a/50446f64f31cbefe66558fc47f50a9d6.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/58321ac3e1b3adc7da83a3295cbd2d2a/c9252e6c6cd289c588c3381bc77b1dfc.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/crispy-dosa-bristol/hUqJrV2KVBq2v6IPQ1lveg?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet",
+      "http://purl.org/goodrelations/v1#DeliveryModePickUp"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "EMEA",
+    "postalCode": "BS1 2DD",
+    "addressCountry": "GB",
+    "streetAddress": "9 Union St"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.4559347,
+    "longitude": -2.590922
+  },
+  "telephone": "+447407170025",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.3,
+    "reviewCount": "600"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "11:30",
+      "closes": "22:0"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "10:0",
+      "closes": "22:0"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "11:30",
+      "closes": "22:0"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "name": "Soup Bowls",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chennai Special Rasam Soup Bowl",
+            "description": "Tamarind and tomato based thin clear soup.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lentil Soup (Sambar) Bowl",
+            "description": "Lentil, onion, tomato and vegetable based aromatic soup.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sweet Corn Soup Bowl",
+            "description": "Sweet corn kernels and corn flour based thick soup.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Snacks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Snack Platter Combo",
+            "description": "2 pieces veg samosa, 2 pieces Punjabi samosa and 2 pieces masala vada. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mix-Bhajiya Platter",
+            "description": "2 onion, 2 potato, 2 large chillies and batter fried veggies. Served with chutney. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Masala Vada (3 Pieces)",
+            "description": "Spiced crunchy fritters made with chana dal. Served with chutney.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Masala Papad (2 Pieces)",
+            "description": "Papad is topped with a spicy and tangy mixture of onions, tomatoes, green chillies, cilantro, salt, chaat masala powder, red chilli powder and lime juice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Kids Starters",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Bowl of Chips (French Fries)",
+            "description": "Crisp and golden French fries served hot.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Kids Main",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Dosa",
+            "description": "Hazelnut based Nutella evenly spread on dosa. Contains gluten, nuts and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese and Sweet Corn Dosa",
+            "description": "Sweet corn spread on dosa and sprinkled with cheese. Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cone Shaped Ghee Dosa",
+            "description": "Dosa cooked with ghee and rolled in the shape of cone. Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mild Pizza Uthappam (4 Nos)",
+            "description": "Thick rice and lentil mini pancake topped with onion, tomato, mixed bell pepper, sweet corn and cheese. Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mini Idly (14 Nos)",
+            "description": "Steamed mini rice cakes. Served with sambar and chutney garnished with ghee and chopped cilantro. Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mild Veg Noodles",
+            "description": "Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Chef Recommended Starters",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Paneer Manchurian",
+            "description": "Fried crispy paneer cubes coated with spicy tangy sauce. Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Veg Manchurian",
+            "description": "Batter fried mix vegetable balls tossed with oriental style sauce. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mushroom Manchurian",
+            "description": "Batter fried mushroom tossed with oriental style sauce. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Baby Corn Manchurian",
+            "description": "Batter coated baby corn stir fried in a spicy sweet and umami Indo Chinese sauce. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chilli Mushroom",
+            "description": "Fried mushroom tossed with onions, green chillies, green chilli paste and scallions.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tandoori Paneer Tikka (6 Pieces)",
+            "description": "Pieces of Indian cottage cheese marinated in traditional spices overnight it is then grilled in a tandoori oven. Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Starters",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chilli Paneer",
+            "description": "Cottage cheese cubes tossed with oriental style sauce and garnished with scallions. Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Paneer 65",
+            "description": "Cottage cheese cube batter fried and tossed with dry spiced like pakora. Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Guntur Paneer",
+            "description": "Cottage cheese cubes tossed with spiciest oriental style sauce. Garnished with chillies and scallions. Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gobi Manchurian",
+            "description": "Batter fried cauliflower florets tossed with oriental style sauce. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gobi 65",
+            "description": "Batter fried cauliflower florets tossed with dry spices like pakora. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chilli Idly",
+            "description": "Steamed rice cakes fingers tossed with oriental sauce.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Any Timers",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Idly (3 Nos)",
+            "description": "All time favourite steamed rice cakes. Served with sambar and chutney.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mini Idly (14 Nos)",
+            "description": "Steamed mini rice cakes. Served with sambar and chutney garnished with ghee and chopped cilantro. Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Medu Vada (2 Nos)",
+            "description": "Doughnut shaped deep fried crispy batter of urad dal.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Idly Dipped in Sambar",
+            "description": "Sambar idly 2 nos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vada Dipped in Sambar",
+            "description": "Sambar vada 2 nos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vada Dipped in Rasam",
+            "description": "Rasam vada 2 nos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Parotta Kurma (2 Nos)",
+            "description": "Chennai style layered refined flour bread cooked in griddle. Served with mix vegetable gravy. Contains dairy, nuts and gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Choley Bhatura (2 Nos)",
+            "description": "Deep fried Indian bread. Served with spiced chickpea gravy. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Poori Kurma (2 Nos)",
+            "description": "Fried fluffy whole wheat bread. Served with mix vegetable gravy. Contains gluten and nuts.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Poori Masala (2 Nos)",
+            "description": "Fried fluffy whole wheat bread. Served with potato masala. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ghee Podi Idly",
+            "description": "Rice cake cut into small pieces and tossed with ghee and spicy lentil powder. Contains sesame and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mini Idly Dipped in sambar",
+            "description": "14 pieces of Mini idly dipped in sambar",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Dosas Corner",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Masala Dosa",
+            "description": "Potato mixture stuffed on dosa. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ghee Paper Roast Dosa",
+            "description": "Most crispiest dosa on earth cooked with ghee. Contains dairy and gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Plain Dosa",
+            "description": "Crispy crepe made with rice and urad dal batter. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese Dosa",
+            "description": "Grated cheese sprinkled dosa. Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Paper Roast Dosa",
+            "description": "Most crispiest dosa on earth. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ghee Podi Dosa",
+            "description": "Ghee spread on rice crepe and sprinkled with spicy lentil powder. Contains gluten, dairy and sesame.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ghee Podi Masala Dosa",
+            "description": "Ghee spread on rice crepe, sprinkled with spicy lentil powder and stuffed with potato masala. Contains dairy, sesame and gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Plain Rava Dosa",
+            "description": "A special dosa made out of semolina, refined flour, rice flour and spices. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Rava Masala Dosa",
+            "description": "Rava dosa stuffed with potato masala. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Onion Rava Dosa",
+            "description": "Chopped onion sprinkled on rava dosa. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Onion Rava Masala Dosa",
+            "description": "Chopped onion sprinkled on rava dosa and stuffed with potato masala. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Onion Dosa",
+            "description": "Crispy crepe made with rice and urad dal batter and onion topped Up on the top. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Podi Dosa",
+            "description": "Crispy crepe made with rice and urad dal batter gun powder (idly podi ) sprinkled in top of the dosa. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese podi Dosa",
+            "description": "Crispy crepe made with rice and urad dal batter gun powder ( idly podi ) and cheese sprinkled on top of the dosa . Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Special Dosas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Nilgiri Masala Dosa",
+            "description": "Special mint coriander and green chilli chutney evenly applied on dosa and stuffed with mashed potato masala. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chettinad Masala Dosa",
+            "description": "Assorted vegetables cooked with chettinad bright flavour spices evenly spread on masala dosa. Contains nuts, dairy and gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "14.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese Masala Dosa",
+            "description": "Grated cheese evenly spread and stuffed with spiced potato masala. Contains nuts, dairy and gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mysore Masala Dosa",
+            "description": "Spicy chilli garlic red chutney evenly spread and stuffed with mashed potato masala. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Paneer Masala Dosa",
+            "description": "Cottage cheese fried with onion tomato and spices stuffed evenly on dosa. Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Chef Recommended Dosas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Gobi Manchurian Dosa",
+            "description": "Stuffed with batter fried cauliflower florets tossed with oriental sauce and cut into rectangle shape pieces. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "14.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Paneer Manchurian Dosa",
+            "description": "Stuffed with cottage cheese cubes tossed with oriental style sauce and cut into rectangle pieces. Sprinkled with coriander. Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "14.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Veg Manchurian Dosa",
+            "description": "Stuffed with batter fried mix vegetable balls tossed with oriental style sauce and cut into rectangle pieces. Sprinkled with coriander. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "14.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mushroom Manchurian Dosa",
+            "description": "Stuffed with batter fried mushroom tossed with oriental style sauce and cut into rectangle shape. Sprinkled with coriander. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "14.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Schezwan Noodles Dosa",
+            "description": "Dosa stuffed with schezwan noodles. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "14.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Popeye Palak Dosa",
+            "description": "Spinach curry finely spread on the dosa. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Uttapams",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Plain Uttapam",
+            "description": "Thick rice and lentil pancake. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kal Dosa with Kurma Uttapam",
+            "description": "Thick rice and lentil pancake. Served with mix veg curry or chana masala. Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kal Dosa with Chana Uttapam",
+            "description": "Thick rice and lentil pancake. Served with mix veg curry or chana masala. Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Onion Chilli Uttapam",
+            "description": "Thick rice and lentil pancake topped with onion and chilli. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mix Veg Uttapam",
+            "description": "Thick rice and lentil pancake topped with onion, chilli, tomato and mixed bell peppers. Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Uttapam",
+            "description": "Thick rice and lentil pancake topped with onion, tomato, mixed bell pepper, sweet corn and cheese. Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Panchavarna Uttapam (5 Minis)",
+            "description": "Mini onion chilli uthappam, mix veg uttapam, pizza uthappam, ghee podi uthappam and nilgiri uthappam. Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "14.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Lunch Specials",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Bombay Thali",
+            "description": "Chana masala, dal, paneer butter masala, paneer 65 5 pieces, rice, bread, sweet and salad. Contains nuts, dairy and gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "14.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Madras Thali",
+            "description": "Sweet, chapathi kurma, steamed rice, sambar, rasam, poriyal, kuzhambu, curd, appalam and pickle. Contains nuts, dairy and gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "14.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Veg Biryani",
+            "description": "Aromatic basmati rice cooked with seasonal vegetables and spices. Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sambar Rice with Papad",
+            "description": "Rice cooked with lentil broth and mix vegetables. Served with papad. Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Curd Rice",
+            "description": "Mashed rice mixed with cream tempered yogurt and milk. Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Quick Lunch Combo",
+            "description": "Rice dish, mini masala dosa, bread and curry. Contains gluten and nuts.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Jeera Rice",
+            "description": "Fragrant seasoned rice tempered with cumin seeds and ghee. Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Tandoori Breads",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Roti",
+            "description": "Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Naan Bread",
+            "description": "Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Butter Naan Bread",
+            "description": "Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chilli Garlic Naan",
+            "description": "Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bullet Naan",
+            "description": "Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Butter Roti",
+            "description": "Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Garlic Naan",
+            "description": "Contains gluten and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Breads",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chapati",
+            "description": "Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Poori",
+            "description": "Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Parota",
+            "description": "Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bhature",
+            "description": "Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Curries",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Paneer Tikka Masala",
+            "description": "Marinated cubes of cottage cheese tandoori cooked and soaked in spiced gravy. Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Paneer Butter Masala",
+            "description": "Cubes of cottage cheese cooked in rich cream and aromatic gravy. Contains nuts and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Palak Paneer",
+            "description": "Cubes of cottage cheese cooked in pure spicy spinach curry. Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mix Veg Kurma",
+            "description": "Assorted veg curry with cashew, tomato and coconut base. Contains dairy and nuts.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chana Masala",
+            "description": "Chick peas cooked in onion, tomato base and tempered with spices.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dal Tadka",
+            "description": "Boiled lentil tempered with Indian spices.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Paneer Bhurji",
+            "description": "Scrambled Indian cottage cheese with onion, tomato and spices. Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Paneer Jalfrezi",
+            "description": "Cottage cheese along with the vegetables are well coated with the thick and spicy gravy. Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kadai Paneer Punjabi",
+            "description": "Cottage cheese made with kadai masala, bell peppers, tomatoes and kasuri methi. Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Aloo Gobi",
+            "description": "A dry Indian dish made with potatoes, cauliflower and spices.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Veg Kolhapuri",
+            "description": "Spicy mixed vegetable curry.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Wok Specials",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Veg Noodles",
+            "description": "Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hakka Noodles",
+            "description": "Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Szechuan Noodles",
+            "description": "Contains gluten.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Veg Fried Rice",
+            "description": "Mixed vegetables cooked with rice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Szechwan Fried Rice",
+            "description": "Spicy Szechwan-style rice dish with a blend of flavours.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Extras",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Plain Rice",
+            "description": "Steaming hot, fluffy rice served on its own.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Yogurt",
+            "description": "Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Raitha",
+            "description": "Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Green Salad",
+            "description": "Fresh mixed greens.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Ice Cream and Kulfis",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Malai Kulfi",
+            "description": "Contains nuts and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Matka Kulfi",
+            "description": "Contains nuts and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Desserts",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Gulab Jamun (2 Pieces)",
+            "description": "Contains gluten, nuts and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gajar Halwa",
+            "description": "Contains nuts and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Badam Halwa",
+            "description": "Contains nuts and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sweet Pan",
+            "description": "Contains nuts.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Chats Corner",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Bhel Poori",
+            "description": "Crunchy puffed rice snack flavoured with spices and chutneys.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pani Poori",
+            "description": "Crunchy, flavorful street food snack filled with spices and chutneys.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dahi Poori",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Aloo Papdi Chaat",
+            "description": "Crisp fried flour bread served with spicy potatoes and tangy chutney.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Samosa Chaat",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Aloo Tikki with Chana Masala",
+            "description": "Crispy potato patties served with a rich, spicy chickpea curry.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pav Bhaji",
+            "description": "Spicy street food favourite made with mixed vegetables and served with soft bread.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Hot Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Madras Filter Coffee",
+            "description": "Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Masala Tea",
+            "description": "Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hot Chocolate",
+            "description": "Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Fresh Fruit Juices",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Badam Milk",
+            "description": "Almond-flavoured milk drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Falooda",
+            "description": "Cold dessert drink made with vermicelli noodles, milk, and sugar.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Water Melon Juice",
+            "description": "Refreshing and hydrating juice made from watermelon.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Grape Juice",
+            "description": "Freshly squeezed juice made from grapes.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lime Juice",
+            "description": "Freshly squeezed juice made from limes.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Water",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Still Water",
+            "description": "300 ml Glass Bottle",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sparkling Water",
+            "description": "300 ml glass bottle",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Lassi and Milkshakes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Sweet Lassi",
+            "description": "Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Salt Lassi",
+            "description": "Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mango Lassi",
+            "description": "Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Buttermilk",
+            "description": "Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Rose Milk",
+            "description": "Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Milkshakes",
+            "description": "Chocolate, vanilla or strawberry. Contains dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Special Milkshakes",
+            "description": "Oreo or Ferrero Rocher. Contains nuts and dairy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

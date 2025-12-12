@@ -1,0 +1,734 @@
+{
+  "source": "UberEats",
+  "postalCode": "S1_2HH",
+  "timestamp": "2025-09-15T09:57:30.145Z",
+  "count": 90,
+  "data": [
+    {
+      "name": "Waitrose & Partners",
+      "rating": "4.7",
+      "reviewCount": "6,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/waitrose-%26-partners-sheffield/2t2vP7axWp-ClPZ-rmHfpA"
+    },
+    {
+      "name": "Grand Kerala",
+      "rating": "4.0",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/grand-kerala-sheffield/RXzm5qEpTsG698sE1Uu5hg"
+    },
+    {
+      "name": "Morrisons",
+      "rating": "4.6",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-sheffield-broomhill/xGnPMjqtUwaoIdZ4FT3Thw"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "4.7",
+      "reviewCount": "15",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/popeyes-sheffield-the-moor/n3zpgm1wXtamUoLbeRD8mg"
+    },
+    {
+      "name": "Greggs",
+      "rating": "3.6",
+      "reviewCount": "69",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-sheffield-95-pinstone-st/MzoRiQvDVNSejmcvcoiQZQ"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.6",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-broad-lane-sheffield/eeWmFNi7XL25m2n1Bd5WwQ"
+    },
+    {
+      "name": "ASDA",
+      "rating": "4.5",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/asda-walkley/vjivJerKW-GAgfNYcYSX1Q"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.7",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-sheffield-parkway/qvwtwzSEXeGJHtm0-THPLw"
+    },
+    {
+      "name": "Diyafa",
+      "rating": "4.5",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/diyafa/u7G3iwyDQ4i99UfBObBgRg"
+    },
+    {
+      "name": "Burger King",
+      "rating": "4.2",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burger-king-sheffield-parkway/-GHg32FSTHWFBTom5zIsIw"
+    },
+    {
+      "name": "KFC Sheffield",
+      "rating": "4.3",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-sheffield-haymarket/Te3BiaT5RymsqifwBy4iYQ"
+    },
+    {
+      "name": "Wendy's Sheffield",
+      "rating": "4.2",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wendys-sheffield/h_SdudqXX5uQb8nAi3NjVA"
+    },
+    {
+      "name": "Brunchaway",
+      "rating": "4.4",
+      "reviewCount": "390+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/brunchaway/8txhHpqFT3-1nLiuOzipXQ"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.6",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-sheffield-high-st/wOovPG4TUbiCkwXe_Tgvhg"
+    },
+    {
+      "name": "Chaiiwala",
+      "rating": "3.9",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chaiiwala-sheffield/zeqHrt9sUkOhazShSB3_Vg"
+    },
+    {
+      "name": "Béres",
+      "rating": "4.7",
+      "reviewCount": "320+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/beres-pinstone-street/FQxHtMUTVdCpKwz9FY3_MA"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.3",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/caffe-nero-sheffield-division-st/Jtn-DikiQE6WqN-TKyDlXA"
+    },
+    {
+      "name": "Gopuff Groceries",
+      "rating": "4.6",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/gopuff-groceries-sheffield/XpTiH1QLW4q3796o0jhC7Q"
+    },
+    {
+      "name": "Breakfast Club",
+      "rating": "3.8",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/breakfast-club/Dq0Jk4F3WcmPPDjX6JhbkA"
+    },
+    {
+      "name": "Tracy’s Kitchen",
+      "rating": "4.3",
+      "reviewCount": "360+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/tracys-kitchen/FLYUS9Q8UiiBq0aFyIhZCw"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/papa-johns-pizza-ecclesall-road/Q7gw4rxzVc6PggCfw5gQsw"
+    },
+    {
+      "name": "Tim Hortons",
+      "rating": "4.1",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tim-hortons-sheffield/IlXBhxYTTV-TJKkFgE0kXQ"
+    },
+    {
+      "name": "Brunch N Lunch",
+      "rating": "4.7",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brunch-n-lunch/4WrsQ43zTeqOp9_2ZGl3ZA"
+    },
+    {
+      "name": "Starbucks ®",
+      "rating": "4.3",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-tudor-square/8Q1NqACNSIeFLaQaLUSFjQ"
+    },
+    {
+      "name": "Tony's Kitchen",
+      "rating": "4.7",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tonys-kitchen/zXIzXCs8RQGhWIAaamlawQ"
+    },
+    {
+      "name": "Copper Pot",
+      "rating": "4.5",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/copper-pot/UGJ7NZgAWXWoeHNxMLRFBw"
+    },
+    {
+      "name": "Morrisons Cafe",
+      "rating": "3.4",
+      "reviewCount": "35",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-cafe-hillsborough/HzNrWQclU_-LR0MvzK82fQ"
+    },
+    {
+      "name": "Egg & Co.",
+      "rating": "4.0",
+      "reviewCount": "88",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/egg-%26-co/wbCGSPP0XICGiiWlWaxglA"
+    },
+    {
+      "name": "Subway",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/subway-devonshire-street/VtCwkLMJSnK52spJm2HiAQ"
+    },
+    {
+      "name": "Puckafood",
+      "rating": "4.7",
+      "reviewCount": "98",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/puckafood/i0tcQx4fWZiL-SSJZKSBEA"
+    },
+    {
+      "name": "The Street Food Chef",
+      "rating": "4.7",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-street-food-chef-the-canteen/QsFFz9TDXgKhy5s2dddN9A"
+    },
+    {
+      "name": "Jollof Corner",
+      "rating": "4.2",
+      "reviewCount": "47",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/jollof-corner/2cceffqaWjKfv_seg72kEw"
+    },
+    {
+      "name": "Deli Kelham",
+      "rating": "4.8",
+      "reviewCount": "75",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/deli-kelham/teZ5zcGcX7yaq9f5Lje0UQ"
+    },
+    {
+      "name": "Momma Katz",
+      "rating": "4.4",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/momma-katz/fI1O-FfSW3emSgkgXFiWxA"
+    },
+    {
+      "name": "Poundbakery",
+      "rating": "3.7",
+      "reviewCount": "14",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/poundbakery-sheffield/ak_D2QFlXKm5UXdPwKRnhQ"
+    },
+    {
+      "name": "Victoria Junction",
+      "rating": "4.6",
+      "reviewCount": "35",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/victoria-junction/0JHxEyw5XvmvYbFZF0HkwQ"
+    },
+    {
+      "name": "PBZ 胖包子",
+      "rating": "4.8",
+      "reviewCount": "450+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pbz-胖包子/o4u0dqtOVEieULh_pMsNzQ"
+    },
+    {
+      "name": "Nikki's Breakfast & Brunch",
+      "rating": "4.7",
+      "reviewCount": "320+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/nikkis-breakfast-%26-brunch/LbSt1DebWWu0C8VMkhVtrQ"
+    },
+    {
+      "name": "GDK",
+      "rating": "4.2",
+      "reviewCount": "440+",
+      "deliveryTime": "",
+      "offers": [
+        "3 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/gdk-meadowhall/aJCLfeltXoqgC1miNxa_Ug"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.7",
+      "reviewCount": "92",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/pret-a-manger-sheffield-city-centre/DccRLvrEWi6AmZpnff8ERA"
+    },
+    {
+      "name": "M GS Junction",
+      "rating": "5.0",
+      "reviewCount": "2",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/m-gs-junction/kcvjaQX2T_KK719XiA0QXQ"
+    },
+    {
+      "name": "Mother Hubbard’s Fish and Chips",
+      "rating": "4.4",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/mother-hubbards-fish-and-chips/y-O1q39ZUi2KQaZKISZe9A"
+    },
+    {
+      "name": "One Stop Sheffield",
+      "rating": "4.6",
+      "reviewCount": "450+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-sheffield/z_I8MZYFW76rwc5C8KO0Zg"
+    },
+    {
+      "name": "Wincobank Deli",
+      "rating": "4.6",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wincobank-deli/UllzdvRpWzSdfT3_F-vXbA"
+    },
+    {
+      "name": "Fanoush Falafel Bar",
+      "rating": "4.8",
+      "reviewCount": "440+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/fanoush-falafel-bar/nhhDzq1sRTyn7oTigXMI3A"
+    },
+    {
+      "name": "Jollibee",
+      "rating": "4.0",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/jollibee-meadowhall/OHUthLMBXzOpFNL7zshdSg"
+    },
+    {
+      "name": "Chapter One Coffee",
+      "rating": "4.8",
+      "reviewCount": "25",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chapter-one-coffee-sheffield/AX-HfDJeUlCQsP1tPqM7RQ"
+    },
+    {
+      "name": "Many Mart Oriental Super Market 佰利超市",
+      "rating": "4.7",
+      "reviewCount": "440+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/many-mart-oriental-super-market-佰利超市/F09OQyYkWAqtMQMZMnWkUA"
+    },
+    {
+      "name": "Ellie's Sandwich Shop",
+      "rating": "4.5",
+      "reviewCount": "33",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/ellies-sandwich-shop/GWWdak-FVE-RnbvA2afc_w"
+    },
+    {
+      "name": "The Park Hotel",
+      "rating": "4.7",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-park-hotel-sizzling-pubs/LDTTNbOPUMiT-uYY178cAQ"
+    },
+    {
+      "name": "Deli At The Don",
+      "rating": "4.3",
+      "reviewCount": "150+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/deli-at-the-don/y5IHK9fJWTi4tVK_ymHXmA"
+    },
+    {
+      "name": "Birley Moor Bakery",
+      "rating": "4.6",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/birley-moor-bakery/WeIO8fXxRJ289pfZaZ5Dmg"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.6",
+      "reviewCount": "75",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-sheffield/vDMZdXGSU_yalpeesJT7zg"
+    },
+    {
+      "name": "WJ Cafe & Sandwich Shop",
+      "rating": "4.5",
+      "reviewCount": "52",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wj-cafe-%26-sandwich-shop/BPYo-Y3USoiw8FGPbfnkzg"
+    },
+    {
+      "name": "Juicepresso",
+      "rating": "4.8",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/juicepresso/uOwpDocZXwmX6kKWzc1W7A"
+    },
+    {
+      "name": "Slim Chickens",
+      "rating": "3.8",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/slim-chickens-meadowhall/3gW7xU7HWjyeQR2OVIlrFQ"
+    },
+    {
+      "name": "Tesco Cafe",
+      "rating": "3.8",
+      "reviewCount": "66",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tesco-cafe-sheffield-savile-st/43OQEGukXL2vVgVQ9zvkPg"
+    },
+    {
+      "name": "Al Naseem",
+      "rating": "4.3",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/al-naseem/jL_Mpll5RsCQIawUmTnkLA"
+    },
+    {
+      "name": "Roses Bakers",
+      "rating": "4.8",
+      "reviewCount": "150+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/roses-bakers-crosspool/QVkICUh7RQacmwAkMm7l9A"
+    },
+    {
+      "name": "Chef United Cafe",
+      "rating": "4.1",
+      "reviewCount": "18",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chef-united-cafe/G0QwmXR-WraIlgktBTJI1Q"
+    },
+    {
+      "name": "SPAR 24/7",
+      "rating": "4.1",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/spar-24-7-bp-bramall-lane/OESoPcCsR16g8P1KvdRSbg"
+    },
+    {
+      "name": "The Chakra Lounge",
+      "rating": "4.8",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/the-chakra-lounge/wr-c9LnfRPagDbmJtK-2vQ"
+    },
+    {
+      "name": "Assaje Deli",
+      "rating": "4.9",
+      "reviewCount": "26",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/assaje-deli/F4pSLvdvWiaH7g_zQ0soDg"
+    },
+    {
+      "name": "Café 313",
+      "rating": "4.1",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-313/IS-RsC7CXcqDZQNU_ii2KA"
+    },
+    {
+      "name": "Karak Chaii",
+      "rating": "3.6",
+      "reviewCount": "25",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/karak-chaii-sheffield/-Q7ytet5RGy3sj8z9wBNBg"
+    },
+    {
+      "name": "Lemongrass Thai Street Food",
+      "rating": "4.8",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/lemongrass-thai-street-food/SpxJsyntTueQVVWg1fjJYw"
+    },
+    {
+      "name": "Station Cafe Chapeltown",
+      "rating": "4.5",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/station-cafe-chapeltown/cUIuGWRcWK2UJlwhHMxsjQ"
+    },
+    {
+      "name": "Think Sandwich",
+      "rating": "4.8",
+      "reviewCount": "73",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/think-sandwich/4B-zU3uwVWO3bHOkfj3Ofw"
+    },
+    {
+      "name": "Hollie's Kitchen 成都小栈",
+      "rating": "4.1",
+      "reviewCount": "75",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/hollies-kitchen-成都小栈/Q4W1ArSpX9ixs-sisPu5Vg"
+    },
+    {
+      "name": "Bite Me Pizza & Grill",
+      "rating": "4.0",
+      "reviewCount": "60",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bite-me-pizza-%26-grill/f0W_r7NDVueM3KUllMei-w"
+    },
+    {
+      "name": "Sushi Daily",
+      "rating": "4.8",
+      "reviewCount": "65",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sushi-daily-sheffield/Ej4Eqo0aW3Oegh0M7h0FWA"
+    },
+    {
+      "name": "Peckish Sandwich Shop",
+      "rating": "4.4",
+      "reviewCount": "22",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/peckish-sandwich-shop/PWRA7s20TCaZaCJ-SER-Hw"
+    },
+    {
+      "name": "A Taste Of Arabia",
+      "rating": "4.4",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/a-taste-of-arabia/IyZJsvJUQkiGuoJPe1vvhQ"
+    },
+    {
+      "name": "Caffè Tucci",
+      "rating": "4.9",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/caffe-tucci/nacJC7VyWJWbHAjNNGwcYQ"
+    },
+    {
+      "name": "Zoe's Kitchen",
+      "rating": "4.4",
+      "reviewCount": "43",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/zoes-kitchen/mpYFHu-5Xdqr1dX40Wa-Rg"
+    },
+    {
+      "name": "Chai Green",
+      "rating": "3.9",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "offers": [
+        "3 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/chai-green-sheffield/VO62xdtQUt-fkjObKiCiAQ"
+    },
+    {
+      "name": "Nafees Bakers & Sweets Sheffield",
+      "rating": "4.9",
+      "reviewCount": "54",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/nafees-bakers-%26-sweets-sheffield/v9apIY97XG2ySeeKEMmPEw"
+    },
+    {
+      "name": "Budgens",
+      "rating": "4.6",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/budgens-weston-street/1IstcYzWT4-aB42B2_-4dg"
+    },
+    {
+      "name": "DUNKIN' Donuts & Coffee",
+      "rating": "4.6",
+      "reviewCount": "410+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dunkin-donuts-%26-coffee-penistone-road/MW_eDRWRTtKoTn3qHcgzlQ"
+    },
+    {
+      "name": "Batchd",
+      "rating": "3.7",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/batchd-sheffield-meadowhall/R1ngpLg1XrSmnW5zr912dw"
+    },
+    {
+      "name": "Brunch by Frankie & Benny's",
+      "rating": "4.1",
+      "reviewCount": "79",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brunch-by-frankie-%26-bennys-rotherham/7HVNxL7YV2W97-rzO-Q4kA"
+    },
+    {
+      "name": "Cafe Noor",
+      "rating": "4.5",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-noor/Tl2nQaUNU3Cj89y4FsR3VA"
+    },
+    {
+      "name": "MOMOS by 5Tara",
+      "rating": "3.9",
+      "reviewCount": "70",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/momos-by-5tara/8mK365zRQxaoPIGtL1A7xg"
+    },
+    {
+      "name": "Mama Jones",
+      "rating": "4.8",
+      "reviewCount": "10",
+      "deliveryTime": "",
+      "offers": [
+        "25% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/mama-jones/u9QHIWnXSaq9ImtYUX9a1g"
+    },
+    {
+      "name": "YEMENIZ RESTAURANT",
+      "rating": "4.3",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/yemeniz-restaurant/iJ1CIZ1HRlC_KWZ-4IBQMQ"
+    },
+    {
+      "name": "Cooplands Bakery",
+      "rating": "4.0",
+      "reviewCount": "94",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cooplands-bakery-wickersley/CMUSiyrnW6umxuk--873Hw"
+    },
+    {
+      "name": "LISBOA",
+      "rating": "4.8",
+      "reviewCount": "360+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/lisboa/bbw4_XpzRV65eUWdz4Q3cw"
+    },
+    {
+      "name": "HI CHAII",
+      "rating": "4.1",
+      "reviewCount": "21",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/hi-chaii/IHrn4OtnRtudHAIXvoGx3w"
+    },
+    {
+      "name": "Dial A Drink 365",
+      "rating": "4.8",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dial-a-drink-365/Zr3fnUtQTdCJFiiWPk9Evw"
+    },
+    {
+      "name": "Ohannes Burger",
+      "rating": "4.7",
+      "reviewCount": "480+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/ohannes-burger-sheffield/xW7M_0sMU9uINhWzB0aOOQ"
+    }
+  ]
+}

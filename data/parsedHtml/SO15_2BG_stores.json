@@ -1,0 +1,595 @@
+{
+  "source": "UberEats",
+  "postalCode": "SO15_2BG",
+  "timestamp": "2025-09-15T09:57:32.565Z",
+  "count": 71,
+  "data": [
+    {
+      "name": "ASDA Superstore",
+      "rating": "4.1",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/asda-superstore-southampton/fjuxAjGGQVmgNje7DBxpuQ"
+    },
+    {
+      "name": "Sainsbury's Local",
+      "rating": "4.6",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-local-bedford-place/jsUHk0OXUUuDvwuO4MCYCw"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-shirley-freemantle/pgDX40WWV3yzn-ZcFrBk3w"
+    },
+    {
+      "name": "Waitrose & Partners",
+      "rating": "4.7",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/waitrose-%26-partners-southampton/yDtm7ysiVVy8sDc9NWy0vA"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.5",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-southampton/TtiLAFvKW5CXreBzGU4Zdg"
+    },
+    {
+      "name": "Greggs",
+      "rating": "4.0",
+      "reviewCount": "410+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/greggs-southampton-101-above-bar-st/wM312GtZX8WdBLyG7sp2qg"
+    },
+    {
+      "name": "Burger King",
+      "rating": "4.1",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burger-king-southampton-above-bar/FeQeWEbgUg-aVP954XMtHw"
+    },
+    {
+      "name": "Costa Coffee",
+      "rating": "4.6",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/costa-coffee-southampton-shirley/LGGrSacWW5Sjz2qqw8a2cQ"
+    },
+    {
+      "name": "Taco Bell",
+      "rating": "4.1",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/taco-bell-southampton-hanover-buildings/a8NlkYlqQiiTZ7aesdtTOw"
+    },
+    {
+      "name": "Subway",
+      "rating": "4.3",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/subway-23-london-road/66zm6GvmSIae_8CfQ4ELDw"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.8",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-southampton-above-bar-st/x_fm3FIuWyC9A8M3HDpwJw"
+    },
+    {
+      "name": "Starbucks ®",
+      "rating": "4.6",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-southampton-london-rd/gADZkwsqTiGdV8uoFOaxGA"
+    },
+    {
+      "name": "Slim Chickens",
+      "rating": "4.0",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/slim-chickens-southampton/3PtNpo3SSGa7qxyBbwc7XA"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "4.0",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-southampton/oO2DnJvlXsqmAfpxIQra-A"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.6",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-southampton/c7XleYhcXYWow_szIWQxbg"
+    },
+    {
+      "name": "Byron Burgers & Fries",
+      "rating": "3.9",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/byron-burgers-%26-fries-southampton/OGqXPbVMVNCr8C4iTdd4IQ"
+    },
+    {
+      "name": "Wendy's",
+      "rating": "3.2",
+      "reviewCount": "10",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wendys-southampton/Bb1YYmZIX0uSoOkcD4fDuA"
+    },
+    {
+      "name": "Wenzels the Bakers",
+      "rating": "4.4",
+      "reviewCount": "370+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wenzels-the-bakers-southampton/Ht0wHUlPVZ6Sa6chvtqN9g"
+    },
+    {
+      "name": "Chaiiwala",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chaiiwala-southampton/pyGz2y39VYiAVdC_V64KhA"
+    },
+    {
+      "name": "STAKKS",
+      "rating": "3.6",
+      "reviewCount": "42",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/stakks-southampton/HFUBhgkEXsSY2SXreEZB4w"
+    },
+    {
+      "name": "Cafe Aroma Totton",
+      "rating": "4.6",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £30)"
+      ],
+      "url": "https://www.ubereats.com/store/cafe-aroma-totton/L6icE8udRqWWTCSjoXMivA"
+    },
+    {
+      "name": "Suzi's Snack Shack",
+      "rating": "4.2",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/suzis-snack-shack/wi6n1sukXwyhNcFs9peNIw"
+    },
+    {
+      "name": "Chopstix Noodle Bar",
+      "rating": "4.0",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/chopstix-noodle-bar-southampton/eMujTnkTTJykJlOUCtyqZw"
+    },
+    {
+      "name": "Bagel Factory",
+      "rating": "4.1",
+      "reviewCount": "63",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bagel-factory-southampton/2F_HXlGjU4qp3mf6fQ3B0A"
+    },
+    {
+      "name": "Cafe",
+      "rating": "4.3",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/cafe-%40-no-6/U2NgF4miVlePANIXElEkyw"
+    },
+    {
+      "name": "SoBe Burger",
+      "rating": "4.0",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sobe-burger-st-denys/4Ipav_ZoVtaN46seKbfBhQ"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.7",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/pret-a-manger-southampton-university/AZ5aeQECTq6JIKXVHiOO-w"
+    },
+    {
+      "name": "One Stop Park Road",
+      "rating": "4.4",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-park-road/BqWAo-XkWFCSieHHlhL-WQ"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.6",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/caffe-nero-southampton-abovebar/bsETR65RS86XOzaZDgEsOQ"
+    },
+    {
+      "name": "Empress Café",
+      "rating": "4.2",
+      "reviewCount": "65",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/empress-cafe/ni4lt7e4TrGsSMHI1Sx2MQ"
+    },
+    {
+      "name": "Harvester",
+      "rating": "4.1",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/harvester-swan-centre/haRlD4mNTESuEuimF49BKA"
+    },
+    {
+      "name": "Southern Co-Op Commercial Road",
+      "rating": "4.6",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/southern-co-op-commercial-road/luzehufmVK-r-h9YhaMEdA"
+    },
+    {
+      "name": "Carluccio's Southampton",
+      "rating": "4.2",
+      "reviewCount": "59",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/carluccios-southampton/3Qe6skJPR9qWjRSt2VwpNw"
+    },
+    {
+      "name": "TGI Friday's",
+      "rating": "3.5",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 25% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/tgi-fridays-southampton/R6cvTpQSWOS7x3j1Jk-W6w"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts & Coffee",
+      "rating": "4.7",
+      "reviewCount": "360+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-doughnuts-%26-coffee-southampton-west-quay/HsqSR3nfSlGlIWETo5I5DQ"
+    },
+    {
+      "name": "Fireaway Pizza",
+      "rating": "4.6",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/fireaway-pizza-southampton/-1uls7-zWASROKGV9z75JQ"
+    },
+    {
+      "name": "Poppins Cafe & Restaurant",
+      "rating": "4.3",
+      "reviewCount": "380+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/poppins-cafe-%26-restaurant/l9ez_d5DRbqhucoONSY4wA"
+    },
+    {
+      "name": "Roosters Piri Piri",
+      "rating": "4.5",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "10% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/roosters-piri-piri-london-road-southampton/rVRn1RSZQ-iuP26uPPsx8A"
+    },
+    {
+      "name": "The Cowherds",
+      "rating": "4.2",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-cowherds-vintage-inns-contemporary-southampton-the-common/jNPXBncdWkaa2FU6vi9MIg"
+    },
+    {
+      "name": "Cafe Thrive",
+      "rating": "4.9",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-thrive/ZfYxc2ObQamnhLKDsarq2A"
+    },
+    {
+      "name": "Jays Cafe",
+      "rating": "4.7",
+      "reviewCount": "36",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/jays-cafe/NcYOjMCPVSiHk-v75Pmg-w"
+    },
+    {
+      "name": "Poppins Restaurant",
+      "rating": "4.5",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/poppins-restaurant/nxMCB7ejTde1Fsr6o8CaIA"
+    },
+    {
+      "name": "Tesco Cafe",
+      "rating": "3.9",
+      "reviewCount": "150+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tesco-cafe-bursledon-towers/IdIRVSHDXASh5T35rBNS-w"
+    },
+    {
+      "name": "Majestic Wine",
+      "rating": "5.0",
+      "reviewCount": "15",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/majestic-wine-southampton/Mo5RTmOpUa6QgG4YO7vz3Q"
+    },
+    {
+      "name": "Sprinkles Gelato",
+      "rating": "4.0",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sprinkles-gelato-above-bar-street/gxXPo8N5TVGabOL-sr8y3g"
+    },
+    {
+      "name": "Heavenly Desserts",
+      "rating": "4.2",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £25, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/heavenly-desserts-southampton/xrnKAmftTuWMh95KtdIylQ"
+    },
+    {
+      "name": "One Stop Stores Swythling High Rd",
+      "rating": "4.9",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-stores-swythling-high-rd/rG5K5zecUQ6EdkAJbDSH6g"
+    },
+    {
+      "name": "Rosemary Cafe Bistro",
+      "rating": "4.7",
+      "reviewCount": "3",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/rosemary-cafe-bistro/NfhrR6MESSqQE2yYjf-W7A"
+    },
+    {
+      "name": "Patty Guy",
+      "rating": "3.8",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/patty-guy-st-denys/AAEQ7jkZUx2kZX8L6f6_MQ"
+    },
+    {
+      "name": "Yogoo! Natural Frozen Yogurt",
+      "rating": "4.3",
+      "reviewCount": "82",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yogoo!-natural-frozen-yogurt/fjGaz_upTU-JWQWbZbNCCg"
+    },
+    {
+      "name": "Gj 5 Aalupuri & Eggs",
+      "rating": "3.6",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/gj-5-aalupuri-%26-eggs/xCzZ08PzRTKHLGFJ4tZgzA"
+    },
+    {
+      "name": "CHA SHA",
+      "rating": "4.1",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/cha-sha/ofkx6VqNX8uem4WRWN3PUg"
+    },
+    {
+      "name": "Scoops Gelato",
+      "rating": "4.1",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/scoops-gelato-southampton/rk8Y6OS7RcakppuKeahTbQ"
+    },
+    {
+      "name": "Londis",
+      "rating": "4.4",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/londis-northam/0GQEmQd4XhSh8pKnzNLYIw"
+    },
+    {
+      "name": "Cake Box",
+      "rating": "4.3",
+      "reviewCount": "73",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cake-box-eastleigh/Ltaz8Uv-VeKpAPCn99syPg"
+    },
+    {
+      "name": "Southampton Butchers Ltd",
+      "rating": "4.1",
+      "reviewCount": "20",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/southampton-butchers-ltd/Ts1I1eISXiO2VxPpZodzEQ"
+    },
+    {
+      "name": "All Bar One Southampton",
+      "rating": "2.9",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/all-bar-one-southampton/5dk_NAIvThew_mILhGyPkA"
+    },
+    {
+      "name": "Chatime Southampton",
+      "rating": "4.7",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chatime-southampton/b0dPQ9bmVGi2tXJV7sYReQ"
+    },
+    {
+      "name": "Legends Cafe",
+      "rating": "4.3",
+      "reviewCount": "29",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/legends-cafe/qF_qbAxRUMmGyaBPue3-UA"
+    },
+    {
+      "name": "YO! sushi counter",
+      "rating": "3.8",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yo!-sushi-counter-bursledon-tesco/OHaO0gePVVGR2W-exN3tOA"
+    },
+    {
+      "name": "Charlies Bargain Booze",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/charlies-bargain-booze/EeJM-AGkSD2ifPZq3GEP9A"
+    },
+    {
+      "name": "Tasty Curry",
+      "rating": "4.4",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 25% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/tasty-curry/kvueXKm5ROCOwHC1Zlew0w"
+    },
+    {
+      "name": "Sweet Dreams",
+      "rating": "4.5",
+      "reviewCount": "38",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sweet-dreams/CvOcK9xDW_WcF3-iU9wktg"
+    },
+    {
+      "name": "Cafe Nautical Mile",
+      "rating": "3.4",
+      "reviewCount": "10",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/cafe-nautical-mile/OK9GHdm6Xo-XARvc6qoRQA"
+    },
+    {
+      "name": "Nisa Express London Road",
+      "rating": "4.0",
+      "reviewCount": "27",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/nisa-express-london-road/w6TEMNtcWM-5DZXh00c5HQ"
+    },
+    {
+      "name": "Waffles & Cream",
+      "rating": "3.8",
+      "reviewCount": "31",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/waffles-%26-cream/BLKB6KmeX6SKfW2w1sr79Q"
+    },
+    {
+      "name": "River Bean and Bar",
+      "rating": "3.0",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/river-bean-and-bar/7cRdWe8DTjePRMZMrhAaOQ"
+    },
+    {
+      "name": "Boba Moon U.K.",
+      "rating": "4.8",
+      "reviewCount": "93",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/boba-moon-uk/VNkCsTE8THix3EO0xmBJcw"
+    },
+    {
+      "name": "Cafe Mendo’s",
+      "rating": "4.5",
+      "reviewCount": "216",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-mendos/1t8cFSLZRpC_R4QRecAdXQ"
+    },
+    {
+      "name": "Brunch & Barista",
+      "rating": "4.0",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brunch-%26-barista/z3rQXe9fTVS5tL6UhZ9r5A"
+    },
+    {
+      "name": "Terrace Sandwich Bar",
+      "rating": "4.6",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/terrace-sandwich-bar/3Z0Yj6haRR-ZvEXUHKL8tA"
+    }
+  ]
+}

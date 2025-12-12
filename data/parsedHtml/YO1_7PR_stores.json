@@ -1,0 +1,705 @@
+{
+  "source": "UberEats",
+  "postalCode": "YO1_7PR",
+  "timestamp": "2025-09-15T09:57:35.104Z",
+  "count": 84,
+  "data": [
+    {
+      "name": "McDonald's®",
+      "rating": "3.9",
+      "reviewCount": "15,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mcdonalds-york/Vhg3vX1ZTuq0j63l8VJ09g"
+    },
+    {
+      "name": "Greggs",
+      "rating": "4.3",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-york-the-pavement/fyik9qWUXvGOULQJjhTJsg"
+    },
+    {
+      "name": "KFC York",
+      "rating": "4.4",
+      "reviewCount": "7,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-york-blossom-street/WdWj_waATLe5Plci_MsNng"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.5",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-york-foss-islands/NQSCSqNZUouGN1OKXuP1SA"
+    },
+    {
+      "name": "Subway",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/subway-26-pavement/glOy-E5ZSZWjfkaQHmWSGQ"
+    },
+    {
+      "name": "Waitrose & Partners",
+      "rating": "4.7",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/waitrose-%26-partners-york/IJRnSYGRVC-einitBp5BqA"
+    },
+    {
+      "name": "Sainsbury's Local",
+      "rating": "4.7",
+      "reviewCount": "99",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-local-york-piccadilly/nCZwbGmsWEm5XJfrzsHv7g"
+    },
+    {
+      "name": "Starbucks ®",
+      "rating": "4.5",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-york-foss-island/IpCObMoIQ6e5cn3D7rZwBw"
+    },
+    {
+      "name": "Costa Coffee",
+      "rating": "4.6",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/costa-coffee-york-eboracum-way-dt/nRjtyzRFSba9BV1x-Z975A"
+    },
+    {
+      "name": "Blossom Cafe",
+      "rating": "4.3",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/blossom-cafe/yBe26pD7RJetRcq_8IP7gA"
+    },
+    {
+      "name": "Brunches Sandwiches",
+      "rating": "4.6",
+      "reviewCount": "26",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brunches-sandwiches/PnvQD7k3WZKI9JX_FTtLDA"
+    },
+    {
+      "name": "Cooplands Bakery",
+      "rating": "4.4",
+      "reviewCount": "68",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cooplands-bakery-bridge-street/p-BZLN6rW82q5XEIAU3PQw"
+    },
+    {
+      "name": "Delight Cafe",
+      "rating": "4.7",
+      "reviewCount": "44",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/delight-cafe/NC3tbGZrXt6eEmGc8Sg2NA"
+    },
+    {
+      "name": "Bellas Kitchen",
+      "rating": "4.4",
+      "reviewCount": "33",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bellas-kitchen/15gkiBuVWVaAbZKHv7LEtA"
+    },
+    {
+      "name": "Morrisons Daily",
+      "rating": "4.4",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-daily-york-crichton-avenue/LMu8dv75TZew_42AwdCngw"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.5",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/pret-a-manger-parliament-street/qeSRidaBQPKetN52Ig62yQ"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.9",
+      "reviewCount": "84",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-york-43-coney-street/k0mI4VpDUo-z35bGvt5u3A"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "5.0",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-york/SLs3D_eGWrCzZigBPvWZSg"
+    },
+    {
+      "name": "Middle Feast",
+      "rating": "4.5",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/middle-feast/yKB6-qwkTG2npps2ySQV1Q"
+    },
+    {
+      "name": "Bagel Factory",
+      "rating": "4.6",
+      "reviewCount": "25",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bagel-factory-york-designer-outlet/4grL8nFRRhav0CKUwEglsQ"
+    },
+    {
+      "name": "Fat Hippo",
+      "rating": "4.1",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/fat-hippo-york/_0VlrH3gXgGNYEqCxwbe3w"
+    },
+    {
+      "name": "Sushi Daily",
+      "rating": "4.1",
+      "reviewCount": "47",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sushi-daily-york/QfxYmANvU2CzU0ufBT_qDA"
+    },
+    {
+      "name": "York Roast Co.",
+      "rating": "4.3",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/york-roast-co-stonegate/w8bqq4tCRPOn_M-FUpmpiQ"
+    },
+    {
+      "name": "Caffè Nero",
+      "rating": "4.3",
+      "reviewCount": "56",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/caffe-nero-york-spurriergate/YMEaksTxWU6yFLdQXAHjQw"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "rating": "4.5",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/papa-johns-pizza-york-heslington/xTylGE-KURKdJ0x781KrSw"
+    },
+    {
+      "name": "YO! sushi counter",
+      "rating": "5.0",
+      "reviewCount": "3",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yo!-sushi-counter-york-tesco/xudxAl8XV0mGCz0wdog9cA"
+    },
+    {
+      "name": "Batchd",
+      "rating": "5.0",
+      "reviewCount": "9",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/batchd-york-coppergate/FW3Fb23uWXin_9R5AdY8nQ"
+    },
+    {
+      "name": "Fluster Cluck",
+      "rating": "4.0",
+      "reviewCount": "19",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/fluster-cluck-lower-ousegate/tSoNG0LfW-aGtQYXchtqTw"
+    },
+    {
+      "name": "Turtle Bay",
+      "rating": "4.0",
+      "reviewCount": "240+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/turtle-bay-york/3JCgBQNuQUyOspCxNNG2Zg"
+    },
+    {
+      "name": "Bison Cafe",
+      "rating": "4.7",
+      "reviewCount": "9",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bison-cafe/xh3qbKKJRw26X4-360fCew"
+    },
+    {
+      "name": "Regency Oriental Supermarket",
+      "rating": "4.0",
+      "reviewCount": "70",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/regency-oriental-supermarket/ToWo5lfvVcCF14e09P-VhA"
+    },
+    {
+      "name": "Farmhouse Inns",
+      "rating": "3.8",
+      "reviewCount": "78",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/farmhouse-inns-pear-tree-farm-york/vWmwTmhkUxCJAM82wzIvsA"
+    },
+    {
+      "name": "Heavenly Desserts",
+      "rating": "4.1",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £25, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/heavenly-desserts-york/rp9KXBgTQOKf7RKJgXbZ1w"
+    },
+    {
+      "name": "The Big Cake Co.",
+      "rating": "4.8",
+      "reviewCount": "39",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-big-cake-co-york/PuDnaDALXqqH4ipqmVMrCQ"
+    },
+    {
+      "name": "Gold Mine Mini Market",
+      "rating": "4.8",
+      "reviewCount": "390+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/gold-mine-mini-market/HdkT7UyfRSyRCClq6vixcQ"
+    },
+    {
+      "name": "SPAR 24/7",
+      "rating": "3.9",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/spar-24-7-shell-york/7gClxb_hRUOm-C8nwZPOKg"
+    },
+    {
+      "name": "Majestic Wine",
+      "rating": "4.4",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/majestic-wine-york/FQC_rkEsW1a4gF63VONtVg"
+    },
+    {
+      "name": "K-Town Chicken",
+      "rating": "4.0",
+      "reviewCount": "420+",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/k-town-chicken-korean-fried-chicken-lower-ousegate/JKOujK_aW4irireZ-oYxUg"
+    },
+    {
+      "name": "Locked 'n Loaded",
+      "rating": "4.1",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/locked-n-loaded-lower-ousegate/_e9oOPLqVJ66WJ3xaLdZWw"
+    },
+    {
+      "name": "Amorino",
+      "rating": "4.3",
+      "reviewCount": "60",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/amorino-york/8GSAnLS4UZy4XwIGcuTkew"
+    },
+    {
+      "name": "Krispy Kreme",
+      "rating": "5.0",
+      "reviewCount": "60",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-york-designer-outlet/BMpXKPKlUTSUpaRPdypdug"
+    },
+    {
+      "name": "Pizza Amore",
+      "rating": "3.3",
+      "reviewCount": "11",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/pizza-amore-lower-ousegate/IHUZYuuiU1ez_14I1Prbmw"
+    },
+    {
+      "name": "Dough Masters",
+      "rating": "1.8",
+      "reviewCount": "11",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/dough-masters-lower-ousegate/PZfp0-qJUjyuDTIga8D-Mg"
+    },
+    {
+      "name": "Morrisons",
+      "rating": "4.1",
+      "reviewCount": "240+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-york/DF_9RlFqXdmTBTrzIHcVOA"
+    },
+    {
+      "name": "ASDA",
+      "rating": "4.6",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/asda-york-layerthorpe/3bzyALhAWAu34H6IgSFXOQ"
+    },
+    {
+      "name": "Bella Italia Pizza & Pasta",
+      "rating": "4.1",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bella-italia-pizza-%26-pasta-york-minster/8hcbbSHvSsukCzFvdE2gEA"
+    },
+    {
+      "name": "Sushi and Bowl",
+      "rating": "4.7",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sushi-and-bowl/sP0lEfqBUWidX_dKOoNjww"
+    },
+    {
+      "name": "Toby Carvery",
+      "rating": "4.0",
+      "reviewCount": "410+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/toby-carvery-hopgrove/m4p9SKp9VluUeiJKg1rEGw"
+    },
+    {
+      "name": "The Cross Keys Pub, Goodramgate",
+      "rating": "3.4",
+      "reviewCount": "35",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-cross-keys-pub-goodramgate/vokk7-9sQAS_8hd2EzsrjA"
+    },
+    {
+      "name": "Wildwood",
+      "rating": "4.2",
+      "reviewCount": "400+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 15% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/wildwood-york/9K6RtidaT7ONANdXW8DCPg"
+    },
+    {
+      "name": "Sin City Burgers",
+      "rating": "4.2",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/sin-city-burgers-main-street/F_MsUpyMXdmWv1dXh0fNdg"
+    },
+    {
+      "name": "Rudy's Neapolitan Pizza",
+      "rating": "4.1",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/rudys-neapolitan-pizza-york/8fJespDNXI-cl5TXtGnK1Q"
+    },
+    {
+      "name": "Taco Bell",
+      "rating": "4.3",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/taco-bell-york-monks-cross/yYljij61SAmpQvAQQ4QXvg"
+    },
+    {
+      "name": "GDK",
+      "rating": "4.3",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/gdk-york/L6yBV1HLXnS7XkFEVQ6GTQ"
+    },
+    {
+      "name": "Bubbleology york",
+      "rating": "4.7",
+      "reviewCount": "73",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bubbleology-york/LKwk-priUG6SqmyeQq45OQ"
+    },
+    {
+      "name": "Kalpakavadi",
+      "rating": "4.3",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kalpakavadi/iL2oyesqSUaGD_ZPNazMNg"
+    },
+    {
+      "name": "Las Iguanas",
+      "rating": "4.5",
+      "reviewCount": "320+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/las-iguanas-york-swinegate/qgTCWucUWvmmmdoFt7QPog"
+    },
+    {
+      "name": "TMK Streetfood",
+      "rating": "4.6",
+      "reviewCount": "66",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tmk-streetfood/vmfofoiQXNyw62VGp5datA"
+    },
+    {
+      "name": "Domino's Pizza",
+      "rating": "4.4",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dominos-pizza-york-hull-road/uM4Qc74AVm6fUFSlNGvgdw"
+    },
+    {
+      "name": "Vikings Pizza",
+      "rating": "4.6",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/vikings-pizza/0UZKB6SKS8q78K46Z2OnqA"
+    },
+    {
+      "name": "The Wetherby Whaler",
+      "rating": "4.6",
+      "reviewCount": "370+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-wetherby-whaler-york/EbKA7tvOVmyFArYAiu-OBQ"
+    },
+    {
+      "name": "Dhillon's Bridge Fisheries",
+      "rating": "4.4",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dhillons-bridge-fisheries-york/mWO5QfrbUEq9sP1KqqqUQg"
+    },
+    {
+      "name": "Kaozhuangyuan barbecue 烤狀元",
+      "rating": "4.5",
+      "reviewCount": "91",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kaozhuangyuan-barbecue-烤狀元/qYGTup5XXaSWhgT7nFzIqA"
+    },
+    {
+      "name": "Mooboo York-The Best Bubble Tea",
+      "rating": "4.7",
+      "reviewCount": "77",
+      "deliveryTime": "",
+      "offers": [
+        "10% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/mooboo-york-the-best-bubble-tea/qt-jLVICUf2oMoXMn1EWdA"
+    },
+    {
+      "name": "Rosa's Thai",
+      "rating": "4.7",
+      "reviewCount": "370+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/rosas-thai-york/4-fSCduWXDKBRLlxPW4UEA"
+    },
+    {
+      "name": "PizzaExpress Pizza & Pasta",
+      "rating": "4.1",
+      "reviewCount": "430+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pizzaexpress-pizza-%26-pasta-york-st-sampson-square/3viXtNMcSFy1FWD1NKboKQ"
+    },
+    {
+      "name": "Pepe's Piri Piri",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pepes-piri-piri-york/gJHm4lq_Va2NmvcskZTHzA"
+    },
+    {
+      "name": "Ipfu Sushi",
+      "rating": "4.7",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "10% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/ipfu-sushi/kj9i9dcMTV2gXjEmhmg_aA"
+    },
+    {
+      "name": "Coco di Mama Kitchens",
+      "rating": "4.1",
+      "reviewCount": "360+",
+      "deliveryTime": "",
+      "offers": [
+        "25% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/coco-di-mama-kitchens-york/czzoBxtmQhiHaWiuL-n5cg"
+    },
+    {
+      "name": "Pasta Evangelists",
+      "rating": "4.6",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pasta-evangelists-york/EiFwije8WfWeqhc20pKL2Q"
+    },
+    {
+      "name": "Mighty Burger",
+      "rating": "3.9",
+      "reviewCount": "50",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mighty-burger-main-street/XUxIDmLUUc6k5RvssdzC4A"
+    },
+    {
+      "name": "Burrito Bandits",
+      "rating": "4.2",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burrito-bandits-mexican-burritos-the-courtyard/E9DiNk52UZao8Y2vn2i4LQ"
+    },
+    {
+      "name": "Kings Fish and Chips",
+      "rating": "4.2",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kings-fish-and-chips/N9lidLd7SfCkswB7mVZgjg"
+    },
+    {
+      "name": "Mr tea",
+      "rating": "4.6",
+      "reviewCount": "94",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mr-tea-york/bLUo8NbtXyS0uNP_cKAYAQ"
+    },
+    {
+      "name": "Slap & Pickle Burgers@Fossgate Tap",
+      "rating": "4.3",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 15% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/slap-%26-pickle-burgers%40fossgate-tap/wVMlziWeWRKTH48bOh_Y8A"
+    },
+    {
+      "name": "SFC",
+      "rating": "4.1",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sfc/zVBMwxbSVqCpISYSJxH7ag"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "4.3",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-york/em4sI71DUOi1PBBGHB6eTA"
+    },
+    {
+      "name": "Pizza Hut Restaurants",
+      "rating": "4.4",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pizza-hut-restaurants-pavement/WktRFCmsTFGLMlD38xRX1A"
+    },
+    {
+      "name": "Slim Chickens",
+      "rating": "4.1",
+      "reviewCount": "490+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/slim-chickens-york/b813nR7FVfmeY7_ybcSt4Q"
+    },
+    {
+      "name": "Regency Chinese Restaurant 帝豪美食城",
+      "rating": "4.2",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/regency-chinese-restaurant-帝豪美食城-帝豪华人超市\"/Y9TD96qZTu2KyKTB-80vlg"
+    },
+    {
+      "name": "Morrisons Cafe",
+      "rating": "3.8",
+      "reviewCount": "70",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-cafe-york/3GIqPgE5XMOulPlmidZmkQ"
+    },
+    {
+      "name": "Millie's Cookies",
+      "rating": "4.7",
+      "reviewCount": "10",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/millies-cookies-york/86p-eSE2W6iAXDBjTn1g7w"
+    },
+    {
+      "name": "Brunches",
+      "rating": "4.4",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brunches/iqODhce6VoKm5uBATMz_Hw"
+    },
+    {
+      "name": "Lebaneat As You Go",
+      "rating": "4.3",
+      "reviewCount": "95",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/lebaneat-as-you-go/XrJTyJ0PWlulxUO-Ypm4WQ"
+    }
+  ]
+}

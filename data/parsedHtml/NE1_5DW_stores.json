@@ -1,0 +1,739 @@
+{
+  "source": "UberEats",
+  "postalCode": "NE1_5DW",
+  "timestamp": "2025-09-15T09:57:25.130Z",
+  "count": 88,
+  "data": [
+    {
+      "name": "Greggs",
+      "rating": "4.2",
+      "reviewCount": "420+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-newcastle-42-neville-st/xi49_8iIVAunYz9nC8nVIA"
+    },
+    {
+      "name": "Pablo Eggsgobao",
+      "rating": "4.7",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pablo-eggsgobao-newcastle/dBnPnX5VX7KvD0FihEKt1A"
+    },
+    {
+      "name": "Sainsbury's Local",
+      "rating": "4.7",
+      "reviewCount": "380+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-local-newcastle-monument-metro-station/MPbK7NO8XdmARa8RslY5_Q"
+    },
+    {
+      "name": "Jollibee",
+      "rating": "4.2",
+      "reviewCount": "5,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/jollibee-newcastle/1QCWXYalW1WHMZrUTiZ9lg"
+    },
+    {
+      "name": "Starbucks ®",
+      "rating": "4.5",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-neville-street/-jdKOIXBRkuMhO6RbMqFWA"
+    },
+    {
+      "name": "ASDA",
+      "rating": "4.3",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/asda-felling/wV32r4YfUvqQf25g2HVdIg"
+    },
+    {
+      "name": "Burger King",
+      "rating": "4.2",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burger-king-newcastle-clayton-st/92RG0Z0IQPCq00Qc_vWF2Q"
+    },
+    {
+      "name": "Davey’s UK Sandyford",
+      "rating": "4.6",
+      "reviewCount": "8,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/daveys-uk-sandyford/j-grbcW-Rzygueg1zOV0rw"
+    },
+    {
+      "name": "Co-op",
+      "rating": "In-store prices",
+      "reviewCount": "",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-unif-newcastle-uni-kings-walk/rADGNZFjXli7FcCYASG5Eg"
+    },
+    {
+      "name": "Waitrose & Partners",
+      "rating": "4.7",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/waitrose-%26-partners-jesmond/DOPtUv7nXeeHBsgq9YipoA"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.3",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-gateshead/Yt9D_OsZX7S0j4dxtYp9mQ"
+    },
+    {
+      "name": "Chaiiwala",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chaiiwala-newcastle/aeskhxnhTK6eYdlOgrgT-A"
+    },
+    {
+      "name": "Black Sheep Coffee- Grainger Street",
+      "rating": "4.5",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/black-sheep-coffee-grainger-street/vfvypdW7XLqQRU98nuDnpA"
+    },
+    {
+      "name": "Wingrove Cafe",
+      "rating": "3.8",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "4 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/wingrove-cafe/FvFdnKarRjqX-L_puYoQ4A"
+    },
+    {
+      "name": "Jasmins Canapes",
+      "rating": "4.7",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/jasmins-canapes/lXZN_CO7XcG5b3Fu_dZvdg"
+    },
+    {
+      "name": "Tim Hortons",
+      "rating": "4.0",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tim-hortons-washington/sPQmNYlzQGaITnlCztpf-w"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.6",
+      "reviewCount": "310+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-newcastle-eldon-sq/bW71nCvXVR2eYIMg3pJT5w"
+    },
+    {
+      "name": "Dicksons",
+      "rating": "4.3",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dicksons-gateshead/LAevqYznR0KBkBGu7S2Q-Q"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "4.2",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-newcastle/wAyFMEKRUnuEHCCPMA_YYQ"
+    },
+    {
+      "name": "Lunch Box",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/lunch-box/SW1D5X8jTGC6q8LHjrl5cQ"
+    },
+    {
+      "name": "Brek-E",
+      "rating": "4.5",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brek-e/J7rmsh2_XyyhDiq1k04gig"
+    },
+    {
+      "name": "Subway",
+      "rating": "3.4",
+      "reviewCount": "460+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/subway-neville-street-gunner-house/hkVTLyDhSZK9CT7jlojppw"
+    },
+    {
+      "name": "40 OUNCE",
+      "rating": "4.6",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/40-ounce/gmVHLZAdXKm6a6DW0I9HxA"
+    },
+    {
+      "name": "KFC Killingworth",
+      "rating": "4.0",
+      "reviewCount": "7,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-killingworth-killingworth-centre/9AJYEWCSTMSK9E3bQe3L3A"
+    },
+    {
+      "name": "Costa Coffee",
+      "rating": "4.5",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/costa-coffee-newcastle-gallowgate-wellbar/HzZUous8RzSf9o9dm6VORw"
+    },
+    {
+      "name": "Morrisons Daily",
+      "rating": "4.3",
+      "reviewCount": "420+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-daily-newcastle-cruddas-park-shopping-centre/6tn8rWrIQXKVSOqBf3J7qg"
+    },
+    {
+      "name": "Morrisons Cafe",
+      "rating": "3.7",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-cafe-byker/qZEqIG1_VPmUhZqqViupmA"
+    },
+    {
+      "name": "Simply Spice",
+      "rating": "4.1",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/simply-spice/Yrgx-j47Ul6nz8TvymWj2Q"
+    },
+    {
+      "name": "Circo Italian Kitchen",
+      "rating": "4.2",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/circo-italian-kitchen/_WQRYOaBVxCA6f1C2Bfhbw"
+    },
+    {
+      "name": "STREETFOOD SRI LANKA",
+      "rating": "4.4",
+      "reviewCount": "19",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/streetfood-sri-lanka/Be4soZN-Sb2gMhX7b-qcQQ"
+    },
+    {
+      "name": "Mam's Kitchen",
+      "rating": "4.6",
+      "reviewCount": "70",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mams-kitchen/BlXx0DzgVLqJDDC649Hm5A"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/pret-a-manger-northumberland-street/-l0Q9wwHQbi5KOb5iccFRQ"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.4",
+      "reviewCount": "35",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-st-james-park/e6iHgH3iUeyw4OsM9cYUSw"
+    },
+    {
+      "name": "Sim’s Kitchen",
+      "rating": "4.8",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/sims-kitchen/sYnYacawR7GvlZnkvsFyEA"
+    },
+    {
+      "name": "Bagel Factory",
+      "rating": "4.1",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bagel-factory-newcastle/6Y405zk3WgiVga0hUMzv7Q"
+    },
+    {
+      "name": "Sandwich Hut",
+      "rating": "4.6",
+      "reviewCount": "480+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sandwich-hut/a816GTGfRkG0qvo98DK1rg"
+    },
+    {
+      "name": "The Bake Eldon",
+      "rating": "4.3",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/the-bake-eldon/Js0tv2JCXIqW6sukw4dVTg"
+    },
+    {
+      "name": "Grub At The Hub",
+      "rating": "4.4",
+      "reviewCount": "87",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/grub-at-the-hub/5cYAbpTPWWSUjAAbg3cqCQ"
+    },
+    {
+      "name": "One Stop Fenham",
+      "rating": "4.6",
+      "reviewCount": "380+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-fenham/L2heTUHCUuij5S3RM6OAnw"
+    },
+    {
+      "name": "Brunch by Frankie & Benny's",
+      "rating": "4.4",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brunch-by-frankie-%26-bennys-newcastle-eldon-square/JiS1XuxLW8uLUBbcLm4CTg"
+    },
+    {
+      "name": "Redhead's Mac 'n' Cheese",
+      "rating": "4.6",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/redheads-mac-n-cheese-grainger-market/KEGM14bjUde6wxM1iMi2FQ"
+    },
+    {
+      "name": "Boost Juice Bar",
+      "rating": "4.3",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/boost-juice-bar-3-blackett-bridge/LVQssdqoRp-2ew6ZGpSbXA"
+    },
+    {
+      "name": "Shawermerz",
+      "rating": "4.0",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/shawermerz/b5J_ZY4vRlycDetdTOZySA"
+    },
+    {
+      "name": "My Karak Chai",
+      "rating": "4.2",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/my-karak-chai-newcastle/x6f4VrF8VsKg0M9BfSEy_g"
+    },
+    {
+      "name": "The Naked Deli",
+      "rating": "4.7",
+      "reviewCount": "480+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-naked-deli-chillingham-road/el7_4aQDVUGXN11VHA561Q"
+    },
+    {
+      "name": "Brack Burger",
+      "rating": "4.7",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brack-burger-tynemouth/CYTAPXlmWC-e3E1INdvzmg"
+    },
+    {
+      "name": "King Baby Bagels",
+      "rating": "4.9",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/king-baby-bagels/GoRkHsHFXyeXrOGSYwRawQ"
+    },
+    {
+      "name": "LEAN CUISINE",
+      "rating": "4.7",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/lean-cuisine/O8YJ9PYzSA2IMTm9xP3C0w"
+    },
+    {
+      "name": "Arden’s Kitchen Gosforth",
+      "rating": "3.8",
+      "reviewCount": "48",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ardens-kitchen-gosforth/Ire1Xmm1THe5ET8Y7Gqugw"
+    },
+    {
+      "name": "Bao Down",
+      "rating": "4.7",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bao-down-newcastle/8eIvtS1dUHKlgPbHcsXihg"
+    },
+    {
+      "name": "Ayesha's",
+      "rating": "4.3",
+      "reviewCount": "63",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ayeshas/u68FHiD5Wbue512PQN8m9A"
+    },
+    {
+      "name": "Smashburger",
+      "rating": "4.4",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/smashburger-newcastle/k20jJxrzRTmYVb5o_hh0Tg"
+    },
+    {
+      "name": "Fluffy Fluffy Newcastle",
+      "rating": "4.6",
+      "reviewCount": "25",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/fluffy-fluffy-newcastle/iXwRXWgQVA-QOgjntr3XTQ"
+    },
+    {
+      "name": "Sushi Daily",
+      "rating": "4.4",
+      "reviewCount": "45",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sushi-daily-jesmond/RXkqPIGmVSmsFlqyJQFDcQ"
+    },
+    {
+      "name": "Cooplands Bakery",
+      "rating": "4.2",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cooplands-bakery-shiremoor/WNtaoXOKVNWmOVBFOKA2KA"
+    },
+    {
+      "name": "The Anson",
+      "rating": "4.5",
+      "reviewCount": "55",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-anson-sizzling-pubs/3yrS2OEGVmecj6ot7iezmw"
+    },
+    {
+      "name": "Crepeaffaire",
+      "rating": "4.7",
+      "reviewCount": "240+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/crepeaffaire-newcastle/44sg3XwhQxmw1JOeC986ww"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "3.9",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/caffe-nero-newcastle/VDkZQa0ES_6xjU7j9pFXAg"
+    },
+    {
+      "name": "Panku Sushi Counter",
+      "rating": "3.7",
+      "reviewCount": "40",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/panku-sushi-counter-byker-asda/bIQHBLWSW2WVtOUMNEKERQ"
+    },
+    {
+      "name": "Tesco Cafe",
+      "rating": "3.4",
+      "reviewCount": "67",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tesco-cafe-gateshead/i0sEB4AKX-iDUKtFkP5qnA"
+    },
+    {
+      "name": "Scott & Wilson",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/scott-%26-wilson/V8XQL569Wja2-sC1oC3eQg"
+    },
+    {
+      "name": "Street Feud",
+      "rating": "4.0",
+      "reviewCount": "19",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/street-feud-newcastle-eldon-square/IFjMQlvPWguWuTyAeq8Dew"
+    },
+    {
+      "name": "Charlie Rose Cafe",
+      "rating": "4.2",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/charlie-rose-cafe/qQJ6Yy8QRRi-PnZZQCvTNw"
+    },
+    {
+      "name": "Super Nonna Pasta, Presto!",
+      "rating": "3.5",
+      "reviewCount": "36",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/super-nonna-pasta-presto!-newcastle-eldon-square/nNEJk2yqVwqUXmJNZsFErA"
+    },
+    {
+      "name": "Bella Italia Pizza & Pasta",
+      "rating": "4.1",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bella-italia-pizza-%26-pasta-newcastle-eldon-square/_O2jdgoUTemVSFYcMbjsAQ"
+    },
+    {
+      "name": "Creams Cafe",
+      "rating": "4.1",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/creams-cafe-newcastle/uM8AmfpgSFKihEI-WpHeUQ"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts & Coffee",
+      "rating": "4.7",
+      "reviewCount": "410+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-doughnuts-%26-coffee-newcastle/7t-1iv-HRPuOO5QvFKqJrw"
+    },
+    {
+      "name": "Bird Box",
+      "rating": "4.5",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/bird-box-newcastle-eldon-square/UCwUDaqvScmT9QXt32fwNw"
+    },
+    {
+      "name": "Shop'N Drive",
+      "rating": "3.9",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shopn-drive-byker/NpDP322kRLmeamD0VBbidA"
+    },
+    {
+      "name": "Savour Bakery Café & Patisserie Ltd",
+      "rating": "4.9",
+      "reviewCount": "16",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/savour-bakery-cafe-%26-patisserie-ltd/USQktQEPQempOmaw0oszgw"
+    },
+    {
+      "name": "Baba Mediterranean BBQ",
+      "rating": "3.7",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/baba-mediterranean-bbq/v6fCreG3QiS24FZVwEYy3Q"
+    },
+    {
+      "name": "Londis",
+      "rating": "4.7",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/londis-lobley-hill/T3latZ20QGOYl1KM5IZ6ag"
+    },
+    {
+      "name": "All Bar One Newcastle",
+      "rating": "4.2",
+      "reviewCount": "37",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/all-bar-one-newcastle/jQSipwHqTdKDj9sAQIzzDg"
+    },
+    {
+      "name": "Farmhouse Inns",
+      "rating": "2.5",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/farmhouse-inns-valley-farm-gateshead/WYF24V7DVQWLIyugDhWnOg"
+    },
+    {
+      "name": "Stacks",
+      "rating": "4.3",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/stacks-burgers-newcastle-eldon-square/hcQGzi2yTcu9KmhsOUZSxw"
+    },
+    {
+      "name": "Shijo",
+      "rating": "4.7",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shijo/fwKPQCoASaOeFqGj1tf48Q"
+    },
+    {
+      "name": "The Big Cake co.",
+      "rating": "4.4",
+      "reviewCount": "19",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-big-cake-co-gateshead/gIbzDMYBVg6BN0FJLPzgAw"
+    },
+    {
+      "name": "Pizza Cottage",
+      "rating": "4.4",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pizza-cottage/h9SmYR5LXHydt2JpcmOz_w"
+    },
+    {
+      "name": "The Bake One Express",
+      "rating": "4.3",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/the-bake-one-express/x860b4gbUNeUlRfeVDW4XQ"
+    },
+    {
+      "name": "Lean Cuisine Jesmond",
+      "rating": "4.4",
+      "reviewCount": "22",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/lean-cuisine-jesmond/oedKuNNsUvKKKz3UUiPqWQ"
+    },
+    {
+      "name": "Shell",
+      "rating": "4.8",
+      "reviewCount": "11",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shell-redheugh-bridge/rGX1aIgzUUCa7xP9FalTMQ"
+    },
+    {
+      "name": "One Stop Stores Wansbeck Road, Gosforth",
+      "rating": "4.9",
+      "reviewCount": "7",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-stores-wansbeck-road-gosforth/y--pDzgxXPiCEeooueFCFg"
+    },
+    {
+      "name": "Cake Box",
+      "rating": "4.5",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cake-box-gateshead/oTqMgnmLWvOEsaeuxs_GnQ"
+    },
+    {
+      "name": "Wing Shack",
+      "rating": "2.8",
+      "reviewCount": "52",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/wing-shack-clayton-road-ne2/WQgc-0aYVbGY7VnRUGD18w"
+    },
+    {
+      "name": "Wings Hut",
+      "rating": "4.9",
+      "reviewCount": "7",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/wings-hut/b9EiztP2UBOZKQSboXiR-g"
+    },
+    {
+      "name": "Maguires",
+      "rating": "4.3",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/maguires/zqHgk4wJVTqzMVoIhFvrXQ"
+    },
+    {
+      "name": "One Kitchen and Social Cafe",
+      "rating": "4.3",
+      "reviewCount": "39",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/one-kitchen-and-social-cafe/RqgH1pSTXDaJcMtx9y1mMA"
+    },
+    {
+      "name": "Morrisons",
+      "rating": "4.0",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-byker/oZJMbVtbVESSirjs1Vkt5w"
+    }
+  ]
+}

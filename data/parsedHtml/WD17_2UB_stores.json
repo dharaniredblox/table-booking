@@ -1,0 +1,737 @@
+{
+  "source": "UberEats",
+  "postalCode": "WD17_2UB",
+  "timestamp": "2025-09-15T09:57:32.729Z",
+  "count": 91,
+  "data": [
+    {
+      "name": "Greggs",
+      "rating": "3.9",
+      "reviewCount": "77",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-watford-114c-high-st/qU2eTqHdWHW66ee-herRfw"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.5",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-st-albans-road/ThXyM6w8XXGvpimDlvqpqw"
+    },
+    {
+      "name": "Sainsbury's Supermarket",
+      "rating": "4.2",
+      "reviewCount": "5,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-supermarket-watford/wKCo5BMXRB2sELEOd-PRtQ"
+    },
+    {
+      "name": "Starbucks ®",
+      "rating": "4.2",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-watford-the-parade/g6unXcnQSBqBXRvKSZlFpA"
+    },
+    {
+      "name": "Little Waitrose",
+      "rating": "4.7",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/little-waitrose-finchley-central/q-LX-V1qUamlDtcSvL0ZRA"
+    },
+    {
+      "name": "Chaiiwala Watford",
+      "rating": "4.1",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chaiiwala-watford/sjFVq74UV6Ka0bdXaW0pgQ"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "4.2",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-watford/8r-y0UUiXe698JKsfdfPdQ"
+    },
+    {
+      "name": "Black Sheep Coffee",
+      "rating": "4.4",
+      "reviewCount": "150+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/black-sheep-coffee-watford-shopping-centre/NI64U8fkWwCuvvJP4u2_YA"
+    },
+    {
+      "name": "Crispy Dosa",
+      "rating": "3.9",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/crispy-dosa-watford/1wgB4ROsUwiyckh1P3kKZA"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "3.8",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/popeyes-watford/4rQVomEdWJm8U_1Q7a1JGQ"
+    },
+    {
+      "name": "Subway",
+      "rating": "4.5",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/subway-king-st/HtoHkwDEQSO1dNO9c_GFWg"
+    },
+    {
+      "name": "Tim Hortons",
+      "rating": "4.0",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tim-hortons-watford/iLzSLFddWoSgLFXuACFVLg"
+    },
+    {
+      "name": "Wendy's",
+      "rating": "4.3",
+      "reviewCount": "340+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wendys-watford/zs648w7HUOiwh97idFGVQw"
+    },
+    {
+      "name": "GDK",
+      "rating": "4.2",
+      "reviewCount": "8,000+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/gdk-watford/If45EZnlRPCcwJJD71d-YA"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.7",
+      "reviewCount": "370+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-rickmansworth/o8ftp1zGUuqhwvQpGx9Jiw"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.7",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-watford-the-harlequin/i5U6MpboU_GlxFJqON7joQ"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/caffe-nero-watford/elz1UzX5Tn-St7nc0rVARQ"
+    },
+    {
+      "name": "Taco Bell",
+      "rating": "4.2",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/taco-bell-watford/BLDucvCMTMiou2nHNudYvg"
+    },
+    {
+      "name": "Perfect Blend",
+      "rating": "4.6",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/perfect-blend/HfHv2LjlTqymjKnUCi-LPg"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.5",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-sandy-lodge/ALn7iDFLXmezIaHto89fJQ"
+    },
+    {
+      "name": "Simmons Bakers",
+      "rating": "4.4",
+      "reviewCount": "350+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/simmons-bakers-croxley-green/XvJ-DNGYQW2spzuyqs8-Ww"
+    },
+    {
+      "name": "Gopuff Groceries",
+      "rating": "4.6",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/gopuff-groceries-harrow/9aAZynaCUfWopq9ThE91iw"
+    },
+    {
+      "name": "Holy Bagel-Watford",
+      "rating": "4.2",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/holy-bagel-watford/d_q8eCvUVmCNNplOhKzCjw"
+    },
+    {
+      "name": "Duran’s bistro",
+      "rating": "4.8",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/durans-bistro/u1yE0t2rQV-Lth-Vo8zjMA"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "rating": "4.1",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/papa-johns-pizza-market-street/BXd-AB2HQv-t_qkILwHTJA"
+    },
+    {
+      "name": "Chai Green",
+      "rating": "3.9",
+      "reviewCount": "44",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/chai-green-watford/c9sBIq41VPeYHFP67xqo0A"
+    },
+    {
+      "name": "EggsQuisite-Watford",
+      "rating": "3.9",
+      "reviewCount": "95",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/eggsquisite-watford/uvPph8qKVaa1GaIais7Vgg"
+    },
+    {
+      "name": "Courtlands Cafe",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/courtlands-cafe/_wfkWWq4RGu04Wj_DpDwJw"
+    },
+    {
+      "name": "La Brioche",
+      "rating": "4.9",
+      "reviewCount": "33",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/la-brioche/Gj8swD0LSk-T_H_D1RcTRw"
+    },
+    {
+      "name": "Byron Burgers & Fries",
+      "rating": "3.0",
+      "reviewCount": "21",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/byron-burgers-%26-fries-watford/RdaHVQtUXfqkTdP7jISMaQ"
+    },
+    {
+      "name": "Mother Clucker Fried Chicken",
+      "rating": "2.6",
+      "reviewCount": "12",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mother-clucker-fried-chicken-watford/rLIkgnPIUVCLEkse3YKPGg"
+    },
+    {
+      "name": "Kulcha Express",
+      "rating": "4.3",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "£0 Delivery Fee (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/kulcha-express/uV8vlv8PSWWy_qdziIJ0Hw"
+    },
+    {
+      "name": "Windmill Cafe",
+      "rating": "4.6",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/windmill-cafe/A3HhsGsyS3C_jBBYf9Xdvw"
+    },
+    {
+      "name": "Barracuda",
+      "rating": "4.5",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/barracuda/jv9Vx1kbQtyWtECe9owm2g"
+    },
+    {
+      "name": "Bubble CiTea",
+      "rating": "4.1",
+      "reviewCount": "22",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bubble-citea-watford/bWPcRHnqWZ-YG-DicZyjfA"
+    },
+    {
+      "name": "Roosters Piri Piri",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/roosters-piri-piri-watford/kbYsW05XS2ah0w9AJewtGA"
+    },
+    {
+      "name": "Pizza Hut Delivery",
+      "rating": "4.1",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pizza-hut-delivery-harrow-250-high-road/P24-vdAOXkqJNdvOPCkOxw"
+    },
+    {
+      "name": "Our Brothers Cafe LTD",
+      "rating": "4.2",
+      "reviewCount": "25",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/our-brothers-cafe-ltd/hp11F7aBRnOmvflibC1aDw"
+    },
+    {
+      "name": "Maeme’s Flame Grill Chicken",
+      "rating": "4.4",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/maemes-flame-grill-chicken/P0t2f8D7Qaq9WAbU54xh8Q"
+    },
+    {
+      "name": "Meriden Kitchen Cafe",
+      "rating": "3.9",
+      "reviewCount": "28",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/meriden-kitchen-cafe/Cn5IY-QoRKetrZqo0UiQGw"
+    },
+    {
+      "name": "Shop 'N Drive Watford",
+      "rating": "4.4",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shop-n-drive-watford/gU8qnCYmRrKZrHcFN5myRA"
+    },
+    {
+      "name": "Harvester",
+      "rating": "4.3",
+      "reviewCount": "370+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/harvester-mallard/U0fp1XaaQ0SAGGWGIilggQ"
+    },
+    {
+      "name": "Hayris Kebab House",
+      "rating": "3.9",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/hayris-kebab-house/M6tje5y_RrmIMH7b-amtyQ"
+    },
+    {
+      "name": "Brad & Dills St Albans",
+      "rating": "4.6",
+      "reviewCount": "31",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brad-%26-dills-st-albans/xkBD3_hjTcKsB16fQsjRcA"
+    },
+    {
+      "name": "Super Chef Restaurant",
+      "rating": "4.5",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/super-chef-restaurant/WuyHuiqdQvC949JK_07dmg"
+    },
+    {
+      "name": "Cafe/Kebab Rose",
+      "rating": "4.4",
+      "reviewCount": "340+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-kebab-rose/yqB0xDtfS--ctG4WV5fZ_Q"
+    },
+    {
+      "name": "Mooboo",
+      "rating": "4.6",
+      "reviewCount": "360+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mooboo-atria-watford/EDC9BXoSTAS4h--tj2iHnQ"
+    },
+    {
+      "name": "Wraps & Wings-Watford",
+      "rating": "4.0",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/wraps-%26-wings-watford/KBXUw1OiWsSqoUbGefEH6A"
+    },
+    {
+      "name": "Mad About Doner-Watford",
+      "rating": "3.9",
+      "reviewCount": "86",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/mad-about-doner-watford/2TjyO4pbWBCLdgG6cneQVQ"
+    },
+    {
+      "name": "Costcutter",
+      "rating": "4.7",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/costcutter-market-st/CERVCgDeRBuX9utx5bTRzQ"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts & Coffee",
+      "rating": "4.7",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-doughnuts-%26-coffee-watford/9iIaNfoST6OdVt0EyX5cnA"
+    },
+    {
+      "name": "SoBe Burger",
+      "rating": "4.3",
+      "reviewCount": "91",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/sobe-burger-wealdstone-south/0SjNi3vkUICUGHAq9t-dbQ"
+    },
+    {
+      "name": "Nashmills sandwich bar cafe",
+      "rating": "4.8",
+      "reviewCount": "290+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/nashmills-sandwich-bar-cafe/r143ZwlWXLiX-3SaDrPozw"
+    },
+    {
+      "name": "TGI Friday's",
+      "rating": "3.0",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 25% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/tgi-fridays-watford-central/03h3QuQgVUGZ9uGXYTxjKA"
+    },
+    {
+      "name": "The Breakfast Club",
+      "rating": "4.0",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-breakfast-club-st-albans/ejw3cuu7UTOc4Wi9PDLaCw"
+    },
+    {
+      "name": "Pucka Tucka",
+      "rating": "4.9",
+      "reviewCount": "8",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pucka-tucka/hXgC2IepXfCF5UJfquQoEQ"
+    },
+    {
+      "name": "Wimpy",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wimpy-rickmansworth/9bgvhk1WTxOfEpbF84fAjg"
+    },
+    {
+      "name": "Oak Caffe Stanmore",
+      "rating": "4.5",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/oak-caffe-stanmore/a967G5MCToWdvfTxiF_v9w"
+    },
+    {
+      "name": "Ben & Ollies Breakfast Bar",
+      "rating": "4.5",
+      "reviewCount": "62",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ben-%26-ollies-breakfast-bar/BpmUSUEgTUm-dLPtyuLhEA"
+    },
+    {
+      "name": "Kabul Korner",
+      "rating": "3.7",
+      "reviewCount": "420+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kabul-korner/w0pU6sA3VYCRUe-GFBSmlA"
+    },
+    {
+      "name": "Eden Lounge",
+      "rating": "4.3",
+      "reviewCount": "62",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/eden-lounge/sdBiL3vKQ2yPJZAtYT6Nxg"
+    },
+    {
+      "name": "Spuds & Shakes",
+      "rating": "3.9",
+      "reviewCount": "51",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/spuds-%26-shakes/boMCDqM-RUOM6_xd4GX_yA"
+    },
+    {
+      "name": "Shree Sai Vada Pav",
+      "rating": "4.0",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shree-sai-vada-pav/Hl7bjeNVRquolSSYUFIxOA"
+    },
+    {
+      "name": "Kenton Lane Cafe",
+      "rating": "4.5",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kenton-lane-cafe/0D-YuAzHR-apQZzSMqkEog"
+    },
+    {
+      "name": "Sam's Chicken",
+      "rating": "4.2",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/sams-chicken-wembley-grand-parade/Z1cfn0GASg6WmAfsr87EOg"
+    },
+    {
+      "name": "ITJL",
+      "rating": "4.7",
+      "reviewCount": "6,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/itjl-colindale/fuFLWcsqQX6KCB33sp3Yvw"
+    },
+    {
+      "name": "Dim Dum Korean Fried Chicken and Bao",
+      "rating": "4.7",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/dim-dum-korean-fried-chicken-and-bao-watford/iMmnHtDoXwaHHl59sEYNJg"
+    },
+    {
+      "name": "Sushi Daily",
+      "rating": "4.0",
+      "reviewCount": "28",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sushi-daily-northwood/v6t-MV2WW0ijFIXHNgAxtg"
+    },
+    {
+      "name": "Cafe Dacorum",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-dacorum/wJAkk64WQeqdtM-8gf0Wdg"
+    },
+    {
+      "name": "Baskin Robbins-Watford",
+      "rating": "4.6",
+      "reviewCount": "20",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/baskin-robbins-watford/ClQyiTFbUhGgQ9Jxgm4EeQ"
+    },
+    {
+      "name": "Cake Box",
+      "rating": "4.4",
+      "reviewCount": "460+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cake-box-watford/_c0tBU9qSvW3JHYQjLlpTg"
+    },
+    {
+      "name": "Mumbai Local",
+      "rating": "4.1",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mumbai-local-raynerslane/351Lq-FdSSi6lpfBretQgQ"
+    },
+    {
+      "name": "TA VA",
+      "rating": "4.3",
+      "reviewCount": "19",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ta-va/pv7jWlNIVKaVSVpCdfpa-A"
+    },
+    {
+      "name": "Creative Bites",
+      "rating": "2.8",
+      "reviewCount": "82",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/creative-bites/fb6FB0AgTaCeyoOBIe6LkQ"
+    },
+    {
+      "name": "Navana Cafe",
+      "rating": "4.8",
+      "reviewCount": "5",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/navana-cafe/FMEMOxTeRR2F-W_27xGa3Q"
+    },
+    {
+      "name": "Kebab Master-Colindale",
+      "rating": "2.9",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/kebab-master-colindale/2W9hPH1WXPmD0RwJ1o4PVg"
+    },
+    {
+      "name": "GFGM Restaurant",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/gfgm-restaurant/0a7u1PBAVY2wGPFXBGcMTg"
+    },
+    {
+      "name": "Cafe Hills",
+      "rating": "4.8",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-hills/NIiZBucfQc-HatfZkK9eOw"
+    },
+    {
+      "name": "Haute Dolci Watford",
+      "rating": "3.6",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/haute-dolci-watford/sNteJrarT2mm9WB69XB3LA"
+    },
+    {
+      "name": "Belmont Cafe",
+      "rating": "4.6",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/belmont-cafe/2bJait-mRBWpqg9F8TFelQ"
+    },
+    {
+      "name": "Sangeetha Vegetarian Restaurant",
+      "rating": "4.1",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sangeetha-vegetarian-restaurant/xtufzRZBXFu2Q66UDrmtAg"
+    },
+    {
+      "name": "CHICKEN LAND",
+      "rating": "4.3",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/chicken-land-edgware/CxlDy1-gXBCv9K4BNNQ2Kg"
+    },
+    {
+      "name": "Pasta Evangelists",
+      "rating": "4.2",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/pasta-evangelists-brent-cross/tR2cPQocW3GBMAOZG6s4LA"
+    },
+    {
+      "name": "Momo Thai",
+      "rating": "4.1",
+      "reviewCount": "290+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/momo-thai/OB68xOD-WIefg2QDrdIQ1w"
+    },
+    {
+      "name": "Sambal Express",
+      "rating": "4.2",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sambal-express-rayners-lane/XD0AI7grWS-Vp5E31jHu9g"
+    },
+    {
+      "name": "Walli’s Chicken-Colindale",
+      "rating": "3.4",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/wallis-chicken-colindale/mLzbT93jVK2xM1u0C7gKjw"
+    },
+    {
+      "name": "Shenley Sandwich Bar",
+      "rating": "4.7",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shenley-sandwich-bar/u952oR4XSw-fJz02DGMAvA"
+    },
+    {
+      "name": "Shell",
+      "rating": "4.1",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shell-little-waitrose-sceptre/B_WRcONNUsSX1cVJfEY-hA"
+    },
+    {
+      "name": "Morrisons",
+      "rating": "3.7",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-watford/nWoVmlqFWLWvO7J704UpHQ"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/pret-a-manger-watford/W6gKfT1AShSlBJJzoucy-A"
+    },
+    {
+      "name": "Burger King",
+      "rating": "4.0",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burger-king-watford-intu-sc/BT341lWTQv-0zvel-0WDNA"
+    }
+  ]
+}

@@ -1,0 +1,748 @@
+{
+  "source": "UberEats",
+  "postalCode": "EH1_1BB",
+  "timestamp": "2025-09-15T09:57:19.588Z",
+  "count": 90,
+  "data": [
+    {
+      "name": "Greggs",
+      "rating": "4.1",
+      "reviewCount": "23",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-edinburgh-u42-gyle-sc/9bJPja5aVT6Zi2PTGBWPRw"
+    },
+    {
+      "name": "Jollibee",
+      "rating": "4.3",
+      "reviewCount": "8,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/jollibee-edinburgh/vSfaffMNXhqvqS8G0rlulw"
+    },
+    {
+      "name": "Burger King",
+      "rating": "4.1",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burger-king-edinburgh-princes-st/M4QiJUNLRx-nI8JhCVgCWA"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.8",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-frederick-street-edinburgh/QeAPHAp_V1aIRVj9VzS7kg"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "4.1",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/popeyes-edinburgh-princes-street/8LPRp8fbXMOK7EM1u88gGg"
+    },
+    {
+      "name": "Waitrose & Partners",
+      "rating": "4.6",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/waitrose-%26-partners-comely-bank/lA_dNPfNW96PKWJK8qYnTQ"
+    },
+    {
+      "name": "Black Sheep Coffee- 25 Princes Street Waverley steps",
+      "rating": "4.5",
+      "reviewCount": "47",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/black-sheep-coffee-25-princes-street-waverley-steps/IlzUUw4zUqGzRTcdkzbkcg"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.5",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/pret-a-manger-edinburgh-hanover-street/eFDiVqtQT4-E_mef-t4GKA"
+    },
+    {
+      "name": "Taco Bell",
+      "rating": "4.1",
+      "reviewCount": "9,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/taco-bell-edinburgh/N9RJJSCSTviQRzoriMCd5w"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.7",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-easter-road/x4s8gKa9WhimwMOTIswU2Q"
+    },
+    {
+      "name": "Subway",
+      "rating": "4.1",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/subway-122-lothian-road/bJPD51j7Sh6oTgLrXl3fIA"
+    },
+    {
+      "name": "Pablo Eggsgobao",
+      "rating": "4.9",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pablo-eggsgobao-edinburgh-inverleith/zYySNIrOWOKxX9wH67cmjQ"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.9",
+      "reviewCount": "390+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-edinburgh-101princes-st/k0ma3osgUmKSEoLUuboYxg"
+    },
+    {
+      "name": "Maycheelin Asian Supermarket 美麒麟亚洲超市",
+      "rating": "4.9",
+      "reviewCount": "10",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/maycheelin-asian-supermarket-美麒麟亚洲超市-forrest-road/QsvrjR7TUZqd45AVI-Qe_g"
+    },
+    {
+      "name": "Bens Bagel",
+      "rating": "4.8",
+      "reviewCount": "39",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bens-bagel/RAK2mdyHTd6fyegU3x1fGQ"
+    },
+    {
+      "name": "Triple-Tri Coffee",
+      "rating": "4.4",
+      "reviewCount": "75",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/triple-tri-coffee/RVgtmBOdWam7WUbD2R8c7A"
+    },
+    {
+      "name": "Bagel Factory",
+      "rating": "4.0",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bagel-factory-edinburgh/j5vqAX8oQNezicnTIL0Zkw"
+    },
+    {
+      "name": "Açai Bros",
+      "rating": "4.7",
+      "reviewCount": "35",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/acai-bros/XSJgb375Qiaki9EUkikfLg"
+    },
+    {
+      "name": "Costa Coffee",
+      "rating": "4.7",
+      "reviewCount": "16",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/costa-coffee-edin-st-andrew-sq/YekowD7vXCOXBEDcAJFtBw"
+    },
+    {
+      "name": "Pirlous Cafe",
+      "rating": "4.7",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pirlous-cafe/ApMslEQTQVyjbjqTfZe81Q"
+    },
+    {
+      "name": "Scran Bistro",
+      "rating": "4.4",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/scran-bistro/ZljlNDuYU4-ttBoNd61Ptw"
+    },
+    {
+      "name": "KFC Edinburgh",
+      "rating": "3.9",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-edinburgh-waverly-mall/z9ehkzR-RQ-1wdENZPtzHg"
+    },
+    {
+      "name": "Bella Italia Pizza & Pasta",
+      "rating": "3.9",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bella-italia-pizza-%26-pasta-edinburgh-northbridge/oIz0d0WaTJq8uy1M3bC7XQ"
+    },
+    {
+      "name": "Morrisons Daily",
+      "rating": "4.6",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-daily-danderhall/JvwaYMlKSRKxg2JGQI7PxA"
+    },
+    {
+      "name": "Mother Clucker Fried Chicken",
+      "rating": "2.4",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mother-clucker-fried-chicken-edinburgh/LfVAbflpUESWleIh4Id3Kw"
+    },
+    {
+      "name": "Byron Burgers & Fries",
+      "rating": "2.6",
+      "reviewCount": "28",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/byron-burgers-%26-fries-edinburgh/YQNNCNaRXKqFteqvNXrptw"
+    },
+    {
+      "name": "Chilo's Burgers",
+      "rating": "4.4",
+      "reviewCount": "430+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/chilos-burgers-clerk-st/owU_Zw2SW0WaAzQ9U3WWhg"
+    },
+    {
+      "name": "YO! sushi counter",
+      "rating": "2.6",
+      "reviewCount": "10",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yo!-sushi-counter-edinburgh-tesco/py9VlcVhWB60cDL3dUER3g"
+    },
+    {
+      "name": "Tiger Dragon 握虎馋龙",
+      "rating": "4.2",
+      "reviewCount": "51",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/tiger-dragon-握虎馋龙/Nu0F74aCXS2Uztc8kaEaUA"
+    },
+    {
+      "name": "La Viola Cafe & Bistro",
+      "rating": "4.5",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/la-viola-cafe-%26-bistro-edinburgh/LbRSNF_BR5ySG9_ATkTzkQ"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.2",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/caffe-nero-edinburgh-barnton/jMkCAdukSQGay4ZVwu5ECg"
+    },
+    {
+      "name": "CLUB SANDWICH CAFE",
+      "rating": "4.7",
+      "reviewCount": "44",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/club-sandwich-cafe/GIngNU5CQN-KqKcWTqQNfw"
+    },
+    {
+      "name": "Haute Dolci",
+      "rating": "4.3",
+      "reviewCount": "21",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/haute-dolci-edinburgh/6qeVjRhPVru7eZsufp0mMA"
+    },
+    {
+      "name": "Kick-Ass Burrito",
+      "rating": "3.2",
+      "reviewCount": "36",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/kick-ass-burrito-edinburgh-george-street/QPdBXjTeWtCXi94uD51lTA"
+    },
+    {
+      "name": "Bowls",
+      "rating": "4.5",
+      "reviewCount": "420+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bowls/UJavUbdOTl21Ky37NqRa8w"
+    },
+    {
+      "name": "Newington Cafe Restaurant",
+      "rating": "4.3",
+      "reviewCount": "310+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/newington-cafe-restaurant/Nfrjz_4UTfq_ZS0D7Tqi3A"
+    },
+    {
+      "name": "Erbil",
+      "rating": "4.5",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/erbil/T9chvMfWTYyvLfvKXGmOIQ"
+    },
+    {
+      "name": "Majestic Wine",
+      "rating": "5.0",
+      "reviewCount": "83",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/majestic-wine-causewayside/iU7Fho8uXeCOeUtGT834yA"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts & Coffee",
+      "rating": "4.5",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-doughnuts-%26-coffee-mini-theatre/xnyJwEZeS-OEOwQmru9Iow"
+    },
+    {
+      "name": "Shoppers spot",
+      "rating": "4.6",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shoppers-spot/FAYAsjIrQriQ307-yraYpg"
+    },
+    {
+      "name": "GO! PIZZA!",
+      "rating": "4.4",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/go!-pizza!/tmw_nBYjTZyoWPqtRU_MAA"
+    },
+    {
+      "name": "Che",
+      "rating": "4.3",
+      "reviewCount": "390+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/che-takeaway/v60_GKCqQgy2SAcvM6nmnQ"
+    },
+    {
+      "name": "Wrap Up",
+      "rating": "4.7",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/wrap-up-囍卷/CRFqLOjuUsq-sVYICbBePA"
+    },
+    {
+      "name": "bp M&S Food Canonmills",
+      "rating": "4.1",
+      "reviewCount": "35",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/bp-m%26s-food-canonmills/uOctfiGwWX-oNX1xEIdmmA"
+    },
+    {
+      "name": "TGI Friday's",
+      "rating": "3.9",
+      "reviewCount": "340+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 25% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/tgi-fridays-edinburgh/Q9HzVm3-WxKSMoLmQAQ2vg"
+    },
+    {
+      "name": "Taste of Italy",
+      "rating": "4.1",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/taste-of-italy/sov7-_-nVoqBLzxiWwn2Eg"
+    },
+    {
+      "name": "Danny's Grill & Cafe",
+      "rating": "5.0",
+      "reviewCount": "4",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £30, Save £8"
+      ],
+      "url": "https://www.ubereats.com/store/dannys-grill-%26-cafe/DbQEub0kSi-gMEkr3SdC5Q"
+    },
+    {
+      "name": "Pizza Hut Delivery",
+      "rating": "4.4",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pizza-hut-delivery-newington/1MitQJzkQqKzXBqBnWOy5A"
+    },
+    {
+      "name": "Stacks",
+      "rating": "4.2",
+      "reviewCount": "470+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/stacks-burgers-edinburgh-ocean-terminal/r7DGwEr5Ssei8B_R5Vrdxw"
+    },
+    {
+      "name": "Las Iguanas",
+      "rating": "4.3",
+      "reviewCount": "410+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/las-iguanas-edinburgh-george-street/2_OBIuWRWyWezGbixG-NCw"
+    },
+    {
+      "name": "Landy's",
+      "rating": "4.4",
+      "reviewCount": "25",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/landys/CS8UWz9FXK6DH3HENwaXyg"
+    },
+    {
+      "name": "Arboosh",
+      "rating": "4.1",
+      "reviewCount": "37",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/arboosh/IBxfLHw2V5aMyeL_HXcRAw"
+    },
+    {
+      "name": "Farmhouse Inns",
+      "rating": "3.9",
+      "reviewCount": "92",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/farmhouse-inns-elginhaugh-farm-midlothian/Dzw6Tt_5Ufyk60rtjeMXTg"
+    },
+    {
+      "name": "Bird Box",
+      "rating": "4.2",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/bird-box-edinburgh-ocean-terminal/ns9wUgadTwiGucibuGJNzQ"
+    },
+    {
+      "name": "Costcutter",
+      "rating": "4.2",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/costcutter-inverleith-row/Tn5A0BnjTPCIiA3M_o8www"
+    },
+    {
+      "name": "Miss Millie's Chicken",
+      "rating": "4.4",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/miss-millies-chicken-monktonhall/7IhFfX5PXAu8QQa5EqlNtQ"
+    },
+    {
+      "name": "Envelope and Bacon",
+      "rating": "4.4",
+      "reviewCount": "11",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/envelope-and-bacon/R6GeTMELX-Ksn-707ATGtA"
+    },
+    {
+      "name": "Berties Proper Fish and Chips",
+      "rating": "4.3",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/berties-proper-fish-and-chips/tE8LOS2NQjem2r600TSwGA"
+    },
+    {
+      "name": "Frankie & Benny's",
+      "rating": "4.3",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/frankie-%26-bennys-edinburgh-ocean-terminal/jXa08duoSMGCmmY5s1OzKQ"
+    },
+    {
+      "name": "Ola Kala",
+      "rating": "4.6",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ola-kala/HTCemkxmSRK70YhUpoB6aQ"
+    },
+    {
+      "name": "Londis Monktonhall",
+      "rating": "5.0",
+      "reviewCount": "30",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/londis-monktonhall/16UZNq9jVpqkS6vtX2SAog"
+    },
+    {
+      "name": "Greek Artisan Pastries",
+      "rating": "4.9",
+      "reviewCount": "92",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greek-artisan-pastries-portobello/SBmNqJwAQaiDluVStPwkmQ"
+    },
+    {
+      "name": "Stone Willy's Kitchen",
+      "rating": "3.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/stone-willys-kitchen/_AdcOHyOTousPnZvyjFQKw"
+    },
+    {
+      "name": "Street Feud",
+      "rating": "4.2",
+      "reviewCount": "38",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/street-feud-edinburgh-fort-kinnaird/eHiys2RiWeS8eJB8k-_48Q"
+    },
+    {
+      "name": "Morrisons",
+      "rating": "3.7",
+      "reviewCount": "360+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-portobello-rd/WkoKZeJmXfysT0TrUKKrug"
+    },
+    {
+      "name": "ASDA",
+      "rating": "4.3",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/asda-leith/J1zAMjYvSKGzryqSefV7vw"
+    },
+    {
+      "name": "The Nile valley cafe",
+      "rating": "4.8",
+      "reviewCount": "360+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-nile-valley-cafe/g5qnMCNWT56dZoCunt2xIw"
+    },
+    {
+      "name": "275 Cafe",
+      "rating": "4.3",
+      "reviewCount": "34",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/275-cafe/NlVUlsDNVfOqClm-UN_FcA"
+    },
+    {
+      "name": "Red Velvet Cafe",
+      "rating": "4.2",
+      "reviewCount": "11",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/red-velvet-cafe/12cTQh8RT2K6k8H2j3f1oA"
+    },
+    {
+      "name": "Bonnie bites ltd",
+      "rating": "3.7",
+      "reviewCount": "58",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bonnie-bites-ltd/AQPIVoh2X3G3zmO2VnCnCQ"
+    },
+    {
+      "name": "Presko Breakfast",
+      "rating": "4.5",
+      "reviewCount": "390+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/presko-breakfast/EaG6e7q2WpqsTyroKXo3yQ"
+    },
+    {
+      "name": "Scotts Newsagent",
+      "rating": "4.7",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/scotts-newsagent/SXw1vKdIQhCgiXI1P_-MOA"
+    },
+    {
+      "name": "Quick & Plenty Cafe",
+      "rating": "3.8",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/quick-%26-plenty-cafe/I57iA3ieVPCjLQMGyZ4xqA"
+    },
+    {
+      "name": "The Melville Inn",
+      "rating": "4.3",
+      "reviewCount": "55",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-melville-inn-vintage-inns-classic-midlothian-edinburgh-melville-nursery/Hmap7L1QUimZ8hMW6F1vfA"
+    },
+    {
+      "name": "Happy Bean Cafe",
+      "rating": "4.8",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, get a free item"
+      ],
+      "url": "https://www.ubereats.com/store/happy-bean-cafe/Arbk5dKbXNqSNexDx4UwDQ"
+    },
+    {
+      "name": "Yes Cafe",
+      "rating": "4.7",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yes-cafe/8pvCZhAAX4G65NkC6M4vWQ"
+    },
+    {
+      "name": "Qupi Cafe",
+      "rating": "4.6",
+      "reviewCount": "94",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/qupi-cafe/KY0YJBGHSXyt8elMhfPIcQ"
+    },
+    {
+      "name": "The Tattie Creel",
+      "rating": "4.8",
+      "reviewCount": "320+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-tattie-creel/ZJD-J4o-QpG3VBJDy89kSA"
+    },
+    {
+      "name": "Baguette Express Portobello",
+      "rating": "3.8",
+      "reviewCount": "76",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/baguette-express-portobello/lHYGGjqiVYCoKm_UG1S0Zg"
+    },
+    {
+      "name": "Sunrise Cafe & Bistro",
+      "rating": "5.0",
+      "reviewCount": "8",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sunrise-cafe-%26-bistro/UxHlW_38QVK7kYZ6n6Kepw"
+    },
+    {
+      "name": "The Coffee Connection",
+      "rating": "4.5",
+      "reviewCount": "30",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-coffee-connection/2j94ftrbRE-39fxSPatiOw"
+    },
+    {
+      "name": "Knoops",
+      "rating": "3.9",
+      "reviewCount": "25",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/knoops-edinburgh-old-town-victoria-street/dwgoX6HTXv6gwEECD-dT-A"
+    },
+    {
+      "name": "Coro Chocolate Cafe",
+      "rating": "3.8",
+      "reviewCount": "89",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/coro-chocolate-cafe/wZYavt8TVtmKo8DePlGEmA"
+    },
+    {
+      "name": "Cupp Bubble Tea",
+      "rating": "4.4",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/cupp-bubble-tea-lothian-road/gS6mw9qeUke_xnE1PbATBg"
+    },
+    {
+      "name": "Roundsquare Coffee House",
+      "rating": "4.8",
+      "reviewCount": "16",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/roundsquare-coffee-house/_Qimg6x6UDauICRWmI7mFw"
+    },
+    {
+      "name": "One Stop Stores Corstorphine",
+      "rating": "4.8",
+      "reviewCount": "29",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-stores-corstorphine/Y95mVICZVp2AL4ohFMRexg"
+    },
+    {
+      "name": "BaGet Stuffed",
+      "rating": "4.8",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/baget-stuffed/HVZLvMt7ThGBki1ysCw2oA"
+    },
+    {
+      "name": "Bayne's the Family Bakers",
+      "rating": "4.7",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/baynes-the-family-bakers-edinburgh/Bs36fE5cVOGKnPMpfhNxcg"
+    },
+    {
+      "name": "Bonnington Brunch",
+      "rating": "4.7",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bonnington-brunch/V1OhaR33TnCzEykdjaK3ug"
+    },
+    {
+      "name": "Starbucks ®",
+      "rating": "3.9",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-waverley-steps/y4W9Gk2oRaam5MR3eii5Ew"
+    }
+  ]
+}

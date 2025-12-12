@@ -1,9 +1,11 @@
 import puppeteer from 'puppeteer-extra';
 import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import fs from "fs";
+import path from "path";
 import { saveElementHtml } from '../utils/file-handler.js';
 
-const URL = "https://www.ubereats.com/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMlVCMSUyMDFTUSUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUpzUXMxdDZ4eWRrZ1JzMmNtdGJDX0RBayUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0E1MS41MDgwODgzJTJDJTIybG9uZ2l0dWRlJTIyJTNBLTAuMzc3NDY4MyU3RA%3D%3D"
+// This is doneconst URL = "https://www.ubereats.com/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMlVCMSUyMDFTUSUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUpzUXMxdDZ4eWRrZ1JzMmNtdGJDX0RBayUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0E1MS41MDgwODgzJTJDJTIybG9uZ2l0dWRlJTIyJTNBLTAuMzc3NDY4MyU3RA%3D%3D"
+const URL = "https://www.ubereats.com/feed?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkRBMTclMjA2QVglMjIlMkMlMjJyZWZlcmVuY2UlMjIlM0ElMjJDaElKbVNqS0NKV3YyRWNSenBXS0t6UjJjZEklMjIlMkMlMjJyZWZlcmVuY2VUeXBlJTIyJTNBJTIyZ29vZ2xlX3BsYWNlcyUyMiUyQyUyMmxhdGl0dWRlJTIyJTNBNTEuNDk2MDg0NyUyQyUyMmxvbmdpdHVkZSUyMiUzQTAuMTYxOTM4NiU3RA%3D%3D&ps=1"
 /* ----------------------------- Utilities ----------------------------- */
 
 const logStep = (msg) => console.log(`🔎 ${msg}`);
@@ -41,57 +43,6 @@ async function autoScroll(page, { maxPasses = 12, pauseMs = 600 } = {}) {
  * @param {string|null} className Optional class filter
  * @param {boolean} debug Print debug logs
  */
-// async function getNthChild(handle, n, className = null, debug = false) {
-//   return await handle.evaluateHandle(
-//     (el, { idx, cls, debug }) => {
-//       const children = Array.from(el.children);
-
-//       if (debug) {
-//         console.log(
-//           `\n🔍 Found ${children.length} direct children under <${el.tagName.toLowerCase()}>`
-//         );
-//         children.forEach((c, i) => {
-//           console.log(
-//             `   [${i + 1}] <${c.tagName.toLowerCase()}> class="${c.className}"`
-//           );
-//         });
-//       }
-
-//       let target = null;
-
-//       if (cls) {
-//         const matching = children.filter(c =>
-//           c.className.includes(cls)
-//         );
-
-//         if (debug) {
-//           console.log(
-//             `🔎 Filtering by class="${cls}" → ${matching.length} match(es) found`
-//           );
-//         }
-
-//         target = matching[idx - 1] || null;
-//       } else {
-//         target = children[idx - 1] || null;
-//       }
-
-//       if (debug) {
-//         if (target) {
-//           console.log(
-//             `✅ Returning child [${idx}] → <${target.tagName.toLowerCase()}> class="${target.className}"`
-//           );
-//         } else {
-//           console.log(
-//             `❌ Child [${idx}] ${cls ? "with class=" + cls : ""} not found.`
-//           );
-//         }
-//       }
-
-//       return target;
-//     },
-//     { idx: n, cls: className, debug }
-//   );
-// }
 async function getNthChild(handle, n, className = null, debug = false) {
   return await handle.evaluateHandle(
     (el, { idx, cls, dbg }) => {
@@ -346,11 +297,15 @@ function extractStoresFromCaptured(captured) {
 
 /* ------------------------------ Scraper ------------------------------ */
 
-class UberEatsScraper {
-  constructor(url) {
+export class UberEatsScraper {
+  constructor(url, { saveNet = false, downloadOnly = false, postalCode = "N/A", outputDir = "./data/rawHtml" }) {
     this.url = url;
     this.browser = null;
     this.page = null;
+    this.saveNet = saveNet;
+    this.postalCode = postalCode !== "N/A" ? postalCode : `${Date.now().toString()}_POSTALCODE_N/A`;
+    this.downloadOnly = downloadOnly;
+    this.outputDir = outputDir;
   }
 
   async init() {
@@ -373,7 +328,9 @@ class UberEatsScraper {
       deviceScaleFactor: 1
     });
     // ✅ add this line
-    this.net = await setupNetworkCapture(this.page, { dir: "netlogs" });
+    if (this.saveNet) {
+      this.net = await setupNetworkCapture(this.page, { dir: "netlogs" });
+    }
     // ✅ Enable request interception BEFORE navigation
     await this.page.setRequestInterception(true);
 
@@ -407,12 +364,24 @@ class UberEatsScraper {
     logStep("Main content detected.");
 
     // Let initial content settle
-    await sleep(3000);
+    await sleep(5000);
 
     // Load more content
     await autoScroll(this.page);
-    const html = await this.page.content();
-    fs.writeFileSync("page_after_js.html", html, "utf-8");
+    if (this.downloadOnly) {
+      const html = await this.page.content();
+      ensureDir(this.outputDir);
+      console.log(`ensured dir: ${this.outputDir}`);
+
+      // Create a safe filename by replacing invalid characters
+      const safePostalCode = this.postalCode.replace(/[\\/:*?"<>|]/g, '_');
+      const filePath = path.join(this.outputDir, `${safePostalCode}_page_after_js.html`);
+
+      // Write the file
+      fs.writeFileSync(filePath, html, "utf-8");
+      console.log(`💾 Saved page after JS html file [From INIT FUNCTION] → ${filePath}`);
+      return;
+    }
   }
 
   /** Follow your DOM flow strictly and return the feed-desktop container handle. */
@@ -563,22 +532,23 @@ class UberEatsScraper {
   async run() {
     try {
       await this.init();
+      if (this.downloadOnly)
+        return;
+      if (this.saveNet) {
         // 🛰️ dump captured network responses
-    dumpCapturedJson(this.net.captured, this.net.dir);
-    console.log(`🛰️ Captured JSON responses: ${this.net.captured.length}`);
+        dumpCapturedJson(this.net.captured, this.net.dir);
+        console.log(`🛰️ Captured JSON responses: ${this.net.captured.length}`);
+        // 🔎 Try to extract stores from the captured JSON
+        const netStores = extractStoresFromCaptured(this.net.captured);
+        logData("Extracted (network)", netStores);
 
-    // 🔎 Try to extract stores from the captured JSON
-    const netStores = extractStoresFromCaptured(this.net.captured);
-    logData("Extracted (network)", netStores);
-
-    if (netStores.length) {
-      fs.writeFileSync("ubereats_network.json", JSON.stringify(netStores, null, 2));
-      console.log("💾 Saved → ubereats_network.json");
-      // ✅ If we got data from the network, we can stop here (skip DOM path)
-      return;
-    }
-F
-
+        if (netStores.length) {
+          fs.writeFileSync("ubereats_network.json", JSON.stringify(netStores, null, 2));
+          console.log("💾 Saved → ubereats_network.json");
+          // ✅ If we got data from the network, we can stop here (skip DOM path)
+          return;
+        }
+      }
       // Follow the exact flow to the feed-desktop
       const feedDesktop = await this.getFeedDesktopHandle();
 
@@ -590,11 +560,13 @@ F
       logData("All Stores", data.allStores);
 
       // Save
-      fs.writeFileSync("ubereats.json", JSON.stringify(data, null, 2));
-      console.log("💾 Saved → ubereats.json");
+      fs.writeFileSync(`${this.postalCode}.json`, JSON.stringify(data, null, 2));
+      console.log("💾 Saved extracted data from main page  → " + this.postalCode + ".json");
     } catch (err) {
-      console.error("❌ Error:", err.message || err);
+      console.log(err)
+      console.error("❌ Error from mainPageScrapper:", err.message || err);
     } finally {
+      console.log("Closing browser\n");
       if (this.browser) await this.browser.close();
     }
   }
@@ -602,7 +574,7 @@ F
 
 /* ------------------------------ Execute ------------------------------ */
 
-(async () => {
-  const scraper = new UberEatsScraper(URL);
-  await scraper.run();
-})();
+// (async () => {
+//   const scraper = new UberEatsScraper(URL, { saveNet: false, downloadOnly: true, postalCode: "N/A", outputDir: "./data/rawHtml" });
+//   await scraper.run();
+// })();

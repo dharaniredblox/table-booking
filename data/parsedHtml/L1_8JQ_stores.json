@@ -1,0 +1,649 @@
+{
+  "source": "UberEats",
+  "postalCode": "L1_8JQ",
+  "timestamp": "2025-09-15T09:57:21.995Z",
+  "count": 83,
+  "data": [
+    {
+      "name": "McDonald's®",
+      "rating": "4.1",
+      "reviewCount": "15,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mcdonalds-ranelagh-house/-JGCWaACRHyELt4DzkijTg"
+    },
+    {
+      "name": "Greggs",
+      "rating": "4.2",
+      "reviewCount": "55",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-liverpool-u4-209-great-howard/jny91gvUU1uz5xitpd9j1w"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.6",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-leece-street-liverpool/gv8ZTOI3VNiIqnfwDzN-iQ"
+    },
+    {
+      "name": "Sainsbury's Local",
+      "rating": "4.6",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-local-liverpool-castle-street/O_qWWS75WZaaKFhwtNl84Q"
+    },
+    {
+      "name": "Black Sheep Coffee",
+      "rating": "4.2",
+      "reviewCount": "320+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/black-sheep-coffee-liverpool-whitechapel/PgDYgFHRXUmvMufvYcE88g"
+    },
+    {
+      "name": "Tim Hortons",
+      "rating": "3.9",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tim-hortons-liverpool-great-homer-st/bPk9BWwAWkevMU5WmHi_iw"
+    },
+    {
+      "name": "Subway",
+      "rating": "4.0",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/subway-ranelagh-street/zh_vpEejR5yGKrg4unjadw"
+    },
+    {
+      "name": "Costa Coffee",
+      "rating": "4.1",
+      "reviewCount": "54",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/costa-coffee-liverpool-clayton-sq/ohcZ6haAWdWQzpVQ-xSlfQ"
+    },
+    {
+      "name": "Gopuff Groceries",
+      "rating": "4.6",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/gopuff-groceries-liverpool/3V8mdS76VQ-7U8rigLDcfA"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.5",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-linacre-lane/nyUeuJ0VUcKLmDXtvrLSCw"
+    },
+    {
+      "name": "One Stop Stores Liverpool Prescot St",
+      "rating": "4.5",
+      "reviewCount": "360+",
+      "deliveryTime": "",
+      "offers": [
+        "4 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-stores-liverpool-prescot-st/52wHw8ATU0yRpE07JowMjw"
+    },
+    {
+      "name": "One Stop Liverpool Heyworth",
+      "rating": "4.4",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-liverpool-heyworth/rYW2HfhSV5u2yYS68MJTRw"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "3.4",
+      "reviewCount": "19",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-liverpool-shopping-park-dt/ZHMp_ya8Uje4ETCTJgL-tw"
+    },
+    {
+      "name": "Smashin Burger at Mt. Pleasant Market",
+      "rating": "4.1",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/smashin-burger-at-mt-pleasant-market/lnvSxa1kVYybm6buEBxO2w"
+    },
+    {
+      "name": "Morrisons Daily",
+      "rating": "4.2",
+      "reviewCount": "380+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-daily-liverpool-walton/nCC7OyTxRZCKni3_mR7vWA"
+    },
+    {
+      "name": "Wendy's",
+      "rating": "4.1",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/wendys-liverpool-academy/OBTAqepKXwmJisvm9_MOdQ"
+    },
+    {
+      "name": "DUNKIN' Donuts & Coffee",
+      "rating": "4.2",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dunkin-donuts-%26-coffee-lord-street/GVyPLiLGWtKuJv_FXHCprg"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.3",
+      "reviewCount": "87",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/caffe-nero-liverpool-castle-st/81L6jSDVRv6IQm6qvIt1gQ"
+    },
+    {
+      "name": "Shop'N Drive",
+      "rating": "4.4",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shopn-drive-islington/eh3V6FGYQOO4i5hkcn5BoA"
+    },
+    {
+      "name": "Shell Edge Lane",
+      "rating": "4.6",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shell-edge-lane/H8HvqdZ5WO23r83-wzqWpg"
+    },
+    {
+      "name": "ALCOHOL DELIVERY LIVERPOOL",
+      "rating": "4.1",
+      "reviewCount": "69",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/alcohol-delivery-liverpool/uJgR4dz5Q1mzgAXwNBNmTQ"
+    },
+    {
+      "name": "BP Priory Garage",
+      "rating": "4.5",
+      "reviewCount": "470+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bp-priory-garage/4Yp-G0jMQW2MG4v2DN2WZA"
+    },
+    {
+      "name": "Weight Loss Prep Kitchen",
+      "rating": "4.4",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "offers": [
+        "10% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/weight-loss-prep-kitchen/by9H4gJcX7CR23nzkiD-tA"
+    },
+    {
+      "name": "Appebite Bistro",
+      "rating": "4.6",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/appebite-bistro/h08yXkHCQ6mUPPY_JD4usA"
+    },
+    {
+      "name": "Burger King",
+      "rating": "4.0",
+      "reviewCount": "7,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/burger-king-liverpool-ranelagh/PNWnvIaDSRGjJrI5rRi7mQ"
+    },
+    {
+      "name": "Q’s Kitchen",
+      "rating": "4.4",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/qs-kitchen/S_t5xYryRoCR_wHR8v_76A"
+    },
+    {
+      "name": "Phat Buns",
+      "rating": "4.1",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/phat-buns-liverpool/Y0EsMYasULGD_hU1YJUjVw"
+    },
+    {
+      "name": "The Big Sandwich Club",
+      "rating": "4.3",
+      "reviewCount": "440+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-big-sandwich-club/4IiNs6SqWI6U79tFfhwIzg"
+    },
+    {
+      "name": "Parliament Square Coffee",
+      "rating": "4.8",
+      "reviewCount": "3",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/parliament-square-coffee/slDqQieOXkS8WZXTnLztMg"
+    },
+    {
+      "name": "Ikkayees Indian Restaurant",
+      "rating": "4.2",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ikkayees-indian-restaurant-liverpool-city-centre/s_YVkkK4SWm6MbgC3ihcUQ"
+    },
+    {
+      "name": "ASDA",
+      "rating": "4.3",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/asda-breck-road/CpPSgq5rXf-Bs6tEC6A2nQ"
+    },
+    {
+      "name": "Nest",
+      "rating": "4.7",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/nest/zYJWWJCtSN-nHcVf5dAuKA"
+    },
+    {
+      "name": "Chaiiwala",
+      "rating": "4.3",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chaiiwala-liverpool/pdyLFNz1VMeENCuv7P7TbA"
+    },
+    {
+      "name": "Munchies",
+      "rating": "4.1",
+      "reviewCount": "5,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/munchies/anKhLHO3S5uRFi_xGxPxOg"
+    },
+    {
+      "name": "Nabzy's",
+      "rating": "3.5",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/nabzys-leece-street/qHtV648eSaCgMJUo-4CH0A"
+    },
+    {
+      "name": "Grandma's Famous Louisiana Red Hot Chicken",
+      "rating": "4.5",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/grandmas-famous-louisiana-red-hot-chicken/SVtYfDxZUFWaDQK_KLcX4w"
+    },
+    {
+      "name": "Brownmoor Cafe",
+      "rating": "4.6",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brownmoor-cafe/4ELw7UIgSieJ0z4olbEDQw"
+    },
+    {
+      "name": "The Vibe Cafe",
+      "rating": "4.8",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-vibe-cafe/2O9SKIViU4WgFyX2kzyJBQ"
+    },
+    {
+      "name": "Starbucks ®",
+      "rating": "4.6",
+      "reviewCount": "460+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-paradise-street/3Q4O2PJsRNyojbZxxiS1bg"
+    },
+    {
+      "name": "Spoilt for Choice",
+      "rating": "4.6",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/spoilt-for-choice/s6TCe8nOXFmmTFP6h0kjmg"
+    },
+    {
+      "name": "Toby Carvery",
+      "rating": "3.4",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/toby-carvery-stoneycroft/2q44-qsfXfixmNl_JCcJRQ"
+    },
+    {
+      "name": "The Palm Restaurant & Grill",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-palm-restaurant-%26-grill-liverpool-city-centre/BtbAjqQcWwu8UzkjqelXMw"
+    },
+    {
+      "name": "Bao & Bap",
+      "rating": "4.7",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bao-%26-bap/lP9SUUgvQD6ln7ZXVjU_Yw"
+    },
+    {
+      "name": "North Indian food by Ikkayees",
+      "rating": "4.0",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/north-indian-food-by-ikkayees/eh8UUvdNV2-K1ddEpyvZig"
+    },
+    {
+      "name": "Pistachio Dessert",
+      "rating": "2.9",
+      "reviewCount": "67",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pistachio-dessert/lM5JiCX0WJG2aIovIDQEiw"
+    },
+    {
+      "name": "Luxmy Foods",
+      "rating": "3.3",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/luxmy-foods-green-lane/n5th-nyZSfKfiu9kRvGWQQ"
+    },
+    {
+      "name": "Joey's",
+      "rating": "4.7",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/joeys-formerly-dorys/RDpwW_oqRtOo-vFx8TMrBA"
+    },
+    {
+      "name": "Fratello Burger & Dessert",
+      "rating": "3.8",
+      "reviewCount": "410+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/fratello-burger-%26-dessert/cmohMzbRTRaKG9UXeMq8xg"
+    },
+    {
+      "name": "Melo's Foodhall",
+      "rating": "4.6",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/melos-foodhall/Ukui5Q3kS9yj2_pryHHRaQ"
+    },
+    {
+      "name": "Phat Ville",
+      "rating": "3.3",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/phat-ville-liverpool/hugSaBjHXEyPX-qE2G3UuQ"
+    },
+    {
+      "name": "Cafe Express Deli",
+      "rating": "4.3",
+      "reviewCount": "440+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-express-deli/Irjab-j2QYyRAI6GpDfJiQ"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.6",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-williamson-square/Gkvt1QE0WpqZD1_lvzk52Q"
+    },
+    {
+      "name": "KFC",
+      "rating": "3.8",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-liverpool-ranelagh-street/jtddtxrsXeeLMvfkYk1udg"
+    },
+    {
+      "name": "Sri Krishnaa Indian cuisine",
+      "rating": "3.1",
+      "reviewCount": "62",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sri-krishnaa-indian-cuisine/3KjImni7QAisr4l1qc0hkA"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.5",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/pret-a-manger-liverpool-paradise-street/juVU-ORqTDisGQetmD-vGA"
+    },
+    {
+      "name": "Jollibee",
+      "rating": "4.1",
+      "reviewCount": "5,000+",
+      "deliveryTime": "",
+      "offers": [
+        "£0 Delivery Fee (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/jollibee-liverpool/EOJzjvMGTHijJsvO0QosUQ"
+    },
+    {
+      "name": "Ma’S House Indian Restaurant",
+      "rating": "4.2",
+      "reviewCount": "380+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mas-house-indian-restaurant-keralaarabicindian/7VB1mcH3QRWmvJcGvijl3w"
+    },
+    {
+      "name": "Sizzlaz",
+      "rating": "4.5",
+      "reviewCount": "67",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sizzlaz/Y9E2uIe5Q0yluqDmfGLJOA"
+    },
+    {
+      "name": "Tesco Cafe",
+      "rating": "4.1",
+      "reviewCount": "88",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tesco-cafe-park-road-extra/XTSM1-EmXaS-tfdsX4vZpw"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts & Coffee",
+      "rating": "4.8",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-doughnuts-%26-coffee-liverpool/nQT5azvbT42H5M6k1Ym_MQ"
+    },
+    {
+      "name": "Taco Bell",
+      "rating": "4.1",
+      "reviewCount": "8,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/taco-bell-liverpool-bold-street/FnKJiHWzRqaFQIRY3s7FdQ"
+    },
+    {
+      "name": "Brunchin'",
+      "rating": "4.1",
+      "reviewCount": "390+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brunchin/seZWaPfjSDGxWYAT6OwJCA"
+    },
+    {
+      "name": "CHESTERS SMITHDOWN",
+      "rating": "3.8",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chesters-smithdown/AqR-6rlKUUuMgRDqoPEm2Q"
+    },
+    {
+      "name": "Dessert Hub",
+      "rating": "4.4",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dessert-hub/ay-l8z90UCCgYue0fgE9YQ"
+    },
+    {
+      "name": "Park Cafe",
+      "rating": "3.7",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/park-cafe/WoXWdS6CTCuUSxC4dOhiHQ"
+    },
+    {
+      "name": "The Britannia Inn",
+      "rating": "4.3",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-britannia-inn-stonehouse-liverpool-riverside-drive/nrw9xusPSaqmxbD9p0uMQA"
+    },
+    {
+      "name": "Mr Chicken",
+      "rating": "4.0",
+      "reviewCount": "43",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mr-chicken/B2K8DT8aVDybSTePcbKQtQ"
+    },
+    {
+      "name": "Country Sweets",
+      "rating": "4.6",
+      "reviewCount": "12",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/country-sweets/KkhoDKkHWNada2sUJgBQMw"
+    },
+    {
+      "name": "Chopstix Noodle Bar",
+      "rating": "3.8",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chopstix-noodle-bar-liverpool-st-johns/V6ongespVhOhShLqc2hcxw"
+    },
+    {
+      "name": "Liverpool Alcohol Drinks and Snacks Delivery",
+      "rating": "4.6",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/liverpool-alcohol-drinks-and-snacks-delivery/2oPr4fcdVt2XgfmZ51U4zw"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "4.0",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/popeyes-liverpool/H4u9G8SSVnKAutnnpl1jqA"
+    },
+    {
+      "name": "Ohannes Burger Liverpool Town",
+      "rating": "4.4",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "offers": [
+        "10% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/ohannes-burger-liverpool-town/l0In4NwyQ7e1ta0GrW9R1Q"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.6",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-liverpool-clayton-sq-sc/u26mpwGmWqq7EEsbvRitFw"
+    },
+    {
+      "name": "Bargain Booze",
+      "rating": "4.8",
+      "reviewCount": "450+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bargain-booze-41-43-ennerdale-drive/0Z6Fz_K4TUKMbkmGA_0snw"
+    },
+    {
+      "name": "GREEDY'S CAFE",
+      "rating": "3.5",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greedys-cafe/3qBDIgkqQSyDhN_fiXPQ7g"
+    },
+    {
+      "name": "One Stop Day & Night",
+      "rating": "4.4",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/one-stop-day-%26-night/av1H_tOvTdKvCkCh7Icctg"
+    },
+    {
+      "name": "Pizza Co",
+      "rating": "3.4",
+      "reviewCount": "310+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pizza-co/YnUk7_fYQW-lF1X1haQA8w"
+    },
+    {
+      "name": "Noor Kitchen and Takeaway",
+      "rating": "4.3",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/noor-kitchen-and-takeaway/q7oBI6XiRZ6kJ9eYUGjHUA"
+    },
+    {
+      "name": "Londis",
+      "rating": "4.1",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/londis-college/7BjIOCXkTeWaeOG65iEC0w"
+    },
+    {
+      "name": "Kirkdale General Store",
+      "rating": "4.3",
+      "reviewCount": "59",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kirkdale-general-store/nu-GDEzQX6mA2nmANs99EQ"
+    },
+    {
+      "name": "Go local All In One Convenience Store",
+      "rating": "4.1",
+      "reviewCount": "30",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/go-local-all-in-one-convenience-store/DkIbqDWwSX6k7YRAyxPJOA"
+    },
+    {
+      "name": "Gulf House Restaurant",
+      "rating": "4.3",
+      "reviewCount": "400+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/gulf-house-restaurant-liverpool-city-center/-QRop8BVUTKK194OIgv09Q"
+    },
+    {
+      "name": "Discount Booze",
+      "rating": "3.1",
+      "reviewCount": "25",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/discount-booze/gqSk_DYIWJ2Cem3b0uK0vA"
+    }
+  ]
+}

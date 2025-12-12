@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/iceland-easton/KszAsqURV3SQvHB0pFaApw",
+  "name": "Iceland - Easton",
+  "servesCuisine": [
+    "alcohol",
+    "convenience",
+    "everyday essentials",
+    "snacks",
+    "grocery",
+    "Grocery",
+    "Convenience",
+    "Specialty Foods",
+    "Personal Care"
+  ],
+  "priceRange": "₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/453511ebcedea66a08a9d96c0df64e89/19ec62ba51fde35ba0aff5b84321c5af.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/453511ebcedea66a08a9d96c0df64e89/c67d558c633281f9c71fc6a90ef470ae.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/453511ebcedea66a08a9d96c0df64e89/8681e511c0910e0052cb155c50f01f89.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/453511ebcedea66a08a9d96c0df64e89/6ea4f72e303000fbf403bbb36f971f85.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/453511ebcedea66a08a9d96c0df64e89/4bee0baf259f2b3c95aacdebea87e950.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/453511ebcedea66a08a9d96c0df64e89/5283d81c664b43c5f57a3a186d273063.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/iceland-easton/KszAsqURV3SQvHB0pFaApw?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "EASTON",
+    "addressRegion": "",
+    "postalCode": "BS5 0EU",
+    "addressCountry": "GB",
+    "streetAddress": "190 Lawnwood Road"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.4615174,
+    "longitude": -2.5654885
+  },
+  "telephone": "+441179553827",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.5,
+    "reviewCount": "1500"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "8:0",
+      "closes": "16:30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "8:0",
+      "closes": "20:30"
+    }
+  ],
+  "hasMenu": null
+}

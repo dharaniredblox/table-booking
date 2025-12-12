@@ -1,0 +1,697 @@
+{
+  "source": "UberEats",
+  "postalCode": "CF10_1EP",
+  "timestamp": "2025-09-15T09:57:16.752Z",
+  "count": 85,
+  "data": [
+    {
+      "name": "Morrisons",
+      "rating": "4.1",
+      "reviewCount": "440+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-cardiff-newport-rd/cSt2CT58W2CXLytabSjeEw"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.7",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-ussf-dumballs-road/_EpsuwjEVa2uS7vAVWc-tQ"
+    },
+    {
+      "name": "Sainsbury's Local",
+      "rating": "4.6",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-local-cardiff-st-marys/xRJLq_l4UpCT-LIdAB6I_Q"
+    },
+    {
+      "name": "ASDA Superstore",
+      "rating": "4.3",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/asda-superstore-leckwith-road/JxorJUf4TWSGcLkjSG-YfA"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "4.1",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/popeyes-cardiff/L-SOr0jGXFaJFc-_ts7RQw"
+    },
+    {
+      "name": "Jollibee",
+      "rating": "4.1",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/jollibee-cardiff/ztqgsE3FSb6STV575gIRJg"
+    },
+    {
+      "name": "Tim Hortons",
+      "rating": "4.3",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tim-hortons-cardiff-queen-street/FqvgQnMOQt2rzbLtHGyhLQ"
+    },
+    {
+      "name": "KFC Cardiff",
+      "rating": "4.2",
+      "reviewCount": "10,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-cardiff-queen-street/qfWcd6ywR1anBaX6lsCx5A"
+    },
+    {
+      "name": "Chaiiwala",
+      "rating": "4.4",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/chaiiwala-cardiff/HjcUldq6StmW1B4lFCpKew"
+    },
+    {
+      "name": "Slim Chickens",
+      "rating": "4.2",
+      "reviewCount": "6,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/slim-chickens-cardiff/s-J0G0LCRHiM9GE4I-SfWQ"
+    },
+    {
+      "name": "One Stop Grangetown",
+      "rating": "4.4",
+      "reviewCount": "240+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-grangetown/qJ6Nf8VfVp-W_FPt4xV1xA"
+    },
+    {
+      "name": "Atlantic Cafe",
+      "rating": "4.6",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/atlantic-cafe/ihyoq44MReeaLvunx-uP0Q"
+    },
+    {
+      "name": "Breakfast Burrito Boys",
+      "rating": "4.3",
+      "reviewCount": "390+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/breakfast-burrito-boys-cardiff/2o1YwIYXVQO7uHTyjXQkyw"
+    },
+    {
+      "name": "Waitrose & Partners",
+      "rating": "4.6",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/waitrose-%26-partners-pontprennau/DXiwWPJ7XTabzG01wb-7MQ"
+    },
+    {
+      "name": "Granny Mac's",
+      "rating": "4.0",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/granny-macs/l8BPbXr-RGizTMOU2ruOmA"
+    },
+    {
+      "name": "Smacks Hamburgers",
+      "rating": "4.0",
+      "reviewCount": "80",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/smacks-hamburgers-cardiff/fK-5PHFQV2aiGQjKFN5vsg"
+    },
+    {
+      "name": "Taco Bell",
+      "rating": "4.0",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/taco-bell-dragon/4KhMR7uLSvuSgvc2UcvQ4A"
+    },
+    {
+      "name": "AJ's Coffee House",
+      "rating": "4.9",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ajs-coffee-house/kUaLdE7UVcG3R4uKYAO_cw"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.3",
+      "reviewCount": "91",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-llantrisant/Enm5X9wcVTuQVH3lmTRNTQ"
+    },
+    {
+      "name": "Bru Coffee and Gelato",
+      "rating": "4.0",
+      "reviewCount": "320+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bru-coffee-and-gelato/pkp6NAWMR1OHVaMOhkTl8A"
+    },
+    {
+      "name": "Pasha Sandwich Bar",
+      "rating": "4.2",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pasha-sandwich-bar/7JIme12VUke6gO7Xj7Qe3Q"
+    },
+    {
+      "name": "Morrisons Cafe",
+      "rating": "4.2",
+      "reviewCount": "32",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-cafe-cardiff/6aK_WKnAX7mh-SCRRKQFrg"
+    },
+    {
+      "name": "Masala Bazaar",
+      "rating": "3.9",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/masala-bazaar-cardiff/bHd0ec_bW2aq0Dk4HSrOtg"
+    },
+    {
+      "name": "La Mina Juice Bar",
+      "rating": "4.0",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/la-mina-juice-bar/eEPago1hRTePu8qk1eTt_A"
+    },
+    {
+      "name": "Gopuff Groceries",
+      "rating": "4.6",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/gopuff-groceries-cardiff/moNz7mk7WdC44ae1yrLSnQ"
+    },
+    {
+      "name": "Parc Deli",
+      "rating": "4.6",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/parc-deli/V1uDbr3eTYWuW8kzxjNyvA"
+    },
+    {
+      "name": "The Hayes Island Snack Bar",
+      "rating": "4.7",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-hayes-island-snack-bar/E75TS8bNSIy1JH-TEmrtRw"
+    },
+    {
+      "name": "Falafel Corner",
+      "rating": "4.5",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/falafel-corner/a1s4-mT5VPKiAGVU8AVqPA"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.6",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pret-a-manger-cardiff/Ed1LuTxsV9S-QUDSPoY1AQ"
+    },
+    {
+      "name": "A Star Cafe",
+      "rating": "4.2",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/a-star-cafe/drH02dfiQ9W4kkyfaGLiZQ"
+    },
+    {
+      "name": "My Cookie Dough",
+      "rating": "4.0",
+      "reviewCount": "74",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/my-cookie-dough-cardiff/PXJFCrBuQ6m6w3v180UGXg"
+    },
+    {
+      "name": "Mother Clucker Fried Chicken",
+      "rating": "2.9",
+      "reviewCount": "28",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mother-clucker-fried-chicken-st-davids/Ky5y75JKUFyGuokcGXObTQ"
+    },
+    {
+      "name": "Auntie Anne's",
+      "rating": "4.4",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/auntie-annes-cardiff/XN1kUn7YQpSAXrVg2zYWBQ"
+    },
+    {
+      "name": "Parsons Bakery",
+      "rating": "4.6",
+      "reviewCount": "370+",
+      "deliveryTime": "",
+      "offers": [
+        "25% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/parsons-bakery-wellfield-road/iZ8mtSdBTR2tWQr--HuXlQ"
+    },
+    {
+      "name": "Chai Green",
+      "rating": "4.3",
+      "reviewCount": "390+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chai-green-albany-road/3Z45j0R7W6ufhvStVjXEeQ"
+    },
+    {
+      "name": "Bakery Treat Boxes",
+      "rating": "4.4",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bakery-treat-boxes/H3K2JqtSWyuMDbZ5m8rtZQ"
+    },
+    {
+      "name": "Morrisons Daily",
+      "rating": "4.3",
+      "reviewCount": "52",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-daily-george-avenue/6drkKFnnV7KBFMFL5MBQbw"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "4.2",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-cardiff-red-dragon/phmxQwN9XPiLsR8B_W8iFw"
+    },
+    {
+      "name": "Coffee #1",
+      "rating": "3.2",
+      "reviewCount": "54",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/coffee-1-friary/XmLD6NmcWG69nF1YT8MIkQ"
+    },
+    {
+      "name": "Brunch by Frankie & Benny's",
+      "rating": "4.6",
+      "reviewCount": "11",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brunch-by-frankie-%26-bennys-cardiff-st-davids/pSy2IFZjWTWtbCnk7T9ORA"
+    },
+    {
+      "name": "Saffron Cafe",
+      "rating": "4.1",
+      "reviewCount": "420+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/saffron-cafe/rjJdnLO6TMyXjRVFGWTf3w"
+    },
+    {
+      "name": "Byron Burgers & Fries",
+      "rating": "3.2",
+      "reviewCount": "20",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/byron-burgers-%26-fries-st-davids/CsHYaBQKVfu-dC-lKAnqHw"
+    },
+    {
+      "name": "16 La Baguette",
+      "rating": "4.4",
+      "reviewCount": "73",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/16-la-baguette/P6ysQF7sW02eio3ZYbu04w"
+    },
+    {
+      "name": "Nourish",
+      "rating": "4.9",
+      "reviewCount": "99",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/nourish/VarB1nZPWmyC492ISXNNzA"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.5",
+      "reviewCount": "450+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/caffe-nero-cardiff-wellfield-rd/axXhPCapQJCAT4-IxZvTwA"
+    },
+    {
+      "name": "longa turkish café",
+      "rating": "4.9",
+      "reviewCount": "51",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/longa-turkish-cafe/78bda2ISVCCGiAKSQbQq1A"
+    },
+    {
+      "name": "Dino's Cafe.",
+      "rating": "4.3",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dinos-cafe/TmDQs6CXRAe_e0UoneM-Vw"
+    },
+    {
+      "name": "CUPP Bubble Tea",
+      "rating": "4.1",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/cupp-bubble-tea-cardiff/EXwFsM4VVdCd0TGwuqP3fQ"
+    },
+    {
+      "name": "Mrs. Potts Chocolate House",
+      "rating": "4.7",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mrs-potts-chocolate-house-cardiff/OiC4VpBjX_OzjVtgGSmu0A"
+    },
+    {
+      "name": "A-HEAD OF THE GAME NUTRITION",
+      "rating": "4.5",
+      "reviewCount": "33",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/a-head-of-the-game-nutrition/801F2ksdUqqwWu4JCeAnhg"
+    },
+    {
+      "name": "Waterloo Tea",
+      "rating": "4.7",
+      "reviewCount": "31",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/waterloo-tea/Ae69nvMuRxCqlZU-GWGPFQ"
+    },
+    {
+      "name": "CaF 3",
+      "rating": "4.5",
+      "reviewCount": "50",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/caf-3/O0wr_ZQAXpWx8OUdYbimFA"
+    },
+    {
+      "name": "Turtle Bay",
+      "rating": "4.2",
+      "reviewCount": "380+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/turtle-bay-cardiff/GpZ0QQu-RAKnIjvXziZ6Dw"
+    },
+    {
+      "name": "Maria’s coffee and Sandwich Shop",
+      "rating": "4.9",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/marias-coffee-and-sandwich-shop/8n-lj39XUq6V_ajbm1wfZw"
+    },
+    {
+      "name": "Karak Chaii",
+      "rating": "4.1",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/karak-chaii-cardiff/thQ9oAU8V06S3eeawO29TA"
+    },
+    {
+      "name": "Carl's Jr.",
+      "rating": "4.1",
+      "reviewCount": "65",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/carls-jr-cardiff/H1vwAwJVW0qB16uhF_4ZDA"
+    },
+    {
+      "name": "YO! sushi counter",
+      "rating": "3.5",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yo!-sushi-counter-cardiff-tesco/bw_hqfrXUt6Av73bbGwFyQ"
+    },
+    {
+      "name": "Pooja Sweets & Savories",
+      "rating": "4.5",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pooja-sweets-%26-savories/__W9f7o-Tm27d-GjL6Mo1Q"
+    },
+    {
+      "name": "Damas Sweets",
+      "rating": "4.7",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/damas-sweets/K0rc2OSXRpaspDW51al4dQ"
+    },
+    {
+      "name": "Harvester",
+      "rating": "4.0",
+      "reviewCount": "350+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/harvester-cardiff-bay/dGOFwku8QKiJINAzFf2epg"
+    },
+    {
+      "name": "Denise’s Cafe",
+      "rating": "4.7",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/denises-cafe/gPDItfWUXl-KSP-S8OqHvA"
+    },
+    {
+      "name": "Street Feud",
+      "rating": "4.6",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/street-feud-cardiff-st-davids/GJuj_4aPVACDiOWINS9FWQ"
+    },
+    {
+      "name": "Mcsims coffee & pastries",
+      "rating": "4.7",
+      "reviewCount": "37",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mcsims-coffee-%26-pastries/QgRn2XGpSmeUjWDBlLdR8Q"
+    },
+    {
+      "name": "The Village Inn",
+      "rating": "4.5",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-village-inn-sizzling-pubs/axHX1lqAWdSV_-yIENmfFg"
+    },
+    {
+      "name": "Blossom Cafe",
+      "rating": "4.9",
+      "reviewCount": "46",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/blossom-cafe/tK3cxfbsRHKEXNqEP5QlOQ"
+    },
+    {
+      "name": "The Pie Box",
+      "rating": "5.0",
+      "reviewCount": "32",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-pie-box-cardiff/i9tkd2zjVKSmb1Jxm-YE2g"
+    },
+    {
+      "name": "One Stop Stores Cardiff Broadway",
+      "rating": "4.6",
+      "reviewCount": "61",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-stores-cardiff-broadway/zvYd6R49UXSdORrSqwNxuQ"
+    },
+    {
+      "name": "Taff Caff",
+      "rating": "4.4",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "offers": [
+        "£0 Delivery Fee (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/taff-caff/Y0xroG4RS1W9AfiFxgMm3A"
+    },
+    {
+      "name": "Metchy's Cafe",
+      "rating": "4.1",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/metchys-cafe/8gelGmgcU_-PX9Tr1bG42g"
+    },
+    {
+      "name": "TGI Friday's",
+      "rating": "3.9",
+      "reviewCount": "150+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 25% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/tgi-fridays-st-davids/9AqakrrWWFWC0eI64EPTlg"
+    },
+    {
+      "name": "Spar Cardiff City Center",
+      "rating": "4.5",
+      "reviewCount": "30",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/spar-cardiff-city-center/37-yUrZ8R9WIAN9OACxItQ"
+    },
+    {
+      "name": "Boots",
+      "rating": "5.0",
+      "reviewCount": "3",
+      "deliveryTime": "",
+      "offers": [
+        "£0 Delivery Fee (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/boots-cardiff-bay-retail-park/mgHDCaxBXZSMzC9x5CYtrw"
+    },
+    {
+      "name": "Bird Box",
+      "rating": "4.3",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/bird-box-cardiff-st-davids/YZNDk0LWTYyH_oeCAA87zg"
+    },
+    {
+      "name": "Cake Box",
+      "rating": "4.7",
+      "reviewCount": "23",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cake-box-cardiff-west/Wj5kD4D8WjOn1hcBp05R3w"
+    },
+    {
+      "name": "The Hollybush",
+      "rating": "4.3",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-hollybush-stonehouse-cardiff-pendwyallt-road/3jmapcBmShSZ67Nwva_CVA"
+    },
+    {
+      "name": "Bubble CiTea",
+      "rating": "4.5",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bubble-citea-cardiff/vfx7vFC-XImsIeZDoZdwRQ"
+    },
+    {
+      "name": "The Big Cake co.",
+      "rating": "4.3",
+      "reviewCount": "51",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-big-cake-co-cardiff/uWvHIPfSWXiXpKg4VRDELw"
+    },
+    {
+      "name": "Fluffy Fluffy Cardiff",
+      "rating": "4.0",
+      "reviewCount": "21",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/fluffy-fluffy-cardiff/VbMqMptlUZ2_2dOX9lqGjw"
+    },
+    {
+      "name": "Ahead of the Game Fuel Stop",
+      "rating": "5.0",
+      "reviewCount": "2",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ahead-of-the-game-fuel-stop/avQnBH--UNuqBp5DButj-w"
+    },
+    {
+      "name": "Stacks",
+      "rating": "4.0",
+      "reviewCount": "460+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/stacks-burgers-cardiff-st-davids/l0pbZ_wlSbahFCEIpG7RDg"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts & Coffee",
+      "rating": "4.7",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-doughnuts-%26-coffee-cardiff/6Eu-5popQgWC9t34EWfGlg"
+    },
+    {
+      "name": "Londis",
+      "rating": "4.3",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/londis-cardiff-bay/sHBB1avoQEKFEYW8c4n33w"
+    },
+    {
+      "name": "Premier",
+      "rating": "4.7",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/premier-grand-avenue-stores/OdwFpa4XT_K-nf0QWDdSSA"
+    },
+    {
+      "name": "Black Sheep Coffee",
+      "rating": "4.1",
+      "reviewCount": "380+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/black-sheep-coffee-cardiff-soutgate-house/PppfgIGKVcanqW5HjqLp_g"
+    },
+    {
+      "name": "The Bagel Place",
+      "rating": "4.6",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/the-bagel-place-cardiff/DDhYRZpmRF6UF8hDNx5y_Q"
+    }
+  ]
+}

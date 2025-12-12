@@ -1,0 +1,477 @@
+{
+  "restaurant_id": "sobeburgerhillfields-BS165BS-51",
+  "source_id": "5176fdeb-8dda-58a7-92fd-a4d3fccf9717",
+  "restaurant_url": "https://www.ubereats.com/store/sobe-burger-hillfields/UXb9643aWKeS_aTT_M-XFw",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:43:33.193Z",
+  "restaurant": {
+    "name": "SoBe Burger (Hillfields)",
+    "slug": "sobe-burger-hillfields",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441179653586",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "46 Staple Hill Road, Bristol, EMEA BS16 5BS",
+    "streetAddress": "46 Staple Hill Road",
+    "addressCity": "bristol-eng",
+    "neighborhood": "fishponds-bristol-eng",
+    "addressRegion": "EMEA",
+    "postalCode": "BS16 5BS",
+    "addressCountry": "GB",
+    "latitude": 51.4816119,
+    "longitude": -2.521373,
+    "geohash": "gcnhye",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 4.2,
+    "totalReviews": "460+",
+    "workingHours": "Available Thursday 9:00 AM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Burgers",
+      "Halal",
+      "Fast Food",
+      "Chicken",
+      "Burgers"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Sunday",
+      "hours": [
+        {
+          "open": "11:00",
+          "close": "23:45",
+          "section": "SoBe Burger"
+        }
+      ]
+    },
+    {
+      "day": "Monday - Tuesday",
+      "hours": [
+        {
+          "open": "09:00",
+          "close": "23:45",
+          "section": "SoBe Burger"
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "hours": [
+        {
+          "open": "09:00",
+          "close": "10:45",
+          "section": "SoBe Burger"
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "hours": [
+        {
+          "open": "09:00",
+          "close": "23:45",
+          "section": "SoBe Burger"
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "hours": [
+        {
+          "open": "09:00",
+          "close": "12:45",
+          "section": "SoBe Burger"
+        },
+        {
+          "open": "15:00",
+          "close": "23:45",
+          "section": "SoBe Burger"
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "hours": [
+        {
+          "open": "09:00",
+          "close": "23:45",
+          "section": "SoBe Burger"
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "✨Meal Deals✨",
+      "items": [
+        {
+          "id": "e095365d-1f64-5d9a-9b66-78528ba7eebe",
+          "name": "Meal Deal for 1",
+          "description": "Pair a smashed patty burger with a portion of seasoned or loaded fries and drink.",
+          "price": "£15.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1500,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fd20efaac7fe27a8aa945cf0ef105351/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5eff6127-41c9-51ba-93aa-9cabe9f07eb8",
+          "name": "Chicken Meal Deal for 1",
+          "description": "Pair a chicken burger with a portion of seasoned or loaded fries and drink.",
+          "price": "£14.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1400,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1fb78f614ffd9ff0c103dd9ad721c33f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "35fc403a-3137-5e7e-8b8d-6781115c7299",
+          "name": "Burger Meal Deal for 2",
+          "description": "Two smashed patty burgers, two sides and a drink each",
+          "price": "£30.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3000,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2a3301f4f31dc77e0b626c700c5ba89e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "🍔 BURGERS 🍔",
+      "items": [
+        {
+          "id": "714907b8-8867-5ecb-9ab2-2c1930734c87",
+          "name": "SoBe Cheeseburger",
+          "description": "Two beef patties layered with melted cheese and SoBe sauce",
+          "price": "£10.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1050,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/576a5dfde55c4a4f9ae833c26ac8c969/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6815ae3c-cca7-5f0f-af96-4cc16529ee80",
+          "name": "BBQ Cheeseburger",
+          "description": "Two beef patties layered with melted cheese, crunchy dill pickles and smokey BBQ mayo",
+          "price": "£10.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1095,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/750fc1b978bdaefb4f1fa6c75b7b0735/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "37e74b46-f0ea-52e7-b180-3c3442df02d2",
+          "name": "Green Chilli Cheeseburger",
+          "description": "Two beef patties loaded with pickled green chillies, melted cheese and spicy chilli mayo",
+          "price": "£11.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e948527c9bd4d4ba5739cd134856a49c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "78d918ee-a8ca-5173-9943-d19c60c38af7",
+          "name": "Truffle Cheeseburger",
+          "description": "Two beef patties topped with melted cheese, crispy onions, crunchy dill pickles, and umami truffle mayo",
+          "price": "£11.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d13e42848520a97b2f00d3af56a345a9/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "0ccc8745-2de2-5b41-a847-a9deaad2c5c9",
+          "name": "Confit Garlic Cheeseburger",
+          "description": "Two beef patties topped with melted cheese, crispy onions, and confit garlic mayo",
+          "price": "£11.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0040697fee19c3853f5d08ed7ad9bb10/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "🐔 CHICKEN BUNS 🐔",
+      "items": [
+        {
+          "id": "e2a58d3d-0dcf-58f4-9131-17e094e325f9",
+          "name": "OG Chicken Burger",
+          "description": "Crispy fried chicken, house mayo, lettuce, pickles",
+          "price": "£9.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 950,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2c62aa0d187814205618433073f07691/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7e4f8aeb-a900-5dad-a794-cfd614f76cbb",
+          "name": "Buffalo Chicken Burger",
+          "description": "Crispy fried chicken, Buffalo sauce, ranch, chives, lettuce, pickles",
+          "price": "£10.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1050,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a57f973c221f503e030dc30e4442520c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d8d54d28-9747-5ccd-bcde-30f17893d206",
+          "name": "Cajun BBQ Chicken Burger",
+          "description": "Crispy fried chicken, BBQ sauce, house mayo, chives, lettuce, pickles",
+          "price": "£10.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1050,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/91e7358b57613863735609aa88451099/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "🍗 WINGS AND TENDERS 🍗",
+      "items": [
+        {
+          "id": "66f4007c-1b49-56e7-80d8-e17cf6cb43aa",
+          "name": "Cajun BBQ Wings",
+          "description": "Naked wings hand tossed in smoky, spicy Cajun BBQ sauce, drizzled with SoBe sauce and topped with crispy onions and chives.",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/45be743c31739bef3c39531d615d58fb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b22fec41-bfdb-5eb2-aaf2-694f94199726",
+          "name": "Buffalo Wings",
+          "description": "Naked wings hand tossed in tangy, fiery Buffalo sauce, drizzled with ranch sauce and topped with chives and crispy onions.",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/07536a884309e27cf80cb66d32adc7a8/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "46cc9d4a-34c6-57c1-9de3-5329e7808c7c",
+          "name": "Regular Tenders",
+          "description": "Three crispy fried chicken tenders with your choice of sauce",
+          "price": "£5.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 525,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b4bda1b6bb9c4a7717a45e5ec906c428/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "27c707a2-c59c-5931-9bcd-b13d8a760f6b",
+          "name": "Large Tenders",
+          "description": "Five crispy fried chicken tenders with your choice of sauce",
+          "price": "£7.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 725,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/62faa30fcecde75082c620e627b38a86/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "🍟 SIDES 🍟",
+      "items": [
+        {
+          "id": "c49c6c72-8718-57d7-94da-cb65a678e7fc",
+          "name": "Fries",
+          "description": "Skin-on fries seasoned with sea salt",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/095c2f138b595f63213933d4568ad190/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7f36a472-f480-5134-9b3c-25e50142485f",
+          "name": "Cajun Fries",
+          "description": "Skin on fries seasoned with sea salt and cajun spices",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1cc6b4ee3d688760423b9632ae58dace/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f12aad35-6489-5093-8edb-f660155473d1",
+          "name": "SoBe Fries",
+          "description": "Skin-on fries generously topped with SoBe sauce and chives",
+          "price": "£4.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 425,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/08f438d37a93eb53f77fcd4f09868005/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ff07a1f8-ed26-544d-9ce1-9e8c3ed7af05",
+          "name": "SoBe Hot Fries",
+          "description": "Skin-on fries generously topped with SoBe sauce, Hot sauce, pickled jalapenos and chives",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9ed61e5aa8510f7cbe9d755961b1a603/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "0e00cfd8-069c-5ec6-b5f6-6b9774e4e28e",
+          "name": "Garlic Mayo Fries",
+          "description": "Skin-on fries generously topped with confit garlic mayo, chives and crispy onions",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bc223e771a5b88fa0c1c649e3b1174a4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7dd4a22e-e407-58ff-8b6e-ee2ad3732a98",
+          "name": "Truffle Fries",
+          "description": "Skin-on fries generously topped with truffle mayo, chives and crispy onions",
+          "price": "£4.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 495,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d70d9f5145fba8e10a69bbd6b32f4de4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4948f788-c97d-588d-889e-e3ef2e153141",
+          "name": "Cheeseburger Fries",
+          "description": "Skin-on fries generously topped with aged beef, cheese sauce, ketchup, mustard and pickles",
+          "price": "£6.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 695,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9952c6400098f37b958473ec8e747409/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "😋 SAUCES 😋",
+      "items": [
+        {
+          "id": "c74ac3f2-054b-5fdd-86ce-a8afbba71fd5",
+          "name": "Sauce dip pots",
+          "description": "Your choice of one of signature sauces, served on the side",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5cb94302113a23818f343e26b3900d21/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "🍦 DESSERTS 🍦",
+      "items": [
+        {
+          "id": "932a97b3-49d4-505c-a755-0ba279db1fff",
+          "name": "Loaded Biscoff Churros",
+          "description": "Golden, crispy, churros drizzled in warm Biscoff sauce and finished with a Biscoff crumble.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3c509114e3f8a9248ecab188657524bd/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "🧃 DRINKS 🧃",
+      "items": [
+        {
+          "id": "42e28bf0-2522-596c-8555-f52aa9827479",
+          "name": "Coke",
+          "description": "330ml Can",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a0a62f292788b9020804283a4c08915f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "652ccbcb-fad6-54e7-b0e6-07a9169492f9",
+          "name": "Diet Coke",
+          "description": "330ml Can",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d2f5eac5cd28b35cb35c9ae2a311ee82/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "968048e4-27b4-55c6-a135-ec287262a758",
+          "name": "Fanta",
+          "description": "330ml Can",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/034f5ccb9b06fa8cab88225ff0c75cb3/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f8ffd7a2-fab8-59cd-8c01-acae1467f715",
+          "name": "Sprite",
+          "description": "330ml Can",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/54a3444fee578fd65950c6dd177b7380/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "dd5b2ef6-e7f5-5be9-ba7e-b782f1d2f4a0",
+          "name": "Still Water",
+          "description": "Water Bottle",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/91bc75b1a2d7cfb15a7e34401838b879/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fda100dc-70f5-5487-bc81-26c0e8263cca",
+          "name": "Sparkling Water",
+          "description": "Water Bottle",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/803387d19ec5e6fab0ce633b4d75d1e7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

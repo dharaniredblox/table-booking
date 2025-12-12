@@ -1,0 +1,784 @@
+{
+  "restaurant_id": "thebagelplacebristol-BS15PF-51",
+  "source_id": "59eabbdd-ffc3-56d0-839b-9fa19c8f1114",
+  "restaurant_url": "https://www.ubereats.com/store/the-bagel-place-bristol/Weq73f_DVtCDm5-hnI8RFA",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:47:50.659Z",
+  "restaurant": {
+    "name": "The Bagel Place (Bristol)",
+    "slug": "the-bagel-place-bristol",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441179857826",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "79 Park Street, Bristol, EMEA BS1 5PF",
+    "streetAddress": "79 Park Street",
+    "addressCity": "bristol-eng",
+    "neighborhood": "west-end-bristol-eng",
+    "addressRegion": "EMEA",
+    "postalCode": "BS1 5PF",
+    "addressCountry": "GB",
+    "latitude": 51.4553821,
+    "longitude": -2.6037493,
+    "geohash": "gcnhsz",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 4.3,
+    "totalReviews": "700+",
+    "workingHours": "Open until 9:30 PM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Breakfast and Brunch",
+      "American",
+      "Sandwiches",
+      "Coffee and Tea",
+      "Vegan",
+      "Vegetarian",
+      "Gluten Free"
+    ],
+    "priceBucket": ""
+  },
+  "openingHours": [
+    {
+      "day": "Sunday",
+      "hours": [
+        {
+          "open": "07:15",
+          "close": "17:00",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Monday - Friday",
+      "hours": [
+        {
+          "open": "08:15",
+          "close": "17:00",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "hours": [
+        {
+          "open": "07:15",
+          "close": "18:00",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Meal Deals",
+      "items": [
+        {
+          "id": "0be851b4-5518-4acd-9430-dd3c5de760ac",
+          "name": "Lunch Deal For 1",
+          "description": "Meal deal for one person, including a selection of items.",
+          "price": "£11.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f8cc96f0b3ff1feaa209d457f91def15/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "dfae25ec-e0f8-42d1-8f88-3cfd353d1585",
+          "name": "Lunch Deal For 2",
+          "description": "N/A",
+          "price": "£21.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0a259db2d4ec0e8c08e5577bceb264cf/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8719b181-8772-49a1-8e26-0c1ab62b98a0",
+          "name": "Lunch Deal for 4",
+          "description": "Meal for four people, perfect for sharing with friends or family.",
+          "price": "£41.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 4199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0a259db2d4ec0e8c08e5577bceb264cf/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ae299d6c-af80-497f-a2cf-de5c4e79c83c",
+          "name": "Lunch Deal For 8",
+          "description": "Meal deal for 8 people, perfect for groups and gatherings.",
+          "price": "£79.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 7999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0a259db2d4ec0e8c08e5577bceb264cf/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "All Day Breakfasts",
+      "items": [
+        {
+          "id": "fdb18fea-9633-48f5-93a3-9c597d739c01",
+          "name": "Big Breakfast",
+          "description": "Sausages, bacon, egg and hash browns - all in a freshly baked buttered bagel of your choice, with your choice of sauce!",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/828d819f8130ce7e80a477b41313e225/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "62a5e1fa-baa8-43be-9d5c-42824a59f43e",
+          "name": "Build Your Own Breakfast Bagel",
+          "description": "Your choice of breakfast items in a freshly baked buttered bagel of your choice!",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cec1dc92017c9b2ea185163a4c816551/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8959ed40-d791-4773-b6b3-f9ac726391ac",
+          "name": "Big Veggie Breakfast",
+          "description": "Vegan sausages, egg and hash browns - all in a freshly baked buttered bagel of your choice, with your choice of sauce!",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a1683c1d-cd44-489c-aed2-909444f5d870",
+          "name": "Salmon & Egg",
+          "description": "Smoked salmon & fried eggs in a freshly baked buttered bagel, with your choice of sauce.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Home-Baked Classics",
+      "items": [
+        {
+          "id": "470cdd17-61ab-4669-8b6a-b84b6d1fb13e",
+          "name": "Bacon and Brie",
+          "description": "Hot bacon, melted brie, and caramelised onion, on a freshly baked bagel of your choice",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/296e12ee94395db858b7d035b5aeb630/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8d189897-34fa-44a5-82b7-4164afc407d1",
+          "name": "Pizza Bagel",
+          "description": "Tomato sauce, melted cheddar, chicken, bacon, garnished with parsley - all on a freshly baked buttered bagel of your choice!",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/296e12ee94395db858b7d035b5aeb630/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "632fa7a7-ee52-4890-a4ad-f18a6b334139",
+          "name": "Avocado Toast (Vegan)",
+          "description": "Mashed guacamole, red onion, tomato, salad leaves and olive oil, on a freshly baked bagel of your choice.",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/160b335d311a6e1c1f1cc7a1acadfe14/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "49eab9f0-8930-4f0d-82be-0bb664f4448f",
+          "name": "Spring Salmon",
+          "description": "Smoked salmon, cream cheese, capers, red onion, and lemon, on a freshly baked bagel of your choice",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/296e12ee94395db858b7d035b5aeb630/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ad9cda90-e259-45f7-8c7b-251ad4801f57",
+          "name": "Deli Meats",
+          "description": "Pastrami, chicken, pepperoni, ham, and melted cheddar on a freshly baked bagel of your choice.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fc824632baf6fb04a94940030ec4fe15/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "761ff98d-f6ac-4b22-9271-20be6c43d274",
+          "name": "Halloumi (Veggie)",
+          "description": "Halloumi, tzatziki & roasted veg - on a freshly baked bagel of your choice",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/296e12ee94395db858b7d035b5aeb630/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a18add30-ef42-4157-8c2d-7849bed111dc",
+          "name": "Chilli Chicken Melt",
+          "description": "Chicken, sweet chilli sauce, and melted cheese, on a freshly baked bagel of your choice",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/296e12ee94395db858b7d035b5aeb630/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6210ef6c-6999-4581-a800-3672f1a2f1aa",
+          "name": "Bagel Burger",
+          "description": "Beef burger in a freshly baked bagel of your choice, with lettuce, onions and tomatoes and your choice of toppings!",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1d42a44165387471667b4a9f6b539d55/70aa2a4db7f990373ca9c376323e3dea.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Home-Baked Bagel Sandwiches",
+      "items": [
+        {
+          "id": "24540213-4089-4899-bc7f-835fb0b3f9a0",
+          "name": "Chicken Mayo & Bacon",
+          "description": "Served in a freshly baked bagel of your choice, with butter, tomato, onion and salad leaves",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/955e838aeba3bc1fb329f3679ef5e373/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "89f222e7-ae82-4e2e-9a24-df3b110797e4",
+          "name": "Pastrami & Mustard",
+          "description": "Served in a freshly baked bagel of your choice, with butter, tomato, onion and salad leaves",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3c7dd372d55cd10583d8f1c6827024ca/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3a97756b-1ba1-4a6c-8a0e-a93a925f67f7",
+          "name": "Smoked Salmon & Guac",
+          "description": "Served in a freshly baked bagel of your choice, with butter, tomato, onion and salad leaves",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/414657431b3e3576f5b9deae0ac9a0f1/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2596f5d7-30a1-4df2-8f5a-599178a70731",
+          "name": "BLT & Mayo",
+          "description": "Served in a freshly baked bagel of your choice, with butter, tomato, onion and salad leaves",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/000c3fe3976641294459f4f98a83c424/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1847e318-dd6b-4b40-8ca0-ef486a48ce72",
+          "name": "Halloumi & Chilli Jam",
+          "description": "Served in a freshly baked bagel of your choice, with butter, tomato, onion and salad leaves",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1532942c77619f730a6fb8fb4a5e6572/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "17b58257-59e2-4f46-9823-c66ceed49e67",
+          "name": "Ham, Cheese & Caramelised Onion",
+          "description": "Served in a freshly baked bagel of your choice, with butter, tomato, onion and salad leaves",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Home-Baked Light Bites",
+      "items": [
+        {
+          "id": "7e3c3c78-89a6-4ca4-99e2-f23afc8e4a8a",
+          "name": "Nutella",
+          "description": "Freshly baked bagel of your choice, loaded with butter and Nutella.",
+          "price": "£4.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 429,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8ef0d6eaa415ca9b0c7cb085ff8dd3ea/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2ba27a2b-f919-48d5-b6a1-2f3217ec36aa",
+          "name": "Cream Cheese",
+          "description": "Freshly baked bagel of your choice loaded with cream cheese.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/52506b0314310aac4324bc500a1ac10e/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "68f3feef-0ea8-49e2-9758-70c74bc35e63",
+          "name": "Melted Cheese",
+          "description": "Freshly baked bagel of your choice, with melted cheddar - yum.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a1876c552d8c9655455ce52858b7de6c/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "66ba31a4-bdc4-41c5-93eb-e9cbd4db7762",
+          "name": "Simply Butter",
+          "description": "Freshly baked bagel of your choice, slathered in butter.",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/50c89076708912c34a06baaadbbfd7a3/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Sweet Treats",
+      "items": [
+        {
+          "id": "b62556ab-a851-4544-acd5-008578c3ced2",
+          "name": "Chocolate Chip Cookie",
+          "description": "Baked right here in-store.",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dd917f6f81bea487e150ae95467c5675/70aa2a4db7f990373ca9c376323e3dea.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7188c056-13d8-429a-8c22-4867fc27a92d",
+          "name": "Triple Chocolate Cookie",
+          "description": "Baked right here in-store.",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b064c389e3138ef30334412d99c16f6e/70aa2a4db7f990373ca9c376323e3dea.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "567df984-778c-4ec5-9de5-c3b5f1996c48",
+          "name": "White Chocolate Cookie",
+          "description": "Baked right here in-store.",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0db0e415179be402605f7072c618464f/70aa2a4db7f990373ca9c376323e3dea.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "234a1bca-b06a-425e-864c-3d6c205ce8be",
+          "name": "Cookie Sandwich",
+          "description": "Homemade cookie sandwich with cream cheese frosting",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5e36132de9284caf8f19b05c78112141/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Crisps",
+      "items": [
+        {
+          "id": "f58f58a3-f305-44b2-a9bb-76172fa12202",
+          "name": "Real' Sea Salt & Vinegar Crisps (35g)",
+          "description": "N/A",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7be13fc6f9e5b2bc60bb4bc4e1d78c10/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6b065853-ad24-46c6-b8d5-6a493c87fb8a",
+          "name": "Real' Roast Ox Crisps (35g)",
+          "description": "N/A",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b54625876ddc48729c7a858ac763ab6d/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "02bf286e-ea30-4a24-887d-8644807a2883",
+          "name": "Real' Sweet Chilli Crisps (35g)",
+          "description": "N/A",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8cacdc57745264b6fc62342baf4670b3/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0cba62d0-19ba-4a5f-8c40-4fb0f1c8852b",
+          "name": "Real' Sea Salt Crisps (35g)",
+          "description": "N/A",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8f6667c572e916ac75b577cb19b495ad/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c62efcda-12af-4dbc-a6bb-61f69bd63e7e",
+          "name": "Real' Strong Cheese & Onion Crisps (35g)",
+          "description": "N/A",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/17d52e95e98cec3057454808ca77fb0a/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Real Fruit Smoothies",
+      "items": [
+        {
+          "id": "23f7fbf7-1cf5-47ef-a51f-a01f6416420a",
+          "name": "Strawberry & Banana Smoothie",
+          "description": "Real strawberries & banana slices, blended with orange and apple juice",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/63e94025d1d212d6241b882ef7997cde/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "95644008-4267-49a5-b051-5ea2e1a549fc",
+          "name": "Mango & Pineapple Smoothie",
+          "description": "Real mango & pineapple pieces - blended with orange and apple juice",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f5da1def9592e518235b2703d179953f/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a564c246-0214-4c0c-b3e4-3f65fe806d0b",
+          "name": "Blueberry Thrill Smoothie",
+          "description": "Blueberries, raspberries & banana - blended with orange and apple juice",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/13bcf653b9fd8e4e9c36a4f0404c3dc6/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "883013cd-93e8-46b4-a6de-4cccc8d9f88d",
+          "name": "PROTEIN Blueberry Thrill Smoothie",
+          "description": "Blueberries, raspberries & banana - with Optimum Nutrition Vanilla Whey Protein (20g total) - blended with orange and apple juice",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/13bcf653b9fd8e4e9c36a4f0404c3dc6/70aa2a4db7f990373ca9c376323e3dea.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d447f70b-52fd-4ea8-aca9-9c71f83c939f",
+          "name": "PROTEIN Mango & Pineapple Smoothie",
+          "description": "Real Mango and Pineapple pieces - with Optimum Nutrition Vanilla Whey Protein (20g total) - blended with orange and apple juice",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/142cc4a1850829883e1f982223036feb/70aa2a4db7f990373ca9c376323e3dea.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "06f03819-15a0-47c7-b3d7-880f6ed50a44",
+          "name": "PROTEIN Strawberry & Banana Smoothie",
+          "description": "Real strawberries and banana slices - with Optimum Nutrition Vanilla Whey Protein (20g total) - blended with orange and apple juice",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ddb0e67c6dcef7d17c5e539bbc4326ab/70aa2a4db7f990373ca9c376323e3dea.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Barista-Made Hot Drinks",
+      "items": [
+        {
+          "id": "38923567-74f6-41ab-92be-9bf6d6bb0b43",
+          "name": "Iced Latte",
+          "description": "Lovingly made by our trained baristas from milk, ice, and a double espresso",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cf37ffd74d4fa5a5781448006a933b8f/70aa2a4db7f990373ca9c376323e3dea.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "87a6c96f-06e7-4c5c-8e82-b85f8b05a46c",
+          "name": "Latte",
+          "description": "Lovingly made by our trained baristas from ground-to-order beans and freshly steamed milk",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a38bd1f3ed7b60554eca46fb34ac6c2c/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1e876fb5-2443-4663-ad16-59cb97a64d36",
+          "name": "Chai Latte",
+          "description": "Lovingly made by our trained baristas using top quality chai powder and freshly steamed milk.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a6b8c753fa4141c4e066582403923cc9/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fed94137-ca6d-43ff-b6c1-497f9480fe14",
+          "name": "Cappuccino",
+          "description": "Lovingly made by our trained baristas from ground-to-order beans and freshly steamed milk",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a6b8c753fa4141c4e066582403923cc9/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "83ec6efb-be59-4477-b610-5968b1c153dc",
+          "name": "Flat White",
+          "description": "Lovingly made by our trained baristas from ground-to-order beans and freshly steamed milk",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a6b8c753fa4141c4e066582403923cc9/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "12bb0c2f-9110-4b10-9ae1-e1402ede7b8b",
+          "name": "Americano",
+          "description": "Lovingly made by our trained baristas from ground-to-order beans",
+          "price": "£3.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 369,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a6b8c753fa4141c4e066582403923cc9/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c4fdf653-349d-4e2e-af39-e29f31deae75",
+          "name": "Hot Chocolate",
+          "description": "Lovingly made by our trained baristas from premium chocolate powder and freshly steamed milk",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a6b8c753fa4141c4e066582403923cc9/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c26926eb-1657-4681-b325-289d04ab9d7f",
+          "name": "Mocha",
+          "description": "Lovingly made by our trained baristas from ground-to-order beans",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a6b8c753fa4141c4e066582403923cc9/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "06302418-8134-4e93-a4b9-bc8a9d09f876",
+          "name": "Breakfast Tea",
+          "description": "Clipper organic, fairtrade breakfast tea",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a6b8c753fa4141c4e066582403923cc9/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "113f3e59-145b-47df-a4ce-0f8f9281e13e",
+          "name": "Iced Americano",
+          "description": "Lovingly made by our trained baristas from ice, water, and espresso",
+          "price": "£3.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 369,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Soft Drinks",
+      "items": [
+        {
+          "id": "9f9c8296-508c-4684-bca0-668def3e7325",
+          "name": "Pepsi Max 330ml",
+          "description": "In a glass bottle",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2a73e1c9f2c9524f95a92375ab2a5f55/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "284a9a12-ae0d-4f3c-88c6-572066954a23",
+          "name": "San Pellegrino Orange (330ml)",
+          "description": "N/A",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/69e5d937a2ec2fdde5e00566655f6a84/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "340bf4d1-4df0-42c0-bc11-998c8906c749",
+          "name": "San Pellegrino Lemon (330ml)",
+          "description": "N/A",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b3c691996f9d65b00fcc9909bca07204/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e9173f90-ac2c-4ad7-8408-2f7d08cc1835",
+          "name": "Volvic Water (500ml)",
+          "description": "N/A",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5aa787a7d66b38195b0eea421a11c889/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8f8e95f3-2613-44b7-add9-fa4dd33dacfd",
+          "name": "San Pellegrino Pomegranate & Orange (330ml)",
+          "description": "N/A",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/142aeeee4c2d3f5d5a84ef6e3b6b9235/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4991d99b-99ba-42ab-9e8e-55b71817480b",
+          "name": "JuiceBurst Orange (400ml)",
+          "description": "N/A",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c8ff5f2e75dca1747672e63ee0197431/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "22270e4b-5a0b-493f-93ce-4396f4d316f9",
+          "name": "JuiceBurst Apple (500ml)",
+          "description": "N/A",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2759d15d47dbb5e9cc2103ec073410d9/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "28fe30b5-bfa0-4362-bb07-76c0e747f0a3",
+          "name": "Lipton Ice Tea Peach (500ml)",
+          "description": "N/A",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cdd22a7e8381399694ce72cd0e181727/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "60ee1169-856f-4f7a-9b62-3fa2996a2a2e",
+          "name": "Pepsi 330ml",
+          "description": "In a glass bottle",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0812c5d7cd5fec2e37651baf74b293da/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

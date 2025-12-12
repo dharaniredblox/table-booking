@@ -1,0 +1,965 @@
+{
+  "restaurant_id": "chaiiwalabristol-BS56NR-51",
+  "source_id": "67eb6586-28ca-54ac-afc7-b9e5e188620d",
+  "restaurant_url": "https://www.ubereats.com/store/chaiiwala-bristol/Z-tlhijKVKyvx7nl4YhiDQ",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:44:25.952Z",
+  "restaurant": {
+    "name": "Chaiiwala (Bristol)",
+    "slug": "chaiiwala-bristol",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441173690786",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "442 Stapleton Road, Bristol, EMEA BS5 6NR",
+    "streetAddress": "442 Stapleton Road",
+    "addressCity": "bristol-eng",
+    "neighborhood": "eastville-bristol-eng",
+    "addressRegion": "EMEA",
+    "postalCode": "BS5 6NR",
+    "addressCountry": "GB",
+    "latitude": 51.4701364,
+    "longitude": -2.5644588,
+    "geohash": "gcnhv9",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 4.4,
+    "totalReviews": "2000+",
+    "workingHours": "Open until 5:00 AM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Indian",
+      "Vegetarian",
+      "Asian",
+      "Halal",
+      "Breakfast and Brunch",
+      "Paratha",
+      "Group Friendly"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Every Day",
+      "hours": [
+        {
+          "open": "09:00",
+          "close": "00:30",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Chaiiwala Favourites",
+      "items": [
+        {
+          "id": "3264f0ad-b8d3-5bd5-a473-a24f4375b28a",
+          "name": "A. Desi Breakfast",
+          "description": "masala omelette with masala beans, daal or chana 2x classic rotis / parathas / toast & karak chaii/ karak coffee",
+          "price": "£11.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1170,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cc5067e8bf892fb4cc746ec939835839/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "0fa13ea7-c316-512d-b184-f18a98363067",
+          "name": "B. Karak Chaii",
+          "description": "Our world famous traditional chaii (tea) freshly brewed with our very own aromatic spices and creamy milk",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bc521540512ac5058c56c72d9f74e319/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6d6b6995-a310-5d2b-a016-c4aa67f6bd9f",
+          "name": "C. Butter Chicken Bombay Bowl",
+          "description": "Succulent masala butter chicken, served with steamed basmati rice or freshly fried chips.  Accompanied by a savory chickpea and potato salad a refreshing traditional house slaw, finished off with a classic chutney",
+          "price": "£11.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1165,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/16588326290a8dbc76c73e38e0a297e4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c0c28782-5dd8-523c-8185-c1fc855d9059",
+          "name": "D. Mixed Kebab Naan",
+          "description": "Lamb keema,chicken tikka, chicken sheekh kebabs, with fresh onions and drizzled with a yogurt & mint chutney",
+          "price": "£7.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 775,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bef06c3e06613c6d5225a1b01630e007/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ad4a9c82-186b-52c4-b9ea-9608c9149446",
+          "name": "E. Spiced Chicken Sausage & Egg Wrap",
+          "description": "Spiced chicken sausage and masala omelette wrapped in a classic roti, bursting with flavour and high in protein",
+          "price": "£6.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 620,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f9e00d52d72fead58c9409ede18d6a23/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6e392e02-2a59-5e37-bcb9-b71e448960c5",
+          "name": "G. Chicken Tikka Melt Toastie",
+          "description": "A unique twist on a classic comfort food favourite.  Tender chicken tikka, melted cheese and a touch of mayo, creating a irresistible grilled cheese experience",
+          "price": "£5.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 585,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/80d83a01246baf857788abf1965a6d60/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "All Day Breakfast",
+      "items": [
+        {
+          "id": "d0825607-fc19-5888-8a8a-fea4d964e0e2",
+          "name": "Halwa Puri",
+          "description": "Traditional breakfast that features semolina pudding (halwa), served with two fried bread puffs (puri)",
+          "price": "£7.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 775,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/75b79337abc9fea9a3c6a384c5e808f7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "843a29ba-e1dc-5613-bc0e-85de5ab2e002",
+          "name": "Aloo Paratha",
+          "description": "Signature paratha filled with spiced potato, served with yoghurt and mint chutney",
+          "price": "£4.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 420,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/66fe69c00b01816e84404f96ac4100f6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5a4900eb-9b4d-490e-ad40-2bfb54504543",
+          "name": "English-ish Breakfast",
+          "description": "Masala omelette with masala beans, 2 lamb bacon rashers, 2 chicken sausages, 2 hash browns & 2 slices of toast",
+          "price": "£13.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1300,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c3ccc5971725ad15999476ad49e78c42/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c876c2e4-ba2e-53c6-b725-2518d2ce8c3f",
+          "name": "Desi Breakfast",
+          "description": "masala omelette with masala beans, daal or chana 2x classic rotis / parathas / toast & karak chaii/ karak coffee",
+          "price": "£11.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1170,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3e6d8e1ce0777f2637b983a6c0e61c08/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a73a04bd-bd13-5468-ad71-f75b2d44468c",
+          "name": "Omelette Wrap",
+          "description": "Masala omelette wrapped in classic roti, bursting with flavour and high in protein",
+          "price": "£4.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 490,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/57aa960cda6a61c23858b4a94366ef79/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7d46aac0-2fb7-585b-8d72-de010fb764ed",
+          "name": "Lamb Bacon & Egg Wrap",
+          "description": "Lamb bacon and masala omelette wrapped in a classic roti bursting with flavour and high in protein",
+          "price": "£6.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 620,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/214a36ec665bdc42babbbadd448f9ffc/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "67fcadf8-d01a-52be-a11e-cf9577df3055",
+          "name": "Spiced Chicken Sausage & Egg Wrap",
+          "description": "Spiced chicken sausage and masala omelette wrapped in a classic roti, bursting with flavour and high in protein",
+          "price": "£6.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 620,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f9e00d52d72fead58c9409ede18d6a23/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Wala Wraps",
+      "items": [
+        {
+          "id": "e994944d-ff79-577f-82dd-b0abcb35787a",
+          "name": "Chicken Tikka Wala Wrap",
+          "description": "Chicken tikka wrapped in a pillowy naan, with fresh onions, tomatoes and drizzled with a yogurt & mint chutney",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/33907ad2c95a893e5a2fa951728a0443/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ad353df0-59b0-5da1-a7e9-fb8e48ecdc51",
+          "name": "Chicken Kebab Wala Wrap",
+          "description": "Chicken sheekh kebabs wrapped in a pillowy naan, with fresh onions and drizzled with a yogurt & mint chutney",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/40d52ed0c51ddef8f643efc6b33f0e99/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cffd70d4-7b2c-5109-8464-e7521b4ea0f4",
+          "name": "Mixed Kebab Naan",
+          "description": "Lamb keema,chicken tikka, chicken sheekh kebabs, with fresh onions and drizzled with a yogurt & mint chutney",
+          "price": "£7.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 775,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bef06c3e06613c6d5225a1b01630e007/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4f006778-ef08-5065-b7a5-633b2ed36533",
+          "name": "Bombay Twister",
+          "description": "Hoy and spicy chicken tenders, with a blend of cheese sauce, drizzled with ketchup and mayo all wrapped up in a soft fluffy naan",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d7da0d8141d96537c7241345f06ea9a4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Bombay Toasties",
+      "items": [
+        {
+          "id": "56d63466-9181-58fc-b67b-99b29736cc10",
+          "name": "Bombay Sandwich",
+          "description": "A street food classic, toasted bread slices filled with aloo (potatoes), infused with classic spices and finished with a classic green chutney",
+          "price": "£5.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 585,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3d7614aafb334dc971488a7f5ea03d23/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6356de23-e350-58d1-82b9-1f6afd7bb267",
+          "name": "Butter Chicken & Slaw Toastie",
+          "description": "A mixture of butter chicken and house slaw.  Toasted between 2 slices of bread",
+          "price": "£5.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 585,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1e7360a64c4138d8531c8ad7bfbca126/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2156e650-453e-5a35-998f-6aa1e62d5be5",
+          "name": "Cheese & Masala Beans Toastie",
+          "description": "A classic mixture of melted cheese and masala beans toasted between 2 slices of bread",
+          "price": "£5.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 585,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a7f732389fa1d39533d39c76c62c21de/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0a19bfd6-38b5-5429-9784-c11220c40d3e",
+          "name": "Chicken Tikka Melt Toastie",
+          "description": "A unique twist on a classic comfort food favourite.  Tender chicken tikka, melted cheese and a touch of mayo, creating a irresistible grilled cheese experience",
+          "price": "£5.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 585,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/80d83a01246baf857788abf1965a6d60/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Kids",
+      "items": [
+        {
+          "id": "79b05242-745f-5dab-a2f9-f9bc7f00e330",
+          "name": "Chicken Nuggets & Chips",
+          "description": "Chicken nuggets served with chips and drink",
+          "price": "£6.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 645,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/80f87bc2e3c99085e36866feef36f365/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Street Food",
+      "items": [
+        {
+          "id": "c7131d4c-c87d-5c59-84a0-ab0c863dc69c",
+          "name": "Masala Chips",
+          "description": "Freshly fried chips smothered in a sweet and spicy tomato sauce garnished with spring onions, best served with cheese",
+          "price": "£4.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 455,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8196e18004ef28c21fc409bcc7e9b5ba/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "57933ac9-5f24-5055-abc8-ee7170f59791",
+          "name": "Butter Chicken Roll",
+          "description": "Succulent shredded masala butter chicken in a classic roti",
+          "price": "£4.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 490,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/64f15655fd866ff85b34a9e267443e7f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "51011c59-6aac-51a1-89db-33c7c3c8f0ee",
+          "name": "Karachi Bun Kebab",
+          "description": "street-famous burger made with minced lamb patty topped with spicy egg and onions, and a tamarind and mango chutney",
+          "price": "£6.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 650,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ba218be04330f489dc986a012f80cb7a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "580b2684-9da2-407d-ab4f-56e2b092e59b",
+          "name": "Aloo Tikki Burger",
+          "description": "Crispy spiced potato croquette sandwiched in a bun with onions, tomatoes, house slaw & tamarind chutney",
+          "price": "£5.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 585,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/681d8a0e65a54acbedf467f0b294a584/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0e52b35a-e791-5825-bd12-3ac359aa7047",
+          "name": "Kebab Roll",
+          "description": "Chicken sheekh with mint yoghurt sauce topped with fresh onions, wrapped in a paratha",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3c328abdb9492bfa88618560827d6327/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c977aeab-46bc-5238-b301-b9f8b73a2b1d",
+          "name": "Plain Chips",
+          "description": "Freshly fried chips",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/219faa3078a6cc8ba19975868470cd37/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3213447d-bce0-586d-a094-9d3b69eee993",
+          "name": "Samosa Chaat",
+          "description": "Ultimate roadside snack - boxed off - with samosas, chickpeas, onions and tomatoes with tamarind chutney and yoghurt",
+          "price": "£7.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 715,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/591ccc85cb6b6f5e58e60bb32998fb0f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0eadc732-b32c-495c-a8ed-d6e9f7e4708a",
+          "name": "Pani Puri Poppers",
+          "description": "Call it Pani Puri or Gol Gappe - they taste amazing either way - served with chana mix and tamarind pani",
+          "price": "£7.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 715,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/963fefd8dd8aa7794c8226d539654652/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6e91a8e7-de3f-52dc-afa5-059aa3f0560e",
+          "name": "Loaded Chips",
+          "description": "Freshly fried chips with chicken tikka or veg kebab chunks, tomatoes, onions, green chillies, cheese, a special blend of sauces and our gunpowder spice mix",
+          "price": "£9.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 975,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/48063c8769f3dea7efaa4c47b78491c6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3a64ddce-03f1-5cd2-bc71-a3d97f5623c0",
+          "name": "Poppadom Nachos",
+          "description": "Crispy poppadoms piled high with a tangy tomato curry sauce, melted cheese and a vibrant mix of onions, tomatoes and jalapenos.  A unique twist on a classic favourite",
+          "price": "£6.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 645,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c77536d83542435db6c7eba752afab45/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "dc9a3e90-c319-5456-8269-df04abe7213d",
+          "name": "Vada Pav",
+          "description": "Authentic taste of Mumbai, crispy potato fritter, seasoned with gunpowder spice blend, nestled in a soft bun with tangy green chutney",
+          "price": "£6.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 645,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c1b393e82057f520f4004074ee8fea3a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Bombay Bowls",
+      "items": [
+        {
+          "id": "5b01a881-e2bd-5cb9-a06f-6d8fd7be3037",
+          "name": "Butter Chicken Bombay Bowl",
+          "description": "Succulent masala butter chicken, served with steamed basmati rice or freshly fried chips.  Accompanied by a savory chickpea and potato salad a refreshing traditional house slaw, finished off with a classic chutney",
+          "price": "£11.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1165,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8ea23a4ae7b198b711f9349bf97644eb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c6f6aaa0-7ad2-535f-8574-114ccecc2204",
+          "name": "Chana Masala Bombay Bowl",
+          "description": "Lahori style chana masala, served with steamed basmati rice or freshly fried chips.  Accompanied by a savory chickpea and potato salad a refreshing traditional house slaw, finished off with a classic chutney",
+          "price": "£11.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1100,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c82a2806fd3df69530afaf0d65e427e0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Autumn Promo",
+      "items": [
+        {
+          "id": "1aebab81-3ba5-5b1c-8e89-ab4cba183390",
+          "name": "Iced Chocolate Cloud",
+          "description": "A velvety smooth cold chocolate, covered with cream and crowned with a cotton candy dome",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/caf7b3beb8d06c71087b7ff71cacb615/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2b54c46d-52c1-5ce7-9926-de4f87289c16",
+          "name": "French Toast",
+          "description": "A crunchy toast bake with a molten chocolate centre, served with fresh strawberries and a scoop of ice cream",
+          "price": "£7.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 770,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d972f017b762a2fa463059f8b2cdb1ab/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Grab & Go",
+      "items": [
+        {
+          "id": "1535a202-b180-4339-9d56-226a05f7e1f3",
+          "name": "Punjabi Samosa",
+          "description": "N/A",
+          "price": "£2.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 230,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9605895d8eea9dc5133dab93b0206507/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cc2bc21a-670f-58b9-9c92-e46166b8325f",
+          "name": "Aloo Tikki Individual",
+          "description": "N/A",
+          "price": "£2.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 230,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/250ca629ff7c23d5f35f1a12e435cd97/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c24a9ac3-298b-5c43-8831-4e903e6fc672",
+          "name": "Triple Belgian Choc Cookie",
+          "description": "N/A",
+          "price": "£2.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 215,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/037a20e7b1309809043f92c3067fb34b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a710222c-a48a-4372-9bd4-cf70650b2ba3",
+          "name": "Cheese & Jalapeno Pasty",
+          "description": "N/A",
+          "price": "£3.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 385,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4e0eeb026a3120c422e1778a96c2166d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4e64e975-4ffc-4dc6-a74b-e01c4b98a65c",
+          "name": "Chicken Sausage Roll",
+          "description": "N/A",
+          "price": "£3.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 385,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3c50f968cce9d5a1320aa5ae4d9e272b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "68686f14-544b-5c24-891b-67bf06c910a8",
+          "name": "Chicken & Sweetcorn Pasty",
+          "description": "N/A",
+          "price": "£3.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 385,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/659e4781c58ce53b1e48c4d1126c692f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8ee092bd-ead4-50b6-b97d-272261e08339",
+          "name": "Chilli Lemon Corn Nuts",
+          "description": "N/A",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c81a1c27e853b8b515fb2bf5b8d667ce/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5dc43910-0f1e-5dc2-bb66-e706ca945c48",
+          "name": "Bombay Mix",
+          "description": "N/A",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/627b826df297a67a761232e89f87cccf/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0bfbe724-adef-57ee-8d68-67767392d17a",
+          "name": "Tandoori Peanuts",
+          "description": "N/A",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0b200216de07b65af4ce5d071db6b556/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Desserts",
+      "items": [
+        {
+          "id": "eca8ade0-55b1-52c6-aa57-e3df0e391434",
+          "name": "Nutella Wrap",
+          "description": "Famous hazlenut chocolate spread over a delicious paratha",
+          "price": "£4.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 455,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/20feffc1772836476df320fd2b20ba4a/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7bf8564c-cddf-5b96-b48f-22a6530b1819",
+          "name": "Gulab Jamun",
+          "description": "fried dough balls soaked in a sweet sugar syrup",
+          "price": "£5.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 585,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8bc27746f34a546c735e75411685833c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5b28985f-d721-5c88-b9dc-3ed11e3c2d79",
+          "name": "Sugared Donuts",
+          "description": "10 freshly fried donuts generously sprinkled with sugar",
+          "price": "£6.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 645,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8f84723e33c141092d7102ce52f782b7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ebd8d6f9-1153-5ea7-8a42-14c32a0a8f4a",
+          "name": "Loaded Donuts",
+          "description": "10 freshly fried donuts smoothered with milk or white chocolate with a choice of toppings",
+          "price": "£8.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 845,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3d880f754a9ec847e8f3204d3d1f665b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2efd9774-ce21-5ed1-8922-f52b0cb62ed7",
+          "name": "Chocolate Dream Cake",
+          "description": "Layers of rich chocolate cake and smooth ganache, a chocolate lover's dream",
+          "price": "£7.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 715,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b96ac408cb3668918de5437b26a9760c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cd196d69-1962-5c23-89db-5bd0bf461cef",
+          "name": "Rocky Road Cheesecake",
+          "description": "Rich, decadent layers of chocolate and vanilla cheesecake, topped with brownie cubes and finished with a crunchy brownie base",
+          "price": "£5.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 515,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/01de5a0f9e33a6856782d7d59e0e2bd6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Hot Drinks",
+      "items": [
+        {
+          "id": "f03bfaee-2eff-55b4-9005-cde58c712a16",
+          "name": "Karak Chaii",
+          "description": "Our world famous traditional chaii (tea) freshly brewed with our very own aromatic spices and creamy milk",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bc521540512ac5058c56c72d9f74e319/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4564cba4-d8e0-5fbf-aa4e-e99725b0f810",
+          "name": "Pink Chaii",
+          "description": "creamy milky pink tea with vanilla and aromatic spices",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3ccb205345d6e02dbddf32f2bfdc6fb8/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2fb477c9-b3e8-5d4e-8599-6e48a360ce17",
+          "name": "Chaii Latte",
+          "description": "a milky aromatic velvety tea",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9d22fdd379ee61a11e791e9b9a74c48c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "039e14ea-2cce-59d7-ad74-86ddd4a92656",
+          "name": "Garam Chocolate",
+          "description": "smooth hot chocolate Chaiiwala style",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e392ac7525a582e28a69dae881a1912a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "dd0bd12d-3fb5-5c78-bf70-bb3f0bb420e1",
+          "name": "Karak Coffee",
+          "description": "A rich and creamy milky brewed coffee with a touch of sweetness and a hint of karak magic",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c2ba4cd4fddb7cf2fab844d6907cdfd7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d93c6e9a-1c39-5b90-b898-d2ba81ba2c17",
+          "name": "Karak Chaii (No added Sugar)",
+          "description": "Our world famous traditional chaii (tea) freshly brewed with our very own aromatic spices and creamy milk.  No sugar",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bc521540512ac5058c56c72d9f74e319/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Cold Drinks",
+      "items": [
+        {
+          "id": "bbb70201-0d70-5f44-85ef-730c3c88bf63",
+          "name": "Falooda Mango Milkshake",
+          "description": "mango milkshake with ice cream topped with nuts, almonds and pistachios",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/08c70b0694482f1e2b6de2d9fc412824/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ce141888-c0b5-5e75-844e-5883a90ae1ac",
+          "name": "Iced Karak Coffee",
+          "description": "milky coffee with ice and caramel",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/35126998e16f409162d58ed3f0591156/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5fef25b9-1685-59fd-816e-bbb0002757b1",
+          "name": "Iced Karak Chaii",
+          "description": "strong brewed tea with ice and caramel",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/02fd955db40a63063c1858cb1d70f619/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9ea3aa13-6127-5007-ac58-dd2eb72a40ca",
+          "name": "Pink Chaii Frappe",
+          "description": "pink chaii blended with ice",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c5e8b91ccb1d42c69cb99f3ebdb3eaf4/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "37d70378-b2b3-5129-ab95-4163ec6cf32f",
+          "name": "Falooda Rose Milkshake",
+          "description": "rose milkshake with ice cream topped with nuts, almonds and pistachios",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3ca8fd975e0ba5de462ec354fc6a5da2/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "96450298-f0ab-459f-a075-68d55e030bdb",
+          "name": "Limbu Pani Lemonade",
+          "description": "Tangy & refreshing zesty thirst-quenching still lemon drink",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b812fa7c9d4c0b93cd5dda3865be4938/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "dd1dfb73-ee0b-5e3f-bd87-265d483f83f8",
+          "name": "Karak Coffee Frappe",
+          "description": "karak coffee blended with ice",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/30248d16db6b4b4ae2a10d8e53b8eb57/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c80e2b7f-7053-5531-b3e4-b8765a8d72a2",
+          "name": "Karak Chaii Frappe",
+          "description": "karak chaii blended with ice",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/432b4ba35ad67b892f0de31e7362149e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "0c1193a1-6bb6-5cdf-985d-dcd9ee78ab29",
+          "name": "Iced Pink Chaii",
+          "description": "pink chaii with ice and vanilla",
+          "price": null,
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/45bffd25937f02c3df5129cfe399437b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Bottled Drinks",
+      "items": [
+        {
+          "id": "603cf824-13ea-59a2-8e44-2e0846702f8d",
+          "name": "Simply Fruity Orange",
+          "description": "N/A",
+          "price": "£1.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e49cad0df0121335f930c77760b3ec73/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3de1f199-dea5-5d4b-a1b3-7a1536dccc18",
+          "name": "Simply Fruity Blackcurrant",
+          "description": "N/A",
+          "price": "£1.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fa64f5e92b5ac143fda2563db1123328/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0549ec07-baef-5e33-bc90-86e8be5daea7",
+          "name": "Zanti Cola",
+          "description": "N/A",
+          "price": "£3.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 360,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1266311e4d7ba0e2a38342fa1d4f0013/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c660fa34-a3c2-53fc-bc54-e01e1e6f9f23",
+          "name": "Water Glass Bottle",
+          "description": "N/A",
+          "price": "£2.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 230,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/12f77b02e14646bdda3373f7fecff85b/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Sides",
+      "items": [
+        {
+          "id": "4c3c946f-b0f1-5fce-93bf-b1a6f970aec9",
+          "name": "Classic Paratha",
+          "description": "layered puffy flatbread",
+          "price": "£1.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/911818c374c9b1b6f6a8c385a0bf55db/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e31663dc-830c-5f98-9225-829dc292d059",
+          "name": "Classic Roti",
+          "description": "round flatbread",
+          "price": "£1.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 170,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8b4a8377d11f6686a6271881e5e685d7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "91d762f6-afc6-4874-bd81-0971f1562f8f",
+          "name": "Cream Cheese Paratha",
+          "description": "Signature paratha with cream cheese",
+          "price": "£4.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 455,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d303d0a4d435a71c32bf6aceefe15257/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "773804ad-d048-45c2-8ab5-52c0404125a1",
+          "name": "Grilled Cheese Naan",
+          "description": "The desi take on the classic grilled cheese. Spice it up with green chillies and onions",
+          "price": "£4.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 455,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/168fb80141e4eee62ba6af1f6fa174aa/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "ICE CREAM",
+      "items": [
+        {
+          "id": "b5d07c58-1128-5bb1-b729-ac86216306c7",
+          "name": "Pistachio Fix Ice Cream",
+          "description": "N/A",
+          "price": "£4.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 455,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3e4631f2b7c160d6e991a60fb598394f/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

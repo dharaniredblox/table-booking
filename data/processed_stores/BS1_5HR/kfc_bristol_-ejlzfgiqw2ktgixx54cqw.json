@@ -1,0 +1,2683 @@
+{
+  "restaurant_id": "kfcbristolunionstreet-BS12-51",
+  "source_id": "f8424b64-5188-416d-a4b6-02315f9e1cab",
+  "restaurant_url": "https://www.ubereats.com/store/kfc-bristol-union-street/-EJLZFGIQW2ktgIxX54cqw",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:19:57.605Z",
+  "restaurant": {
+    "name": "KFC Bristol - Union Street",
+    "slug": "kfc-bristol-union-street",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441179544695",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "15-29 Union Street, Ground And 1st Floor Units, Bristol, Bristol BS1 2",
+    "streetAddress": "15-29 Union Street, Ground and 1st floor units",
+    "addressCity": "bristol-eng",
+    "neighborhood": "broadmead-bristol-eng",
+    "addressRegion": "Bristol",
+    "postalCode": "BS1 2",
+    "addressCountry": "GB",
+    "latitude": 51.4564673,
+    "longitude": -2.5912024,
+    "geohash": "gcnhtp",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 4.4,
+    "totalReviews": "15000+",
+    "workingHours": "Open until 3:15 AM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Fried Chicken",
+      "American",
+      "Fast Food",
+      "Chicken",
+      "Halal",
+      "Group Friendly"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Sunday - Wednesday",
+      "hours": [
+        {
+          "open": "09:30",
+          "close": "15:00",
+          "section": "Lunch Menu"
+        },
+        {
+          "open": "15:00",
+          "close": "22:45",
+          "section": "Rest of Day"
+        }
+      ]
+    },
+    {
+      "day": "Thursday - Saturday",
+      "hours": [
+        {
+          "open": "09:30",
+          "close": "15:00",
+          "section": "Lunch Menu"
+        },
+        {
+          "open": "15:00",
+          "close": "22:50",
+          "section": "Rest of Day"
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "What's New",
+      "items": [
+        {
+          "id": "c0adcdec-65b3-55d9-85c2-9295265a6c3b",
+          "name": "Dirty Dipping Feast: 10 pc",
+          "description": "10 Mini Fillets, 2 regular Signature fries and 2 of our NEW Dirty Loaded Fries, 2 Large sides, plus your choice of 2 Original Dips & a large bottle of drink.",
+          "price": "£35.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3549,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/95232f95711610f077dc3ffa1ea64c60/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e8e2bdba-c279-5626-bc34-c72f55ef8551",
+          "name": "Dirty Louisiana Box Meal",
+          "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun. Served alongside 1 Mini Fillet, regular Signature Fries, your choice of side & a drink.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1a519fbefd5b0c398f562bdff4859649/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "bcebad4d-ded1-51b5-b613-299119a3726c",
+          "name": "Dirty Louisiana Burger Meal",
+          "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun.  Served with Signature Fries and your choice of drink.",
+          "price": "£11.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7084b092d313cebb5ab1d418564e80b7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8028b2d4-3c8d-59da-a0e8-cc57f02d2b93",
+          "name": "Dirty Dipping Feast: 14 pc",
+          "description": "14 Mini Fillets, 2 regular Signature fries and 2 of our NEW Dirty Loaded Fries, 2 Large sides, plus your choice of 2 Original Dips & a large bottle of drink.",
+          "price": "£39.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1243fcdb084f6230eb1b51e87ab2962d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "66b74f91-9aee-5737-b2e7-3b380585e198",
+          "name": "Dirty Louisiana Burger",
+          "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun.  It’s our dirtiest burger yet.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4ad6323e18e96e99dd7c88f3cbbb2d88/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "98e58a04-defd-55d9-b4c7-81307848e52c",
+          "name": "Dirty Loaded Fries",
+          "description": "Our Signature Fries topped with Popcorn Chicken, and smothered with Zinger Ranch dressing, Smokey BBQ Sauce & Original Ranch dressing.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d5cc3123e46f4eb0e84906196b4b9751/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cf02ce25-7ab3-5a83-b7e6-b0ae3b21572d",
+          "name": "Zinger Drip Wings 🔥",
+          "description": "3 legendary Hot Wings covered in new spicy Zinger sauce. The wings you know and love, now hotter, saucier, and even more irresistible.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cfd6ec566e486fc4c158a8614a465f6e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "94be6fcb-81c8-51ca-abb7-ede4f9bbbcb1",
+          "name": "Double Bucket Deal",
+          "description": "Save over 30% off the Double Bucket Deal. This finger-lickin' bundle includes 6 pieces of Original Recipe Chicken, and 6 Mini Fillets for just £20!",
+          "price": "£20.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2000,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6699f1fc9a598ba12aecdb8154947a48/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Sharing Buckets",
+      "items": [
+        {
+          "id": "c0adcdec-65b3-55d9-85c2-9295265a6c3b",
+          "name": "Dirty Dipping Feast: 10 pc",
+          "description": "10 Mini Fillets, 2 regular Signature fries and 2 of our NEW Dirty Loaded Fries, 2 Large sides, plus your choice of 2 Original Dips & a large bottle of drink.",
+          "price": "£35.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3549,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/95232f95711610f077dc3ffa1ea64c60/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8028b2d4-3c8d-59da-a0e8-cc57f02d2b93",
+          "name": "Dirty Dipping Feast: 14 pc",
+          "description": "14 Mini Fillets, 2 regular Signature fries and 2 of our NEW Dirty Loaded Fries, 2 Large sides, plus your choice of 2 Original Dips & a large bottle of drink.",
+          "price": "£39.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1243fcdb084f6230eb1b51e87ab2962d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "cac80a08-bcdd-562e-88e1-9657f62ecf92",
+          "name": "Boneless Bargain Bucket: 6 pc",
+          "description": "6 of our succulent Mini Fillets with 4 regular Signature Fries. Serious bang for your buck.",
+          "price": "£19.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ac7ee097510e7242de1386999d353f07/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4a3db064-1f16-5bf7-96bd-ba81f0abbd4e",
+          "name": "Bargain Bucket: 6 pc",
+          "description": "6 pieces of our famous Original Recipe chicken with 4 regular Signature fries. Serious bang for your buck.The calorie information for this meal does not include the selectable items below.",
+          "price": "£19.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b8edad8b42bbba3ae7c4107d18146559/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5b7a9d86-70f5-5afa-835c-1ab17932b454",
+          "name": "Boneless Bargain Bucket: 10 pc",
+          "description": "10 of our succulent Mini Fillets with 4 regular Signature fries. Serious bang for your buck.",
+          "price": "£25.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6492cae3ddd798b065dea7ffaa88fea3/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "82783c90-2f43-589e-a9ee-f85f6e7f03e1",
+          "name": "Bargain Bucket: 10 pc",
+          "description": "10 pieces of our famous Original Recipe chicken with 4 regular Signature fries. Serious bang for your buck.The calorie information for this meal does not include the selectable items below.",
+          "price": "£25.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c0daf5a4d73ea95028a1d431ca0f7286/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c83ab3b9-386e-550c-9237-7b17c5852b76",
+          "name": "Boneless Bargain Bucket: 14 pc",
+          "description": "14 of our succulent Mini Fillets with 4 regular Signature fries. Serious bang for your buck.",
+          "price": "£31.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c9b335eedd743d35b1cb832b11830640/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d223a32a-aa8c-513f-ae90-6022a1288806",
+          "name": "Bargain Bucket: 14 pc",
+          "description": "14 pieces of our famous Original Recipe chicken with 4 regular Signature fries. Serious bang for your buck.The calorie information for this meal does not include the selectable items below.",
+          "price": "£31.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/68fdc3d884d2ae0ac8cc42493e3f25b9/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3a01cc59-f8df-5f8d-85fc-327f3d351006",
+          "name": "Boneless Family Feast: 6 pc",
+          "description": "6 of our succulent Mini Fillets, 4 regular Signature fries, 2 large sides & a large bottle of drink. A boneless delight for all the flock.",
+          "price": "£24.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d9f82cabbdf4d90b6833eb66edfac725/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "cfaffaef-2649-51ec-858c-987c9ee4b0ab",
+          "name": "Family Feast: 6 pc",
+          "description": "6 pieces of our famous Original Recipe chicken, 4 regular Signature fries, 2 large sides & a large bottle of drink. One for all the flock.The calorie information for this meal does not include the selectable items below.",
+          "price": "£24.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dff3e912a688a58c63c354c2d88c93bf/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d1981ca2-8be4-5b8e-82ee-e3c1fe11844d",
+          "name": "Boneless Family Feast: 10 pc",
+          "description": "10 of our succulent Mini Fillets, 4 regular Signature fries, 2 large sides & a large bottle of drink. A boneless delight for all the flock.",
+          "price": "£30.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4d9ca804a209f73d8eeb8e5cbff0a390/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "82700a63-1e14-5e91-ac0f-235c92eccade",
+          "name": "Family Feast: 10 pc",
+          "description": "10 pieces of our famous Original Recipe chicken, 4 regular Signature fries, 2 large sides & a large bottle of drink. One for all the flock.The calorie information for this meal does not include the selectable items below.",
+          "price": "£30.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/88fd628057754403caf966e1ca2cecde/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5f4da37a-1ec4-590b-bfe3-881022d26e93",
+          "name": "Wicked Variety Bucket: 6 pc",
+          "description": "6 pieces of Original Recipe chicken, 8 Hot Wings, 4 Mini Fillets & 4 regular Signature fries. A fiery one for all the flock.The calorie information for this meal does not include the selectable items below.",
+          "price": "£25.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/32eac4375f2b3f1c59b65439284a11f3/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e4822322-642b-5e97-8419-8383b89e5b4d",
+          "name": "Wicked Variety Bucket: 10 pc",
+          "description": "10 pieces of Original Recipe chicken, 8 Hot Wings, 4 Mini Fillets & 4 regular Signature fries. A fiery one for all the flock.The calorie information for this meal does not include the selectable items below.",
+          "price": "£31.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/29ff1e5ea00893a83e05e2d2293ac342/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "11401d99-8301-5895-86dd-1fa37196e01b",
+          "name": "Dipping Boneless Feast: 10 pc",
+          "description": "10 of our succulent Mini Fillets, large Popcorn Chicken, 4 regular Signature fries & 2 large sides. Plus 2 Dips of your choice & a large bottle of drink. Dippin' delicious",
+          "price": "£32.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a41dd1c97fd6160fee40ac7de10cd475/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "acf9aeb9-c189-5764-826c-3da6330d9a89",
+          "name": "Dipping Boneless Feast: 14 pc",
+          "description": "14 of our succulent Mini Fillets, large Popcorn Chicken, 4 regular Signature fries & 2 large sides. Plus 2 Dips of your choice & a large bottle of drink. Dippin' delicious.",
+          "price": "£36.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/915e07bb81c7f7d2bef076a80b4f8e01/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "673cb6f0-76a2-5071-8a37-76aa62c13f82",
+          "name": "Party Bucket",
+          "description": "10 pieces of Original Recipe chicken, 10 Mini Fillets, 8 Hot Wings, large Popcorn chicken, 6 regular Signature fries & 2 large sides. Plus a large bottle of drink. The ultimate finger lickin’ feast.",
+          "price": "£40.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 4099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b8ffd29b008d806de8bbf41ed79b11fc/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "94be6fcb-81c8-51ca-abb7-ede4f9bbbcb1",
+          "name": "Double Bucket Deal",
+          "description": "Save over 30% off the Double Bucket Deal. This finger-lickin' bundle includes 6 pieces of Original Recipe Chicken, and 6 Mini Fillets for just £20!",
+          "price": "£20.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2000,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6699f1fc9a598ba12aecdb8154947a48/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Box Meals",
+      "items": [
+        {
+          "id": "e8e2bdba-c279-5626-bc34-c72f55ef8551",
+          "name": "Dirty Louisiana Box Meal",
+          "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun. Served alongside 1 Mini Fillet, regular Signature Fries, your choice of side & a drink.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1a519fbefd5b0c398f562bdff4859649/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c58d77d3-55f6-52ab-bf53-b2abc4cd779b",
+          "name": "Boneless Banquet",
+          "description": "3 Mini Fillets, small Popcorn chicken, regular Signature fries & your choice of side. Plus one Original Dip & a drink. Dippin' delicious.The calorie information for this meal does not include the selectable items below.",
+          "price": "£12.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/52c4cec9f7c2f4f74ffda94b116573a2/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "55d1eab1-b991-5518-96dc-196750b1d3d7",
+          "name": "Trilogy Box Meal",
+          "description": "Fiery Zinger Burger, Mini Fillet, small Popcorn chicken, regular Signature fries & your choice of side. Plus 1 Original Dip & a drink. The triple whammy. The calorie information for this meal does not include the selectable items below.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6ffcf42d173fda30407877e6c976da13/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d1da330e-fea1-570a-9caf-8045e51c6b4e",
+          "name": "BBQ Fillet Tower Box Meal",
+          "description": "Original Recipe Fillet Burger topped with crispy hash brown, cheese, and smoky BBQ sauce. Plus, regular Signature fries, your choice of chicken, side & a drink.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d498f9ac36192004544ee760dfca47cb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "063c41b7-7a3a-5509-80bb-ecc1a82eec7e",
+          "name": "Fillet Tower Box Meal",
+          "description": "Original Recipe Fillet Burger topped with crispy hash brown, cheese, and Ketchup. Plus, regular Signature fries, your choice of chicken, side & a drink.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/913062029ab38c2fd571ce2fb73a4a9b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "15d6b5a8-7bbe-5354-8152-425db7b71370",
+          "name": "Fillet Box Meal",
+          "description": "Our Fillet Burger with regular Signature fries. Plus, your choice of chicken, side & a drink. An Original favourite.",
+          "price": "£12.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3524a2df18a435b9e05707939b88b814/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7e2ab6dd-9ddf-5c7c-9bda-f8c65b1c8549",
+          "name": "Zinger Box Meal",
+          "description": "Zinger Burger with regular Signature fries. Plus, your choice of chicken, side & a drink. Put a zing in your step!",
+          "price": "£12.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dffe0ff358088d7d9545c2686eff0a96/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9da5750b-07ee-5bc1-af5a-f47f5b5a8a4b",
+          "name": "Zinger Supercharger Tower Box Meal",
+          "description": "A fiery Zinger Fillet Burger topped with a hash brown, cheese & spicy Supercharger sauce. With regular Signature fries, plus your choice of chicken, side & a drink.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/50340878b182741ce6a998f3bf0439bc/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d43d6627-b445-51da-9c1f-bfcab0d4ba7d",
+          "name": "Twister Wrap Box Meal with 1 Mini Fillet",
+          "description": "An Original Recipe fillet with crunchy pickled slaw and your choice of sauce, wrapped in a lightly toasted tortilla plus a boneless Mini Fillet strip, regular Signature fries, your choice of side & a drink.The calorie information for this meal does not include the selectable items below.",
+          "price": "£12.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a60f7f1c3392d8ca9af016d6c4275e50/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Burgers",
+      "items": [
+        {
+          "id": "bcebad4d-ded1-51b5-b613-299119a3726c",
+          "name": "Dirty Louisiana Burger Meal",
+          "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun.  Served with Signature Fries and your choice of drink.",
+          "price": "£11.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7084b092d313cebb5ab1d418564e80b7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "66b74f91-9aee-5737-b2e7-3b380585e198",
+          "name": "Dirty Louisiana Burger",
+          "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun.  It’s our dirtiest burger yet.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4ad6323e18e96e99dd7c88f3cbbb2d88/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f71e81f7-b93d-5392-b022-c3668d5f3dee",
+          "name": "Zinger Supercharger Tower Burger Meal 🔥",
+          "description": "A fiery Zinger Fillet Burger topped with hash brown, cheese & spicy Supercharger sauce. With regular Signature fries & a drink. You can’t go wrong.The calorie information for this meal does not include the selectable items below.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aabb535dd9a2efc5da8836f1c808ef39/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "03bb7644-be35-50df-add7-45b0ef336a6c",
+          "name": "Fillet Tower Burger Meal",
+          "description": "Our Original Recipe Fillet Burger topped with a crispy hash brown, cheese, & Ketchup, plus regular Signature fries & a drink. You can’t go wrong.The calorie information for this meal does not include the selectable items below.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a07b493362187fa207c4dd8d1932167d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ee1a9bea-d5df-5c0f-a02c-5d22255993bf",
+          "name": "Fillet Burger Meal",
+          "description": "Original Recipe Fillet Burger made with chicken breast. With regular Signature fries & a drink. You can’t go wrong.The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d7cff560e6cb965f6bca1a4a4f42e1f9/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7fffb3a6-2fce-555e-bf4a-7157808b9275",
+          "name": "Zinger Burger Meal 🔥",
+          "description": "Zinger Burger made with chicken breast. Plus regular Signature fries & a drink. The meal with a kick.The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/acc0d5f7f22cb38b14bf5dea3a80a19a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c15d523a-c724-5078-a57c-189e9c864e60",
+          "name": "Zinger Stacker Meal 🔥",
+          "description": "2 Zinger Fillets topped with 2 slices of cheese, Supercharger & sweet chilli sauce. Plus regular Signature fries & a drink. The meal with double the kick.The calorie information for this meal does not include the selectable items below.",
+          "price": "£11.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/efc7299b8898d431aa9c0bdaa3db4d8e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8fe64c7a-3774-5c6e-9bd6-8b3314d8dfaf",
+          "name": "BBQ Fillet Tower Burger",
+          "description": "Original Recipe Fillet Burger topped with crispy hashbrown, cheese and smoky BBQ sauce. The Godfather of all burgers.",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bc587a196ddee4e3b7d15e908960c090/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "264e8400-f6ca-5233-826a-24f1b5207af1",
+          "name": "Zinger Supercharger Tower Burger 🔥",
+          "description": "A fiery Zinger Fillet Burger topped with hash brown, cheese & spicy Supercharger sauce. The fiery Godfather of all burgers.",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0ff866a6d1b060d05260f0e6f0313b5d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "94216ea2-9d25-5562-82b0-499352f77415",
+          "name": "Fillet Tower Burger",
+          "description": "Original Recipe Fillet Burger topped with crispy hashbrown, cheese and Ketchup. The Godfather of all burgers.",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cacf5d524ffaea2ae904f01bacfbb260/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6eb7a614-d7eb-5136-8dc0-832fb0269e6c",
+          "name": "Fillet Burger",
+          "description": "Original Recipe Fillet Burger. You can't go wrong.",
+          "price": "£7.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 749,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/482c1aba90d4077c8678ee423986b057/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4dd7a169-2790-5469-a9a6-33f0f0cce5b9",
+          "name": "Zinger Burger 🔥",
+          "description": "Spicy Zinger Fillet Burger. Packs a zingy punch.",
+          "price": "£7.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 749,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f4c6b67f58e30ff1b2d405a96d9fdf33/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f5dbedf1-c779-5666-995f-e67719aa412d",
+          "name": "Zinger Stacker 🔥",
+          "description": "Double the kick with 2 spicy Zinger Fillets. If you know, you know.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/087821298700841196dc87b7b20374d7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Buckets For One",
+      "items": [
+        {
+          "id": "d877e777-c1aa-569e-ab10-5379760fe2e5",
+          "name": "Mighty Bucket For One Meal",
+          "description": "2 pieces of Original Recipe chicken, 2 Mini Fillets & 2 fiery Hot Wings. Regular Signature fries & a drink. Go mighty!The calorie information for this meal does not include the selectable items below.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/014d51cace3eea141fe11667b2472751/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e9f4fd8e-7700-527f-bfe8-c2d5931effe7",
+          "name": "Boneless Meal: 4 pc",
+          "description": "4 Mini Fillets, an Original Dip, regular Signature fries & a drink. Nothing beats the Original.The calorie information for this meal does not include the selectable items below.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e336075c1b24d8055a71bc290cb4f4d7/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2a6c0684-4fb9-53d3-b01e-c29e14b26c64",
+          "name": "Boneless Meal: 3 pc",
+          "description": "3 Mini Fillets, an Original Dip, regular Signature fries & a drink. Nothing beats the Original.The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7e0a8cea46f801a9a11ea2b4224f63f0/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "850f4552-a869-5c22-90ab-0d39c5771e21",
+          "name": "Colonel's Meal: 3 pc",
+          "description": "3 pieces of Original Recipe chicken, regular Signature fries & a drink. Dine like the Colonel himself.The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/eade8de8146cc2bc702b6e272ff83bd7/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "02b7c969-4401-5540-9d18-1ebbd2347809",
+          "name": "Colonel's Meal: 2 pc",
+          "description": "2 pieces of Original Recipe chicken, regular Signature fries & a drink. Dine like the Colonel himself.The calorie information for this meal does not include the selectable items below.",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e4651007a8dc00a1b72790cb481f6e6a/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a0efb6da-78ec-5b75-9836-a17176852da6",
+          "name": "Large Popcorn Chicken Meal",
+          "description": "Large portion of Popcorn chicken with regular Signature fries & a drink. Get poppin’.The calorie information for this meal does not include the selectable items below.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/893f426220eee458d02f175fe56e12e3/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5ead287d-35ab-5549-97f0-fc1e72041cf5",
+          "name": "Regular Popcorn Chicken Meal",
+          "description": "Popcorn chicken with regular Signature fries & a drink. Get poppin’. The calorie information for this meal does not include the selectable items below.",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9e0dd9136e0ab4a94cf5f91921dd83ce/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3284a28f-fc72-5bb7-a5a4-d0519e38b8e0",
+          "name": "Hot Wings Meal: 10 pc 🔥",
+          "description": "10 Hot Wings, regular Signature fries & a drink. The only way to wing it.The calorie information for this meal does not include the selectable items below.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/05f017c04ec50a555a4266972c11d93c/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "80d02500-39df-5a0d-9741-f1752d37d212",
+          "name": "Hot Wings Meal: 6 pc 🔥",
+          "description": "6 Hot Wings, regular Signature fries & a drink. The only way to wing it.The calorie information for this meal does not include the selectable items below.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/58783ad7358a45476a84aa07bf03550c/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Vegan 🌱",
+      "items": [
+        {
+          "id": "77ee593a-fc6e-5b6d-8bfd-b5acedca5e5c",
+          "name": "Vegan Burger 🌱",
+          "description": "Quorn fillet coated in our famous 11 herbs & spices in a sesame bun with lettuce & vegan mayo. 11 herbs & spices, zero chicken.Finger lickin' vegan until you add non-vegan stuff, obviously.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/798984088d88a2dc93161e14a7e8a5f2/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6103a415-0693-5531-9941-ddba9e6b0b8e",
+          "name": "Vegan Burger with a Drink 🌱",
+          "description": "Quorn fillet coated in our famous 11 herbs & spices in a sesame bun with lettuce & vegan mayo, & a drink. 11 herbs & spices, zero chicken.Finger lickin' vegan until you add non-vegan stuff, obviously.",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f367be7f25f6e8b3269ff8c71eb8d7b2/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Twister Wraps",
+      "items": [
+        {
+          "id": "f7975d72-6dc9-582e-a9c3-b77de6703fc0",
+          "name": "Twister Wrap",
+          "description": "An Original Recipe fillet with crunchy pickled slaw and your choice of sauce, wrapped in a lightly toasted tortilla.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fb3d7d5309b1e16ed32066b13be5593f/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b14792f7-b7e6-5a98-8e03-a8eb1706d0c8",
+          "name": "Twister Wrap Meal",
+          "description": "An Original Recipe fillet with crunchy pickled slaw and your choice of sauce, wrapped in a lightly toasted tortilla. Served with regular Signature fries & a drink. The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/927ae56434215e37bc89e6aa51836b8f/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d43d6627-b445-51da-9c1f-bfcab0d4ba7d",
+          "name": "Twister Wrap Box Meal with 1 Mini Fillet",
+          "description": "An Original Recipe fillet with crunchy pickled slaw and your choice of sauce, wrapped in a lightly toasted tortilla plus a boneless Mini Fillet strip, regular Signature fries, your choice of side & a drink.The calorie information for this meal does not include the selectable items below.",
+          "price": "£12.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a60f7f1c3392d8ca9af016d6c4275e50/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Rice Bowls",
+      "items": [
+        {
+          "id": "616c9783-8b22-5a3d-a044-4e634008cc60",
+          "name": "Original Ranch Rice Bowl",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with an Original Recipe Fillet and our new Original ranch dressing.All for under 600 calories.",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/034c953aec4d161ca480e962480fdb64/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d6a70f65-7569-535b-985a-8719fa93fb63",
+          "name": "Original Ranch Rice Bowl & Drink",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with an Original Recipe Fillet and our new Original ranch dressing. Plus a drink. All for under 600 calories.The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/54400a5e0e7b90b71be47b001219f15e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e2a8681a-5045-52e4-8e13-0a16f97f45bb",
+          "name": "Original Ranch Fillet Rice Bowl with Extra Fillet",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with two Original fillet and our new Original ranch dressing.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/394b2f33a87dfac091a104649e74efa4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "48d5a1ad-96a1-5279-8eb0-3e1b370e9b7c",
+          "name": "Original Ranch Rice Bowl with Extra Fillet & Drink",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with two Original fillet and our new Original ranch dressing. Plus a drink.The calorie information for this meal does not include the selectable items below.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4c850ae9e0a628720332cdc72cb197fd/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2099e9b7-67b0-5277-88ce-851201af6eac",
+          "name": "Zinger Ranch Rice Bowl 🔥",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with a Zinger Fillet and our new Zinger Ranch dressing. All for under 600 calories.The calorie information for this meal does not include the selectable items below.",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bf5261454f530044d709d7fbc117c962/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4d60741d-773e-5123-9ca5-0ef635509fbb",
+          "name": "Zinger Ranch Rice Bowl & Drink 🔥",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with a Zinger Fillet and our new Zinger Ranch dressing. Plus a drink.The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/38d5a498ee4d58043aaa6f8d7a373b97/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e6bd207c-72d1-53f7-a3ca-c12dcc6cb163",
+          "name": "Zinger Ranch Rice Bowl with Extra Zinger Fillet🔥",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with two Zinger fillet and our new Zinger ranch dressing.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9b3b356ecb962acb766eba94b00777e3/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f760eb76-5ce0-5c68-ad2f-803aa32cc6db",
+          "name": "Zinger Ranch Rice Bowl with Extra Zinger Fillet & Drink 🔥",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with two Zinger fillet and our new Zinger ranch dressing. Plus a drink.The calorie information for this meal does not include the selectable items below.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8c148543ee4b1827f8e91be55a7ee806/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6af4d8d2-b5f7-5f93-ae33-94d355f67d1e",
+          "name": "Original Ranch Veggie Rice Bowl",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with our new Original ranch dressing and served with a corn cobette.  All for under 600 calories.",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fb927749ae01dc75304ccd7d8a891f66/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "79a536ef-50d7-55a0-ab5a-61b3227bd447",
+          "name": "Original Ranch Veggie Rice Bowl & Drink",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with our new Original ranch dressing and served with a corn cobette.  Plus a drink. All for under 600 calories.The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/492155b1a36a9bcbe0c32abf03913267/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Chicken Sides",
+      "items": [
+        {
+          "id": "cf02ce25-7ab3-5a83-b7e6-b0ae3b21572d",
+          "name": "Zinger Drip Wings 🔥",
+          "description": "3 legendary Hot Wings covered in new spicy Zinger sauce. The wings you know and love, now hotter, saucier, and even more irresistible.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cfd6ec566e486fc4c158a8614a465f6e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5557765a-b398-53a4-a80e-8c925fa252ec",
+          "name": "Mini Fillet",
+          "description": "Our Mini Fillet. Nothing beats the Original.",
+          "price": "£2.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 259,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1360b1e939ee7aeb853aabcd0822a222/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d1d29e2d-f3e3-5abb-b033-81ce9ebec8fb",
+          "name": "Hot Wings: 2 pc 🔥",
+          "description": "2 Hot Wings. The perfect spicy snack.",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4921c9086da916cc07f1a5e7b4710690/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0b6d4a5c-cd4b-5ba8-872e-34caf8db9d03",
+          "name": "Large Popcorn Chicken",
+          "description": "Large portion of our Popcorn chicken pieces. Get poppin’",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/66b49c032df5b64366cda7893355b7f6/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cd36f183-5985-5098-affd-c309872b8ae5",
+          "name": "Regular Popcorn Chicken",
+          "description": "Regular portion of our Popcorn chicken pieces. Get poppin’",
+          "price": "£6.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 649,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/763706f637e4c9da05d1ec929255b559/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "27f39ae0-a41d-51e5-8986-4d0a7c6d4610",
+          "name": "Kansas BBQ Dipped Bites",
+          "description": "4 delicious boneless chicken Bites coated in sweet & smoky Kansas BBQ sauce. The sauciest side in town.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9ca1edf9308d9d8fdc181c8e64029409/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "501cb472-ae71-5fab-8666-258db5e1e18e",
+          "name": "Sweet Chilli Dipped Bites",
+          "description": "4 delicious boneless chicken Bites smothered in Sweet Chilli sauce. The sauciest side in town.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b214a28770d04b5a3efa61cc7836db10/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "118cfb1c-53c2-5da0-acf8-95225264a819",
+          "name": "Mini Fillet Burger",
+          "description": "Our Mini Fillet burger with lettuce & pepper mayo. Ideal for little appetites.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b31166630ebda44717c56a3a9a696596/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7b279161-bb50-5f29-aaa4-63b71a02aef7",
+          "name": "Original Recipe Chicken: 1 pc",
+          "description": "1 piece of our Original Recipe Chicken. Because you can't beat the classics.",
+          "price": "£2.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 279,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1d59b03c44bbb795a67e7401c37472e7/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1a4f0104-b484-58e0-9461-a16eeecd0f41",
+          "name": "Original Recipe Chicken: 2 pc",
+          "description": "2 pieces of our Original Recipe Chicken. Because you can't beat the classics.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bb8d38464cf431dc14e2c198605c965b/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "29d80035-56b3-5ef8-95fa-4c3bd856aea6",
+          "name": "BBQ Mini Wrap",
+          "description": "Our Mini Fillet with lettuce, cheese & smoky BBQ sauce, wrapped in a soft tortilla. Deliciously smoky.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3e78f1fbb4886e51a1b78998edec2038/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "241374ba-d3b0-50d5-bc99-4d44fc0f5ae8",
+          "name": "Flamin' Mini Wrap 🔥",
+          "description": "Our Mini Fillet with lettuce, cheese & our signature Supercharger sauce, wrapped in a soft tortilla. Deliciously spicy.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7232e8c70c27511bff48625ad0f541bd/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Classic Sides & Dips",
+      "items": [
+        {
+          "id": "98e58a04-defd-55d9-b4c7-81307848e52c",
+          "name": "Dirty Loaded Fries",
+          "description": "Our Signature Fries topped with Popcorn Chicken, and smothered with Zinger Ranch dressing, Smokey BBQ Sauce & Original Ranch dressing.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d5cc3123e46f4eb0e84906196b4b9751/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e5e44965-125c-5f85-a4ef-8d605b5157fb",
+          "name": "Regular Signature Fries",
+          "description": "We’ve seasoned the King of all sides.",
+          "price": "£3.19",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 319,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/563cb3636650b23b2bbb4fa3aba0c9e3/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4b5742e6-b475-532c-b231-eb3da7bf9a37",
+          "name": "Regular Gravy",
+          "description": "A regular portion of our famous gravy. Undeniably delicious.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/654a576e8840af80a639f9b0ffe06699/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8ccd59e2-87f1-5157-85aa-6d8470b4da3e",
+          "name": "Regular Beans",
+          "description": "Regular baked beans with a dash of Kentucky BBQ sauce. The family favourite.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a16b9069bfd4e9f6d38a707f70da95f6/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a6eb792f-424a-5ee1-a3cb-622d29043fc5",
+          "name": "Regular Coleslaw",
+          "description": "Freshly prepared with just the right amount of zesty crunch.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/742a1b39a9990b18aa810a79b676348d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "db3d8f15-8a79-5d63-96a2-2f95464e75be",
+          "name": "Regular Creamy Mash",
+          "description": "A regular portion of our delicious creamy mash, made with real potato.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7a2587b34ce6122aacb2595e9b879fd7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "196699f5-e8bb-50ae-8347-50d0eff92a81",
+          "name": "Regular Cajun Rice",
+          "description": "A regular portion of Cajun dirty rice with roasted sweet potato.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4825cf1b10be12394ef9c8fe94435818/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c3bb4326-3bfd-5676-ad7d-b0d6b69b7845",
+          "name": "Regular Side Salad",
+          "description": "Mixed leaf salad, charred corn in a blackened cajun rub, topped with Original Ranch Dressing.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/448c1577dbfe0334a5f77e1ee1537e71/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a8932849-1ac0-5706-a6f3-84fb21dc2d93",
+          "name": "Supercharger Dip",
+          "description": "Supercharger, our infamous spicy mayo.",
+          "price": "£0.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 60,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5e0602435d295604457eb6622b0e6c18/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7c576b91-362f-597a-8e1f-01392b2c12e7",
+          "name": "Sweet Chilli Dip",
+          "description": "Our Sweet Chilli dip is the perfect mix of sweet & spicy.",
+          "price": "£0.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 60,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b1422b4985bb7486ffec0b9d495d8864/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "85f3083f-4c1f-5844-aeee-6b3754ae03af",
+          "name": "Real Tomato Dip",
+          "description": "There’s nothing better than our Real Tomato dip. A classic.",
+          "price": "£0.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 60,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/113e461fc15ced9df272b360d9a3f76c/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a7efb725-008d-5c4f-b171-c50f8685d9ed",
+          "name": "Smoky BBQ Dip",
+          "description": "You can’t go wrong with our popular smoky BBQ dip.",
+          "price": "£0.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 60,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b8549e1f3b4fbbe718d7e498c53eeee2/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b2763d06-1863-5eb7-8898-10fad2e8222e",
+          "name": "Garlic Buttermilk Mayo Dip",
+          "description": "Enjoy our Garlic Buttermilk Mayo dip any way you please – dip it, spread it, dunk it.",
+          "price": "£0.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 60,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b85c11a383c19d689b508b88532ca4ed/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Cookies",
+      "items": [
+        {
+          "id": "d6818d63-1f64-521f-be9b-f22bd7ac05df",
+          "name": "Chocolate Chip Cookie",
+          "description": "One classic chocolate chip cookie. A tasty treat.",
+          "price": "£2.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 269,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/18d9625042eb61536243318ebe1bd3fa/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3f483de2-e3e8-5dc3-9693-0f1c0c2ed2fb",
+          "name": "White Chocolate Cookie",
+          "description": "One white chocolate chip cookie. A tasty treat.",
+          "price": "£2.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 269,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/33d6ea5c4f08c358f61297dd1e1cbe46/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7e07a148-54ac-5b74-902d-f3c2f739adfc",
+          "name": "4 Cookies",
+          "description": "A multi pack of 4 chocolate cookies. A tasty treat to share. (Selection may vary depending on availability).",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0e9f31fc374327a590d1b40a8e312df8/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Drinks",
+      "items": [
+        {
+          "id": "1b216ffd-ef74-5107-b477-4f8f5c3a82d7",
+          "name": "Pepsi MAX Can",
+          "description": "MAXIMUM TASTE, NO SUGAR. A bold and refreshing fizzy drink. Delivered chilled.",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/57d92dcfd431ca700d66dfcdf1a2faab/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "eaf640cb-7184-5641-bad9-36c794f15f29",
+          "name": "Tango Can",
+          "description": "Unleash refreshment with Tango’s big, bold Orange flavour, no sugar, and low calorie carbonated soft drink. Delivered chilled.",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4ed73cd78179c5cd74c855fe31c2f1f9/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b5a4293a-9c2e-53a3-98ea-8aa4ca507cf6",
+          "name": "Still Water 500ml",
+          "description": "Crisp refreshing taste. Delivered chilled.",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f9827aaff665bd92dae74ef45a29ffd1/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9ade9ccf-6225-55f5-bf75-0dd9ee2d4930",
+          "name": "Pepsi MAX 1.5 L Bottle",
+          "description": "MAXIMUM TASTE, NO SUGAR. A bold and refreshing fizzy drink. Delivered chilled.",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/57df61da8b02de772c31956c48834a21/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e02c42bb-1d5f-5f27-ba36-a702ac042509",
+          "name": "Diet Pepsi 1.5 L Bottle",
+          "description": "Light, crisp taste, Diet Pepsi gives you all the refreshment with no sugar and no calories. A bold and robust fizzy drink. Delivered chilled.",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1bbeaabfade8d4709630430e8efd155c/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fb4685df-b695-51c7-bc02-eef22f5fa356",
+          "name": "Tango 1.5 L Bottle",
+          "description": "Unleash refreshment with Tango’s big, bold Orange flavour. Delivered chilled.",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4435c9effba3eaa064dbec7b17fa3d82/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Kids' Boxes",
+      "items": [
+        {
+          "id": "5b66e5f7-5ce6-530f-b3fc-1fad29c6f407",
+          "name": "Kids' Box: Kids' Burger",
+          "description": "Our Kids' Burger with regular side, regular drink, plus a kids treat. Small in size, big on flavour.The calorie information for this meal does not include the selectable items below.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/837ef3fdfbed398d10b2b47b000b0f6c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6dcc2244-0a21-593d-beb9-0084791722d2",
+          "name": "Kids' Box: Mini Fillet & Dip",
+          "description": "A Mini Fillet with a Real Tomato dip, regular drink, plus a kids treat. Small in size, big on flavour.The calorie information for this meal does not include the selectable items below.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/86bf4e4ae2c383b4164c9659a1d201b2/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "44319c4a-479d-5f97-8afb-ee7c38468e6a",
+          "name": "Kids' Box: Popcorn Chicken",
+          "description": "Our Popcorn chicken pieces with regular side, regular drink, plus a kids treat. Small in size, big on flavour.The calorie information for this meal does not include the selectable items below.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/161cf1ef876b375ca11b20249e036669/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Lunch",
+      "items": [
+        {
+          "id": "c58d77d3-55f6-52ab-bf53-b2abc4cd779b",
+          "name": "Boneless Banquet",
+          "description": "3 Mini Fillets, small Popcorn chicken, regular Signature fries & your choice of side. Plus one Original Dip & a drink. Dippin' delicious.The calorie information for this meal does not include the selectable items below.",
+          "price": "£12.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/52c4cec9f7c2f4f74ffda94b116573a2/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e9f4fd8e-7700-527f-bfe8-c2d5931effe7",
+          "name": "Boneless Meal: 4 pc",
+          "description": "4 Mini Fillets, an Original Dip, regular Signature fries & a drink. Nothing beats the Original.The calorie information for this meal does not include the selectable items below.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e336075c1b24d8055a71bc290cb4f4d7/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "55d1eab1-b991-5518-96dc-196750b1d3d7",
+          "name": "Trilogy Box Meal",
+          "description": "Fiery Zinger Burger, Mini Fillet, small Popcorn chicken, regular Signature fries & your choice of side. Plus 1 Original Dip & a drink. The triple whammy. The calorie information for this meal does not include the selectable items below.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6ffcf42d173fda30407877e6c976da13/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a0efb6da-78ec-5b75-9836-a17176852da6",
+          "name": "Large Popcorn Chicken Meal",
+          "description": "Large portion of Popcorn chicken with regular Signature fries & a drink. Get poppin’.The calorie information for this meal does not include the selectable items below.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/893f426220eee458d02f175fe56e12e3/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ee1a9bea-d5df-5c0f-a02c-5d22255993bf",
+          "name": "Fillet Burger Meal",
+          "description": "Original Recipe Fillet Burger made with chicken breast. With regular Signature fries & a drink. You can’t go wrong.The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d7cff560e6cb965f6bca1a4a4f42e1f9/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7fffb3a6-2fce-555e-bf4a-7157808b9275",
+          "name": "Zinger Burger Meal 🔥",
+          "description": "Zinger Burger made with chicken breast. Plus regular Signature fries & a drink. The meal with a kick.The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/acc0d5f7f22cb38b14bf5dea3a80a19a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b14792f7-b7e6-5a98-8e03-a8eb1706d0c8",
+          "name": "Twister Wrap Meal",
+          "description": "An Original Recipe fillet with crunchy pickled slaw and your choice of sauce, wrapped in a lightly toasted tortilla. Served with regular Signature fries & a drink. The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/927ae56434215e37bc89e6aa51836b8f/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "What's New",
+      "items": [
+        {
+          "id": "c0adcdec-65b3-55d9-85c2-9295265a6c3b",
+          "name": "Dirty Dipping Feast: 10 pc",
+          "description": "10 Mini Fillets, 2 regular Signature fries and 2 of our NEW Dirty Loaded Fries, 2 Large sides, plus your choice of 2 Original Dips & a large bottle of drink.",
+          "price": "£35.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3549,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/95232f95711610f077dc3ffa1ea64c60/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e8e2bdba-c279-5626-bc34-c72f55ef8551",
+          "name": "Dirty Louisiana Box Meal",
+          "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun. Served alongside 1 Mini Fillet, regular Signature Fries, your choice of side & a drink.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1a519fbefd5b0c398f562bdff4859649/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "bcebad4d-ded1-51b5-b613-299119a3726c",
+          "name": "Dirty Louisiana Burger Meal",
+          "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun.  Served with Signature Fries and your choice of drink.",
+          "price": "£11.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7084b092d313cebb5ab1d418564e80b7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8028b2d4-3c8d-59da-a0e8-cc57f02d2b93",
+          "name": "Dirty Dipping Feast: 14 pc",
+          "description": "14 Mini Fillets, 2 regular Signature fries and 2 of our NEW Dirty Loaded Fries, 2 Large sides, plus your choice of 2 Original Dips & a large bottle of drink.",
+          "price": "£39.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1243fcdb084f6230eb1b51e87ab2962d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "66b74f91-9aee-5737-b2e7-3b380585e198",
+          "name": "Dirty Louisiana Burger",
+          "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun.  It’s our dirtiest burger yet.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4ad6323e18e96e99dd7c88f3cbbb2d88/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "98e58a04-defd-55d9-b4c7-81307848e52c",
+          "name": "Dirty Loaded Fries",
+          "description": "Our Signature Fries topped with Popcorn Chicken, and smothered with Zinger Ranch dressing, Smokey BBQ Sauce & Original Ranch dressing.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d5cc3123e46f4eb0e84906196b4b9751/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cf02ce25-7ab3-5a83-b7e6-b0ae3b21572d",
+          "name": "Zinger Drip Wings 🔥",
+          "description": "3 legendary Hot Wings covered in new spicy Zinger sauce. The wings you know and love, now hotter, saucier, and even more irresistible.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cfd6ec566e486fc4c158a8614a465f6e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "94be6fcb-81c8-51ca-abb7-ede4f9bbbcb1",
+          "name": "Double Bucket Deal",
+          "description": "Save over 30% off the Double Bucket Deal. This finger-lickin' bundle includes 6 pieces of Original Recipe Chicken, and 6 Mini Fillets for just £20!",
+          "price": "£20.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2000,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6699f1fc9a598ba12aecdb8154947a48/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Sharing Buckets",
+      "items": [
+        {
+          "id": "c0adcdec-65b3-55d9-85c2-9295265a6c3b",
+          "name": "Dirty Dipping Feast: 10 pc",
+          "description": "10 Mini Fillets, 2 regular Signature fries and 2 of our NEW Dirty Loaded Fries, 2 Large sides, plus your choice of 2 Original Dips & a large bottle of drink.",
+          "price": "£35.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3549,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/95232f95711610f077dc3ffa1ea64c60/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8028b2d4-3c8d-59da-a0e8-cc57f02d2b93",
+          "name": "Dirty Dipping Feast: 14 pc",
+          "description": "14 Mini Fillets, 2 regular Signature fries and 2 of our NEW Dirty Loaded Fries, 2 Large sides, plus your choice of 2 Original Dips & a large bottle of drink.",
+          "price": "£39.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1243fcdb084f6230eb1b51e87ab2962d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "cac80a08-bcdd-562e-88e1-9657f62ecf92",
+          "name": "Boneless Bargain Bucket: 6 pc",
+          "description": "6 of our succulent Mini Fillets with 4 regular Signature Fries. Serious bang for your buck.",
+          "price": "£19.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ac7ee097510e7242de1386999d353f07/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4a3db064-1f16-5bf7-96bd-ba81f0abbd4e",
+          "name": "Bargain Bucket: 6 pc",
+          "description": "6 pieces of our famous Original Recipe chicken with 4 regular Signature fries. Serious bang for your buck.The calorie information for this meal does not include the selectable items below.",
+          "price": "£19.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b8edad8b42bbba3ae7c4107d18146559/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5b7a9d86-70f5-5afa-835c-1ab17932b454",
+          "name": "Boneless Bargain Bucket: 10 pc",
+          "description": "10 of our succulent Mini Fillets with 4 regular Signature fries. Serious bang for your buck.",
+          "price": "£25.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6492cae3ddd798b065dea7ffaa88fea3/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "82783c90-2f43-589e-a9ee-f85f6e7f03e1",
+          "name": "Bargain Bucket: 10 pc",
+          "description": "10 pieces of our famous Original Recipe chicken with 4 regular Signature fries. Serious bang for your buck.The calorie information for this meal does not include the selectable items below.",
+          "price": "£25.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c0daf5a4d73ea95028a1d431ca0f7286/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c83ab3b9-386e-550c-9237-7b17c5852b76",
+          "name": "Boneless Bargain Bucket: 14 pc",
+          "description": "14 of our succulent Mini Fillets with 4 regular Signature fries. Serious bang for your buck.",
+          "price": "£31.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c9b335eedd743d35b1cb832b11830640/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d223a32a-aa8c-513f-ae90-6022a1288806",
+          "name": "Bargain Bucket: 14 pc",
+          "description": "14 pieces of our famous Original Recipe chicken with 4 regular Signature fries. Serious bang for your buck.The calorie information for this meal does not include the selectable items below.",
+          "price": "£31.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/68fdc3d884d2ae0ac8cc42493e3f25b9/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3a01cc59-f8df-5f8d-85fc-327f3d351006",
+          "name": "Boneless Family Feast: 6 pc",
+          "description": "6 of our succulent Mini Fillets, 4 regular Signature fries, 2 large sides & a large bottle of drink. A boneless delight for all the flock.",
+          "price": "£24.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d9f82cabbdf4d90b6833eb66edfac725/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "cfaffaef-2649-51ec-858c-987c9ee4b0ab",
+          "name": "Family Feast: 6 pc",
+          "description": "6 pieces of our famous Original Recipe chicken, 4 regular Signature fries, 2 large sides & a large bottle of drink. One for all the flock.The calorie information for this meal does not include the selectable items below.",
+          "price": "£24.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dff3e912a688a58c63c354c2d88c93bf/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d1981ca2-8be4-5b8e-82ee-e3c1fe11844d",
+          "name": "Boneless Family Feast: 10 pc",
+          "description": "10 of our succulent Mini Fillets, 4 regular Signature fries, 2 large sides & a large bottle of drink. A boneless delight for all the flock.",
+          "price": "£30.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4d9ca804a209f73d8eeb8e5cbff0a390/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "82700a63-1e14-5e91-ac0f-235c92eccade",
+          "name": "Family Feast: 10 pc",
+          "description": "10 pieces of our famous Original Recipe chicken, 4 regular Signature fries, 2 large sides & a large bottle of drink. One for all the flock.The calorie information for this meal does not include the selectable items below.",
+          "price": "£30.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/88fd628057754403caf966e1ca2cecde/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5f4da37a-1ec4-590b-bfe3-881022d26e93",
+          "name": "Wicked Variety Bucket: 6 pc",
+          "description": "6 pieces of Original Recipe chicken, 8 Hot Wings, 4 Mini Fillets & 4 regular Signature fries. A fiery one for all the flock.The calorie information for this meal does not include the selectable items below.",
+          "price": "£25.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/32eac4375f2b3f1c59b65439284a11f3/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e4822322-642b-5e97-8419-8383b89e5b4d",
+          "name": "Wicked Variety Bucket: 10 pc",
+          "description": "10 pieces of Original Recipe chicken, 8 Hot Wings, 4 Mini Fillets & 4 regular Signature fries. A fiery one for all the flock.The calorie information for this meal does not include the selectable items below.",
+          "price": "£31.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/29ff1e5ea00893a83e05e2d2293ac342/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "11401d99-8301-5895-86dd-1fa37196e01b",
+          "name": "Dipping Boneless Feast: 10 pc",
+          "description": "10 of our succulent Mini Fillets, large Popcorn Chicken, 4 regular Signature fries & 2 large sides. Plus 2 Dips of your choice & a large bottle of drink. Dippin' delicious",
+          "price": "£32.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a41dd1c97fd6160fee40ac7de10cd475/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "acf9aeb9-c189-5764-826c-3da6330d9a89",
+          "name": "Dipping Boneless Feast: 14 pc",
+          "description": "14 of our succulent Mini Fillets, large Popcorn Chicken, 4 regular Signature fries & 2 large sides. Plus 2 Dips of your choice & a large bottle of drink. Dippin' delicious.",
+          "price": "£36.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/915e07bb81c7f7d2bef076a80b4f8e01/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "673cb6f0-76a2-5071-8a37-76aa62c13f82",
+          "name": "Party Bucket",
+          "description": "10 pieces of Original Recipe chicken, 10 Mini Fillets, 8 Hot Wings, large Popcorn chicken, 6 regular Signature fries & 2 large sides. Plus a large bottle of drink. The ultimate finger lickin’ feast.",
+          "price": "£40.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 4099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b8ffd29b008d806de8bbf41ed79b11fc/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "94be6fcb-81c8-51ca-abb7-ede4f9bbbcb1",
+          "name": "Double Bucket Deal",
+          "description": "Save over 30% off the Double Bucket Deal. This finger-lickin' bundle includes 6 pieces of Original Recipe Chicken, and 6 Mini Fillets for just £20!",
+          "price": "£20.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2000,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6699f1fc9a598ba12aecdb8154947a48/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Box Meals",
+      "items": [
+        {
+          "id": "e8e2bdba-c279-5626-bc34-c72f55ef8551",
+          "name": "Dirty Louisiana Box Meal",
+          "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun. Served alongside 1 Mini Fillet, regular Signature Fries, your choice of side & a drink.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1a519fbefd5b0c398f562bdff4859649/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c58d77d3-55f6-52ab-bf53-b2abc4cd779b",
+          "name": "Boneless Banquet",
+          "description": "3 Mini Fillets, small Popcorn chicken, regular Signature fries & your choice of side. Plus one Original Dip & a drink. Dippin' delicious.The calorie information for this meal does not include the selectable items below.",
+          "price": "£12.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/52c4cec9f7c2f4f74ffda94b116573a2/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "55d1eab1-b991-5518-96dc-196750b1d3d7",
+          "name": "Trilogy Box Meal",
+          "description": "Fiery Zinger Burger, Mini Fillet, small Popcorn chicken, regular Signature fries & your choice of side. Plus 1 Original Dip & a drink. The triple whammy. The calorie information for this meal does not include the selectable items below.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6ffcf42d173fda30407877e6c976da13/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d1da330e-fea1-570a-9caf-8045e51c6b4e",
+          "name": "BBQ Fillet Tower Box Meal",
+          "description": "Original Recipe Fillet Burger topped with crispy hash brown, cheese, and smoky BBQ sauce. Plus, regular Signature fries, your choice of chicken, side & a drink.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d498f9ac36192004544ee760dfca47cb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "063c41b7-7a3a-5509-80bb-ecc1a82eec7e",
+          "name": "Fillet Tower Box Meal",
+          "description": "Original Recipe Fillet Burger topped with crispy hash brown, cheese, and Ketchup. Plus, regular Signature fries, your choice of chicken, side & a drink.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/913062029ab38c2fd571ce2fb73a4a9b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "15d6b5a8-7bbe-5354-8152-425db7b71370",
+          "name": "Fillet Box Meal",
+          "description": "Our Fillet Burger with regular Signature fries. Plus, your choice of chicken, side & a drink. An Original favourite.",
+          "price": "£12.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3524a2df18a435b9e05707939b88b814/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7e2ab6dd-9ddf-5c7c-9bda-f8c65b1c8549",
+          "name": "Zinger Box Meal",
+          "description": "Zinger Burger with regular Signature fries. Plus, your choice of chicken, side & a drink. Put a zing in your step!",
+          "price": "£12.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dffe0ff358088d7d9545c2686eff0a96/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9da5750b-07ee-5bc1-af5a-f47f5b5a8a4b",
+          "name": "Zinger Supercharger Tower Box Meal",
+          "description": "A fiery Zinger Fillet Burger topped with a hash brown, cheese & spicy Supercharger sauce. With regular Signature fries, plus your choice of chicken, side & a drink.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/50340878b182741ce6a998f3bf0439bc/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d43d6627-b445-51da-9c1f-bfcab0d4ba7d",
+          "name": "Twister Wrap Box Meal with 1 Mini Fillet",
+          "description": "An Original Recipe fillet with crunchy pickled slaw and your choice of sauce, wrapped in a lightly toasted tortilla plus a boneless Mini Fillet strip, regular Signature fries, your choice of side & a drink.The calorie information for this meal does not include the selectable items below.",
+          "price": "£12.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a60f7f1c3392d8ca9af016d6c4275e50/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Burgers",
+      "items": [
+        {
+          "id": "bcebad4d-ded1-51b5-b613-299119a3726c",
+          "name": "Dirty Louisiana Burger Meal",
+          "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun.  Served with Signature Fries and your choice of drink.",
+          "price": "£11.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7084b092d313cebb5ab1d418564e80b7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "66b74f91-9aee-5737-b2e7-3b380585e198",
+          "name": "Dirty Louisiana Burger",
+          "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun.  It’s our dirtiest burger yet.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4ad6323e18e96e99dd7c88f3cbbb2d88/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f71e81f7-b93d-5392-b022-c3668d5f3dee",
+          "name": "Zinger Supercharger Tower Burger Meal 🔥",
+          "description": "A fiery Zinger Fillet Burger topped with hash brown, cheese & spicy Supercharger sauce. With regular Signature fries & a drink. You can’t go wrong.The calorie information for this meal does not include the selectable items below.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aabb535dd9a2efc5da8836f1c808ef39/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "03bb7644-be35-50df-add7-45b0ef336a6c",
+          "name": "Fillet Tower Burger Meal",
+          "description": "Our Original Recipe Fillet Burger topped with a crispy hash brown, cheese, & Ketchup, plus regular Signature fries & a drink. You can’t go wrong.The calorie information for this meal does not include the selectable items below.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a07b493362187fa207c4dd8d1932167d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ee1a9bea-d5df-5c0f-a02c-5d22255993bf",
+          "name": "Fillet Burger Meal",
+          "description": "Original Recipe Fillet Burger made with chicken breast. With regular Signature fries & a drink. You can’t go wrong.The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d7cff560e6cb965f6bca1a4a4f42e1f9/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7fffb3a6-2fce-555e-bf4a-7157808b9275",
+          "name": "Zinger Burger Meal 🔥",
+          "description": "Zinger Burger made with chicken breast. Plus regular Signature fries & a drink. The meal with a kick.The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/acc0d5f7f22cb38b14bf5dea3a80a19a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c15d523a-c724-5078-a57c-189e9c864e60",
+          "name": "Zinger Stacker Meal 🔥",
+          "description": "2 Zinger Fillets topped with 2 slices of cheese, Supercharger & sweet chilli sauce. Plus regular Signature fries & a drink. The meal with double the kick.The calorie information for this meal does not include the selectable items below.",
+          "price": "£11.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/efc7299b8898d431aa9c0bdaa3db4d8e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8fe64c7a-3774-5c6e-9bd6-8b3314d8dfaf",
+          "name": "BBQ Fillet Tower Burger",
+          "description": "Original Recipe Fillet Burger topped with crispy hashbrown, cheese and smoky BBQ sauce. The Godfather of all burgers.",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bc587a196ddee4e3b7d15e908960c090/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "264e8400-f6ca-5233-826a-24f1b5207af1",
+          "name": "Zinger Supercharger Tower Burger 🔥",
+          "description": "A fiery Zinger Fillet Burger topped with hash brown, cheese & spicy Supercharger sauce. The fiery Godfather of all burgers.",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0ff866a6d1b060d05260f0e6f0313b5d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "94216ea2-9d25-5562-82b0-499352f77415",
+          "name": "Fillet Tower Burger",
+          "description": "Original Recipe Fillet Burger topped with crispy hashbrown, cheese and Ketchup. The Godfather of all burgers.",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cacf5d524ffaea2ae904f01bacfbb260/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6eb7a614-d7eb-5136-8dc0-832fb0269e6c",
+          "name": "Fillet Burger",
+          "description": "Original Recipe Fillet Burger. You can't go wrong.",
+          "price": "£7.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 749,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/482c1aba90d4077c8678ee423986b057/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4dd7a169-2790-5469-a9a6-33f0f0cce5b9",
+          "name": "Zinger Burger 🔥",
+          "description": "Spicy Zinger Fillet Burger. Packs a zingy punch.",
+          "price": "£7.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 749,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f4c6b67f58e30ff1b2d405a96d9fdf33/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f5dbedf1-c779-5666-995f-e67719aa412d",
+          "name": "Zinger Stacker 🔥",
+          "description": "Double the kick with 2 spicy Zinger Fillets. If you know, you know.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/087821298700841196dc87b7b20374d7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Buckets For One",
+      "items": [
+        {
+          "id": "d877e777-c1aa-569e-ab10-5379760fe2e5",
+          "name": "Mighty Bucket For One Meal",
+          "description": "2 pieces of Original Recipe chicken, 2 Mini Fillets & 2 fiery Hot Wings. Regular Signature fries & a drink. Go mighty!The calorie information for this meal does not include the selectable items below.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/014d51cace3eea141fe11667b2472751/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e9f4fd8e-7700-527f-bfe8-c2d5931effe7",
+          "name": "Boneless Meal: 4 pc",
+          "description": "4 Mini Fillets, an Original Dip, regular Signature fries & a drink. Nothing beats the Original.The calorie information for this meal does not include the selectable items below.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e336075c1b24d8055a71bc290cb4f4d7/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2a6c0684-4fb9-53d3-b01e-c29e14b26c64",
+          "name": "Boneless Meal: 3 pc",
+          "description": "3 Mini Fillets, an Original Dip, regular Signature fries & a drink. Nothing beats the Original.The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7e0a8cea46f801a9a11ea2b4224f63f0/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "850f4552-a869-5c22-90ab-0d39c5771e21",
+          "name": "Colonel's Meal: 3 pc",
+          "description": "3 pieces of Original Recipe chicken, regular Signature fries & a drink. Dine like the Colonel himself.The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/eade8de8146cc2bc702b6e272ff83bd7/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "02b7c969-4401-5540-9d18-1ebbd2347809",
+          "name": "Colonel's Meal: 2 pc",
+          "description": "2 pieces of Original Recipe chicken, regular Signature fries & a drink. Dine like the Colonel himself.The calorie information for this meal does not include the selectable items below.",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e4651007a8dc00a1b72790cb481f6e6a/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a0efb6da-78ec-5b75-9836-a17176852da6",
+          "name": "Large Popcorn Chicken Meal",
+          "description": "Large portion of Popcorn chicken with regular Signature fries & a drink. Get poppin’.The calorie information for this meal does not include the selectable items below.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/893f426220eee458d02f175fe56e12e3/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5ead287d-35ab-5549-97f0-fc1e72041cf5",
+          "name": "Regular Popcorn Chicken Meal",
+          "description": "Popcorn chicken with regular Signature fries & a drink. Get poppin’. The calorie information for this meal does not include the selectable items below.",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9e0dd9136e0ab4a94cf5f91921dd83ce/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3284a28f-fc72-5bb7-a5a4-d0519e38b8e0",
+          "name": "Hot Wings Meal: 10 pc 🔥",
+          "description": "10 Hot Wings, regular Signature fries & a drink. The only way to wing it.The calorie information for this meal does not include the selectable items below.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/05f017c04ec50a555a4266972c11d93c/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "80d02500-39df-5a0d-9741-f1752d37d212",
+          "name": "Hot Wings Meal: 6 pc 🔥",
+          "description": "6 Hot Wings, regular Signature fries & a drink. The only way to wing it.The calorie information for this meal does not include the selectable items below.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/58783ad7358a45476a84aa07bf03550c/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Vegan 🌱",
+      "items": [
+        {
+          "id": "77ee593a-fc6e-5b6d-8bfd-b5acedca5e5c",
+          "name": "Vegan Burger 🌱",
+          "description": "Quorn fillet coated in our famous 11 herbs & spices in a sesame bun with lettuce & vegan mayo. 11 herbs & spices, zero chicken.Finger lickin' vegan until you add non-vegan stuff, obviously.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/798984088d88a2dc93161e14a7e8a5f2/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6103a415-0693-5531-9941-ddba9e6b0b8e",
+          "name": "Vegan Burger with a Drink 🌱",
+          "description": "Quorn fillet coated in our famous 11 herbs & spices in a sesame bun with lettuce & vegan mayo, & a drink. 11 herbs & spices, zero chicken.Finger lickin' vegan until you add non-vegan stuff, obviously.",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f367be7f25f6e8b3269ff8c71eb8d7b2/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Twister Wraps",
+      "items": [
+        {
+          "id": "f7975d72-6dc9-582e-a9c3-b77de6703fc0",
+          "name": "Twister Wrap",
+          "description": "An Original Recipe fillet with crunchy pickled slaw and your choice of sauce, wrapped in a lightly toasted tortilla.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fb3d7d5309b1e16ed32066b13be5593f/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b14792f7-b7e6-5a98-8e03-a8eb1706d0c8",
+          "name": "Twister Wrap Meal",
+          "description": "An Original Recipe fillet with crunchy pickled slaw and your choice of sauce, wrapped in a lightly toasted tortilla. Served with regular Signature fries & a drink. The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/927ae56434215e37bc89e6aa51836b8f/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d43d6627-b445-51da-9c1f-bfcab0d4ba7d",
+          "name": "Twister Wrap Box Meal with 1 Mini Fillet",
+          "description": "An Original Recipe fillet with crunchy pickled slaw and your choice of sauce, wrapped in a lightly toasted tortilla plus a boneless Mini Fillet strip, regular Signature fries, your choice of side & a drink.The calorie information for this meal does not include the selectable items below.",
+          "price": "£12.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a60f7f1c3392d8ca9af016d6c4275e50/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Rice Bowls",
+      "items": [
+        {
+          "id": "616c9783-8b22-5a3d-a044-4e634008cc60",
+          "name": "Original Ranch Rice Bowl",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with an Original Recipe Fillet and our new Original ranch dressing.All for under 600 calories.",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/034c953aec4d161ca480e962480fdb64/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d6a70f65-7569-535b-985a-8719fa93fb63",
+          "name": "Original Ranch Rice Bowl & Drink",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with an Original Recipe Fillet and our new Original ranch dressing. Plus a drink. All for under 600 calories.The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/54400a5e0e7b90b71be47b001219f15e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e2a8681a-5045-52e4-8e13-0a16f97f45bb",
+          "name": "Original Ranch Fillet Rice Bowl with Extra Fillet",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with two Original fillet and our new Original ranch dressing.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/394b2f33a87dfac091a104649e74efa4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "48d5a1ad-96a1-5279-8eb0-3e1b370e9b7c",
+          "name": "Original Ranch Rice Bowl with Extra Fillet & Drink",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with two Original fillet and our new Original ranch dressing. Plus a drink.The calorie information for this meal does not include the selectable items below.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4c850ae9e0a628720332cdc72cb197fd/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2099e9b7-67b0-5277-88ce-851201af6eac",
+          "name": "Zinger Ranch Rice Bowl 🔥",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with a Zinger Fillet and our new Zinger Ranch dressing. All for under 600 calories.The calorie information for this meal does not include the selectable items below.",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bf5261454f530044d709d7fbc117c962/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4d60741d-773e-5123-9ca5-0ef635509fbb",
+          "name": "Zinger Ranch Rice Bowl & Drink 🔥",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with a Zinger Fillet and our new Zinger Ranch dressing. Plus a drink.The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/38d5a498ee4d58043aaa6f8d7a373b97/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e6bd207c-72d1-53f7-a3ca-c12dcc6cb163",
+          "name": "Zinger Ranch Rice Bowl with Extra Zinger Fillet🔥",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with two Zinger fillet and our new Zinger ranch dressing.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9b3b356ecb962acb766eba94b00777e3/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f760eb76-5ce0-5c68-ad2f-803aa32cc6db",
+          "name": "Zinger Ranch Rice Bowl with Extra Zinger Fillet & Drink 🔥",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with two Zinger fillet and our new Zinger ranch dressing. Plus a drink.The calorie information for this meal does not include the selectable items below.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8c148543ee4b1827f8e91be55a7ee806/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6af4d8d2-b5f7-5f93-ae33-94d355f67d1e",
+          "name": "Original Ranch Veggie Rice Bowl",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with our new Original ranch dressing and served with a corn cobette.  All for under 600 calories.",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fb927749ae01dc75304ccd7d8a891f66/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "79a536ef-50d7-55a0-ab5a-61b3227bd447",
+          "name": "Original Ranch Veggie Rice Bowl & Drink",
+          "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with our new Original ranch dressing and served with a corn cobette.  Plus a drink. All for under 600 calories.The calorie information for this meal does not include the selectable items below.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/492155b1a36a9bcbe0c32abf03913267/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Chicken Sides",
+      "items": [
+        {
+          "id": "cf02ce25-7ab3-5a83-b7e6-b0ae3b21572d",
+          "name": "Zinger Drip Wings 🔥",
+          "description": "3 legendary Hot Wings covered in new spicy Zinger sauce. The wings you know and love, now hotter, saucier, and even more irresistible.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cfd6ec566e486fc4c158a8614a465f6e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5557765a-b398-53a4-a80e-8c925fa252ec",
+          "name": "Mini Fillet",
+          "description": "Our Mini Fillet. Nothing beats the Original.",
+          "price": "£2.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 259,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1360b1e939ee7aeb853aabcd0822a222/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d1d29e2d-f3e3-5abb-b033-81ce9ebec8fb",
+          "name": "Hot Wings: 2 pc 🔥",
+          "description": "2 Hot Wings. The perfect spicy snack.",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4921c9086da916cc07f1a5e7b4710690/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0b6d4a5c-cd4b-5ba8-872e-34caf8db9d03",
+          "name": "Large Popcorn Chicken",
+          "description": "Large portion of our Popcorn chicken pieces. Get poppin’",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/66b49c032df5b64366cda7893355b7f6/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cd36f183-5985-5098-affd-c309872b8ae5",
+          "name": "Regular Popcorn Chicken",
+          "description": "Regular portion of our Popcorn chicken pieces. Get poppin’",
+          "price": "£6.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 649,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/763706f637e4c9da05d1ec929255b559/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "27f39ae0-a41d-51e5-8986-4d0a7c6d4610",
+          "name": "Kansas BBQ Dipped Bites",
+          "description": "4 delicious boneless chicken Bites coated in sweet & smoky Kansas BBQ sauce. The sauciest side in town.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9ca1edf9308d9d8fdc181c8e64029409/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "501cb472-ae71-5fab-8666-258db5e1e18e",
+          "name": "Sweet Chilli Dipped Bites",
+          "description": "4 delicious boneless chicken Bites smothered in Sweet Chilli sauce. The sauciest side in town.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b214a28770d04b5a3efa61cc7836db10/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "118cfb1c-53c2-5da0-acf8-95225264a819",
+          "name": "Mini Fillet Burger",
+          "description": "Our Mini Fillet burger with lettuce & pepper mayo. Ideal for little appetites.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b31166630ebda44717c56a3a9a696596/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7b279161-bb50-5f29-aaa4-63b71a02aef7",
+          "name": "Original Recipe Chicken: 1 pc",
+          "description": "1 piece of our Original Recipe Chicken. Because you can't beat the classics.",
+          "price": "£2.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 279,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1d59b03c44bbb795a67e7401c37472e7/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1a4f0104-b484-58e0-9461-a16eeecd0f41",
+          "name": "Original Recipe Chicken: 2 pc",
+          "description": "2 pieces of our Original Recipe Chicken. Because you can't beat the classics.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bb8d38464cf431dc14e2c198605c965b/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "29d80035-56b3-5ef8-95fa-4c3bd856aea6",
+          "name": "BBQ Mini Wrap",
+          "description": "Our Mini Fillet with lettuce, cheese & smoky BBQ sauce, wrapped in a soft tortilla. Deliciously smoky.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3e78f1fbb4886e51a1b78998edec2038/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "241374ba-d3b0-50d5-bc99-4d44fc0f5ae8",
+          "name": "Flamin' Mini Wrap 🔥",
+          "description": "Our Mini Fillet with lettuce, cheese & our signature Supercharger sauce, wrapped in a soft tortilla. Deliciously spicy.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7232e8c70c27511bff48625ad0f541bd/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Classic Sides & Dips",
+      "items": [
+        {
+          "id": "98e58a04-defd-55d9-b4c7-81307848e52c",
+          "name": "Dirty Loaded Fries",
+          "description": "Our Signature Fries topped with Popcorn Chicken, and smothered with Zinger Ranch dressing, Smokey BBQ Sauce & Original Ranch dressing.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d5cc3123e46f4eb0e84906196b4b9751/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e5e44965-125c-5f85-a4ef-8d605b5157fb",
+          "name": "Regular Signature Fries",
+          "description": "We’ve seasoned the King of all sides.",
+          "price": "£3.19",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 319,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/563cb3636650b23b2bbb4fa3aba0c9e3/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4b5742e6-b475-532c-b231-eb3da7bf9a37",
+          "name": "Regular Gravy",
+          "description": "A regular portion of our famous gravy. Undeniably delicious.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/654a576e8840af80a639f9b0ffe06699/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8ccd59e2-87f1-5157-85aa-6d8470b4da3e",
+          "name": "Regular Beans",
+          "description": "Regular baked beans with a dash of Kentucky BBQ sauce. The family favourite.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a16b9069bfd4e9f6d38a707f70da95f6/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a6eb792f-424a-5ee1-a3cb-622d29043fc5",
+          "name": "Regular Coleslaw",
+          "description": "Freshly prepared with just the right amount of zesty crunch.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/742a1b39a9990b18aa810a79b676348d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "db3d8f15-8a79-5d63-96a2-2f95464e75be",
+          "name": "Regular Creamy Mash",
+          "description": "A regular portion of our delicious creamy mash, made with real potato.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7a2587b34ce6122aacb2595e9b879fd7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "196699f5-e8bb-50ae-8347-50d0eff92a81",
+          "name": "Regular Cajun Rice",
+          "description": "A regular portion of Cajun dirty rice with roasted sweet potato.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4825cf1b10be12394ef9c8fe94435818/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c3bb4326-3bfd-5676-ad7d-b0d6b69b7845",
+          "name": "Regular Side Salad",
+          "description": "Mixed leaf salad, charred corn in a blackened cajun rub, topped with Original Ranch Dressing.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/448c1577dbfe0334a5f77e1ee1537e71/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a8932849-1ac0-5706-a6f3-84fb21dc2d93",
+          "name": "Supercharger Dip",
+          "description": "Supercharger, our infamous spicy mayo.",
+          "price": "£0.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 60,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5e0602435d295604457eb6622b0e6c18/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7c576b91-362f-597a-8e1f-01392b2c12e7",
+          "name": "Sweet Chilli Dip",
+          "description": "Our Sweet Chilli dip is the perfect mix of sweet & spicy.",
+          "price": "£0.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 60,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b1422b4985bb7486ffec0b9d495d8864/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "85f3083f-4c1f-5844-aeee-6b3754ae03af",
+          "name": "Real Tomato Dip",
+          "description": "There’s nothing better than our Real Tomato dip. A classic.",
+          "price": "£0.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 60,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/113e461fc15ced9df272b360d9a3f76c/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a7efb725-008d-5c4f-b171-c50f8685d9ed",
+          "name": "Smoky BBQ Dip",
+          "description": "You can’t go wrong with our popular smoky BBQ dip.",
+          "price": "£0.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 60,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b8549e1f3b4fbbe718d7e498c53eeee2/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b2763d06-1863-5eb7-8898-10fad2e8222e",
+          "name": "Garlic Buttermilk Mayo Dip",
+          "description": "Enjoy our Garlic Buttermilk Mayo dip any way you please – dip it, spread it, dunk it.",
+          "price": "£0.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 60,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b85c11a383c19d689b508b88532ca4ed/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Cookies",
+      "items": [
+        {
+          "id": "d6818d63-1f64-521f-be9b-f22bd7ac05df",
+          "name": "Chocolate Chip Cookie",
+          "description": "One classic chocolate chip cookie. A tasty treat.",
+          "price": "£2.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 269,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/18d9625042eb61536243318ebe1bd3fa/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3f483de2-e3e8-5dc3-9693-0f1c0c2ed2fb",
+          "name": "White Chocolate Cookie",
+          "description": "One white chocolate chip cookie. A tasty treat.",
+          "price": "£2.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 269,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/33d6ea5c4f08c358f61297dd1e1cbe46/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7e07a148-54ac-5b74-902d-f3c2f739adfc",
+          "name": "4 Cookies",
+          "description": "A multi pack of 4 chocolate cookies. A tasty treat to share. (Selection may vary depending on availability).",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0e9f31fc374327a590d1b40a8e312df8/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Drinks",
+      "items": [
+        {
+          "id": "1b216ffd-ef74-5107-b477-4f8f5c3a82d7",
+          "name": "Pepsi MAX Can",
+          "description": "MAXIMUM TASTE, NO SUGAR. A bold and refreshing fizzy drink. Delivered chilled.",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/57d92dcfd431ca700d66dfcdf1a2faab/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "eaf640cb-7184-5641-bad9-36c794f15f29",
+          "name": "Tango Can",
+          "description": "Unleash refreshment with Tango’s big, bold Orange flavour, no sugar, and low calorie carbonated soft drink. Delivered chilled.",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4ed73cd78179c5cd74c855fe31c2f1f9/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b5a4293a-9c2e-53a3-98ea-8aa4ca507cf6",
+          "name": "Still Water 500ml",
+          "description": "Crisp refreshing taste. Delivered chilled.",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f9827aaff665bd92dae74ef45a29ffd1/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9ade9ccf-6225-55f5-bf75-0dd9ee2d4930",
+          "name": "Pepsi MAX 1.5 L Bottle",
+          "description": "MAXIMUM TASTE, NO SUGAR. A bold and refreshing fizzy drink. Delivered chilled.",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/57df61da8b02de772c31956c48834a21/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e02c42bb-1d5f-5f27-ba36-a702ac042509",
+          "name": "Diet Pepsi 1.5 L Bottle",
+          "description": "Light, crisp taste, Diet Pepsi gives you all the refreshment with no sugar and no calories. A bold and robust fizzy drink. Delivered chilled.",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1bbeaabfade8d4709630430e8efd155c/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fb4685df-b695-51c7-bc02-eef22f5fa356",
+          "name": "Tango 1.5 L Bottle",
+          "description": "Unleash refreshment with Tango’s big, bold Orange flavour. Delivered chilled.",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4435c9effba3eaa064dbec7b17fa3d82/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Kids' Boxes",
+      "items": [
+        {
+          "id": "5b66e5f7-5ce6-530f-b3fc-1fad29c6f407",
+          "name": "Kids' Box: Kids' Burger",
+          "description": "Our Kids' Burger with regular side, regular drink, plus a kids treat. Small in size, big on flavour.The calorie information for this meal does not include the selectable items below.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/837ef3fdfbed398d10b2b47b000b0f6c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6dcc2244-0a21-593d-beb9-0084791722d2",
+          "name": "Kids' Box: Mini Fillet & Dip",
+          "description": "A Mini Fillet with a Real Tomato dip, regular drink, plus a kids treat. Small in size, big on flavour.The calorie information for this meal does not include the selectable items below.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/86bf4e4ae2c383b4164c9659a1d201b2/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "44319c4a-479d-5f97-8afb-ee7c38468e6a",
+          "name": "Kids' Box: Popcorn Chicken",
+          "description": "Our Popcorn chicken pieces with regular side, regular drink, plus a kids treat. Small in size, big on flavour.The calorie information for this meal does not include the selectable items below.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/161cf1ef876b375ca11b20249e036669/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    }
+  ]
+}

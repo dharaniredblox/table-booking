@@ -1,0 +1,1038 @@
+{
+  "restaurant_id": "jessiescafe-BS42HQ-51",
+  "source_id": "87ae9cbc-3a4b-5833-8246-d53d254916a4",
+  "restaurant_url": "https://www.ubereats.com/store/jessies-cafe/h66cvDpLWDOCRtU9JUkWpA",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:37:14.264Z",
+  "restaurant": {
+    "name": "Jessie’s Cafe",
+    "slug": "jessies-cafe",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441173292970",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "249 Redcatch Rd, Bristol, EMEA BS4 2HQ",
+    "streetAddress": "249 Redcatch Rd",
+    "addressCity": "bristol-eng",
+    "neighborhood": "knowle-bristol-eng",
+    "addressRegion": "EMEA",
+    "postalCode": "BS4 2HQ",
+    "addressCountry": "GB",
+    "latitude": 51.434571,
+    "longitude": -2.5781019,
+    "geohash": "gcnht7",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 4.6,
+    "totalReviews": "500+",
+    "workingHours": "Available Thursday 7:45 AM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Breakfast and Brunch",
+      "Sandwich",
+      "English",
+      "Wraps"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Sunday",
+      "hours": []
+    },
+    {
+      "day": "Monday - Friday",
+      "hours": [
+        {
+          "open": "07:45",
+          "close": "13:30",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "hours": [
+        {
+          "open": "08:00",
+          "close": "12:00",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Breakfast",
+      "items": [
+        {
+          "id": "44837155-3df5-477e-84ae-129976a178df",
+          "name": "Large Breakfast",
+          "description": "2 bacons, 2 sausages, 2 eggs, mushrooms, black pudding, beans, tomatoes, fried potato or 2x hash browns and a slice of toast.\nWe don’t swap sorry",
+          "price": "£12.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1220,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/69f5ce5375bd611ed8fe29489bc0aae1/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "69986c4b-2b0a-4b23-a8b8-9dc4896f6548",
+          "name": "Wester Breakfast",
+          "description": "3 bacons, 3 sausages, 3 eggs, mushrooms, black pudding, beans, tomatoes, fried potato or 3 hash browns and a slice of toast.\nWe don’t swap sorry",
+          "price": "£13.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1395,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/59e9352df7e99c6664f53c0e1fabf677/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4f0b39d2-3d73-476b-8dc2-d68df49780e4",
+          "name": "Medium Breakfast",
+          "description": "2 bacons, 2 sausages, 1 egg, beans or tomatoes, mushrooms or black pudding and a slice of toast.\n\nWe don’t swap sorry",
+          "price": "£9.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 990,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b70e498b-9a88-48fc-abd3-8a0ebfaf7b73",
+          "name": "Small Breakfast",
+          "description": "1 bacon, 1 sausage, 1 egg, beans or tomatoes and a slice of toast.\n\nWe don’t swap sorry",
+          "price": "£6.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 690,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Sandwiches",
+      "items": [
+        {
+          "id": "d528b78f-8cfb-4ccb-a55a-df6e970b6032",
+          "name": "Bacon & Sausage Sandwich",
+          "description": "Have in a baguette or doorstep bread.",
+          "price": "£5.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 590,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1182bdf915c0fd6d3f20ae89563b1522/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c00a918f-8e1a-45d8-ba26-b94bea964ba8",
+          "name": "Sausage &  Egg Sandwich",
+          "description": "Have in a baguette or doorstep bread.",
+          "price": "£5.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 500,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2abd0939549082869ba4208cc3893247/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e853b5f5-9843-4e8e-82d8-8b800123d2cc",
+          "name": "Bacon, Sausage & Egg Sandwich",
+          "description": "Have in a baguette or doorstep bread.",
+          "price": "£6.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 630,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3d1558c1-d785-4ff1-8998-db5d20a023a2",
+          "name": "Bacon & Egg Sandwich",
+          "description": "Have in a baguette or doorstep bread.",
+          "price": "£5.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 500,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "19c82bb4-7c6d-4368-8c24-1f4e1983dd69",
+          "name": "Breakfast sandwich",
+          "description": "2 bacon,2  sausage, egg, and mushrooms served in a choice of bread or baguette",
+          "price": "£7.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 700,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "39b21e9a-6a58-4411-9342-4526d8be7697",
+          "name": "Bacon Sandwich",
+          "description": "Have in a baguette thin Bread or doorstep bread.",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4644c42a-f26c-4f90-9612-17a835d11d45",
+          "name": "Bacon & Fried Potato or Hash Brown sandwich",
+          "description": "Crispy bacon with fried potatoe or hash browns served in your choice of thin cut bread, doorstep or baguette",
+          "price": "£5.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 590,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "258ad988-896c-49f0-95ab-bb8a88cac61e",
+          "name": "Sausage Sandwich",
+          "description": "sausages  in your choice of baguette or doorstep bread.",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a30a3e84-1a27-4af0-ae6d-50f31ed77896",
+          "name": "Bacon & Mushroom Sandwich",
+          "description": "Have in a baguette or doorstep bread.",
+          "price": "£4.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 460,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "25d7ee14-9abc-490b-8eb7-cfc2d5c92bbc",
+          "name": "Egg & Mushroom Sandwich",
+          "description": "Have in a baguette or doorstep bread.",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ea577383-e6f2-4781-b919-27a23b26b785",
+          "name": "Egg Sandwich",
+          "description": "Have in a baguette or doorstep bread.",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "97ff7872-2fae-4ccc-a94a-0d158e6975a6",
+          "name": "BLT",
+          "description": "Crisp bacon, fresh lettuce, and juicy tomato in your choice of baguette or doorstep bread, served with mayo.",
+          "price": "£5.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 500,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "053afa73-3ec6-421a-9f6b-e120347d6d15",
+          "name": "Bacon, egg & mushroom sandwich",
+          "description": "3 baco, 1 egg & mushrooms in a choice of bread or baguette",
+          "price": "£6.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 610,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Cold Sandwiches",
+      "items": [
+        {
+          "id": "45d3bded-8a4d-485c-82f9-97528f7a38dd",
+          "name": "Cheese Sandwich",
+          "description": "N/A",
+          "price": "£3.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 380,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c4e88a25-6319-418c-8531-16e3c87668f4",
+          "name": "Ham Sandwich",
+          "description": "Thinly sliced ham served on bread.",
+          "price": "£4.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 480,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c7707f99-9b85-4c4b-a848-843ffa15bddf",
+          "name": "Tuna Sandwich",
+          "description": "Fresh tuna served on bread.",
+          "price": "£4.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 480,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Meals",
+      "items": [
+        {
+          "id": "99b42a4f-ca89-4fc4-aa8b-0bfe19f239df",
+          "name": "Bacon Cheeseburger & Chips",
+          "description": "N/A",
+          "price": "£9.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 950,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e71dcd8a-ee93-49c8-ba4e-0c4af46d7d46",
+          "name": "Sausage, Egg & Chips",
+          "description": "Classic combo of 2 sausage, 2 egg, and chips",
+          "price": "£9.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 900,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4970c743-e568-4fa2-b1cd-974728d477b6",
+          "name": "Chicken Burger & Chips",
+          "description": "N/A",
+          "price": "£9.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 960,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "53fe9d3c-3801-4e58-95c2-9315b2db66f4",
+          "name": "Cheeseburger & Chips",
+          "description": "N/A",
+          "price": "£9.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 900,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "64526244-f8b9-4f16-b9ac-6ee3df7254b5",
+          "name": "Beef Burger & Chips",
+          "description": "N/A",
+          "price": "£8.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 800,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "96a73ae2-fdab-40c4-a538-15ed5cc024cf",
+          "name": "Bacon, Egg and Chips",
+          "description": "2 bacon, 2 eggs &chips",
+          "price": "£9.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 900,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b063e95c-5abd-47ac-b0da-06ccdd3036de",
+          "name": "Ham, Egg & Chips",
+          "description": "Classic ham with two eggs and crispy chips",
+          "price": "£9.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 900,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Meals on Toasts",
+      "items": [
+        {
+          "id": "f58ba04f-04ee-423c-bda7-83f5d6fad521",
+          "name": "Beans on toast",
+          "description": "N/A",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "14e66432-c73c-4434-be1d-aad012cad722",
+          "name": "Scrambled Egg on toast",
+          "description": "N/A",
+          "price": "£5.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 500,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2181cf2a-44a2-4ff2-b9c6-444779e9d2e1",
+          "name": "Cheese on toast",
+          "description": "N/A",
+          "price": "£4.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 480,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "eada3d27-2d2b-4d08-a40e-e2c9d4f26dd5",
+          "name": "Tomatoes",
+          "description": "Fresh tomatoes served on toast.",
+          "price": "£3.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 360,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d43f8717-0493-4425-b00b-47102dda8eb9",
+          "name": "Fried Eggs on toast",
+          "description": "Two fried eggs served on toasted",
+          "price": "£5.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 500,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Extras & Sides",
+      "items": [
+        {
+          "id": "e62faca8-78be-43cc-9982-44293ca62253",
+          "name": "Brown Bread Toast",
+          "description": "Comes in 4 oz tubs",
+          "price": "£0.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 95,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2e169d39eb2523079eaeeddf539fb841/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7bea1b4e-8e01-435b-8a0a-1c0cb0913158",
+          "name": "Fried potato",
+          "description": "Crispy fried potato, perfect as a side or snack",
+          "price": "£1.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 190,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/468e334272f8479f76901bcdf0ebb9c4/f47cec1eac1d3b43eccf2318d065819a.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "23eeece1-ebeb-4436-b89c-8d5a757e0671",
+          "name": "Hash Brown",
+          "description": "Comes in 4 oz tubs",
+          "price": "£1.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 125,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e6ef7a53-b3d3-4346-bfd4-5b9bab37d0c1",
+          "name": "Sausage",
+          "description": "Comes in 4 oz tubs",
+          "price": "£1.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 150,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "06ae0cdc-a64c-4bdd-94e8-13d761444ec4",
+          "name": "Mushrooms",
+          "description": "Comes in 4 oz tubs",
+          "price": "£1.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 160,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "467c40a4-c823-4513-89a2-267e1d99bf2d",
+          "name": "Doorstep Toast",
+          "description": "Comes in 4 oz tubs",
+          "price": "£1.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 120,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cdeabb9d-9cb8-4679-bc2d-19aedd94e26b",
+          "name": "Toast",
+          "description": "Comes in 4 oz tubs",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5459cd16-0cd2-4099-818e-bebcfb644a88",
+          "name": "Bacon",
+          "description": "Comes in 4 oz tubs",
+          "price": "£1.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 150,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1a8b7bcb-65e8-4394-aedd-2e9a1e95e39f",
+          "name": "Plum Tomatoes",
+          "description": "Comes in 4 oz tubs",
+          "price": "£1.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 140,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e9c64636-16b6-43bf-ad61-020cec46c625",
+          "name": "Egg",
+          "description": "Comes in 4 oz tubs",
+          "price": "£1.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 140,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "21ca5d0f-065b-4e05-bfa0-56d30c37d180",
+          "name": "Beans",
+          "description": "Comes in 4 oz tubs",
+          "price": "£1.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 140,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b952a63c-ca91-4083-a143-3608d318866e",
+          "name": "Cheese",
+          "description": "Comes in 4 oz tubs",
+          "price": "£1.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 150,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bb756821-08d9-485f-9934-68f3cc712323",
+          "name": "Chips",
+          "description": "Crispy chips, perfect as a side or a quick bite",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f6901e8f-ea83-41c0-8176-04439a998413",
+          "name": "Cheesy chips",
+          "description": "Crisp chips smothered in melted cheese.",
+          "price": "£5.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 500,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9929012f-837c-4222-a4a6-d84ea8499445",
+          "name": "Fried onions",
+          "description": "N/A",
+          "price": "£1.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 120,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8907a2dd-5a6c-45b7-9194-f76c35f15f52",
+          "name": "Coleslaw",
+          "description": "Home made coleslaw",
+          "price": "£3.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 300,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "48896f0b-2408-4808-b6f4-fbc1375633e1",
+          "name": "Bread & butter",
+          "description": "Butter served with freshly baked bread.",
+          "price": "£0.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 95,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3e44fb31-d866-4f23-af94-d6b30bffae1f",
+          "name": "Raw onion",
+          "description": "N/A",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "245476e5-6f5a-46c4-a588-9ae93204127c",
+          "name": "Half of portion of chips",
+          "description": "Crispy potato chips, perfect as a side or snack.",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Omelettes",
+      "items": [
+        {
+          "id": "906d8647-106f-4131-8292-33dcf0372bf7",
+          "name": "Cheese Omelette",
+          "description": "Comes with chips or salad.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ba35a3052f8a65bcb398915a01d7a260/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "66418a75-451c-4d06-ad92-ae45afc67b26",
+          "name": "Cheese & Ham Omelette",
+          "description": "Comes with chips or salad.",
+          "price": "£8.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 840,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2ef295ec2025962fcc5d235f66017db0/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6219c571-1c5a-4ec8-994a-34ed944c070b",
+          "name": "Special omelette",
+          "description": "Special omelette with ham, mushrooms, onions, tomatoes, bacon, and cheese. Served with chips or salad.",
+          "price": "£9.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 950,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "78cabd83-6398-47c7-ab3c-631bb87c78ed",
+          "name": "Plain Omelette",
+          "description": "Fluffy 3-egg omelette served with your choice of crispy chips or fresh salad.",
+          "price": "£6.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 680,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "393b3e24-cfca-44b3-83b7-edcf357b6322",
+          "name": "Cheese & Onion Omelette",
+          "description": "Comes with chips or salad.",
+          "price": "£8.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 820,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Jacket Potatoes",
+      "items": [
+        {
+          "id": "58961dd6-2de6-496e-9cfd-836e672ecd65",
+          "name": "Cheese & Beans Jacket Potato",
+          "description": "Butter-topped potato with cheese, beans & choice of side salad",
+          "price": "£7.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 710,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f2bb47ddae71ddebcf41ad14806d05da/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "88a24590-488d-4e8d-b2ea-fa3b698fb8fa",
+          "name": "Tuna & Cheese Jacket Potato",
+          "description": "Tuna and cheese-filled potato, with a choice of side salad",
+          "price": "£7.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 780,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "cc12cedb-43de-4107-bf36-e4d3133e1c38",
+          "name": "Cheese Jacket Potato",
+          "description": "Comes with butter and choice of  side salad",
+          "price": "£6.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 600,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b491be47-aecc-4cf3-b1c3-e020021a89a8",
+          "name": "Cheese & Bacon Jacket Potato",
+          "description": "Loaded with cheese and bacon, served with butter and choice of side salad",
+          "price": "£7.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 780,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Wraps",
+      "items": [
+        {
+          "id": "12669053-a430-4513-8ca1-a53b7291c04b",
+          "name": "Breakfast Wrap",
+          "description": "breakfast wrap with 2 sausage, 2 bacon, egg, and mushrooms for a delicious start to your day.",
+          "price": "£8.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 800,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e192bd3a-9ced-4501-8205-f1e3dadc2dd7",
+          "name": "Chicken Wrap",
+          "description": "Tender chicken wrapped in a soft tortilla.",
+          "price": "£7.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 720,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "bf059af2-67ec-4f35-857c-f022decdea3f",
+          "name": "Bacon & Fried Potato wrap",
+          "description": "Crispy bacon and fried potato in a wrap.",
+          "price": "£6.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 640,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f5f6e1ef-00d8-4914-98d9-a16ee2ec5a4d",
+          "name": "BBQ Chicken with Bacon Wrap",
+          "description": "N/A",
+          "price": "£9.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 900,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "51d7baa1-9f90-464b-94f8-0bd38493365b",
+          "name": "Peri Peri Chicken Wrap",
+          "description": "Tender chicken wrapped in a zesty peri peri sauce.",
+          "price": "£8.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 840,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Kids Menu",
+      "items": [
+        {
+          "id": "3e0ea549-f0ec-49c7-9da5-c8ebb36452e2",
+          "name": "Cheesy Chips",
+          "description": "Crunchy chips smothered in melted cheese.",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "84d0ebea-391f-4f8c-9fde-85f3ba495234",
+          "name": "Sausage, Hash Brown, Beans & Toast",
+          "description": "N/A",
+          "price": "£5.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 520,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6b11bbc2-23e2-4850-aed5-a129cf74ca82",
+          "name": "Kids Sausage, Chips & Beans",
+          "description": "N/A",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f4687921-dedb-43ee-ad69-0e6af1f14332",
+          "name": "Nuggets, Chips & Beans",
+          "description": "N/A",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Hot Drinks",
+      "items": [
+        {
+          "id": "dbe707d8-f3bc-4044-9858-902cf7bacf3d",
+          "name": "Tea",
+          "description": "With or without milk.",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "482f9674-acc7-4064-85c4-147f1b300291",
+          "name": "Coffee",
+          "description": "N/A",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "55d79688-550c-4677-9aef-d623a254ded5",
+          "name": "Americano",
+          "description": "Rich and smooth espresso-style coffee.",
+          "price": "£3.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 300,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Cold Drinks",
+      "items": [
+        {
+          "id": "08603636-c0be-4e6f-8e17-48af0b8ca4c3",
+          "name": "Coca-Cola Original",
+          "description": "N/A",
+          "price": "£1.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 190,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/78361c520b24ecf97eea6676fda9ba6a/f4336ab83f214498bc69d373d4bf941d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "009e9399-aadd-4fc8-ac1b-42644457a896",
+          "name": "Fanta Orange",
+          "description": "N/A",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4e1e3929c16df9e82509d728e788a886/f4336ab83f214498bc69d373d4bf941d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9a25598b-aefa-4fe8-9679-9e004245e3f1",
+          "name": "Coca-Cola Zero",
+          "description": "N/A",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0f34d6d8cff5c5f59514510a721806fc/f4336ab83f214498bc69d373d4bf941d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "77ae6e7c-2b4c-411e-a7ce-8a1fa7397c18",
+          "name": "Diet Coke",
+          "description": "N/A",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/61bfe0fccd72d5cdfc44d9c3708dc14e/f4336ab83f214498bc69d373d4bf941d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "08587ffb-08f8-4efe-89a5-ea5920b37dfd",
+          "name": "Rio Tropical",
+          "description": "Fruity and refreshing tropical drink.",
+          "price": "£1.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 190,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ea2422a0-f7e4-45dd-8f37-018ae4590b56",
+          "name": "Apple Juice (200 ml)",
+          "description": "N/A",
+          "price": "£1.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 140,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "98a65258-5671-40ea-a405-1536ed8b5cf4",
+          "name": "Fanta Fruit Twist",
+          "description": "N/A",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3fdd4d72-f2dc-4650-a40c-dd2d1c1f1f24",
+          "name": "Fanta Lemon",
+          "description": "N/A",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "eda43312-6b9c-4126-9ce0-4ced795b3b7f",
+          "name": "Ribena Carton",
+          "description": "N/A",
+          "price": "£1.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 140,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "38126334-c894-420c-91e9-a64a3c4e4c08",
+          "name": "Bottled Water",
+          "description": "N/A",
+          "price": "£1.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 150,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f435acc9-e654-4f95-a1df-911816247b79",
+          "name": "Fanta pineapple & grapefruit",
+          "description": "Fruity blend of pineapple and grapefruit flavours.",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

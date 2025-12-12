@@ -1,115 +1,31 @@
-// Uber Eats store extractor: parse HTML and return fields per comp_req.txt
-// Returns a best-effort object. Missing fields are null if not found.
-
 import * as cheerio from 'cheerio';
+import fs from 'fs'
+import { decode } from "html-entities";
+import JSON5 from "json5";
+import { uploadJson } from "../utils/s3Uploader.js";
+import { normalizer } from "../utils/normalization.js"
+import path from 'path';
+
+// Helper function to convert minutes since midnight to HH:MM format
+function formatTime(minutes) {
+    const hours = Math.floor(minutes / 60);
+    const mins = minutes % 60;
+    return `${hours.toString().padStart(2, '0')}:${mins.toString().padStart(2, '0')}`;
+}
+
+function generateRestaurantId(name, postalCode, lat, log) {
+    const normalizedName = (name || "").toLowerCase().replace(/[^a-z0-9]+/g, "");
+    return `${normalizedName}-${(postalCode || "N_A").replace(/\s+/g, "")}-${lat?.toFixed(0) || Date.now()}_${log?.toFixed(0) || ""}`;
+}
+
 
 function cleanText(s) {
     if (s == null) return null;
     return String(s).replace(/\s+/g, ' ').trim() || null;
 }
 
-function collectAppJson($) {
-    const out = [];
-    $('script[type="application/json"]').each((_, el) => {
-        const id = $(el).attr('id') || null;
-        const raw = $(el).html() || '';
-        console.log("raw",raw)
-        if (!raw.trim()) return;
-        try { out.push({ id, data: JSON.parse(raw) }); } catch { }
-    });
-    return out;
-}
-
-// Normalize a raw MenuItem-like object into an API-friendly shape
-function normalizeMenuItem(raw) {
-    if (!raw || typeof raw !== 'object') return null;
-    // Keep offers object(s) as-is (not flattened into price fields)
-    const offers = Array.isArray(raw.offers) ? raw.offers : (raw.offers || null);
-    const images = Array.isArray(raw.image) ? raw.image : (raw.image ? [raw.image] : []);
-    const dietary = raw.suitableForDiet
-        ? (Array.isArray(raw.suitableForDiet) ? raw.suitableForDiet : [raw.suitableForDiet])
-        : [];
-    return {
-        id: raw.id || raw.sku || raw['@id'] || null,
-        type: raw['@type'] || 'MenuItem',
-        name: raw.name || null,
-        description: raw.description || null,
-        offers,
-        images,
-        nutrition: raw.nutrition || null,
-        suitableForDiet: dietary,
-    };
-}
-
-function deepFindAll(root, predicate, limit = 100) {
-    const res = [];
-    const stack = [root];
-    const seen = new Set();
-    while (stack.length && res.length < limit) {
-        const cur = stack.pop();
-        if (!cur || typeof cur !== 'object') continue;
-        if (seen.has(cur)) continue; seen.add(cur);
-        try { if (predicate(cur)) res.push(cur); } catch { }
-        for (const k of Object.keys(cur)) {
-            const v = cur[k];
-            if (v && typeof v === 'object') stack.push(v);
-            if (typeof v === 'string') {
-                const s = v.trim();
-                if ((s.startsWith('{') || s.startsWith('[')) && s.length > 50) {
-                    try { const parsed = JSON.parse(s); if (parsed && typeof parsed === 'object') stack.push(parsed); } catch { }
-                }
-            }
-            if (Array.isArray(v)) for (const it of v) stack.push(it);
-        }
-    }
-    return res;
-}
-
-function parseMoneyFromString(s) {
-    if (!s) return null;
-    const m = String(s).match(/([£$€])?\s*([0-9]+(?:\.[0-9]{1,2})?)/);
-    if (!m) return null;
-    return { currency: m[1] || null, amount: Number(m[2]) };
-}
-
-function toArray(x) { return Array.isArray(x) ? x : (x == null ? [] : [x]); }
-
-function toNumber(x) {
-    const n = Number(x);
-    return Number.isFinite(n) ? n : null;
-}
-
-// Try to extract geo coordinates from JSON-LD or app JSON blobs
-function extractGeo(jsonld, appJson) {
-    // From JSON-LD
-    let lat = jsonld?.geo?.latitude ?? jsonld?.latitude ?? null;
-    let lon = jsonld?.geo?.longitude ?? jsonld?.longitude ?? jsonld?.lng ?? null;
-    lat = toNumber(lat);
-    lon = toNumber(lon);
-    if (lat != null && lon != null) return { latitude: lat, longitude: lon };
-
-    // Search app JSON for likely coordinate shapes
-    for (const blob of appJson) {
-        const candidates = deepFindAll(
-            blob.data,
-            o => (
-                o && typeof o === 'object' && (
-                    (o.latitude != null && (o.longitude != null || o.lng != null)) ||
-                    (o.lat != null && (o.lon != null || o.lng != null)) ||
-                    (o.location && (o.location.lat != null && (o.location.lon != null || o.location.lng != null)))
-                )
-            ),
-            5
-        );
-        for (const c of candidates) {
-            const a = c.location?.lat ?? c.latitude ?? c.lat;
-            const b = c.location?.lon ?? c.location?.lng ?? c.longitude ?? c.lng ?? c.lon;
-            const A = toNumber(a);
-            const B = toNumber(b);
-            if (A != null && B != null) return { latitude: A, longitude: B };
-        }
-    }
-    return { latitude: null, longitude: null };
+function toArray(x) {
+    return Array.isArray(x) ? x : (x == null ? [] : [x]);
 }
 
 function normalizeOpeningHours(spec) {
@@ -143,11 +59,102 @@ function normalizeOpeningHours(spec) {
     return out;
 }
 
-// Unfold all menu items from a Restaurant-like object (e.g., your printed "r")
-// - Keeps each item object AS-IS (no shape changes)
-// - Handles single object vs array
-// - Recurses nested hasMenuSection
-export function unfoldMenuRawFromRestaurant(restaurantLike) {
+function normalizeAddress(location, jsonld, restCandidate) {
+    const {
+        address,
+        streetAddress,
+        geo,
+        region,
+        postalCode,
+        country,
+        latitude,
+        longitude,
+    } = location || {};
+
+    // Prepare fallback address if needed
+    const add =
+        jsonld?.address ||
+        restCandidate?.address ||
+        restCandidate?.store?.address ||
+        {};
+
+    const { lat: roundedLat, lng: roundedLng } = normalizer.roundLatLng(
+        latitude || jsonld?.geo?.latitude,
+        longitude || jsonld?.geo?.longitude
+    );
+    // ✅ Merge strategy: keep what exists, only fill missing
+    return {
+        fullAddress: address || null,
+        streetAddress:
+            streetAddress ||
+            add.streetAddress ||
+            add.address1 ||
+            add.line1 ||
+            add.addressLocality ||
+            null,
+        addressCity:
+            geo?.city ||
+            add.addressLocality ||
+            add.city ||
+            add.locality ||
+            null,
+        neighborhood: geo?.neighborhood || null,
+        addressRegion:
+            region ||
+            add.addressRegion ||
+            add.region ||
+            add.state ||
+            null,
+        postalCode: postalCode || add.postalCode || add.zip || null,
+        addressCountry: country || add.addressCountry || add.country || null,
+        latitude: latitude || jsonld?.geo?.latitude || null,
+        longitude: longitude || jsonld?.geo?.longitude || null,
+        geohash: normalizer.generateGeohash(roundedLat, roundedLng),
+    };
+}
+
+function getPriceFromItemItemThumNail(item) {
+    try {
+        const thumbnail = item.itemThumbnailElements?.[0]?.payload;
+        if (!thumbnail) return null;
+
+        // Try to get from text first, then accessibilityText
+        return thumbnail.labelPayload?.label?.richTextElements?.[0]?.text?.text?.text ||
+            thumbnail.labelPayload?.label?.accessibilityText;
+    } catch (error) {
+        return null;
+    }
+}
+
+function normalizeMenuItem(item, currencyCodeAppJson = "N/A") {
+    if (!item || typeof item !== "object") return null;
+    return {
+        id: item.uuid || null,
+        name: item.name || item.title || "N/A",
+        description: item.itemDescription || item.description || "N/A",
+        price: (() => {
+            const rawPrice = item.offers?.price ||
+                item.priceTagline?.text ||
+                item.priceTagline?.accessibilityText ||
+                item.priceTagline?.textFormat?.replace(/<[^>]*>/g, '') ||
+                getPriceFromItemItemThumNail(item) ||
+                item.price;
+
+            if (!rawPrice) return null;
+
+            // Extract currency symbol and numbers/decimal
+            const priceMatch = rawPrice.match(/([£$€]|Rs\.?|₹|¥)?\s*(\d*\.?\d+)/);
+            return priceMatch ? (priceMatch[1] || '') + priceMatch[2] : null;
+        })(),
+        priceCurrency: item.offers?.priceCurrency || item.price?.currencyCode || currencyCodeAppJson,
+        priceAccToPriceBucket: item.price || null,
+        imageUrl: item.imageUrl || null,
+        isSoldOut: item.isSoldOut ?? null,
+        hasCustomizations: item.hasCustomizations ?? null,
+    };
+}
+
+function unfoldMenuRawFromRestaurant(restaurantLike) {
     const out = [];
 
     function visitSection(section, path = []) {
@@ -185,63 +192,265 @@ export function unfoldMenuRawFromRestaurant(restaurantLike) {
     return out;
 }
 
-// Build a key-value menu map from unfolded rows.
-// Key = joined section path (e.g., "Starters > Chaats"), Value = array of raw item objects.
-export function buildMenuMapFromRestaurant(restaurantLike, joiner = ' > ') {
-    const rows = unfoldMenuRawFromRestaurant(restaurantLike);
-    const map = {}; // JSON-safe object
-    for (const row of rows) {
-        const key = (row.path && row.path.length) ? row.path.join(joiner) : '(root)';
-        if (!map[key]) map[key] = [];
-        const normalized = normalizeMenuItem(row.item);
-        if (normalized) map[key].push(normalized);
-    }
-    return map;
+function decodeEscapedUnicode(str) {
+    if (typeof str !== 'string') return str;
+    let s = str.replace(/\\u([0-9a-fA-F]{4})/g, (_, hex) =>
+        String.fromCharCode(parseInt(hex, 16))
+    );
+    s = s.replace(/\\n/g, '\n').replace(/\\r/g, '\r').replace(/\\t/g, '\t');
+    return s;
 }
 
-// Flat list of normalized items with section path
-export function buildMenuItemsFlatFromRestaurant(restaurantLike, joiner = ' > ') {
-    const rows = unfoldMenuRawFromRestaurant(restaurantLike);
-   
-    const out = [];
-    for (const row of rows) {
-        const sectionPath = (row.path && row.path.length) ? row.path.join(joiner) : '(root)';
-        const normalized = normalizeMenuItem(row.item);
-        if (normalized) out.push({ sectionPath, ...normalized });
+function extractStringValue(decoded, key) {
+    const re = new RegExp(`"${key}"\\s*:\\s*"((?:\\\\.|[^"\\\\])*)"`, 's');
+    const m = re.exec(decoded);
+    if (!m) return null;
+    const rawValue = m[1];
+    try {
+        return JSON.parse('"' + rawValue.replace(/"/g, '\\"') + '"');
+    } catch {
+        return rawValue.replace(/\\"/g, '"').replace(/\\\\/g, '\\');
     }
-    return out;
 }
 
-function extractMenuFromCandidates(jsonld, appJson) {
-    // Return both structures: { menuMap, menuItems }
-    // if (jsonld?.hasMenu?.hasMenuSection) {
-    //     // console.log("jsonld",jsonld)
-    //     console.log("jsonld.hasMenu",jsonld.hasMenu.hasMenuSection[0].hasMenuItem)
-    //     return {
-    //         menuMap: buildMenuMapFromRestaurant(jsonld),
-    //         menuItems: buildMenuItemsFlatFromRestaurant(jsonld),
-    //     };
-    // }
-    
-    for (const blob of appJson) {//it gives uuid and session details
-        // console.log("blob",blob, "\n")
-        const found = deepFindAll(blob.data, o => o?.hasMenu?.hasMenuSection, 1);
-        // console.log(" found", found)
-        if (found.length) {
-            // console.log("found",found)
-            return {
-                menuMap: buildMenuMapFromRestaurant(found[0]),
-                menuItems: buildMenuItemsFlatFromRestaurant(found[0]),
-            };
+function uberParse(raw) {
+    //Step 1: Uber escapes quotes and characters as HTML entities inside < script > tags(e.g., & quot; for ", &amp; for &).
+    // This step turns it back into proper text.
+    let decoded = decode(raw);
+
+    // Step 2: Decode % encodings, They also shove URL-encoded JSON fragments (%22 → ", %5C → \).
+    // This layer ensures those become real characters.
+    decoded = decodeURIComponent(decoded);
+
+    // Step 3: Fix escaped quotes
+    decoded = decoded.replace(/\\u0022/g, '"');
+
+    // Step 4: Try parsing
+    try {
+        return JSON.parse(decoded);
+    } catch (e1) {
+        try {
+            return JSON5.parse(decoded);
+        } catch (e2) {
+            console.error("Uber parse failed:", e2.message);
+            return null;
         }
     }
-    return { menuMap: {}, menuItems: [] };
 }
 
-export function extractUberEatsStore(html) {
+function collectAppJson($, useRegexToGetAddress = false, writeAppJsonToFile = false, postalCode = "N/A") {
+    const script = $("#__REACT_QUERY_STATE__");
+    if (!script.length) return { appJson: null, add: null };
+    const scriptHTML = script.html();
+    let finalData = null;
+    try {
+        const data = uberParse(scriptHTML);
+        console.log(`✅ Successfully parsed RawJSON data from Uber Eats page`);
+        const queries = data?.queries;
+        finalData = queries && queries.length > 0 ? { ...queries[0]?.state?.data } : null
+        // const fileName = finalData?.slug || finalData?.title?.split(" ")[0] || Date.now().toString().replace(/\s+/g, "_")
+
+        const fileName = (jsonld?.name || Date.now().toString()).toString().replace(/\s+/g, "_");
+
+        if (writeAppJsonToFile) {
+            // Create postal code directory if it doesn't exist
+            const postalCodeDir = path.join('./data/uberEatsRawJson', postalCode !== "N/A" ? postalCode : `${new Date().toISOString().split('T')[0]}`);
+            if (!fs.existsSync(postalCodeDir)) {
+                fs.mkdirSync(postalCodeDir, { recursive: true });
+            }
+            const filePath = path.join(postalCodeDir, `${fileName}.json`);
+            if (fs.existsSync(filePath)) {
+                fs.writeFileSync(`${filePath}.${new Date().toISOString().split('T')[0]}_bak.json`, JSON.stringify([{ id: "__REACT_QUERY_STATE__", data }], null, 2));
+            }
+            fs.writeFileSync(filePath, JSON.stringify([{ id: "__REACT_QUERY_STATE__", data }], null, 2));
+        }
+        return { appJson: finalData, add: null };
+    } catch (error) {
+        console.error("❌ Uber parse error:", error.message);
+
+        if (useRegexToGetAddress) {
+            // fallback regex-based extraction
+            const decoded = decodeEscapedUnicode(scriptHTML);
+
+            const streetAddress = extractStringValue(decoded, "streetAddress");
+            let fullAddress = extractStringValue(decoded, "address");
+            const postalCode =
+                extractStringValue(decoded, "postalCode") ||
+                extractStringValue(decoded, "postal_code") ||
+                extractStringValue(decoded, "postcode");
+            const city =
+                extractStringValue(decoded, "city") ||
+                extractStringValue(decoded, "addressLocality") ||
+                extractStringValue(decoded, "citySlug");
+            const lat = extractStringValue(decoded, "latitude");
+            const lng = extractStringValue(decoded, "longitude");
+
+            const parts = [streetAddress, city, postalCode].filter(Boolean);
+            fullAddress = fullAddress ? fullAddress : parts.join(", ");
+
+            const regAdd = {
+                streetAddress: streetAddress || null,
+                address: fullAddress || null,
+                postalCode: postalCode || null,
+                city: city || null,
+                fullAddress: fullAddress || null,
+                latitude: lat || null,
+                longitude: lng || null,
+            };
+
+            return { appJson: null, add: regAdd };
+        }
+
+        return { appJson: null, add: null };
+    }
+}
+
+function extractRestaurantDataFromJsonLd(jsonld, location = {}, deliveryTime = "N/A", writeJsonLdToFile = false, uploadOnS3ForRawState = false, postalCode = "N_A") {
+    if (!jsonld) return null;
+    const fileName = jsonld?.name.replace(" ", "_") || Date.now().toString()
+    if (writeJsonLdToFile) {
+        fs.writeFileSync(`./data/uberEatsRawJsonLd/${fileName}.json`, JSON.stringify(jsonld, null, 2));
+    }
+    if (writeJsonLdToFile) {
+        // Create postal code directory if it doesn't exist
+        const postalCodeDir = path.join('./data/uberEatsRawJsonLd', postalCode !== "N_A" ? postalCode : `${new Date().toISOString().split('T')[0]}`);
+        if (!fs.existsSync(postalCodeDir)) {
+            fs.mkdirSync(postalCodeDir, { recursive: true });
+        }
+        const filePath = path.join(postalCodeDir, `${fileName}.json`);
+        if (fs.existsSync(filePath)) {
+            fs.writeFileSync(`${filePath}.${new Date().toISOString().split('T')[0]}_bak.json`, JSON.stringify(jsonld, null, 2));
+        }
+        fs.writeFileSync(filePath, JSON.stringify(jsonld, null, 2));
+    }
+    if (uploadOnS3ForRawState) {
+        const fileNamePrefix = `${fileName}_${jsonld['@id'].split("/")[jsonld['@id'].split("/").length - 1]}` || `${fileName}_${Date.now().toString()}`;
+        const s3Key = `rawJsonLd/${fileNamePrefix}_JsonLd.json`;
+        uploadJson(jsonld, "ubereats", s3Key);
+    }
+    const address = normalizeAddress(location, jsonld, null);
+    // Build unified menu array
+    const menu = [];
+    const rows = unfoldMenuRawFromRestaurant(jsonld);
+    const currencyCode = "N/A"; // fallback if JSON-LD has no currency info
+
+    // Group items by section
+    const sectionMap = {};
+    for (const row of rows) {
+        const sectionName = row.section || "N/A";
+        if (!sectionMap[sectionName]) sectionMap[sectionName] = [];
+        const normalized = normalizeMenuItem(row.item, currencyCode);
+        if (normalized) sectionMap[sectionName].push(normalized);
+    }
+
+    // Convert section map to array
+    for (const [section, items] of Object.entries(sectionMap)) {
+        menu.push({ section, items });
+    }
+
+    return {
+        "restaurant_id": generateRestaurantId(cleanText(jsonld?.name), address?.postalCode, address?.latitude, address?.longitude),
+        "source_id": jsonld['@id'].split("/")[jsonld['@id'].split("/").length - 1] || null,
+        "restaurant_url": jsonld['@id'] || null,
+        "source": "Uber Eats",
+        "lastScrapedAt": new Date().toISOString(),
+        "restaurant": {
+            name: cleanText(jsonld?.name),
+            logo: jsonld?.image || jsonld?.logo || null,
+            cuisineList: toArray(jsonld?.servesCuisine),
+            ...address,
+            phoneNumber: jsonld?.phoneNumber || null,
+            ratingAvg: jsonld?.aggregateRating?.ratingValue || null,
+            totalReviews: jsonld?.aggregateRating?.reviewCount || null,
+            priceBucket: jsonld?.priceRange || null,
+            deliveryTime,
+        },
+        "openingHours": normalizeOpeningHours(jsonld?.openingHoursSpecification),
+        "menu": menu, // ✅ unified menu array like AppJSON
+    };
+}
+
+function extractRestaurantDataFromAppJson(data, url = "N/A", deliveryTime = "N/A", uploadOnS3ForRawState = false) {
+    // Basic Info
+    if (!data) return null;
+    if (uploadOnS3ForRawState) {
+        const fileNamePrefix = `${data.slug}_${data.uuid}` || `${Date.now().toString()}`;
+        const s3Key = `rawJson/${fileNamePrefix}_Json.json`;
+        uploadJson(data, "ubereats", s3Key);
+    }
+    const source_id = data.uuid || null;   // ✅ Top-level id
+    const basicInfo = {
+        name: data.title,
+        slug: data.slug,
+        citySlug: data.citySlug,
+        isOrderable: data.isOrderable,
+        phoneNumber: normalizer.normalizePhone(data.phoneNumber, data.location?.country?.toUpperCase() || location?.location?.geo?.country?.toUpperCase() || "GB"),
+        isWithinDeliveryRange: data.isWithinDeliveryRange
+    };
+
+    // Location Info
+    const location = normalizeAddress(data.location, null, data);
+
+    // ETA and Rating
+    const details = {
+        etaRange: data.etaRange?.text || data.etaRange?.accessibilityText,
+        ratingAvg: data.rating?.ratingValue,
+        totalReviews: data.rating?.reviewCount,
+        workingHours: data.storeInfoMetadata?.workingHoursTagline
+    };
+    const priceBucket = data.priceBucket;
+
+    // Categories + cuisines
+    const cuisineList = data.cuisineList || data.categories || [];
+    const currencyCode = data.currencyCode;
+    // --- Build unified menu structure ---
+    const menu = [];
+    if (data.catalogSectionsMap) {
+        for (const [, sections] of Object.entries(data.catalogSectionsMap)) {
+            sections.forEach(section => {
+                if (section.payload?.standardItemsPayload?.catalogItems) {
+                    const sectionTitle = section.payload.standardItemsPayload.title?.text || "N/A";
+                    const items = section.payload.standardItemsPayload.catalogItems
+                        .map(item => normalizeMenuItem(item, currencyCode))
+                        .filter(Boolean);
+                    menu.push({ section: sectionTitle, items });
+                }
+            });
+        }
+    }
+
+    // Opening Hours
+    const openingHours = data.hours?.map(day => ({
+        day: day.dayRange,
+        hours: day.sectionHours?.map(sec => ({
+            open: formatTime(sec.startTime),
+            close: formatTime(sec.endTime),
+            section: sec.sectionTitle
+        }))
+    }));
+    return {
+        "restaurant_id": generateRestaurantId(cleanText(basicInfo.name), location?.postalCode, location?.latitude, location?.longitude),
+        "source_id": source_id,
+        "restaurant_url": url,
+        "source": "Uber Eats",
+        "lastScrapedAt": new Date().toISOString(),
+        "restaurant": {
+            ...basicInfo,
+            ...location,
+            ...details,
+            deliveryTime,
+            cuisineList,
+            priceBucket
+        },
+        "openingHours": openingHours,
+        "menu": menu,
+    };
+}
+
+export function extractUberEatsStore(html, writeJsonLdToFile = false, writeAppJsonToFile = false, deliveryTime = "N/A", url = "N/A", uploadOnS3ForRawState = false) {
     const $ = cheerio.load(html);
 
-    // JSON-LD restaurant (if present)
+    // --- Step 1: Parse JSON-LD ---
     let jsonld = null;
     $('script[type="application/ld+json"]').each((_, el) => {
         try {
@@ -250,127 +459,28 @@ export function extractUberEatsStore(html) {
             const obj = JSON.parse(raw);
             const list = Array.isArray(obj) ? obj : [obj];
             for (const c of list) {
-                // console.log("c",c)
                 const types = toArray(c['@type']);
                 if (types.includes('Restaurant')) { jsonld = c; return false; }
             }
         } catch { }
     });
 
-    // Application JSON blobs (React state etc.)
-    const appJson = collectAppJson($);
-
-    // Try to locate a restaurant/store-like node in app JSON
-    let restCandidate = null;
-    for (const blob of appJson) {
-        const found = deepFindAll(blob.data, o => (
-            (o && typeof o === 'object') && (
-                o.hasMenu?.hasMenuSection || // schema-like
-                o.store?.title || o.store?.name ||
-                (o.title && o.sectionUuid) ||
-                o.restaurantInfo || o.merchantInfo || o.brandInfo
-            )
-        ), 50);
-        if (found.length) { restCandidate = found[0]; break; }
+    // --- Step 2: Parse AppJson ---
+    let { appJson, regAddress } = collectAppJson($, false, writeAppJsonToFile);
+    if (!appJson) {
+        const result = collectAppJson($, true, writeAppJsonToFile);
+        appJson = result?.appJson || null;
+        regAddress = result?.regAddress || null;
     }
+    // --- Step 3: Parse AppJson ---
+    const appJsonData = extractRestaurantDataFromAppJson(appJson, url !== "N/A" ? url : (jsonld?.['@id'] || "N/A"), deliveryTime, uploadOnS3ForRawState);
 
-    // Basic fields
-    const titleTag = cleanText($('title').first().text());
-    const ogTitle = cleanText($('meta[property="og:title"]').attr('content'));
-    const ogImage = cleanText($('meta[property="og:image"]').attr('content'));
+    // --- Step 4: Parse JSON-LD ---
+    const jsonLdData = extractRestaurantDataFromJsonLd(jsonld, regAddress ? regAddress : {}, deliveryTime, writeJsonLdToFile, uploadOnS3ForRawState);
 
-    // Name
-    const name = cleanText(
-        jsonld?.name || restCandidate?.name || restCandidate?.store?.title || restCandidate?.store?.name || ogTitle || titleTag
-    );
-
-    // Logo/image
-    const logo = jsonld?.image || jsonld?.logo || restCandidate?.image || restCandidate?.logo || ogImage || null;
-
-    // Cuisines
-    let cuisineTypes = jsonld?.servesCuisine || restCandidate?.cuisines || restCandidate?.store?.cuisine || [];
-    cuisineTypes = Array.isArray(cuisineTypes) ? cuisineTypes : (cuisineTypes ? [cuisineTypes] : []);
-
-    // Tags (dietary etc.)
-    const tags = (restCandidate?.dietaryTags || restCandidate?.tags || restCandidate?.store?.badges || []).filter(Boolean);
-
-    // Address components
-    const addr = jsonld?.address || restCandidate?.address || restCandidate?.store?.address || null;
-    const address = addr ? {
-        streetAddress: addr.streetAddress || addr.address1 || addr.line1 || null,
-        addressLocality: addr.addressLocality || addr.city || addr.locality || null,
-        addressRegion: addr.addressRegion || addr.region || addr.state || null,
-        postalCode: addr.postalCode || addr.zip || null,
-        addressCountry: addr.addressCountry || addr.country || null,
-    } : null;
-    const postcode = address?.postalCode || null;
-    const locality = address?.addressLocality || null;
-
-    // Delivery radius (heuristic; often in meters/km in state)
-    let deliveryRadius = restCandidate?.deliveryRadius || restCandidate?.store?.deliveryRadius || null;
-    if (typeof deliveryRadius === 'number') deliveryRadius = { unit: 'm', value: deliveryRadius };
-
-    // Opening hours
-    const openingHours = normalizeOpeningHours(
-        jsonld?.openingHoursSpecification || restCandidate?.openingHoursSpecification || restCandidate?.hours || null
-    );
-    // Times
-    const estimatedPrepTime = restCandidate?.prepTime || restCandidate?.estimatedPrepTime || null;
-    const estimatedDeliveryTime = restCandidate?.deliveryTime || restCandidate?.estimatedDeliveryTime || restCandidate?.etaRange || null;
-
-    // Ratings
-    const agg = jsonld?.aggregateRating || restCandidate?.aggregateRating || restCandidate?.rating || null;
-    const ratingAvg = agg?.ratingValue ?? agg?.value ?? null;
-    const totalReviews = agg?.reviewCount ?? agg?.count ?? null;
-
-    // Hygiene rating (rarely exposed)
-    const hygieneRating = restCandidate?.hygieneRating ?? null;
-
-    // Fees and thresholds
-    let deliveryFee = null;
-    let minimumOrderValue = null;
-    let offers = [];
-
-    // Search appJson for common fee fields
-    for (const blob of appJson) {
-        const fees = deepFindAll(blob.data, o => o && (o.deliveryFee || o.fee || o.minimumOrderValue || o.minOrderValue || o.promo || o.promotions), 20);
-        for (const f of fees) {
-            if (deliveryFee == null && (f.deliveryFee || f.fee)) deliveryFee = f.deliveryFee || f.fee;
-            if (minimumOrderValue == null && (f.minimumOrderValue || f.minOrderValue)) minimumOrderValue = f.minimumOrderValue || f.minOrderValue;
-            if (f.promo) offers = offers.concat(toArray(f.promo));
-            if (f.promotions) offers = offers.concat(toArray(f.promotions));
-        }
-        if (deliveryFee && minimumOrderValue) break;
-    }
-
-    // Fallback: try to parse money-like strings in meta
-    if (deliveryFee == null) deliveryFee = parseMoneyFromString($('meta[name="delivery:fee"]').attr('content')) || null;
-    if (minimumOrderValue == null) minimumOrderValue = parseMoneyFromString($('meta[name="order:minimum"]').attr('content')) || null;
-    const { menuMap, menuItems } = extractMenuFromCandidates(jsonld, appJson);
-    const { latitude, longitude } = extractGeo(jsonld, appJson);
+    // --- Step 5: Merge both sources ---
     return {
-        name: name || null,
-        logo: logo || null,
-        cuisineTypes,
-        tags,
-        address,
-        postcode,
-        locality,
-        latitude,
-        longitude,
-        deliveryRadius,
-        openingHours,
-        estimatedPrepTime,
-        estimatedDeliveryTime,
-        ratingAvg,
-        totalReviews,
-        hygieneRating,
-        deliveryFee,
-        minimumOrderValue,
-        // API-friendly menu outputs
-        // menu: menuMap,          // backward compatible key
-        // menuItems,              // flat list
+        ...(jsonLdData || {}),
+        ...(appJsonData || {}),   // AppJson overrides JSON-LD if both present
     };
 }
-
-export default extractUberEatsStore;

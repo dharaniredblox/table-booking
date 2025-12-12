@@ -1,0 +1,1697 @@
+{
+  "restaurant_id": "starbucksbristolcliftondown-BS82-51",
+  "source_id": "5e98ce92-bd5b-48a0-9f40-ecd0a4b7f131",
+  "restaurant_url": "https://www.ubereats.com/store/starbucks-bristol-clifton-down/XpjOkr1bSKCfQOzQpLfxMQ",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:39:53.534Z",
+  "restaurant": {
+    "name": "Starbucks ® (Bristol Clifton Down)",
+    "slug": "starbucks-bristol-clifton-down",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441179467522",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "Clifton Downs Shopping Centre, Whiteladies Rd, Redland, Bristol BS8 2",
+    "streetAddress": "Clifton Downs Shopping Centre, Whiteladies Rd, Redland",
+    "addressCity": "bristol-eng",
+    "neighborhood": "clifton-bristol-eng",
+    "addressRegion": null,
+    "postalCode": "BS8 2",
+    "addressCountry": "GB",
+    "latitude": 51.4645342,
+    "longitude": -2.6100151,
+    "geohash": "gcnhu8",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 4.6,
+    "totalReviews": "1000+",
+    "workingHours": "Open until 10:00 PM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Cafe",
+      "Coffee and Tea",
+      "Breakfast and Brunch"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Sunday",
+      "hours": [
+        {
+          "open": "08:30",
+          "close": "16:30",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Monday - Saturday",
+      "hours": [
+        {
+          "open": "07:30",
+          "close": "17:30",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Bundles",
+      "items": [
+        {
+          "id": "13ebdafe-69c9-572d-bed0-f88429cbccb8",
+          "name": "Bakery Break Bundle",
+          "description": "A tasty pairing. Choose a Venti Frappuccino® blended beverage + a bakery item of your choice.",
+          "price": "£10.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1045,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4cb92bc5dc0b76456b9aeb4348135454/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6fa1a0a6-420b-50de-9d30-f00e1c1829b4",
+          "name": "Lunch Bundle",
+          "description": "Take a break. Choose from a range of Grande/Venti hot or iced drinks + any panini, toastie or wrap.",
+          "price": "£10.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1000,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/24ada76ff3ae35601da22ba1a1dbc766/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Lunch favourites",
+      "items": [
+        {
+          "id": "259120d3-9a6b-5a74-aff1-d62775d1b91d",
+          "name": "Iced Caffè Latte",
+          "description": "Our dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£5.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 515,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/87975d71716e7ea9fc1ec3624c6b186c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e30c05b4-0d21-5e68-b5b1-24fecdaceafa",
+          "name": "Caramel Frappucino® Blended Beverage",
+          "description": "Coffee blended with caramel syrup, milk and ice. Topped with whipped cream and caramel sauce. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 625,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8a1c6117cfe7db89ca8aec0c2d4e0ff9/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "0f924679-d7fc-5c18-8fa0-63bb6240a5d8",
+          "name": "Signature Tomato & Mozzarella Panini",
+          "description": "Mozzarella and tomatoes with basil and red pepper pesto on a rustic ciabatta. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£7.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 720,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/95d4343b3ced706c604df3727ae885d4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8122cd86-32df-5a91-b63b-5639c71d173b",
+          "name": "Signature Smoked Ham & Cheese Toastie",
+          "description": "Starbucks® signature cheese topped sourdough filled with dry cured oak-smoked ham, Monterey Jack, mozzarella, vintage Cheddar with creamy béchamel and a touch of Dijon and American style mustard. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£7.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 760,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c450b3e9d55b5188bea6596c524f889c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "88bda872-d64b-5779-b00c-9f4ecd27f3fa",
+          "name": "Caramel Macchiato",
+          "description": "Freshly steamed milk with vanilla-flavoured syrup, marked with espresso and finished with caramel sauce. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 610,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/558001453ee3305f56ca6d20d1f461b5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "955741d6-02db-509b-a160-2e26837d385e",
+          "name": "Chocolate Chunk Cookie",
+          "description": "All butter cookie with dark chocolate chunks. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£3.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 360,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/65237d8e609df72ddf431868e056daff/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e85382c8-e1f4-57a2-a1ab-ca072a6de8e4",
+          "name": "Kettle Chips Lightly Salted",
+          "description": "Lightly Salted Kettle Chips. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£2.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 210,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5540823ab0355557c4d5125b882ad9d4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5b04ec59-229d-5a8e-8d66-d0cf931062ec",
+          "name": "Strawberry Acai Starbucks Refresha® Drink",
+          "description": "A hydrating drink of sweet strawberry flavors accented by açai notes, shaken with real strawberries.  We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 625,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/145f6543b7ac6a531474c3c911a73589/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "New In",
+      "items": [
+        {
+          "id": "c08eedb3-ec08-5402-af4b-21d3edfa0a59",
+          "name": "Pumpkin Spice Latte",
+          "description": "Our iconic pumpkin spice latte is handcrafted with signature espresso and combined with a pumpkin spice flavour sauce and steamed milk. It is then topped with whipped cream and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 650,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1582224557ca53224a61d133546405d5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "45b36bd8-c80a-590b-a6a6-7b8e3ef89e0a",
+          "name": "Iced Pumpkin Spice Latte",
+          "description": "Our iconic pumpkin spice latte is handcrafted with signature espresso and combined with a pumpkin spice flavour sauce, milk and ice. It is then topped with a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.57",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 657,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0e575fc50f50598377f9bf90f11a8f4d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f1ee6ea8-7f53-5bc0-aa79-bbc8d9ecfccf",
+          "name": "Pumpkin Spice Caramel Macchiato",
+          "description": "Steamed milk with pumpkin spice flavour sauce is blended with signature espresso and finished with caramel drizzle and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 650,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/41663d4c91c092c877e77cc2baba43d0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "27b950db-161f-5283-95f4-2a1fb3cc4412",
+          "name": "Iced Pumpkin Spice Caramel Macchiato",
+          "description": "Signature espresso is combined with pumpkin spice flavour sauce, milk and ice, finished with caramel drizzle and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 660,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1cc420564a07a5b9b823948baa5518f4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b6ba6fbe-e015-58b1-a0db-3666407421ee",
+          "name": "Pumpkin Spice Frappuccino",
+          "description": "Pumpkin spice flavour sauce is blended with coffee, milk and ice, then topped with whipped cream and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£7.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 730,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1d58f3a768502ff81be219076e4a7e6c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b0e33ce6-05a0-5179-98d9-411fbdbdaa13",
+          "name": "Pumpkin Spice Crème Frappuccino",
+          "description": "Pumpkin spice flavour sauce is blended with milk and ice, then topped with whipped cream and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£7.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 730,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/70ef351c937ed4825639dc97c871d4c5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "42391552-21ff-503f-bcce-24a7833a0843",
+          "name": "Pumpkin Marble Loaf Cake",
+          "description": "Rich and aromatic pumpkin spice and vanilla marble loaf cake, coated with a luscious maple and caramel flavour frosting, topped with pumpkin seeds and caramel drizzle. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£4.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 410,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/723a324f9fe23756aaae50bf2c1a0c76/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "085dc28d-b80d-54d5-b0bc-cb929c41a493",
+          "name": "Bear Cake Pop",
+          "description": "A delightful bite of vanilla-flavoured cake and digestive biscuit crumb, enrobed in caramel white chocolate. Topped with caramel white chocolate ears, black icing eyes, and a dark chocolate nose. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1beaf44f3aa3cb22568e0e9cad006436/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7e1bf5d0-9b44-5d2d-adfb-fea74dcb94ad",
+          "name": "Chocolate Brownie",
+          "description": "A pumpkin-shaped dark chocolate brownie, crowned with a velvety blend of smooth milk and dark chocolate, with an eye-catching marble decoration of rich chocolate swirls. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/013f748e49f672a8b659f6e0ea0fc62a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f781989f-9fb5-53d5-baaf-20ac4d02035f",
+          "name": "White Chocolate & Cherry Blondie",
+          "description": "A white chocolate blondie swirled with tangy Morello cherry jam, decorated with white chocolate flavour drizzle and freeze-dried cherry pieces. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 385,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5e6e55af7ec5b1c8723c2be630b2796b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "107920b3-a9dd-5fa3-a56c-277eeb1b4815",
+          "name": "Vintage Cheddar & Smoked Bacon Quiche",
+          "description": "A buttery shortcrust tart filled with vintage cheddar, British smoked streaky bacon, crème fraiche & free-range eggs, finished with dry-cured bacon pieces. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 695,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/092641a029a27efcf33fd4d997062213/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "060f5ac2-f3cf-59ad-ad68-2de0d5ac7fc1",
+          "name": "Vintage Cheddar & Caramelised Onion Quiche",
+          "description": "A buttery shortcrust tart filled with vintage cheddar, red Leicester, crème fraiche & free-range eggs, topped with caramelised onions and a cheddar & chive crumb. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 660,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f3e6ad3ddf3ae2238d64687ff3c105b7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2b4a98a8-7a33-5b2d-87b1-466e003ef644",
+          "name": "Pork & Maple Bacon Lattice",
+          "description": "A rich and savoury blend of British minced pork and smoky maple bacon, wrapped in golden, all-butter puff pastry. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£5.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 520,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d9da64fa72ca69bda59372b7f444d0e4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Hot Coffee",
+      "items": [
+        {
+          "id": "37bfc41f-dba9-5d61-995b-f29fe41aee7a",
+          "name": "Caffè Latte",
+          "description": "Our dark, rich espresso is balanced with steamed milk and topped with a light layer of foam. A perfect milk-forward warm up. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£5.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 510,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0c910c774f2cc18af9246f01621b3238/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1cb2cd28-02c5-51a2-b79e-c03ebaffd879",
+          "name": "Caffè Americano",
+          "description": "Espresso shots are topped with hot water to produce a light layer of crema. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/00ea0dd7bc207e02c344fe08d90259fd/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9ef411e7-ba0b-5531-bdec-a63994e7e917",
+          "name": "Caramel Macchiato",
+          "description": "Freshly steamed milk with vanilla-flavoured syrup, marked with espresso and finished with caramel sauce. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 610,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/558001453ee3305f56ca6d20d1f461b5/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1323fadb-7ef9-5871-b9d4-675363fdfd3c",
+          "name": "White Chocolate Mocha",
+          "description": "Espresso with white chocolate flavoured sauce and steamed milk. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£6.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 620,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fab1cc6dd2bf8859905e72334447b80b/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e0e01f4f-9629-5af4-81de-a8bb710931dc",
+          "name": "Caffè Mocha",
+          "description": "Espresso with bittersweet mocha sauce and steamed milk. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£5.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 570,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/77f5b6e5172a76e8cd63ceab4916de0d/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e03d7b8e-f44e-51bd-aac0-7b2557a6380d",
+          "name": "Cappuccino",
+          "description": "Dark, rich espresso combined with steamed milk, topped with a deep layer of foam. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£5.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 510,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7c45694d880686067d7ac44452556416/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "07091738-7564-53f6-bc3f-0186e7d512ca",
+          "name": "Filter Coffee",
+          "description": "Iconic Starbucks coffee that's smooth, balanced and rich in flavour – perfect for every day. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 320,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/09bb9e81e52cda36d8f2f7982c9850e4/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2465e81a-e927-5fb9-9f2d-e213be695288",
+          "name": "Pumpkin Spice Latte",
+          "description": "Our iconic pumpkin spice latte is handcrafted with signature espresso and combined with a pumpkin spice flavour sauce and steamed milk. It is then topped with whipped cream and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 650,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1582224557ca53224a61d133546405d5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e217d0eb-01eb-59a9-a96d-a47140571f5c",
+          "name": "Pumpkin Spice Caramel Macchiato",
+          "description": "Steamed milk with pumpkin spice flavour sauce is blended with signature espresso and finished with caramel drizzle and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 650,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/41663d4c91c092c877e77cc2baba43d0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b7101a8c-a16d-5c9d-9a21-de7de762db86",
+          "name": "White Mocha Caramel Macchiato",
+          "description": "Steamed milk with white mocha flavour sauce is blended with signature espresso and finished with caramel drizzle. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 650,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/558001453ee3305f56ca6d20d1f461b5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Iced Coffee",
+      "items": [
+        {
+          "id": "355b2e5a-3c79-57b3-b231-d41c8a3c69b2",
+          "name": "Iced Caffè Latte",
+          "description": "Our dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£5.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 515,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/87975d71716e7ea9fc1ec3624c6b186c/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6da73b6b-e922-5f94-a754-4a72843c983e",
+          "name": "Iced Caramel Macchiato",
+          "description": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 610,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fafcfdd163d3fb9c16aae17dc927b603/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2a4faa5e-0171-5724-8f71-aa40a9677ba1",
+          "name": "Iced Brown Sugar Oat Shaken Espresso",
+          "description": "Using our Starbucks Blonde® Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 615,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d7de6c46f2b89efd01238393520b603b/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "057fb093-5f9b-5ea6-b21b-929bb97bc5e9",
+          "name": "Iced White Chocolate Mocha",
+          "description": "Espresso, milk and white chocolate flavoured sauce poured over ice. Topped with whipped cream. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 620,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/44419d8c0f048ab6405037cfd46b967c/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fe2bbac5-e3b7-5a49-b163-682cebf9cc76",
+          "name": "Iced Caffè Americano",
+          "description": "Espresso shots are topped with water to produce a light layer of crema, then served over ice. The result is this wonderfully rich cup with depth and nuance. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/22c0958d827f8d5a64341d87a847a232/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7e26eb3f-802b-5b5f-9f12-726d46792f3b",
+          "name": "Cold Brew Coffee",
+          "description": "Our Cold Brew coffee is handcrafted in small batches, slow-steeped in cool water without touching heat, to give a super smooth flavour. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£4.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 485,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bb709d6eb918720cdcccbbf55ed36583/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "92606b58-6829-5c60-b46f-09cf4b18e9d6",
+          "name": "Iced Caffè Mocha",
+          "description": "We combine our rich, full-bodied espresso with bittersweet mocha sauce, milk and ice, then top it off with whipped cream. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£5.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 570,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e80960e00fa798c6ffe0b1b14fdcf6ef/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "34bb7515-3ce2-53a6-a48c-18095bff03a5",
+          "name": "Iced Pumpkin Spice Latte",
+          "description": "Our iconic pumpkin spice latte is handcrafted with signature espresso and combined with a pumpkin spice flavour sauce, milk and ice. It is then topped with a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.57",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 657,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0e575fc50f50598377f9bf90f11a8f4d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6f1089fa-d8f1-5fd3-bdef-46634462c4ef",
+          "name": "Iced Pumpkin Spice Caramel Macchiato",
+          "description": "Signature espresso is combined with pumpkin spice flavour sauce, milk and ice, finished with caramel drizzle and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 660,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1cc420564a07a5b9b823948baa5518f4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a4553d73-75b3-5fcc-8e49-b1ba1de3f4f6",
+          "name": "Iced White Mocha Caramel Macchiato",
+          "description": "Signature espresso is combined with white mocha flavour sauce, milk and ice, and finished with caramel drizzle. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 660,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fafcfdd163d3fb9c16aae17dc927b603/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Coffee Frappuccino®",
+      "items": [
+        {
+          "id": "81223f0e-91cb-532e-a1a5-bf5168afa77f",
+          "name": "Caramel Frappucino® Blended Beverage",
+          "description": "Coffee blended with caramel syrup, milk and ice. Topped with whipped cream and caramel sauce. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 625,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c20e4b9a899a99afab466d604ea87ba8/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "99854faf-cab0-5c62-ac30-3640b5cc9624",
+          "name": "Mocha Frappuccino® Blended Beverage",
+          "description": "Mocha sauce, Frappuccino® roast coffee, milk and ice all come together for a mocha flavour that'll leave you wanting more. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 625,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bdb6a9559c85f0777c9b3427514d67ec/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c6afe8d7-1b59-566a-bf27-a6bdbadb2934",
+          "name": "Coffee Frappuccino® Blended Beverage",
+          "description": "Coffee meets milk and ice in a blender for a rumble and tumble topped with a swirl of whipped cream and together they create one of our original Frappuccino beverages. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£5.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 590,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0ccb6a6ff4612d8ffba5567429691eab/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e860e57a-b4e3-5858-a383-49904d53b539",
+          "name": "Pumpkin Spice Frappuccino",
+          "description": "Pumpkin spice flavour sauce is blended with coffee, milk and ice, then topped with whipped cream and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£7.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 730,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1d58f3a768502ff81be219076e4a7e6c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Cream Frappuccino®",
+      "items": [
+        {
+          "id": "19ae709f-a26f-54fd-bfdf-64f802f3af4a",
+          "name": "Cookies & Cream Frappuccino® Blended Beverage",
+          "description": "A mix of cookies, milk and ice are blended to make a perfect icy creamy cookie texture then finished with a delicious cookies & cream topping. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 625,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5283ffb081d757503c37c7414b616183/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "63f38f43-482f-50a3-8e8d-51639d558401",
+          "name": "Caramel Cream Frappuccino® Blended Beverage",
+          "description": "Blended with milk and ice, the sweet flavour of caramel takes a delightfully refreshing turn. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 625,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/30cb259d9f17a7b15a6f28a083a38553/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5afaae8f-4927-5511-8c10-eb3590fdd18c",
+          "name": "Strawberries & Cream Frappuccino® Blended Beverage",
+          "description": "Frappuccino® crème syrup blended with milk, strawberry sauce and ice. Topped with whipped cream. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 625,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/83eb8ec02f9ba44c88bba91d49c844e6/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "aa9b03fe-7d75-5db2-9bf6-4f4352b245d7",
+          "name": "Chocolate Cream Frappuccino® Blended Beverage",
+          "description": "What makes this cool beverage doubly delicious? The flavour of chocolate and more chocolate – something we just can't get enough of. There's the rich, creamy taste of mocha-flavoured sauce blended with milk.  We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 625,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0657357f2a16147c7595cb89dac16d2e/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a80f6ade-d1fa-5e1a-939c-73aff56def1d",
+          "name": "Pumpkin Spice Crème Frappuccino",
+          "description": "Pumpkin spice flavour sauce is blended with milk and ice, then topped with whipped cream and a spice blend of cinnamon, ginger, nutmeg and cloves. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£7.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 730,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/70ef351c937ed4825639dc97c871d4c5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6d384c3d-93ad-55ac-8ce0-f4e07cb734f7",
+          "name": "Matcha Green Tea Frappuccino®",
+          "description": "Try your favourite Matcha in a cream Frappuccino - Matcha is combined with milk and vanilla and topped with whipped cream for a deliciously cold treat. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 625,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9f7a174864f4d908b3a4c69a5284de91/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Hot Chocolate & Teas & Tea Latte",
+      "items": [
+        {
+          "id": "d8a641d6-7e6e-5f25-be60-972878d9ec6a",
+          "name": "Classic Hot Chocolate",
+          "description": "Steamed milk swirled with mocha-flavoured syrup. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£5.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 535,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5d289629f0a05821709e7265ce0c0658/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "53c75554-fcef-57f3-99d9-b4c009685862",
+          "name": "English Breakfast Tea",
+          "description": "Full-bodied black tea with rich, malty undertones. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ab19f8ef669f3d6095dbd3ee67e1b119/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ee2c918d-b041-56f4-8b6f-5fd66b18a918",
+          "name": "Emperor's Clouds & Mist Tea",
+          "description": "A single-origin pure green tea with light, toasty-sweet notes. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/78906faccbfbea69c613eaf6e22d6b29/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d965f006-1968-5d45-855f-a337876d6b98",
+          "name": "Mint Herbal Blend Tea",
+          "description": "Spearmint, peppermint & a touch of lemon verbena. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6f3406feb535ccb7f7dbaf3ef0b36874/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "26621f16-0829-5267-b977-e00de624d8d5",
+          "name": "Earl Grey Tea",
+          "description": "A bright blend of black tea, fragrant bergamot and soft lavender. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d4065a91358d3b477c3ca4253ca901b7/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8858cd4a-66bc-568d-b057-5c3cbf217ac6",
+          "name": "Classic Chai Latte",
+          "description": "The warm, aromatic flavours of chai tea have their roots in the ancient Ayurvedic tradition of India, where roadside tea merchants can be found preparing black tea with traditional healing spices like cardamom, cinnamon and black pepper. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£5.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 560,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bc37650012fc5eea75faefe4cf0ccd26/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e517c646-8e2a-56cf-a564-cb2fb526ed5e",
+          "name": "Matcha Latte",
+          "description": "Pure Matcha green tea is steamed with milk for a premium cup of zen. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£5.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 560,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/72e53505ae9c13ad15afc23cee0914e4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Refresha® & Iced Teas",
+      "items": [
+        {
+          "id": "ec34bbaa-b7dd-51e9-a3b5-797a40c39bf2",
+          "name": "Strawberry Acai Starbucks Refresha® Drink",
+          "description": "A hydrating drink of sweet strawberry flavors accented by açai notes, shaken with real strawberries.  We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 625,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/145f6543b7ac6a531474c3c911a73589/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d7561d4a-d515-5f3e-9650-397bcd9c4bda",
+          "name": "Melon Pearl Refresha® Drink",
+          "description": "Sweet melon flavour Refresha® drink base poured over ice and combined with juicy pops of melon flavour pearls that burst in your mouth – a delicious hit for Summer! \n*Caution: Potential choking hazard – not suitable for young children. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£6.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 625,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5af5dcaf8d1b99088b608045c41408f5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "aba959c9-a19d-5d0e-b94e-848b72591d94",
+          "name": "Cool Lime Starbucks Refresha® Drink",
+          "description": "Cool Lime is a lively blend of lime and citrus, shaken with real lime slices. It's a delicious pick-me-up delivering zesty hydration. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 625,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bf3a61a691f31c31ca76857e92e08741/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c2a52c11-c9eb-51d8-ae8f-b78bc5e8d058",
+          "name": "Iced Matcha Green Latte",
+          "description": "Pure Matcha green tea is mixed with milk for a premium cup of zen. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£5.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 560,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/01e043a1cbc0326d7e73088e3460ca46/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9989fea7-643f-5b31-8412-2cbc366a8898",
+          "name": "Iced Chai Latte",
+          "description": "Black tea infused with cardamom, cinnamon, black pepper and star anise added to milk and ice. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£5.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 560,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/57bbacfb66afeff6252d0233092ed73c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Breakfast",
+      "items": [
+        {
+          "id": "5400c82f-c99b-5628-aa4e-71307dbccfd1",
+          "name": "Butter Croissant",
+          "description": "Golden pastry with soft, flaky layers and a rich buttery flavour. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£3.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 330,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fa9799d7ebff35090117015ee30e8043/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6b208918-7c74-5166-a0bc-66847703c522",
+          "name": "Traditional Sausage Sandwich",
+          "description": "Pork sausages served in a classic buttered soft roll *Sausage filled into natural beef casing. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£6.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 650,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/787f2fcb6b082123caa365210fb49d8f/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5daee250-9962-5051-9359-c4b468d8edda",
+          "name": "Pain au Chocolat",
+          "description": "Golden pastry made from free range eggs and butter, with a rich dark chocolate filling. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7677c534be42f5726c415c81195d0ce7/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9a6b16d2-f473-546c-9da1-e51a6ac474bd",
+          "name": "Chocolate Twist",
+          "description": "Twisted butter pastry filled with pastry cream and dark chocolate chips. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£3.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 360,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9b393d9f71a2a188246335c2dff1220c/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2e76554c-a1a3-5150-bb32-4215695b74ee",
+          "name": "Egg Bites with Three Cheese & Ham",
+          "description": "Egg bites are cooked at a precise temperature resulting in a velvety texture.Cooking instructions: Microwave 600W 2 mins. Remove the plastic packaging, place the egg bites on a plate before heating. Heat on full power. Leave to stand for 3-5 mins after heating. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£4.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 495,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/81939c002b7f04833a02be28f5589d33/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "993fb1a6-9579-5a89-865a-b57b6ded79d9",
+          "name": "Egg White Bites with Three Cheese & Red Pepper",
+          "description": "Free-range sous vide egg white bites with three cheese, roasted  red peppers and spinach. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£5.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 530,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/138ad09d9550afc6c9df7cb8feeeabb9/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f2275bc8-56c4-5d69-8890-f1b493f0ff0a",
+          "name": "Ham & Cheese Croissant",
+          "description": "Beechwood smoked ham, medium Cheddar cheese in an all-butter croissant. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£6.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 605,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cec3d866e517cae0ea17b76018220645/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "711706a1-7dbc-5b5e-baab-f2b70f834abf",
+          "name": "Smoked Bacon Roll",
+          "description": "Hickory smoked bacon in a white roll. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£6.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 650,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/998faaac6b636a18d0cf4eed038ec63c/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "44d8a72a-08e4-5152-9621-67644a8fbf15",
+          "name": "Classic Oatmeal (Porridge)",
+          "description": "Made with semi-skimmed milk and single cream & oatmeal; finished with your choice of topping. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£4.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 405,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b7ca12bc926ac57487db4952084a2a2d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "582977fe-a13e-57d6-a55e-ff368053b550",
+          "name": "Berry Crunch",
+          "description": "Mixed berry compote under reduced fat Greek style yoghurt topped with toasted pumpkin seed granola. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£4.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 495,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/16825752aa9524fa9da5e0e5fbfe642a/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Sandwiches & Toasties",
+      "items": [
+        {
+          "id": "eff66c59-c967-559e-89d6-7ddfbc98c7e7",
+          "name": "Chicken Caesar Wrap",
+          "description": "Smoked bacon, seared chicken breast and lettuce leaf are paired with a tangy rich ranch style caesar mayonnaise wrapped into a plain barmarked wrap. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£5.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 585,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/19295358b493c1580cf8bb59f74c7427/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4d8c0483-380e-51be-ad4c-b9d8f9f4e78c",
+          "name": "Vintage Cheddar & Smoked Bacon Quiche",
+          "description": "A buttery shortcrust tart filled with vintage cheddar, British smoked streaky bacon, crème fraiche & free-range eggs, finished with dry-cured bacon pieces. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 695,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/092641a029a27efcf33fd4d997062213/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "04af2a2a-274e-5118-b81d-17555446a974",
+          "name": "Vintage Cheddar & Caramelised Onion Quiche",
+          "description": "A buttery shortcrust tart filled with vintage cheddar, red Leicester, crème fraiche & free-range eggs, topped with caramelised onions and a cheddar & chive crumb. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£6.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 660,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f3e6ad3ddf3ae2238d64687ff3c105b7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2a6dd6d5-25ca-5a7b-b0c3-5f6c0896834c",
+          "name": "Free-Range Egg, Cress & Mayo Sandwich",
+          "description": "Free-range egg with Dijon mustard mayonnaise and cress on malted bread.​ We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£4.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 470,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/75dbc69958b149ca34efc42a31db594f/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1e20b09c-570a-5b69-84dc-1b79dfc096c9",
+          "name": "Smoked Ham & Cheddar Sandwich",
+          "description": "Smoked ham and Cheddar cheese with mayonnaise on malted bread. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£4.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 470,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/78336a1c2430454760122b605776bf3a/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "578cba71-2995-56bb-b867-d26d271d2c88",
+          "name": "Cheese & Marmite® Mini  Ciabatta",
+          "description": "Mature Cheddar cheese & Marmite® in a ciabatta roll. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£5.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 565,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/eb9af33113f7a2cf3a20edb5fb63cc05/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Bakery Treats",
+      "items": [
+        {
+          "id": "092acb16-758f-5550-8129-61d6207d5cee",
+          "name": "Almond Croissant",
+          "description": "A butter croissant filled with an almond filling, topped with toasted flaked almonds and dusted with powdered sugar. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£3.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 390,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9863293812bb155a5ac7c8c75bab38d0/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d4088425-270f-5554-9bac-bd70657f809f",
+          "name": "Birthday Cake Pop",
+          "description": "Bitesize vanilla cake pop mixed with strawberry flavour frosting, dipped in strawberry flavour chocolate, with pink sprinkles. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8d260d7cb76f04170ced101d2681d004/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f9d09ad9-bd7c-5f8d-a73d-c057faef2117",
+          "name": "Pumpkin Marble Loaf Cake",
+          "description": "Rich and aromatic pumpkin spice and vanilla marble loaf cake, coated with a luscious maple and caramel flavour frosting, topped with pumpkin seeds and caramel drizzle. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£4.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 410,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/723a324f9fe23756aaae50bf2c1a0c76/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "66849616-26ef-5b6e-96c3-e3649815b318",
+          "name": "Bear Cake Pop",
+          "description": "A delightful bite of vanilla-flavoured cake and digestive biscuit crumb, enrobed in caramel white chocolate. Topped with caramel white chocolate ears, black icing eyes, and a dark chocolate nose. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1beaf44f3aa3cb22568e0e9cad006436/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "554a7009-6e53-5af1-be62-169f458d32c2",
+          "name": "Chocolate Brownie",
+          "description": "A pumpkin-shaped dark chocolate brownie, crowned with a velvety blend of smooth milk and dark chocolate, with an eye-catching marble decoration of rich chocolate swirls. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/013f748e49f672a8b659f6e0ea0fc62a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d76685cc-cda3-5d0d-8572-5826ca13f5f7",
+          "name": "White Chocolate & Cherry Blondie",
+          "description": "A white chocolate blondie swirled with tangy Morello cherry jam, decorated with white chocolate flavour drizzle and freeze-dried cherry pieces. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 385,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5e6e55af7ec5b1c8723c2be630b2796b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a26ea128-4fe6-549a-87da-76ae670d1f81",
+          "name": "Pork & Maple Bacon Lattice",
+          "description": "A rich and savoury blend of British minced pork and smoky maple bacon, wrapped in golden, all-butter puff pastry. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£5.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 520,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d9da64fa72ca69bda59372b7f444d0e4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "adbacaba-e031-510a-b216-04666d5c51af",
+          "name": "Lemon Loaf",
+          "description": "A deliciously moist lemon loaf cake topped with a lemon icing glaze and caramelised lemon zest. “We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.ie/nutrition”",
+          "price": "£4.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 410,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/339dce43228e77dbca9b57a7a62b8ca5/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1ec068e8-0909-516e-be15-d6bff57bec32",
+          "name": "Blueberry Muffin",
+          "description": "A classic Starbucks muffin packed with blueberries, filled with a smooth blueberry filling. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£3.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 390,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/47cc7184cebf55c0b2d157428ef8eebf/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7fe24438-3e24-5d3a-8c1f-5dcd90120917",
+          "name": "Chocolate Chunk Cookie",
+          "description": "All butter cookie with dark chocolate chunks. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£3.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 360,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/65237d8e609df72ddf431868e056daff/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "00bd85c0-6edd-5140-ad9f-5a5f822b34ae",
+          "name": "Cinnamon Bun",
+          "description": "Sweet dough with cinnamon filling and topped with an orange infused cream cheese icing. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£4.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 435,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c9c60acd4a2abd8852eeac43c066a96d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1de6942a-6ff7-5c34-9f99-3bc9918acd01",
+          "name": "Luxury Fruit Toast",
+          "description": "Two slices of luxury fruit toast. Made with dried cranberries, raisins and lemon zest. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£3.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 390,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7658945c5f35de34d012de1beb83c35b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Chocolate & Snacks",
+      "items": [
+        {
+          "id": "154f237d-e63b-596c-9613-3f0a5025ec31",
+          "name": "Kettle Chips Sea Salt & Balsamic Vinegar",
+          "description": "Sea Salt and Balsamic Vinegar Kettle Chips. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£2.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 210,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3925f33d2b4322b9d491f13eda7095db/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "31be59a9-41d9-511a-af8a-f94489b27c01",
+          "name": "Cookie Straw",
+          "description": "Chocolate and vanilla flavour cookie straw. Use for your favourite Starbucks cold beverage, or enjoy on its own. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£1.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 170,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/968f79ae3eb6a2b763547d9e3ac8a90d/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c77af030-719f-5373-a111-9244a0e586cb",
+          "name": "Large Caramel Waffles",
+          "description": "Pack of two buttery waffles with a sweet, creamy caramel filling. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 330,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4e39624401521ce0483fb01f0e5d9abf/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "09d34e0e-878e-5fd4-a092-5afeaa79d497",
+          "name": "Iced Gingerbread Biscuit",
+          "description": "An iced gingerbread biscuit in the shape of a Starbucks beverage or Starbucks Bearista®. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 340,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/92f84f49f7abdc629bff94687e1a5ae3/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "99c716d1-fa5d-5340-904a-e4fbe5aade81",
+          "name": "Mini Waffles",
+          "description": "A sharing size bag of bitesize versions of the iconic Starbucks chewy caramel waffle. Enjoy a few with a Caramel Macchiato for the ultimate sweet delight. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£5.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 575,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2f96673e27afe14aa0bbed05471e597a/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "78723449-d4a0-58ac-84bf-098863cce419",
+          "name": "Gluten Free Fruit & Nut Bar",
+          "description": "Flapjack made with gluten free oats, mixed toasted nuts & fruit. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£3.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 365,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/41bdb955b926fac95d336c84787136d3/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b06dc330-a45d-5bf2-a3fc-74c19e6a48e5",
+          "name": "Ginger Biscuits",
+          "description": "Two moreish, fiery stem ginger biscuits – because as you’ll soon see, one just isn’t enough… Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£2.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 290,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0a9671095458885f86d1333f0e82aecc/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "303a14db-0dd4-5984-ac72-b9de08fce297",
+          "name": "All Butter Shortbread Biscuits",
+          "description": "Pack of two perfectly crumbly, all-butter shortbread biscuits. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£2.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 290,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aec82bae277da75300f7c2eccd550d35/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "27b85874-2d8c-5bcc-ad60-ffb77d818eb7",
+          "name": "Starbucks® Milk Chocolate Gold Coin",
+          "description": "Smooth and creamy milk chocolate coin embossed with the Starbucks Siren, wrapped in gold foil. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£1.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 165,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/83bbfcd1170686c823c60d85cb2a5ff7/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e2d65329-be3c-50ae-8b1b-6c87db91b46d",
+          "name": "Raspberry & Coconut Brownie",
+          "description": "A fudgy chocolate brownie with coconut cream and raspberry jam swirled through. Finished with a dark chocolate drizzle and freeze-dried raspberries.​ Plant Based. Gluten-Free. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 365,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6fce0e2c25f03464c597995583af94c3/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8b70ca56-b32b-5af2-924a-6e2d6224167a",
+          "name": "Kettle Chips Mature Cheddar & Red Onion",
+          "description": "Mature Cheddar and Red Onion Kettle Crisps. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£2.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 210,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5dd62409c8bf9eb32554c9818dc20a4b/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3887d988-4c96-5e9a-8a24-43b68866f73f",
+          "name": "Kettle Chips Lightly Salted",
+          "description": "Lightly Salted Kettle Chips. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£2.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 210,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5540823ab0355557c4d5125b882ad9d4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4530c6e8-2212-5106-9e68-3088101dd1b8",
+          "name": "Kettle Chips Sweet Chilli & Sour Cream",
+          "description": "Sweet Chilli and Sour Cream Kettle Chips. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£2.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 210,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a000088e3ee4e77a5653177dee03b20d/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Bottled Drinks",
+      "items": [
+        {
+          "id": "62444ee6-f956-5f9f-88e8-287d1b841698",
+          "name": "Ginger Shot 100ml",
+          "description": "Punchy apple, ginger and lime blend. Source of vitamin C, providing 12mg (15% RI*) per serving. Enjoy as part of a varied and balanced diet & healthy lifestyle.  *Reference intake.",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/46249fe40e3e0e5af5488d8b1fe09e4f/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d47c6656-060e-5e18-a51e-b2a9c18020cb",
+          "name": "Turmeric Shot 100ml",
+          "description": "A fiery blend of apple and turmeric with hot cayenne and fresh citrus. Source of vitamin C, providing 12mg (15% RI*) per serving. Enjoy as part of a varied and balanced diet & healthy lifestyle.  *Reference intake.",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/08b00c2b07636016ffe2851a55fc8cf4/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "745748f4-cfe0-5a6b-b433-cdf1630cf278",
+          "name": "ONE Water 500ml Sparkling",
+          "description": "British spring water in 100%* recycled plastic bottles and 100% recyclable.\n*excludes cap and label. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£2.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 290,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b7be24955d022166315fefb2935af0af/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "91977746-9754-559f-adec-9998ac2f1369",
+          "name": "Still Lemonade 330ml",
+          "description": "A refreshing still lemonade made from Spanish lemons.Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/745d05d38b42a1004b92f9ce3a7e9fd6/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6e6f341d-2751-5ef7-817b-38313d8bad0e",
+          "name": "ONE Water 750ml Still",
+          "description": "British spring water in 100%* recycled plastic bottles and 100% recyclable.\n*excludes cap and label. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8d58bb182247785bc14e03a11774012f/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "743a8c4d-4e7e-59a9-97ba-77a0acd9f79a",
+          "name": "ONE Water 500ml Still",
+          "description": "British spring water in 100%* recycled plastic bottles and 100% recyclable.\n*excludes cap and label. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£2.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 290,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/133e40f8764c8624bd8dca74b2aebe6f/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "10b2d269-16a4-556e-980e-72715eb7d5f9",
+          "name": "Raspberry Lemonade 330ml",
+          "description": "A refreshing still lemonade made from Spanish lemons with raspberry puree. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and nutritional info, please visit https://www.starbucks.co.uk/nutrition",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ab7bced22e071ec349d4c8a18646bd15/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b82fb039-d2ec-5a94-b88f-f2591b92bbfc",
+          "name": "Apple & Mango Juice 500ml",
+          "description": "The crisp sweetness of ripe apples with the tropical fruitiness of juicy mangoes. Packed with so much flavour, it's a vibrant drink with no added sugars or artificial ingredients and a source of Vitamin C - perfect for a burst of fruity goodness. Providing 15mg (19% RI*) of Vitamin C per serving. Vitamin C contributes to the normal function of the immune system. Enjoy as part of a varied and balanced diet & a healthy lifestyle.    *Reference intake.",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/315a693b5f4dc22a64c5ba9e40ad0f17/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "16c501aa-45d5-5a8f-9e61-bf9eeb5a757c",
+          "name": "Acerola & Raspberry Vitamin D Shot 100ml",
+          "description": "Tangy acerola, juicy berries and Vitamin D – your daily burst of sunshine.  Providing 1.5ug (30% RI*) of Vitamin D and 120mg (150% RI) of Vitamin C per serving.  Vitamin D & C contribute to the normal function of the immune system. Enjoy as part of a varied and balanced diet & a healthy lifestyle.   *Reference intake",
+          "price": "£3.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 335,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3be6d5537cc6b79a36965fba421fb5b1/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f64a2b85-ac1f-5726-a57e-b2ad37d397e1",
+          "name": "Strawberry & Watermelon VITWATER 330ml",
+          "description": "Crisp watermelon, ripe strawberry and a refreshing dose of feel-good vitamins B12 and C.  Providing 40mg (50% RI*) of Vitamin C and 1.3ug (50% RI) of Vitamin B12 per serving. Vitamin C contributes to normal energy-yielding metabolism and Vitamin B12 contributes to the reduction of tiredness and fatigue. Enjoy as part of a varied and balanced diet & a healthy lifestyle.    *Reference intake.",
+          "price": "£3.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 335,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/37a44edd539b45820589a482a8368fd8/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6fee2362-3b76-596e-9f24-78a2b00f10f9",
+          "name": "Smooth Orange Juice 250ml",
+          "description": "100% pure squeezed fruit with the bits taken out for a deliciously smooth taste for any time of the day. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ac39f15676fa159a997e236bcca4a5f1/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ba113cc7-66ff-5103-ab2e-d959582484e0",
+          "name": "Berries Juice Drink200ml",
+          "description": "Pasteurised juice drink made with apple and blackcurrant juices and strawberry and raspberry purees. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£3.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fdf092848daae61ca3767a92f26df440/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "17a1c277-665b-599a-9129-a86ae42ed608",
+          "name": "Peach Iced Tea 330ml",
+          "description": "Pasteurised juice drink made with white grape and peach juices, black tea extract and added natural flavourings.",
+          "price": "£3.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a58ca39627bf25426d84c4ae29f810be/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Coffee At Home",
+      "items": [
+        {
+          "id": "b840faef-23b6-5808-948d-19ce93861d19",
+          "name": "Autumn Blend 2025 250g",
+          "description": "Starbucks EMEA introduces a new blend that is a perfect fit for a feast: Autumn Blend. First offered in 2008, Starbucks® Autumn Blend is truly a celebration of the season with richly roasted and delicately sweet distinctive notes.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0e4ddb466b50c843082f48c893e43120/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e00df7e2-f6ce-59f9-b027-bafbe596c5ce",
+          "name": "Sumatra",
+          "description": "It's big and bold with distinctive earthy aroma and lingering low notes. The heavy, full body and concentrated herbal spice notes are hallmarks of great coffee from Sumatra and the pride of our most seasoned roasters.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c3e4000694dcbf22d6b572e7f6ae0aa5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9f2b8e72-932a-5ef7-ad54-d27542104663",
+          "name": "Kenya",
+          "description": "Big and juicy with complex layers of blackcurrant, fresh blackberry and even tart grapefruit. It's a refreshing, delicious cup like no other.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/75a5111952c2d7a996b3d942a13fba90/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "eb2388e6-1490-5a2c-9fce-3fa480f91886",
+          "name": "Ethiopia 250g",
+          "description": "With a velvety soft texture and floral, peppery spice notes, this is our tribute to the birthplace of coffee.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8c69f8b1004c4542f59971fccb364fbc/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "034d3f67-1640-5045-8d34-2c89e5f0476d",
+          "name": "Pike Place® Roast",
+          "description": "In 1971 we opened our first store in Seattle's Pike Place Market. Reflecting on our heritage inspired us to create this delicious blend with smooth body and subtle flavours of cocoa and toasted nuts. Fairtrade certified, it is a rich, satisfying and balanced cup.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1321eb6926c1a910b123f17fa57780f9/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4ef5848e-5ed5-53c3-839a-69102cc21087",
+          "name": "House Blend",
+          "description": "It's a hospitable blend of the finest Latin American beans that we've been offering to coffee lovers since the very beginning.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/58e9a71c5247a18273306d801eec591e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f7042936-8325-59c5-915f-09d79eb502fe",
+          "name": "Guatemala Antigua",
+          "description": "This coffee is rich and multidimensional, with a flavour that's consistent, cup after cup - lemon, chocolate and soft spice notes with an elegant mouthfeel unique to this region.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2163af83094eca42511a4543a9838ed1/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "834c72b8-3502-5ab9-be59-c970bc6d7ed6",
+          "name": "Espresso Roast",
+          "description": "This espresso is part of our history — the same beloved blend we've been serving in our stores since we handcrafted the very first Starbucks latte. Much has changed since then, but we still feel that nothing beats this rich blend of high-grown beans.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9853dd2c8c133a2f77b99cde6c18179d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "96962d9f-51dc-51bc-941f-f93e961ee3b7",
+          "name": "Decaf Espresso Roast",
+          "description": "This decaf espresso blend brews up a rich, satisfying cup.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dd7d8b815615e4fa76ced13dc3b8dc1c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f79c0e31-ca73-5d8c-aee5-585107e3d881",
+          "name": "Caffè Verona®",
+          "description": "A passion for the culinary romance of Italy inspired this seductive, full-bodied blend of Latin American and Asia/Pacific coffees, with Italian Roast added for depth. It's rich and well-balanced with a dark cocoa texture and a roasty sweetness.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cedd4ac2098d99d381b4cfa1405d4963/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "70b872c0-9e1d-5535-937b-114ddb07ad2b",
+          "name": "Colombia Nariño",
+          "description": "Complex and elegant, medium-bodied with a juicy acidity, herbal notes and a walnut-like finish.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9571050227c7e91db0cb1aba343fd2bd/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "029e5b30-f4d8-5c79-be62-5f076e6e041d",
+          "name": "Starbucks Blonde® Espresso Roast 250g",
+          "description": "Incredibly smooth and subtly sweet, with a creamy mouthfeel. Please check the label for allergens.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/202685a2dd2ecae01f771cd8eb0a3342/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1c252777-0a20-5186-a641-abcdf607780d",
+          "name": "Colombia VIA™ Instant Capsules",
+          "description": "A smooth instant coffee with a signature nutty flavour. Grown on some of the highest coffee farms in the majestic Andes mountain range, our medium-roasted Colombia is complex with herbal notes and a walnut like finish. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/713f36f7433be55cdfa923d45666e653/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2b9902ff-93fe-5800-a1b3-c5fc1115845c",
+          "name": "Italian Roast VIA™ Instant Capsules",
+          "description": "Intense with a rich, deep flavour and notes of caramelised sugar. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9202e53a5854ae7751f889e9552d3402/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9010be80-0eae-5560-8aaf-3bb3219d54ae",
+          "name": "Pike Place® VIA™ Instant Capsules",
+          "description": "Inspired by the very first store we opened in Seattle's Pike Place Market, Starbucks® Pike Place® Roast is a smooth, medium-roasted coffee with subtle notes of chocolate and toasted nuts. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b2480a515be66f91b950c35236c897e4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "63f30fe5-87cd-53a8-b458-172414482df2",
+          "name": "Starbucks Ristretto Capsules",
+          "description": "Get captivated by the vibrant personality of our ristretto shot, with its smooth intensity and extraordinary taste. Meticulously crafted, this blend brings together beans from Latin America and Africa, slowly roasted to create a delightfully rich mouthfeel that balances sweet caramel notes with a hint of red berries in the finish. A true testament to the artistry of coffee.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1b665ea4cac143b350526464780d4743/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "24cb0a43-c8c0-50a5-aefa-aa0d4e2a6f5e",
+          "name": "Colombia Nespresso® Capsules",
+          "description": "Nutty and floral with extraordinary cup balance and lots of complexity. Please check the label for allergens.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e379579059fa6ed7aa63a0295359bc75/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "be2ddd25-c3d1-58e8-b1bb-2cf0afe1f38a",
+          "name": "Decaf Espresso Roast Nespresso® Capsules",
+          "description": "Intense and caramelly sweet. Please check the label for allergens.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/11ce3a81c70a97c5903b366d1a23f907/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4e8bf666-d060-5e10-a663-834e558c9a83",
+          "name": "Pike Place® Roast Nespresso® Capsules",
+          "description": "Well-rounded with subtle notes of cocoa and toasted nuts balancing the smooth mouthfeel. Please check the label for allergens.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2dee268d601851b1f0e8ff6d7e4fd939/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "613ba570-2433-56d4-b8a1-367d84217e1b",
+          "name": "Espresso Roast Nespresso® Capsules",
+          "description": "Intense and caramelly sweet. Please check the label for allergens.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b0c8bfd664611e6ed1638709941ababb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "184a6971-71e2-5c68-a587-3ae0c9073ec9",
+          "name": "Starbucks Blonde® Espresso Roast Nespresso® Capsules",
+          "description": "Incredibly smooth and subtly sweet, with a creamy mouthfeel. Please check the label for allergens. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information, please visit ‘https://www.starbucks.co.uk/Nutrition’",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e17f3deae4071f67e2f0ef73b73df3bb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e8399394-4f73-594d-b697-b7dfa19c1767",
+          "name": "Smooth Caramel",
+          "description": "Smooth, buttery caramel and vanilla notes are waiting in every well-rounded cup of STARBUCKS by NESPRESSO - STARBUCKS Blonde Roast Smooth Caramel Flavored Coffee.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3141bdd7aaa249c90a395fd5e7307ba3/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "58a53e93-2539-594f-900a-2ed9670c76c4",
+          "name": "Creamy Vanilla",
+          "description": "Savour the simply delicious flavour of sweet vanilla and biscuit notes in every cup of STARBUCKS by NESPRESSO - STARBUCKS Blonde Roast Creamy Vanilla Flavoured Coffee.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/101e91dd564c656adce22d204b77e1ee/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

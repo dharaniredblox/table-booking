@@ -1,0 +1,2379 @@
+{
+  "restaurant_id": "totterdowncanteen-BS42-51",
+  "source_id": "fac21e1a-0129-4b5c-8819-d8e024fd31ce",
+  "restaurant_url": "https://www.ubereats.com/store/totterdown-canteen/-sIeGgEpS1yIGdjgJP0xzg",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:21:37.068Z",
+  "restaurant": {
+    "name": "Totterdown Canteen",
+    "slug": "totterdown-canteen",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441179082124",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "Wells Rd, Bristol BS4 2",
+    "streetAddress": "Wells Rd",
+    "addressCity": "bristol-eng",
+    "neighborhood": "totterdown-bristol-eng",
+    "addressRegion": null,
+    "postalCode": "BS4 2",
+    "addressCountry": "GB",
+    "latitude": 51.4409349,
+    "longitude": -2.5757364,
+    "geohash": "gcnhtk",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 4.4,
+    "totalReviews": "2000+",
+    "workingHours": "Open until 7:15 PM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Breakfast and Brunch",
+      "Group Friendly",
+      "Burgers",
+      "Cakes",
+      "Vegan"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Sunday",
+      "hours": [
+        {
+          "open": "08:30",
+          "close": "14:30",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Monday - Friday",
+      "hours": [
+        {
+          "open": "07:30",
+          "close": "14:45",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "hours": [
+        {
+          "open": "07:30",
+          "close": "14:30",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Breakfast - (M)(V)(GF)",
+      "items": [
+        {
+          "id": "720e7a96-3941-4214-93fb-28676b0b46a5",
+          "name": "Large Breakfast",
+          "description": "Two bacon, two sausages, two free range eggs, Heinz beans, tomatoes, two hashbrowns, mushrooms, black pudding, toast or bread, and butter.",
+          "price": "£11.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1100,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c1df8aa42c46b59aa82f1260065b503d/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6307f01c-424e-421c-99dd-d037f66d4868",
+          "name": "Regular Breakfast",
+          "description": "Two bacon, two sausages, free range egg, Heinz beans, tomatoes, hash brown, mushrooms, toast or bread, and butter.",
+          "price": "£9.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 950,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ca1dab5e4317681841f71f3e649dd263/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f1022d32-9594-487c-8ef6-6d258bb2ead2",
+          "name": "Small Breakfast",
+          "description": "Bacon, Sausage, Free Range Egg, Heinz Baked Beans or Tomatoes, Hash Brown, Toast or Bread & Butter",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4b853c9d5a1a14391916112bb487349e/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "87f50a8a-2917-42ba-97fd-5e26d86982c4",
+          "name": "Eggs Benedict",
+          "description": "An english muffin topped with ham, rocket, two free range eggs & hollandaise sauce.",
+          "price": "£8.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 875,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a38a719f8a291d5f83e7873c30418e1e/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "630e574e-6a4f-4417-9a3a-59415b019b03",
+          "name": "Eggs Royale",
+          "description": "English muffin topped with two free range Poached eggs, Smoked salmon, hollandaise sauce and chives",
+          "price": "£9.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 995,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b99742b602896dea8a1acd1274358e2f/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "81ccd4de-1b20-4dff-85b3-f3484cb98559",
+          "name": "Vegetarian Breakfast (v)",
+          "description": "Two qourn sausages, two free range eggs, heinz beans, grilled tomatoes, two hash browns, mushroom, toast ir bread & butter.",
+          "price": "£9.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 950,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5314047c4ed8decdcda5b5b4c78845f3/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a2da6b07-fdbb-4cd3-98a3-bf61cd5d0d1f",
+          "name": "The “Miners” Benedict",
+          "description": "Two free Range Poached Eggs, Two Black pudding on a toasted English muffin with hollandaise sauce and rocket.",
+          "price": "£8.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 875,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8028367600889e656a0c6e4d27d2eac0/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4fb1c3cf-66cf-4f48-82fc-7ffc9af02d8c",
+          "name": "Gluten Free Breakfast (GF)",
+          "description": "Please note; All items of our Gluten Free Breakfast are cooked separately, But due to the size and busyness of our kitchen we cannot 100% Guarantee that cross contamination with utensils and other ingredients may occur.\n Two grilled Bacon, Two Eggs, Two Grilled Tomatoes, Heinz Beans, Mushrooms & G/F Free Toast or Bread & Butter with Dairy Free Spread.",
+          "price": "£9.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 900,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/84dc631c37c413f2cfae4b64e7da3f7b/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "76b09732-af5e-4093-b8ae-c22c427b4a6f",
+          "name": "Mushroom Benedict (v)",
+          "description": "An english muffin topped with mushrooms, rocket, two free range poached eggs & hollandaise sauce.",
+          "price": "£8.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 825,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/960a74a01b4516ea8a5e586ed6937890/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "51ffdcd1-eba9-4475-8703-98e75850b04e",
+          "name": "Vegan Breakfast (VG)",
+          "description": "Two Qourn vegan sausages, two hash browns, two grilled tomatoes, heinz baked beans, mushrooms, toast or bread & butter with dairy free spread. (Please note where Qourn Sausages available we will substitute with other Vegan Sausages)",
+          "price": "£9.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 900,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5b39cb1cd29102c5449394036de79a77/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "97d13657-c66a-4818-af2b-d6cc24c5c772",
+          "name": "Small Vegetarian  (V) (VG)",
+          "description": "Veggie; 2x Qourn Sausages, Free Range Egg, Hash Brown, Beans or Tomatoes & Toast or Bread & Butter \nMake it Vegan? Click no egg and put Vegan in the comments box. \nVEGAN  1x Qourn Sausage, Beans, Mushrooms,  ½ Grilled Tomato,   Hash Brown, Toast or B&B",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "685b3e01-0bcf-4208-a7d8-6173074fd7f2",
+          "name": "Childrens Breakfast",
+          "description": "Bacon or Sausage, Free Range Egg, Hash Brown & Beans",
+          "price": "£5.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 550,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b262907e-405b-488f-81d2-90271e889ce9",
+          "name": "Breakfast Panini",
+          "description": "A Toasted Nigella & Poppyseed Panini with Sausage, Bacon, Scrambled Egg. Black Pudding & Cheese",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "76e834be-60fd-40da-8b9d-e09c73782ce0",
+          "name": "Vegetarian Breakfast Panini",
+          "description": "Quorn Sausage Hash Brown, Mushrooms, scrambled Egg, & grated Cheese - Toasted in a nigella & Poppyseed Panini",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Breakfast Extras (M)(V)",
+      "items": [
+        {
+          "id": "c6d1c6da-eae8-42bc-aff2-9e101df75048",
+          "name": "Hash Brown (V)",
+          "description": "1 x Hash Brown",
+          "price": "£1.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 165,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1e560c19e096c4795fde1e0f560a4857/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f41dcade-d50e-487d-85c1-11961d3814ed",
+          "name": "Mushrooms (V)",
+          "description": "8oz Pot of  Mushrooms",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/737cbfcb524d82cd9cd6b750a5d8f696/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f08b06cc-aab6-49f3-810f-773bc749c2d7",
+          "name": "Beans (V)",
+          "description": "4oz pot of Beans",
+          "price": "£1.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 155,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8a4b9301ae40de381c654536e59d2e79/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9231f72d-06bd-43e6-94c1-a6e0806f8941",
+          "name": "Sausage",
+          "description": "1 x Sausage",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c82e31c72f825e19281f61702bf07ac8/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6f42c23d-39a7-4b2f-902b-d74d01c8583c",
+          "name": "Bacon",
+          "description": "1 x Piece of Bacon",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/64d1d0775830eeef2a1b75b6f5145f49/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b73913e1-e412-4f7a-8c4e-ec7b37dfef32",
+          "name": "Fried Bread",
+          "description": "1x Slice of Fried Bread",
+          "price": "£0.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 90,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d7c69864417abb27a001fdba2df7370d/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3aa20ef2-746b-45a0-8c0d-fe7e628afd80",
+          "name": "Free Range Fried Egg (V)",
+          "description": "1 x Free Range Fried Egg",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b4566abc80a7483529a660970b223c59/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0d15690b-fa20-47aa-860b-889aa8ed6826",
+          "name": "White Toast (V)",
+          "description": "1x Slice of White Toast",
+          "price": "£0.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 90,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7d85e88260d44024c0c4839c8e5ddad0/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "47bbee4f-1be5-4435-8185-02a0395e6e01",
+          "name": "Black Pudding",
+          "description": "1 x slice of Black Pudding",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/700255b37fff0a0873fe8f4c2f216a1c/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8b540706-6bd8-41a2-a574-b209873e1756",
+          "name": "Cheese",
+          "description": "4oz pot of grated cheese",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/535e0b1f3e135c7441e6e303869be38d/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "45d278db-96aa-4113-98a5-0929567f55e7",
+          "name": "Tinned Tomatoes (V)",
+          "description": "4oz Pot of Tinned Tomatoes",
+          "price": "£1.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 155,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9924c6a065d2998eebe30576145db1e9/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "451e9869-5ace-477b-955e-7fa67a1f8003",
+          "name": "Freshly Grilled Tomatoes (V)",
+          "description": "Freshly Grilled Tomatoes",
+          "price": "£1.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 155,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c8089d1f368ea0618dce066ff29bbe4f/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d9bebf6d-975b-4b5e-92f6-c99cddfc1f5a",
+          "name": "Free Range Scrambled Egg (V)",
+          "description": "1 x Free range Scrambled Egg",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2c92cb61c7892a1cf75a311061dfb74e/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c9b4107b-12b7-4570-b27d-c1c1aabcf39e",
+          "name": "Free Range Poached Egg (V)",
+          "description": "1 x Free range Poached egg",
+          "price": "£1.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 190,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f7a4b546815d722a513c936363e906fb/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6394e630-c02d-42f1-9b5d-0cc964a72ab7",
+          "name": "Quorn Sausage (V)",
+          "description": "1 x Qourn Sausage (V)",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/84cc48c3e5f14a3881ce4ab5abb24346/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "21cd2160-4ab0-4e2f-ac59-bfa0bb7b5419",
+          "name": "Brown Toast",
+          "description": "1x Slice of Brown Toast",
+          "price": "£0.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 90,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1f989b4a791d4487650f390447fe43fa/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "eeeff3f1-70f7-40ee-998e-00cdc4cb8b71",
+          "name": "Fried Onions (V)",
+          "description": "4oz pot of grilled onions",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/66b264d1912e1ab8fabbe7ca4b2d1db2/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6c5e1bc1-9665-40af-87d0-f026f6916faa",
+          "name": "White Floury Bap",
+          "description": "1 x White Floury Bap",
+          "price": "£0.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 90,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bf2ec6a24d223606583105677602fc0e/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5c4e463d-3971-46dc-b1df-e50fdebe2b5f",
+          "name": "Smoked Salmon",
+          "description": "1x Slice of Smoked Salmon",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/59f0ddf8473ccf9295e4c1ae10e9e18b/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d18382ad-c615-4fbe-8480-9e89427c4c1b",
+          "name": "Free Range Fried Egg- Well Done (V)",
+          "description": "! x Free Range Fried Egg - Well Done",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/32eade2fdfae225fba2f2b3b6dbc8801/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5106d480-7c62-471e-8fbf-6cb7ee07c5bf",
+          "name": "G/F Toast & Dairy Free Butter",
+          "description": "1x slice of Gluten Free Toast with Dairy Free Butter",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/95a8b54bea83c507ca43922e27db826b/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9058ba4c-66f6-499c-8ded-a0687ba00c51",
+          "name": "White Bread & Butter",
+          "description": "1X Slice of Bread & Butter",
+          "price": "£0.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 90,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a900dbd0028d7dd97104b89443c19496/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8884ffb7-83ab-4238-9968-b417950312d6",
+          "name": "Free Range scrambled Egg with Oatmillk",
+          "description": "1x Free Range Scrambled Egg with Oatmilk",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d9b1b9e4f766c09e5fb01f74524be8fa/f0d1762b91fd823a1aa9bd0dab5c648d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9eefebc8-37d4-47fc-b8e3-f7875d9e6925",
+          "name": "Brown Bread & Butter (V)",
+          "description": "1x Slice of Brown Bread & Butter",
+          "price": "£0.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 90,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b76d1dd7945d1dff100b25b8a3a2d84f/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "874aee87-a4bc-4396-852d-0397cbbcec37",
+          "name": "G/F Bread & Dairy Free Butter",
+          "description": "1x Slice of Gluten Free Bread with Dairy Free Butter",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4a16ed1db39f4e07528694fe36b920f5/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Baps & Sandwiches",
+      "items": [
+        {
+          "id": "5d1eceb7-d03d-4340-82b3-7c6df9e5c6ac",
+          "name": "Bacon, Sausage, and Egg S/W",
+          "description": "Two Bacon,Two Sausage, a free range egg on the bread of your choice. We love our eggs so if you order a sandwich we wont cut it to keep the yolk intact",
+          "price": "£5.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 510,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/47852baa53751ece1652fdb9046c9bdf/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8d5f6b13-d96a-48cb-b075-36b84cb746d8",
+          "name": "Sausage and Bacon S/W",
+          "description": "Two sausage, two bacon on the bread of your choice.",
+          "price": "£4.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 470,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0660a7f72a2095598d89af3f1adcad21/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "51ac3770-3aac-48a6-b552-1121069c3333",
+          "name": "Sausage S/W",
+          "description": "Two sausages on the bread  of your choice",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a45a600d6277bb043db28000e7a3cea5/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "225b9c2e-9a7a-4936-b0e4-726fba4e163e",
+          "name": "Bacon and Egg S/W",
+          "description": "Two bacon, free range fried egg on the bread of your choice  We love our eggs so if you order a sandwich with a fried egg, we wont cut it to keep the yolk intact.",
+          "price": "£4.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 470,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e1f16620cf88d433f12879a36f09cb26/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "896fa54b-43b6-4c46-8473-b55c1ec7d35b",
+          "name": "Bacon S/W",
+          "description": "Three pieces of bacon on the bread of your choice.",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5b14b0c9ba14e32227e41764c0557584/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6bd0366d-b02c-41c9-b27e-cc75973cefd5",
+          "name": "Sausage and Egg S/W",
+          "description": "Two sausages, a free range egg on the bread of your choice. We love our eggs so if you order a sandwich with fried egg we wont cut it to keep the yolk intact.",
+          "price": "£4.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 470,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e555b0b115de1e46d5468368dfa7bde4/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "37b6a79d-3e06-436b-b75e-18cdd876a857",
+          "name": "Club Sandwich with Mayonnaise",
+          "description": "A toasted triple decker sandwich filled with Bacon, Chicken,  Lettuce, tomato and Mayonnaise.",
+          "price": "£6.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 600,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8508d0216029c7e8b823d4cb7d6a7798/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ee945fb7-19a2-479d-bbdd-3b261736f2bf",
+          "name": "BLT with Mayonnaise S/W",
+          "description": "Three rashers of bacon laid on a bed of lettuce with tomatoes and mayonnaise on the bread of your choice.",
+          "price": "£5.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 510,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fef0298ad565a4fccc7c0e3f05ceba2c/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "81c961c9-069d-4f9c-ad76-d3445da7937f",
+          "name": "Fish Finger S/W",
+          "description": "Four fingers on the bread of your choice.",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4d92ef3cb59afa62dc5fcf8b04709355/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "06cb1d7e-7ac7-420d-bf9a-cb4ea72d4168",
+          "name": "Free Range Fried Egg S/W (v)",
+          "description": "Two free range eggs on the bread of your choice. We love our eggs so if you order a sandwich with fried eggs,  we wont cut it to keep the yolk intact.",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cf015598f0dba841c6a893d6a8294348/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "bf80d399-69d5-4074-a4ba-d61b7b074ae8",
+          "name": "Veggie Sausage and Egg (v)",
+          "description": "Two Qourn sausages, topped with a free range egg on the bread of your choice. We love our eggs so if you order a sandwich with a fried egg, we wont cut it to keep the yolk intact,",
+          "price": "£4.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 470,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/efaa5dc929b799b11df7af407ba45ec5/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8206a82f-3f8d-4d5b-9a71-44b948290380",
+          "name": "Veggie Sausage S/W (v)",
+          "description": "Two qourn sausages on the bread of your choice.",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/016c0b534b8fe7021d95cad6cf2c1703/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "917088ca-d377-4369-80b1-1244e83d5c0f",
+          "name": "Vegan Sausage Sandwich (VG)",
+          "description": "Two Vegan Qourn  sausages on bread of your choice, using Dairy Free spread. (Please note where Qourn Sausages aren’t available we will substitute with other Vegan Sausages)",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/016c0b534b8fe7021d95cad6cf2c1703/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5705d2e7-06bb-461c-9de5-f287d69ea296",
+          "name": "Hygiene Info",
+          "description": "Please note we only use Dairy free Vegetable Spread which is suitable for Vegans & Dairy Free intolerances",
+          "price": "£0.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": null,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7def104f-d44d-4dd9-a2c5-7fbdb05af000",
+          "name": "Breakfast Wrap",
+          "description": "2 Pork Sausages, 2 Bacon, 2 Hash Browns & a Free  Range  Scrambled  Egg in a flour wrap. Contains Gluten",
+          "price": "£6.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 650,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "54dab3c4-c27f-4cc6-bb18-098658aa3867",
+          "name": "Veggie BF Wrap (V)",
+          "description": "2 Quorn sausages, 2 Free Range Scrambled Eggs , 2 Hash Browns & Grilled Tomatoes",
+          "price": "£6.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 650,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Wraps",
+      "items": [
+        {
+          "id": "7def104f-d44d-4dd9-a2c5-7fbdb05af000",
+          "name": "Breakfast Wrap",
+          "description": "2 Pork Sausages, 2 Bacon, 2 Hash Browns & a Free  Range  Scrambled  Egg in a flour wrap. Contains Gluten",
+          "price": "£6.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 650,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "54dab3c4-c27f-4cc6-bb18-098658aa3867",
+          "name": "Veggie BF Wrap (V)",
+          "description": "2 Quorn sausages, 2 Free Range Scrambled Eggs , 2 Hash Browns & Grilled Tomatoes",
+          "price": "£6.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 650,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "375297bc-8135-4b1a-9be2-35e1b310c37c",
+          "name": "Crispy Chicken Wrap",
+          "description": "Battered Chicken Fillet with Lettuce, Tomatoes, Onion & Mayo  in a flour wrap. Contains Gluten",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e8292271-bb39-4730-9840-3c75531b3fce",
+          "name": "Cajun Chicken Wrap",
+          "description": "Homemade Cajun Chicken with Lettuce, Tomatoes, Onion & Mayo in Flour Wrap . Contains Gluten",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "On Toast  (M)(V)",
+      "items": [
+        {
+          "id": "084fd743-c6bd-4cc3-98b4-3a90dfa9f267",
+          "name": "Free Range Scrambled Eggs on Toast (v)",
+          "description": "Two free range eggs, scrambled with your choice of toast.",
+          "price": "£5.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 500,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/43e4e2409cb4b4bffb5f2ac65779aaae/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9821df33-3c38-4310-8067-c90f89c5c244",
+          "name": "Cheese on Toast (v)",
+          "description": "Two pieces of your choice of toast topped with cheese",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/44a873f2ebe61767ac42e2b7e851c5d9/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1b50e142-5f76-48d3-b4a7-498f69d13963",
+          "name": "Free Range Poached Eggs on Toast (v)",
+          "description": "Two free range poached eggs on your choice of toast.",
+          "price": "£5.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 500,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e607bb2fc55e3fa2d598c21edb6eb202/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "461befea-04be-415b-869c-7ad212d40a86",
+          "name": "Two Boiled Free Range Eggs and Soldiers (v)",
+          "description": "Two free range boiled eggs with your choice of toast.",
+          "price": "£5.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 500,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bfeb5ff3c555139a5caaa42a4bc80177/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7592b065-365b-4702-9cf6-bbd29720e942",
+          "name": "Free Range Fried Eggs on Toast (v)",
+          "description": "Two free range fried eggs on your choice of toast.",
+          "price": "£5.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 500,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f0b28c97a263f3ebaaaac7661f4a8f8f/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "92e4aa12-32f8-409f-9f24-8ad9d3c9ec97",
+          "name": "Heinz Beans on Toast (v)(vg)",
+          "description": "Heinz Baked Beans on toast of your choice.",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6c39bd262986bb9230ccd48f062346e5/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e4921951-ed8d-405a-8664-f814fe6285a3",
+          "name": "Mushrooms on Toast (v)(vg)",
+          "description": "Mushrooms on Toast of your choice",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8b8069ff-f07c-4d90-b188-79079aac3263",
+          "name": "Tomatoes on Toast (v)(vg)",
+          "description": "Tinned Chopped tomatoes on toast of your choosing",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3ae0f598-5286-4a51-9d60-5979afb4c30e",
+          "name": "Free Range Scrambled Eggs on Toast with Smoked Salmon",
+          "description": "2x Free Range Scrambled Eggs & 2 slices of Smoked Salmon on toast of your choice",
+          "price": "£5.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 580,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c0c6b2e0-4b24-4660-a412-a3289470c5ea",
+          "name": "Toast with Jam",
+          "description": "Two pieces of your choice of toast with strawberry jam",
+          "price": "£2.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 230,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b34d59c6-61c5-4841-8126-6a92ad07c470",
+          "name": "Toast with Marmalade",
+          "description": "Two pieces of your choice iof toast topped with marmamlade.",
+          "price": "£2.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 230,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5650d2ae-80f2-42cf-8987-e5aa132a6fec",
+          "name": "Toast with Marmite",
+          "description": "Two pieces of your choice of toast topped with marmite",
+          "price": "£2.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 230,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Sauce Pots",
+      "items": [
+        {
+          "id": "3628d316-a62c-4798-9d2b-b9995c31c7e3",
+          "name": "Heinz Tomato Ketchup",
+          "description": "2oz Sauce Pot",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/71157835c75156979cdec844c1e6958c/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8decd9df-ba74-4d96-b34d-37baed82a4bc",
+          "name": "Mayonnaise",
+          "description": "2oz Sauce Pot",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2e36813e2b9e385379cc48180f687935/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "16fe02d4-1192-4977-ad85-b0a242cb69b9",
+          "name": "HP Brown Sauce",
+          "description": "2oz Sauce Pot",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/eccede34ce7323309576e53126da9f67/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5799ab04-24e7-4aaa-8373-56ba0bdd77d1",
+          "name": "Salad Cream",
+          "description": "2oz Sauce Pot",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7e1a52d5-5aac-405f-b544-e09416728d1b",
+          "name": "Srirachi Chilli Sauce",
+          "description": "N/A",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a49f0f22-f76a-4103-9f08-eb2e1c6d7593",
+          "name": "English Mustard",
+          "description": "2oz pot",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2e4cb51b-40de-4cda-9015-d2892c945fed",
+          "name": "English Mustard",
+          "description": "2oz sauce pot",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "01b342f7-18e1-432e-a574-6b91ac8bc4be",
+          "name": "Srirachha Hot Chilli Sauce",
+          "description": "2oz Sauce Pot",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "eac17a03-271a-4146-bf1c-c0ce95ff0461",
+          "name": "Barbeque",
+          "description": "2oz Sauce Pot",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ef931756-d9db-4cbe-a3f4-6262a3930b2b",
+          "name": "Hollandaise Sauce",
+          "description": "4oz Sauce Pot",
+          "price": "£1.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 175,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Paninis",
+      "items": [
+        {
+          "id": "46135430-456c-41c9-a3bf-de7fbb654466",
+          "name": "Tuna Mayonnaise, Red Onion & Cheese Panini",
+          "description": "A filled Nigella & Poppyseed Panini, Toasted",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/db9a908d9251ddedbc42b427e9474a0e/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "53753619-d41e-48de-838d-1b20e21dc4fd",
+          "name": "Cajun Chicken & Cheese Panini",
+          "description": "A Nigella & Poppyseed toasted panini..",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/913069f69f5a53ee34689e07a0ae0354/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b0355723-769f-4254-ab8c-c2f81860929b",
+          "name": "Chicken, Bacon, Mushroom & Cheese Panini",
+          "description": "A filled Nigella & Poppyseed Panini, Toasted",
+          "price": "£8.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 800,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d1de89fa-5785-46ca-845c-25bab42f27db",
+          "name": "Ham and Cheese Panini",
+          "description": "A filled Nigella & Poppyseed Panini, Toasted",
+          "price": "£7.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 725,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ae94a136-460d-4517-91bb-5e8c472548c7",
+          "name": "Cheese Panini (V)",
+          "description": "A Nigella & Poppyseed toasted panini..",
+          "price": "£5.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 550,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "39501846-8463-48b2-83f6-7f9075d509cf",
+          "name": "Ham, Cheese and Red Onion Panini",
+          "description": "A filled Nigella & Poppyseed Panini, Toasted",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b0dbdde9-2111-4232-994a-0a52310e32fd",
+          "name": "Cheese and Beans Panini",
+          "description": "A filled Nigella & Poppyseed Panini, Toasted",
+          "price": "£7.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 700,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "0410f705-6c2b-4b7e-acac-19316c115d42",
+          "name": "Bacon, Mushroom and Cheese Panini",
+          "description": "A filled Nigella & Poppyseed Panini, Toasted",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "24aed8f0-9c60-41b7-aacc-c505b4958ca1",
+          "name": "Cheese and Mushrooms Panini",
+          "description": "A filled Nigella & Poppyseed Panini, Toasted",
+          "price": "£7.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 700,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9fa7895e-395e-45b5-a323-63d5c5a3e0dd",
+          "name": "Cheese and Red Onions Panini",
+          "description": "A Nigella & Poppyseed toasted panini",
+          "price": "£7.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 700,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6b0e77c2-8f68-4088-9e89-c5ecbee38ddc",
+          "name": "Chicken, Pesto and Cheese Panini",
+          "description": "A filled Nigella & Poppyseed Panini, Toasted",
+          "price": "£7.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 725,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "378dc6ea-a842-43c9-b57e-333ccbe623fd",
+          "name": "Cheese and Tomato Panini",
+          "description": "N/A",
+          "price": "£7.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 700,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e20fbc6a-abef-436f-8679-dc89beef1e8c",
+          "name": "Ham, Cheese and Tomato Panini",
+          "description": "A filled Nigella & Poppyseed Panini, Toasted",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b262907e-405b-488f-81d2-90271e889ce9",
+          "name": "Breakfast Panini",
+          "description": "A Toasted Nigella & Poppyseed Panini with Sausage, Bacon, Scrambled Egg. Black Pudding & Cheese",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Omelettes",
+      "items": [
+        {
+          "id": "e0c98b7f-5cef-4b20-8214-c9edaef3b7d7",
+          "name": "Omelette With Filling",
+          "description": "Made with three free range eggs, a your choice of filing with a side salad or beans",
+          "price": "£5.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 550,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/79268521b3ac52a90a6780823c41d1dd/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8034daa2-9d85-46f8-b88a-188b011e059e",
+          "name": "Canteen Special Omelette",
+          "description": "Made with 3x free Range Eggs, Bacon, mushrooms, red onion, peas and tomatoes.",
+          "price": "£9.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 950,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/73678be0eb9827d69b68a6b77c8ecef0/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fc30eccc-7c32-4e25-804d-71942e78b0fb",
+          "name": "Plain 0melette - No Fill",
+          "description": "Made with three free range eggs, side salad or beans.",
+          "price": "£5.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 550,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/79268521b3ac52a90a6780823c41d1dd/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Jacket Potatoes",
+      "items": [
+        {
+          "id": "e484ac22-c325-4e91-b0ac-75823a329f0f",
+          "name": "Jacket Potato with Tuna Mayonnaise",
+          "description": "Served with a side salad.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4e3f27349230a7b6cc91937ea49a8d19/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ec89b149-7723-4a76-a5ed-53ae588862ca",
+          "name": "Jacket Potato with Chilli Con Corne",
+          "description": "Served with a side salad.",
+          "price": "£8.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 850,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2e2deae9b06cce31266fcc22e33b6d0b/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "134dc499-d10a-411f-84e6-88faf400f49f",
+          "name": "Jacket Potato with Cheese and Bacon",
+          "description": "Served with a side salad.",
+          "price": "£7.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 700,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ac376caea3e2c413caf9a7e7a7b1135d/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7685b555-622e-482c-b168-d7dbb1386f18",
+          "name": "Jacket Potato with Chicken Pesto",
+          "description": "Served with a side salad.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/83111af27c490e6dee9c58cc92e4d336/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a44c0657-35f4-41e3-a7fc-8e1c2e65860c",
+          "name": "Jacket Potato with Prawn Mayo",
+          "description": "Fluffy baked potato topped with prawn mayonnaise.",
+          "price": "£8.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 850,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c1c27c0e092c4a1377ffdb167e2e3ac6/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "01ad6ee2-787f-429a-a8ca-0990553e02e7",
+          "name": "Jacket Potato with Chicken Mayonnaise",
+          "description": "Served with a side salad.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5f123a8351ebdf7669814277a2ed3cce/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "380a317e-f172-4947-be0d-373db29eb149",
+          "name": "Jacket Potato with Cheese and Beans (V)",
+          "description": "Served with a side salad.",
+          "price": "£6.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 650,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3329a073-f8dc-44a8-b309-54d14e5ebe4c",
+          "name": "Jacket Potato with Coleslaw (v)",
+          "description": "Served with a side salad.",
+          "price": "£6.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 650,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e542e68e-6d31-4c37-82b2-6c5669109646",
+          "name": "Jacket Potato with Cheese and Mushrooms (V)",
+          "description": "Served with a side salad.",
+          "price": "£6.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 650,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c0e17ef8-156b-42ba-942b-b08786e3d94c",
+          "name": "Jacket Potato with  Butter (V)(VG)",
+          "description": "Served with a side salad.",
+          "price": "£5.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 500,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ac7dc452-ea1c-43a2-a5d0-79f272ae14cc",
+          "name": "Jacket Potato with Chicken Tikka",
+          "description": "Served with a side salad.",
+          "price": "£8.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 850,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Main Dishes",
+      "items": [
+        {
+          "id": "f776b286-10b2-429c-a072-8a2cab96ab89",
+          "name": "Chip Portion",
+          "description": "N/A",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fb215ead6a3134c6778085db6e8e4b60/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "116a5404-fd39-40ab-b88e-78c52f5143f8",
+          "name": "Chicken Nuggets, Chips and Beans",
+          "description": "7 Chicken nuggets, chips and beans",
+          "price": "£8.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 895,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a6494a8c8ae32b8a51503e2cfce2ac80/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "88a9b20b-bf56-4e58-b96e-2464725b6232",
+          "name": "Double Sausage, Free Range Egg and Chips",
+          "description": "Two sausages, a free range fried egg and chips.",
+          "price": "£8.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 850,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bf44404ff8b06a9b38244f03b406d2be/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f5986335-8245-4c64-94db-9013da7b220d",
+          "name": "Ham, Free Range Double Egg and Chips",
+          "description": "Ham, a free range fried egg and chips",
+          "price": "£8.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 850,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e5df82c6f8dd302a1647caceda9da0ad/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3a1d395c-4a77-44ca-8378-d230b2ebdca5",
+          "name": "Tuna and Cheese Pasta",
+          "description": "Tuna and cheese combine in a satisfying pasta dish.",
+          "price": "£8.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 800,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/39ff3fa45817f04dc46f996259a64977/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "726de917-2b68-480a-94d9-94d334b4094e",
+          "name": "Fish & Chips",
+          "description": "Served with Peas or Salad.",
+          "price": "£10.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1095,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b70a379112fc19d4bf9228fe614abb6c/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "115f7070-4ce3-4b59-b4e8-1f11214b88fd",
+          "name": "Steak and Ale Pie, Chips & Gravy",
+          "description": "Tender steak and ale filling served with crispy chips and rich gravy.",
+          "price": "£7.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 795,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2ef8a1ee36fa2f114a9bf02fc5a865af/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8c1746a6-648e-41c3-acc7-459e875bdcc3",
+          "name": "Chilli con Carne with Chips",
+          "description": "A mild chilli served with chips",
+          "price": "£8.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 895,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a9dcc17c5d551fca60eae87244d1f5fc/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bdc25efb-5ec7-4df5-8646-b24ea989acda",
+          "name": "Sausage and Mash with Gravy",
+          "description": "Three sausages, mash and gravy. If you want to change your sausages to Vegetarian then please let us know. Our Gravy is Vegetarian",
+          "price": "£8.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 895,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/22f4e4a267879574c944810ebb891b0e/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0f0dd3cb-8022-4ed4-8e0b-c701e4d647fe",
+          "name": "Bacon, Free Range Double Egg and Chips",
+          "description": "Two Bacon,  two free range fried eggs and chips.",
+          "price": "£8.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 850,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2edc88764f09cf691aff2375fe2725e8/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ac76097f-42b3-4a7b-81dd-f4fa7a752fc3",
+          "name": "Beef and Vegetable Pie, Chips & Gravy",
+          "description": "N/A",
+          "price": "£7.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 795,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/db1d8a05f447daeced663ef05f801bb1/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "36633ab3-300c-4f16-afe9-9ccb585721bb",
+          "name": "Free Range Double Egg and Chips",
+          "description": "Free range double fried egg with chips",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bfb1cd99fbcdc0e987c84b226f8621b2/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "52881fa6-a5a9-4cd4-b72f-2e218bf57bf7",
+          "name": "Pasty, Chips and Beans",
+          "description": "Cornish Pasty, Chipsand Beans",
+          "price": "£7.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 795,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e56c4ee1-e673-4c7f-b6cb-383a37c9e8ec",
+          "name": "Tomato and Cheese Pasta",
+          "description": "Fresh pasta tossed with juicy tomatoes and melted cheese.",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "08f4cea7-e4ed-45b3-b5c7-a3ea244ab064",
+          "name": "Chicken Pesto Pasta",
+          "description": "Freshly made pasta tossed with chicken and a hint of pesto.",
+          "price": "£8.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 800,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "69d07ea7-0e37-49df-b945-202008fd43e4",
+          "name": "Scampi, Chips, and Peas",
+          "description": "Scampi served with chips Peas or salad",
+          "price": "£10.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1095,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "0b2ced6e-c63d-4b3a-a530-2d3ee998d8d2",
+          "name": "Chilli con Carne with Rice",
+          "description": "A mild chilli served with white rice.",
+          "price": "£8.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 895,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "574c307a-498d-4dc9-8d01-01802932c958",
+          "name": "Chicken Tikka Massala with Rice",
+          "description": "Chicken tikka Massala  served with Rice.",
+          "price": "£8.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 895,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "70cc288c-43fb-43db-8e57-7d605d3420cd",
+          "name": "Chicken Tikka Massala with Chips",
+          "description": "Chicken Tikka Massala with Chips",
+          "price": "£8.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 895,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Burgers",
+      "items": [
+        {
+          "id": "9bc57cdb-87fa-42f3-994b-e709e738917a",
+          "name": "Beef Burger",
+          "description": "Served with chips, in a floury bap with lettuce, tomato, and red onion.",
+          "price": "£9.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 975,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7d6d0b3db340f5cd50734ac372087739/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "07309ca8-c792-449d-b99c-5c38e0e49a19",
+          "name": "Vegan Burger (Vg)",
+          "description": "Served with chips in a floury bap with lettuce, tomato and red onion",
+          "price": "£9.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 975,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4d8af070df4d9cac7af601cbf3a0d73d/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "dbbc5e30-75d2-401d-9972-0717b21dce2d",
+          "name": "Vegetarian Burger (V)",
+          "description": "A rustic mix of broad beans, peas, potato & spinach, seasoned with spices & coated in breadcrumbs - Gluten free (although cooked with items that contain Gluten)  . Served with chips, in a floury bap with lettuce, tomato, and red onion.",
+          "price": "£9.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 975,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/21c2b9fa36e31defd6bc36505673b3be/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e00ad088-41b0-4203-b39d-24fe0c17e9c9",
+          "name": "Chicken Burger",
+          "description": "Served with chips, in a floury bap with lettuce, tomato, and red onion.",
+          "price": "£9.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 975,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "13c72abe-9de3-4653-82c9-229c49c4ffe3",
+          "name": "Homemade Cajun Chicken Breast Burger",
+          "description": "Served with chips, in a floury bap with lettuce, tomato, and red onion.",
+          "price": "£10.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1075,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Salads",
+      "items": [
+        {
+          "id": "77d7c15c-247b-4d94-a1d9-7d3c42fb1b8a",
+          "name": "Ham Salad",
+          "description": "Served with coleslaw and a boiled egg.",
+          "price": "£6.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 600,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/56670666bfedbaa5bcdc743dc83b7d1e/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6cbcf3c9-dda9-46e4-9557-fe2151106c14",
+          "name": "Chicken Pesto Salad",
+          "description": "Served with a Boiled Egg and Coleslaw",
+          "price": "£7.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 700,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aeed7f1b0c1a7c09ab65ad24282d3466/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "66cd9b18-675e-4bf5-9d42-0bd13e91f4f2",
+          "name": "Prawn Salad",
+          "description": "Prawn salad served with coleslaw and a boiled egg",
+          "price": "£8.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 800,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "86c6bc61-b866-4c49-81d4-882ec27e74a0",
+          "name": "Tuna Mayonnaise and Cheese Salad",
+          "description": "Served with coleslaw and boiled egg.",
+          "price": "£7.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 700,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "53be28de-67ec-4ef2-9905-338c54b7c331",
+          "name": "Chicken Mayo Salad",
+          "description": "Served with Coleslaw and a Boiled Egg",
+          "price": "£7.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 700,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a9b67c1a-54e1-4068-95ca-a081941f5630",
+          "name": "Chicken Salad",
+          "description": "Served with coleslaw and a boiled egg.",
+          "price": "£7.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 700,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bd2bd82d-0141-408e-aac9-9f90d2467f9a",
+          "name": "Homemade Cajun Chicken Breast Salad",
+          "description": "Served with coleslaw and a boiled egg.",
+          "price": "£8.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 800,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "04996fb1-0af9-416a-924f-51201e23f986",
+          "name": "Smoked Salmon Salad",
+          "description": "with Chives, Boiled Egg & Coleslaw",
+          "price": "£7.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 795,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d3758803-31f5-43b2-b801-35780a277f50",
+          "name": "Cheese and Onions Salad",
+          "description": "Served with coleslaw and a boiled egg.",
+          "price": "£6.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 600,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "34ebf8e4-2ed3-4ffc-ac89-f22e7f5de5c5",
+          "name": "Extra Cajun Chicken",
+          "description": "Spicy Cajun-style chicken in a fresh salad.",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Childrens Dishes",
+      "items": [
+        {
+          "id": "a08d225c-75ea-4cb0-bf14-0c676f3b9376",
+          "name": "Kids Tuna Mayo Sandwich",
+          "description": "A half Sandwich",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2755b5f40707b1bd241c9b77b51f3c49/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "49336605-a397-4e3a-b78c-9f07e2eaa752",
+          "name": "Kids Ham Sandwich",
+          "description": "A half Sandwich",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/46057c4ed078fb2204a565d7949c1807/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d6a100f3-d091-4b3f-8803-4e6285f5447c",
+          "name": "Kids Chicken Nuggets Chips & Beans",
+          "description": "4 x Chicken Nuggets, chips & Beans",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a36f7b7b-ef33-40f3-9466-819a7f6d8ad1",
+          "name": "Kids Ham, Free Range Egg & Chips",
+          "description": "Ham, topped with a free range egg & chips",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "298603fb-0406-434b-9429-cb6b9bb435a5",
+          "name": "Kids Sausage, Chips & Beans",
+          "description": "1 Sausage with chips & Beans",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "46ec9a45-495e-474b-a7eb-4e59b2915892",
+          "name": "Kids Bacon, Free Range Egg & Chips",
+          "description": "1 x Bacon, with a free range egg & Chips",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e1807182-d475-4f16-9ef8-427bed62794b",
+          "name": "Kids Bacon Sandwich",
+          "description": "A half Sandwich",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "808840b6-279f-457c-810d-6a5c00879369",
+          "name": "Kids Sausage Sandwich",
+          "description": "A half Sandwich",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7c7cfa45-0a24-4944-99fa-e1f70b62e6df",
+          "name": "Kids Fish Fingers, Chips & Beans",
+          "description": "2x Fish Fingers, Chips & Beans",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "031ced77-f444-4582-ad96-711a8cf437a0",
+          "name": "Kids Fish Finger Sandwich",
+          "description": "A half Sandwich",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bc4bbb3d-8c6f-431b-bbeb-513d8f033f27",
+          "name": "Kids Vegan sausage Sandwich (VG)",
+          "description": "A half Sandwich",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4e6679a1-cd06-4641-9f74-309d12bc0e79",
+          "name": "Kids Cheese & Tomato Sandwich (v)",
+          "description": "A half Sandwich",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "28bfa05c-5dc0-42d8-b807-64bcabd02430",
+          "name": "Kids Free Range Egg on Toast",
+          "description": "1 Toast - 1 Free Range Egg",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "11533b01-1dd7-4b7f-a538-1a6685ab3dad",
+          "name": "Kids Free Range fried Egg Sandwich(v)",
+          "description": "A half Sandwich",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "dd4a8992-bd7a-4fdf-a51c-c8256a4e7a7a",
+          "name": "Kids Qourn Sausage Sandwich (V)",
+          "description": "A half Sandwich",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9b270dcb-f305-4121-be0f-cd77dbe1fa01",
+          "name": "Kids Tuna & Cheese Pasta",
+          "description": "Pasta mixed with tuna & Cheese",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "289ed731-4e10-4f0a-9621-10b204d6b706",
+          "name": "Kids Tomato & Cheese Pasta",
+          "description": "Pasta mixed with tinned tomatoes & Cheese",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8b11f0d1-6033-4212-a932-7156980018a6",
+          "name": "Kids Qourn Sausage, Chips & Beans (v)",
+          "description": "1x Qourn Sausage, Chips & beans",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5552de2a-b5f0-4134-a8a6-848b4474bbcd",
+          "name": "Kids Vegan Sausage, Chips & Beans (VG)",
+          "description": "1x Quorn Vegan Sausage, Chips & Beans (VG)",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8fb13328-12bf-40c4-b338-050c1673a4a7",
+          "name": "Kids Beans on Toast (v)(vg)",
+          "description": "1 Toast - 4oz pot of Beans",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Cakes - Bar Cakes",
+      "items": [
+        {
+          "id": "5a3c92a4-9efe-459b-ad35-df99842d2b4f",
+          "name": "Salted Caramel Brownie",
+          "description": "Contains milk, Wheat & Egg",
+          "price": "£2.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 275,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/73cf0f496d62fa9ead6caef6f0dd6d37/f0d1762b91fd823a1aa9bd0dab5c648d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "95987dcf-c428-40d6-afa6-aca4cededaeb",
+          "name": "Blueberry Bakewell",
+          "description": "Contains Wheat, Almonds.",
+          "price": "£2.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 275,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ac2a1710cafd6901740faee7ce33073d/f0d1762b91fd823a1aa9bd0dab5c648d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Frappės - Iced Coffees",
+      "items": [
+        {
+          "id": "18fc71bf-aa05-4dc6-a88b-9634e0ba0d82",
+          "name": "Iced Latte with Syrup(s)",
+          "description": "Double shot of freshly ground Wogans Coffee, blended with milk and topped with Squirty Cream or “Cold Foam”",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b457cfdadae349df55b1991dc9b9755e/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3b745915-b246-4365-8f52-19741f5650fb",
+          "name": "Frappè",
+          "description": "Iced drink mixed with the Syrup(s) of your choice. \n*Frappès do not contain Coffee.",
+          "price": "£3.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 320,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ad8ee17f123fcc2745dd9ce088eeece2/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c2d774fb-3215-48e6-8ad8-93db95f312d0",
+          "name": "Iced Lattè",
+          "description": "Double shot of freshly ground Wogans Coffee, blended with milk and topped with Squirty Cream.",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b457cfdadae349df55b1991dc9b9755e/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d5e03191-c71c-4a2c-9543-73a34bd57da8",
+          "name": "Iced Cloudy Lemonade",
+          "description": "A Still cloudy lemonade Iced drink.",
+          "price": "£2.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 275,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Cold Drinks",
+      "items": [
+        {
+          "id": "93dec709-2ff3-474f-86a9-79ade8f9f21a",
+          "name": "Coca-Cola Original Taste 330ml",
+          "description": "\"Coca-Cola Classic is the world's favourite soft drink and has been enjoyed since 1886.\n \n Great Coke taste\n Only natural flavours\n No added preservatives\n Gluten-free, dairy-free and nut-free\n \n Serve ice cold for maximum refreshment.\"",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5111795e1dd767ca650c170e276379a8/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f9d52e5d-bbcd-473e-856a-b5a0cb550c97",
+          "name": "Capri Sun Orange 330ml Pouch (V)(VF)",
+          "description": "N/A",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1290015fa8be75def730f0c88b8f353b/957777de4e8d7439bef56daddbfae227.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a45eb205-23fa-4ffc-bb94-f1ef0bd0911a",
+          "name": "Coca Cola Zero 330ml Can",
+          "description": "N/A",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/98896b88588631e94cbdae8959148b74/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e7b2ce27-ab63-4549-96a8-c6bd7a2c48c2",
+          "name": "Monster Energy Punch 500ml",
+          "description": "N/A",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2eff345de6a1225d514ab3412de4c087/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e9759a98-a4e0-4836-a244-6875628d9df7",
+          "name": "Coca-Cola Original Taste 500ml",
+          "description": "\"Coca-Cola Classic is the world's favourite soft drink and has been enjoyed since 1886.\n \n Great Coke taste\n Only natural flavours\n No added preservatives\n Gluten-free, dairy-free and nut-free\n \n Serve ice cold for maximum refreshment.\"",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://d1ralsognjng37.cloudfront.net/edf40522-4046-4246-ba9d-0d8eb1c7f4d6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c98b9b13-4f48-474b-bb37-fe4f87ad8912",
+          "name": "Diet Coke 500ml",
+          "description": "\"Love it light? Add some sparkle to your day, minus the calories with Diet Coke\n \n Diet Coke is a sugar free, low calorie soft drink.\n No Sugar\n No Calories\n Gluten-free, dairy-free and nut-free\n Contains vegetables extracts and sweeteners\n \n Serve over ice with a slice of lime.\"",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/33eca93795aeca35d64e4e66819cb924/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "017c4d8a-bd7e-48f6-9995-df82939e49bd",
+          "name": "Coca-Cola Zero sugar 500ml",
+          "description": "\"Coca-Cola Zero Sugar is the perfect drink for people who want all the taste of Coca‑Cola, without the sugar or calories.\n \n Coca-Cola Zero Sugar is a sugar free, low calorie soft drink with the great taste of original Coca-Cola.\n Zero sugar\n Zero Calories\n Contains vegetable extracts and sweeteners\n Gluten-free, dairy-free and nut-free\n \n Serve ice cold for maximum refreshment.\"",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0db3a6ef81ef58defda13dbba3fb6d34/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "97f1451e-0de0-422a-8382-42a52de5919c",
+          "name": "Coca Cola Cherry  Zero 500ml",
+          "description": "N/A",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9eb651e0b183204a337ab4c9b4bd7f0d/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7e6d711e-9b6f-4fdd-b006-75dabf297cb2",
+          "name": "Dr Pepper 500ml",
+          "description": "\"What's the Worst that can happen? Dr Pepper's unique, sparkling blend of 23 fruit and spice flavours has been around for well over a century and it's still the same, with that distinctive flavour you just can't quite put your tongue on.\n\nSparkling Fruit Flavour Soft Drink\n\nServe cold for maximum refreshment.\"",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7e1f85ff8e825af0eda12f5a908ea3e0/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0f3a4d1b-c611-4eb0-ba64-8cfb49298cfc",
+          "name": "Fanta Orange 500ml",
+          "description": "\"Bright, bubbly, instantly refreshing and great tasting. Fanta Orange is made with 100% natural flavours, fruit juice and is caffeine free.\n \n Fanta's cool taste is made with…\n \n Real fruit\n Natural flavours\n No artificial colours\n Sugar and sweeteners\n \n Serve ice cold for maximum refreshment.\"",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a3a62cbff1c2395194efed1a2a640dad/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3736a7a9-bccf-4c7b-a4a2-1db74d846f36",
+          "name": "Fanta Fruit Twist 500ml",
+          "description": "N/A",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9404f21b9054670ec65b6cc34d5ab0b0/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8f5f9a2e-46f0-462a-abc2-4590c57e7927",
+          "name": "Fanta Pineapple & Grapefruit (LILT) 500ml",
+          "description": "Fanta- Lilt",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5bf2182715ffdcab6839cbfa222b1c98/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8059ecab-fe99-401a-b927-12582c80d724",
+          "name": "Sprite  500ml",
+          "description": "\"Crisp, refreshing, clean-tasting Sprite is Great Britain's leading lemon and lime flavoured soft drink\n \n A clean, crisp, fresh tasting, sparkling lemon & lime flavour drink.\n \n Contains sugar and sweeteners\n Natural flavours\n No artificial colours\n Caffeine-free\n \n Serve ice cold for maximum enjoyment.\"",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e59ff9c678515219ae65c235bf8950b2/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2895334a-3111-46e4-826d-bccbae459a9d",
+          "name": "Oasis Summer Fruits 500 mL.",
+          "description": "\"Oasis is a great tasting refreshing still drink with big, colourful flavours and an attitude that see's the funny side of things\n \n Still Summer Fruit Juice Drink\n Contains sugars and sweeteners\n Natural Flavours\n \n Serve cold for maximum refreshment.\"",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9ac40b522bd12bdba309f8bfda8bc5a3/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1f2b7bda-7f4b-40e3-b47a-d77cc2de1a6a",
+          "name": "Oasis Citrus Punch 500 mL.",
+          "description": "\"Oasis is a great tasting refreshing still drink with big, colourful flavours and an attitude that see's the funny side of things\n \n Still Mixed Citrus Fruit Juice\n Contains sugars and sweeteners\n Natural Flavours\n \n Serve cold for maximum refreshment.\"",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c6382c96f979071f0269333a97f36b5b/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "841f8756-54bb-4539-b0fa-4e187aad0175",
+          "name": "Glaceau Smartwater 600ml",
+          "description": "Sometimes the answer is right under your nose, and other times it's floating above your head… in our case, it was the humble cloud that got us thinking. Inspired by the water cycle, we vapour distil our spring water and then add electrolytes to deliver a distinctive, clean, crisp taste, smart because it's designed that way",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7f52566bb2052136c4a41782e47e405b/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "51ab3e7d-b84e-470c-b414-787cf355537d",
+          "name": "Glaceau Smartwater Sparkling 600ml",
+          "description": "Sometimes the answer is under your nose, and other times it's floating above your head… inspired by clouds and the water cycle, we vapour distil our spring water, adding electrolytes and now a light effervescence. Enjoy the distinctive, clean, crisp and refreshing taste of sparkling smartwater. Smart because it's made that way.",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c6ecff1e5a3b37abb45c7807429cfb5a/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "594f926e-2c8d-4eef-bcfc-30cdb4a538fc",
+          "name": "Wholeearth Organic Apple",
+          "description": "Refreshing organic apple drink, perfect for a cool, crisp taste experience.. Certified Vegan",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/10fd92ae565ef04822f2bdd15db73cd8/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e5c79b0a-fc76-4fa6-9458-bd8fb1dc530b",
+          "name": "Appletiser Sparkling Apple Juice 250ml",
+          "description": "\"Appletiser is made with gently sparkling 100% apple juice. 150ml officially counts as one of your 5-a-day, Appletiser makes any meal more Appletising.\n \n No added preservatives\n Sparkling apple juice from concentrate\n \n Serve chilled\"",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a1a8ba8e-f149-4181-95ed-7ad5d6d7e2d1",
+          "name": "Raspberry Lemonade Juiceburst  500ml Btl",
+          "description": "500ml Raspberry Lemonade Juiceburst",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b48959ca-0248-4502-8c09-01c554c37ccf",
+          "name": "Diet Coke 330ml",
+          "description": "\"Love it light? Add some sparkle to your day, minus the calories with Diet Coke\n \n Diet Coke is a sugar free, low calorie soft drink.\n No Sugar\n No Calories\n Gluten-free, dairy-free and nut-free\n Contains vegetables extracts and sweeteners\n \n Serve over ice with a slice of lime.\"",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ea345ee9-4707-4df2-ada8-81d8d63732f0",
+          "name": "Whole Earth Organic lightly Sparkling Cranberry (V)(VG)",
+          "description": "Organic Sparkling lightly carbonated Cranberry flavoured drink",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ee466490-2705-407f-94a2-15a9a9921813",
+          "name": "Monster  Energy Juiced 500ml",
+          "description": "N/A",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "92dc71df-9b0e-4f0e-9dfc-7161c30cb86d",
+          "name": "Juiceburst Orange 400ml Btl",
+          "description": "N/A",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "404250a8-e171-4354-81b8-3f9c283cf8b0",
+          "name": "Juiceburst Apple 500ml Btl",
+          "description": "N/A",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "308a9fa1-43c0-4833-8313-7edcc7689095",
+          "name": "Rio 500ml",
+          "description": "Rio Tropical 500ml",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "029505ce-3533-433e-96c5-00cf40586da6",
+          "name": "Capri Sun Cherry 330ml Pouch",
+          "description": "N/A",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Hot Drinks",
+      "items": [
+        {
+          "id": "92eb3f09-2524-4523-9639-2c46c7eea6f7",
+          "name": "12oz Americano",
+          "description": "12oz freshly ground barista made Americano Coffee proudly supplied by Wogans and with your choice of Milk at NO extra cost! \nAll our cups & lids are 100% biodegradable.",
+          "price": "£2.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 270,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/74cb2c67c6a5b140040f1103676af233/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d59b2fec-832b-4c5f-ab68-bcef146b7db3",
+          "name": "12oz Tea",
+          "description": "12oz fresh barista made Tea with your choice of Milk at NO extra cost! \nAll our cups & lids are 100% biodegradable.\n*Please note due to how busy we get at weekends Hot Drinks are only available Mon - Friday!",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/74cb2c67c6a5b140040f1103676af233/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4e554c52-a9e0-4718-80b9-90740293bfc7",
+          "name": "12oz Hot Chocolate",
+          "description": "12oz fresh barista made Hot Chocolate with Cream & Marshmallows and your choice of Milk at NO extra cost! \nAll our cups & lids are 100% biodegradable.\n*Please note due to how busy we get at weekends Hot Drinks are only available Mon - Friday!",
+          "price": "£3.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 300,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/74cb2c67c6a5b140040f1103676af233/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b5efd56c-2899-456c-a7ce-a83de40da8f0",
+          "name": "12oz Latte",
+          "description": "12oz freshly ground barista made Latte proudly supplied by Wogans and with your choice of Milk at NO extra cost! \nAll our cups & lids are 100% biodegradable.\n*Please note due to how busy we get at weekends Hot Drinks are only available Mon - Friday!",
+          "price": "£3.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 300,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b7ab60aa-260d-4f1a-b55e-de67459292dd",
+          "name": "12oz Cappuccino",
+          "description": "12oz freshly ground barista made Cappuccino proudly supplied by Wogans and with your choice of Milk at NO extra cost! \nAll our cups & lids are 100% biodegradable.\n*Please note due to how busy we get at weekends Hot Drinks are only available Mon - Friday!",
+          "price": "£3.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 300,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "065f3ed6-908a-4ee4-ad7f-064354843193",
+          "name": "8oz Flat White",
+          "description": "8oz freshly ground barista made Flat White Coffee proudly supplied by Wogans and with your choice of Milk at NO extra cost! \nAll our cups & lids are 100% biodegradable.\n*Please note due to how busy we get at weekends Hot Drinks are only available Mon - Friday!",
+          "price": "£2.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 270,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    }
+  ]
+}

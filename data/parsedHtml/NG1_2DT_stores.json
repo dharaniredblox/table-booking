@@ -1,0 +1,719 @@
+{
+  "source": "UberEats",
+  "postalCode": "NG1_2DT",
+  "timestamp": "2025-09-15T09:57:27.309Z",
+  "count": 85,
+  "data": [
+    {
+      "name": "Greggs",
+      "rating": "4.7",
+      "reviewCount": "49",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-nottingham-4-clumber-st/oQuvN_1ZV-C3HD9zkfu5NA"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-nottingham-station-street/V1h2bU5RWwWEIbGzkK78Ig"
+    },
+    {
+      "name": "Morrisons",
+      "rating": "4.1",
+      "reviewCount": "360+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-gamston/i3Dg-WJdUa6rxB2nPy1eZg"
+    },
+    {
+      "name": "Sainsbury's Local",
+      "rating": "4.7",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-local-nottingham-wheelergate/mAycoDHCWwOj_GA60WZLFg"
+    },
+    {
+      "name": "Jollibee",
+      "rating": "4.2",
+      "reviewCount": "5,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/jollibee-nottingham/icqgqHXEVJG5Lzv7uE_dUA"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "4.0",
+      "reviewCount": "5,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/popeyes-nottingham/rboMVdOFWwWdSHKOqKlYmg"
+    },
+    {
+      "name": "Burger King",
+      "rating": "3.8",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burger-king-nottingham/tUf667YXTvyKyiF7uLJ5SA"
+    },
+    {
+      "name": "Little Waitrose",
+      "rating": "4.6",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/little-waitrose-nottingham-trinity-square/L8ub_OqjUzuSTTaZpvQTrQ"
+    },
+    {
+      "name": "KFC Nottingham",
+      "rating": "4.2",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-nottingham-milton-street/HPjIgULxRbCL_8so7NWnGw"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.6",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/pret-a-manger-nottingham/w5vp4ogEQjq_AB1MDqMONg"
+    },
+    {
+      "name": "ASDA",
+      "rating": "4.4",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/asda-west-bridgford/OYYoQWfcV9uOQQeuAp97Nw"
+    },
+    {
+      "name": "DOSA PLANET UK",
+      "rating": "3.9",
+      "reviewCount": "55",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/dosa-planet-uk/uL7FIU-MTMa5ivHrJZaAZw"
+    },
+    {
+      "name": "Chaiiwala",
+      "rating": "4.3",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chaiiwala-nottingham/FJvlcQxURrerMnF9ei-p1w"
+    },
+    {
+      "name": "The Crusty Cob Shop",
+      "rating": "4.5",
+      "reviewCount": "310+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/the-crusty-cob-shop/-ilyTawQVDSeYmhb8hydmw"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.7",
+      "reviewCount": "470+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-nottingham-victoria-ctr/fXnFzjB-UqGBSjuivdxNAA"
+    },
+    {
+      "name": "Costa Coffee",
+      "rating": "4.3",
+      "reviewCount": "290+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/costa-coffee-notts-goldsmith-st/10UGuqk7SXWxZDejnr8K5g"
+    },
+    {
+      "name": "Chopstix Noodle Bar",
+      "rating": "4.2",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/chopstix-noodle-bar-nottingham-intu-centre/5DlPfxgHTGqo1y-DL-YpZg"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "3.9",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-nottingham-long-row/Fu8gTv1aXeqY0D9RusA4sQ"
+    },
+    {
+      "name": "Gopuff Groceries",
+      "rating": "4.6",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/gopuff-groceries-nottingham/6V_x2S5iWCi2fIFw1eIknw"
+    },
+    {
+      "name": "One Stop St Anns",
+      "rating": "4.6",
+      "reviewCount": "360+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-st-anns/gMQwOjmsUpqxrnk02glpuA"
+    },
+    {
+      "name": "Tortilla Burritos",
+      "rating": "4.2",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/tortilla-burritos-nottingham-intu-v/3ztNkp_-XCq71C5RMZJoMA"
+    },
+    {
+      "name": "Mark's Munchies",
+      "rating": "4.9",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/marks-munchies-nottingham/PWVVfTHnVXeX0wTYdJfEEg"
+    },
+    {
+      "name": "Bird's Bakery",
+      "rating": "4.6",
+      "reviewCount": "62",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/birds-bakery-listergate/IaWtTtIiXdiXRiKvFN2xng"
+    },
+    {
+      "name": "Porchester Cafe",
+      "rating": "4.7",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/porchester-cafe/KXyS7gtbT3OqMTBMqE_gXA"
+    },
+    {
+      "name": "Cloughies Cob Stop",
+      "rating": "4.4",
+      "reviewCount": "480+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cloughies-cob-stop/44RndSytSK-1Af1_RjmRaA"
+    },
+    {
+      "name": "Hungry Pumpkin",
+      "rating": "4.1",
+      "reviewCount": "40",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/hungry-pumpkin/arPoDjU1Ub-VpP3uhx8v-g"
+    },
+    {
+      "name": "The Willow Tree",
+      "rating": "4.6",
+      "reviewCount": "87",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/the-willow-tree/E5WPVz-4TImneZb8xUwJQQ"
+    },
+    {
+      "name": "Clifton Cob Shop",
+      "rating": "4.5",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/clifton-cob-shop/NPfeataITwOxjC7yOBTMow"
+    },
+    {
+      "name": "The Bakery & Kitchen",
+      "rating": "4.5",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-bakery-%26-kitchen/dx1_Tx1CR26mg1veA53crA"
+    },
+    {
+      "name": "Trent Vapes & Shakes",
+      "rating": "4.6",
+      "reviewCount": "88",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/trent-vapes-%26-shakes/XZ9S2qJ2T--z0ADstU6m4w"
+    },
+    {
+      "name": "Aspley Pizza",
+      "rating": "2.7",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/aspley-pizza/uf001UtHSt2A-J3MgdfVLg"
+    },
+    {
+      "name": "YO! sushi counter",
+      "rating": "3.9",
+      "reviewCount": "18",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yo!-sushi-counter-nottingham-victoria-tesco/kpz2Gd75XC2Z6GEdsXkUvg"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.6",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-marmion/1dPvGX90UTa6s0c8tAOxOQ"
+    },
+    {
+      "name": "Muffin Break",
+      "rating": "4.2",
+      "reviewCount": "340+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/muffin-break-nottingham/AS8JhBoqR7K2RSMVN8X2Dw"
+    },
+    {
+      "name": "Harvester",
+      "rating": "4.3",
+      "reviewCount": "350+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/harvester-wilford-farm/guXPa_JVSj6n0wOCLi_69A"
+    },
+    {
+      "name": "Quayside Cafe",
+      "rating": "4.5",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/quayside-cafe/YTEJzFznTRqynyzBQzOipQ"
+    },
+    {
+      "name": "Holy Bagel",
+      "rating": "4.1",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/holy-bagel-nottingham/XxowggAEX5qI55hUQYVrBg"
+    },
+    {
+      "name": "Freshe",
+      "rating": "4.1",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/freshe/Mq2W-toPWPGHeLJKVgBByw"
+    },
+    {
+      "name": "GB Cafe Oriental Diner & Sushi Bar",
+      "rating": "4.8",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/gb-cafe-oriental-diner-%26-sushi-bar/sA4uTLuCWCiQPa_K01e50Q"
+    },
+    {
+      "name": "Burgundys",
+      "rating": "4.6",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/burgundys/MGIoU8k0UH-rQcDkBNQPNA"
+    },
+    {
+      "name": "Forty Four Cosy Cafe & Takeaway",
+      "rating": "4.6",
+      "reviewCount": "19",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/forty-four-cosy-cafe-%26-takeaway/On4HD0jaXUq_uhA7b_kN0A"
+    },
+    {
+      "name": "Boost Juice Bar",
+      "rating": "3.9",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/boost-juice-bar-unit-46-victoria-centre/t6M_OPQ6SJ6fcQFw7mqyEA"
+    },
+    {
+      "name": "Garam Masala",
+      "rating": "3.3",
+      "reviewCount": "76",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/garam-masala/U33Q_MQCVoaOppLHbTUSoA"
+    },
+    {
+      "name": "Byron Burgers & Fries",
+      "rating": "3.1",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/byron-burgers-%26-fries-nottingham/3skf6FS3XTieQa-gU3G75A"
+    },
+    {
+      "name": "DUNKIN' Donuts & Coffee",
+      "rating": "4.5",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dunkin-donuts-%26-coffee-exchange-arcade/cHMbnX6jUpuAxEwsAvIOmg"
+    },
+    {
+      "name": "James' Jackets",
+      "rating": "4.8",
+      "reviewCount": "420+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/james-jackets/4cEh1i38URexHqlkD1TDlA"
+    },
+    {
+      "name": "Bella Italia Pizza & Pasta",
+      "rating": "3.9",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bella-italia-pizza-%26-pasta-nottingham-cornerhouse/hnQxp8jrTcG1Zkjjp0yt9g"
+    },
+    {
+      "name": "Morrisons Daily",
+      "rating": "4.1",
+      "reviewCount": "390+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-daily-nottingham-ilkeston-road/g5wg6nvWS066U_6UNytvwQ"
+    },
+    {
+      "name": "Breakfast Beauties",
+      "rating": "3.2",
+      "reviewCount": "31",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/breakfast-beauties-ng9/VByKRKHXUPCM6zrVSJYYXQ"
+    },
+    {
+      "name": "Daybrook Deli",
+      "rating": "4.8",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/daybrook-deli/dsOICFNGSJue_hvGscnYoA"
+    },
+    {
+      "name": "O3 Cafe",
+      "rating": "4.9",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/o3-cafe/o-I8poTGWp2_acFHrvfKBQ"
+    },
+    {
+      "name": "Farmhouse Inns",
+      "rating": "4.2",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/farmhouse-inns-riverside-farm-nottingham/YpREAAuqUte4Or_YlBc9-w"
+    },
+    {
+      "name": "Mother Clucker Fried Chicken",
+      "rating": "3.0",
+      "reviewCount": "14",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mother-clucker-fried-chicken-nottingham/DGfo-qOyXvSgpeLcm0-ynw"
+    },
+    {
+      "name": "Knoops",
+      "rating": "3.8",
+      "reviewCount": "20",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/knoops-nottingham-csn/ViATIZCVVXaEsqwg9qlJBQ"
+    },
+    {
+      "name": "Tasty Paradise",
+      "rating": "4.8",
+      "reviewCount": "29",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/tasty-paradise/6BH7P4oNV8GeRJczqybb0w"
+    },
+    {
+      "name": "Mraya Restaurant",
+      "rating": "4.6",
+      "reviewCount": "460+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mraya-restaurant/0NSFCRp9U0ygpRwWE-_Jzw"
+    },
+    {
+      "name": "Tesco Cafe",
+      "rating": "4.4",
+      "reviewCount": "62",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tesco-cafe-notts-top-valley/QnOLEppaV3C6Ngct_KcTxA"
+    },
+    {
+      "name": "Gusto Cafe",
+      "rating": "4.7",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/gusto-cafe/pFqBDGJnRbWLKQd8nwTtxw"
+    },
+    {
+      "name": "Karak Chaii",
+      "rating": "3.9",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "offers": [
+        "£0 Delivery Fee (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/karak-chaii-nottingham/7kGuMVIAWq-nWgO4ga9NDg"
+    },
+    {
+      "name": "The Shake Lab",
+      "rating": "3.9",
+      "reviewCount": "44",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-shake-lab-nottingham/9xROMkI5SiOEC4R-s5D8hw"
+    },
+    {
+      "name": "Wraps & Wings",
+      "rating": "4.4",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wraps-%26-wings-nottingham/gAxxFI3vR2WQoXTWYEFUCg"
+    },
+    {
+      "name": "Shahjee's",
+      "rating": "4.2",
+      "reviewCount": "380+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shahjees/TkNu5Oe1WoqJKDJ5NeG6gw"
+    },
+    {
+      "name": "Cobways Sandwich Bar",
+      "rating": "4.5",
+      "reviewCount": "490+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cobways-sandwich-bar/5kqXzieITF2WgvZMVbv1fQ"
+    },
+    {
+      "name": "Andy's Top Nosh",
+      "rating": "4.5",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/andys-top-nosh/JZ5uV79FRIOmhEujl3gqzA"
+    },
+    {
+      "name": "Roosters Piri Piri",
+      "rating": "4.5",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/roosters-piri-piri-nottingham/ZIZaztVCSG6WMoPaOP0x4g"
+    },
+    {
+      "name": "Central Co-op",
+      "rating": "3.9",
+      "reviewCount": "92",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/central-co-op-westdale-lane/TbXVqX4IW-igQguODbPOzA"
+    },
+    {
+      "name": "Roll-On-In",
+      "rating": "4.5",
+      "reviewCount": "58",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/roll-on-in/6f5lW6kLXGuTCE-ydFG7AA"
+    },
+    {
+      "name": "TGI Friday's",
+      "rating": "3.5",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 25% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/tgi-fridays-nottingham/wLOMoJhxVRajJWnBpL0pCQ"
+    },
+    {
+      "name": "Londis",
+      "rating": "4.6",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/londis-huntingdon-street/csgjB-W2QsWHag_VqC6HVg"
+    },
+    {
+      "name": "Abikes kitchen Limited",
+      "rating": "4.1",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/abikes-kitchen-limited/1qVAlBbGSvKLYuQRVfuA9A"
+    },
+    {
+      "name": "Desserts by The Cake Solution",
+      "rating": "4.6",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/desserts-by-the-cake-solution-colwick/wssmYUm_S16xmt5vAXZB0A"
+    },
+    {
+      "name": "BoaVista",
+      "rating": "4.6",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/boavista/nCjVn76tX86rtvuP7Cx_hA"
+    },
+    {
+      "name": "Majestic Wine",
+      "rating": "4.7",
+      "reviewCount": "28",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/majestic-wine-nottingham/DuCkMAL2UjqTO6lqZkKMug"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts & Coffee",
+      "rating": "4.6",
+      "reviewCount": "390+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-doughnuts-%26-coffee-nottingham/wO0wZtTVRs6RGTm9WtZ4Sg"
+    },
+    {
+      "name": "Bombay Delicatessen West Bridgford",
+      "rating": "4.9",
+      "reviewCount": "32",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bombay-delicatessen-west-bridgford/DK2TanbCVrmmZ9xt-EM11g"
+    },
+    {
+      "name": "Loaded Wraps",
+      "rating": "4.3",
+      "reviewCount": "290+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/loaded-wraps-nottingham/m22oEZ_QWK-moZgxcYAzlg"
+    },
+    {
+      "name": "Insomnia Cookies",
+      "rating": "4.4",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/insomnia-cookies-nottingham-angel/SZNK0gGSUjSIbs0hmXB-nQ"
+    },
+    {
+      "name": "The New Castle",
+      "rating": "4.6",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/the-new-castle/OLj_5IRLQk-QWolUBlXsgQ"
+    },
+    {
+      "name": "Go For Greek",
+      "rating": "4.9",
+      "reviewCount": "66",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/go-for-greek-4-chefs/3ZB2w7LBTauVk9qDR6FGOA"
+    },
+    {
+      "name": "All Bar One Nottingham",
+      "rating": "4.2",
+      "reviewCount": "21",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/all-bar-one-nottingham/3a5ziZi3QQq6VksQgQL_iw"
+    },
+    {
+      "name": "The Big Cake co.",
+      "rating": "4.2",
+      "reviewCount": "24",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-big-cake-co-nottingham-south/i6OkrXABX5iLmXtJ03tvkg"
+    },
+    {
+      "name": "Super Nonna Pasta, Presto!",
+      "rating": "3.4",
+      "reviewCount": "92",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/super-nonna-pasta-presto!-nottingham-cornerhouse/gZGHStC6X5WodJuJQdjJNw"
+    },
+    {
+      "name": "Copper-mapperley",
+      "rating": "3.0",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 25% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/copper-mapperley/JP4S4JiXSQmRx2tLImJ0uA"
+    },
+    {
+      "name": "Block Party Bakery",
+      "rating": "4.2",
+      "reviewCount": "61",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/block-party-bakery/0soXEACBXEKg6rasho4pow"
+    },
+    {
+      "name": "Cake Box",
+      "rating": "4.7",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cake-box-nottingham/zKWWV-DpSUKxZV7vJf_EQA"
+    }
+  ]
+}

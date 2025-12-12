@@ -1,0 +1,816 @@
+{
+  "source": "UberEats",
+  "postalCode": "BS1_5HR",
+  "timestamp": "2025-09-15T09:57:14.139Z",
+  "count": 94,
+  "data": [
+    {
+      "name": "Sainsbury's Supermarket",
+      "rating": "4.5",
+      "reviewCount": "6,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-supermarket-dingles/bMVaxuqWRCq8Cx6yd-Xc0A"
+    },
+    {
+      "name": "Sandwich Sandwich",
+      "rating": "4.6",
+      "reviewCount": "8,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 30% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/sandwich-sandwich-baldwin-st/nTRTKalkS6m1rvcWocu2tw"
+    },
+    {
+      "name": "Little Waitrose",
+      "rating": "4.6",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/little-waitrose-clifton/oO3O2IyAX8iGZ-uz2LOTVA"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.7",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-bristol-coronation-road/WoJmbrJZX4SyR--rPqeHdA"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.5",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-easton/KszAsqURV3SQvHB0pFaApw"
+    },
+    {
+      "name": "Greggs",
+      "rating": "4.2",
+      "reviewCount": "52",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/greggs-bristol-46-queens-rd/h1gzI2VQXuOQlFoR9hl7EA"
+    },
+    {
+      "name": "KFC Bristol",
+      "rating": "4.4",
+      "reviewCount": "15,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-bristol-union-street/-EJLZFGIQW2ktgIxX54cqw"
+    },
+    {
+      "name": "Burger King",
+      "rating": "4.2",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burger-king-bristol-horsefair/8yEyTlp2TS-mum94A6J3aA"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "3.9",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/popeyes-bristol-avonmeads/Bvo4k7YjXJKY2LJhQSfV3g"
+    },
+    {
+      "name": "Totterdown Canteen",
+      "rating": "4.4",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/totterdown-canteen/-sIeGgEpS1yIGdjgJP0xzg"
+    },
+    {
+      "name": "Gopuff Groceries",
+      "rating": "4.6",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/gopuff-groceries-bristol/jCh1A62HWqqpFVN69DxnIg"
+    },
+    {
+      "name": "Subway",
+      "rating": "3.9",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/subway-broad-quay/8_J1zdp9Tp2fdETPNIGpRg"
+    },
+    {
+      "name": "Jessie’s Cafe",
+      "rating": "4.6",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/jessies-cafe/h66cvDpLWDOCRtU9JUkWpA"
+    },
+    {
+      "name": "Sainsbury's Local",
+      "rating": "4.4",
+      "reviewCount": "380+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-local-bristol-hippodrome/20mVlTYGWTeuiCO-Ttc--g"
+    },
+    {
+      "name": "Starbucks ®",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-bristol-clifton-down/XpjOkr1bSKCfQOzQpLfxMQ"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "4.1",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-bristol/YGCsqLk2Uri3Ol-Y87QGmg"
+    },
+    {
+      "name": "Taco Bell",
+      "rating": "3.9",
+      "reviewCount": "6,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/taco-bell-bristol/9v4uzdJPW8OUvepoSvf0RQ"
+    },
+    {
+      "name": "Little Bagel Co.",
+      "rating": "4.7",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/little-bagel-co-queens-rd/OdJlsgxwUEOEvnZtJeCxCQ"
+    },
+    {
+      "name": "Little Bagel Co",
+      "rating": "4.8",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/little-bagel-co-baldwin-street/8pFffFyLV86AHUB8ZM0kBA"
+    },
+    {
+      "name": "Black Sheep Coffee",
+      "rating": "4.3",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/black-sheep-coffee-queens-road/qm6m0qtLXxOaFFrN13ZNbA"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.7",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "10% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/pret-a-manger-gloucester-road/QBhtIuqEXQ-dmrayt19PgQ"
+    },
+    {
+      "name": "SoBe Burger",
+      "rating": "4.2",
+      "reviewCount": "460+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, get a free item"
+      ],
+      "url": "https://www.ubereats.com/store/sobe-burger-hillfields/UXb9643aWKeS_aTT_M-XFw"
+    },
+    {
+      "name": "Costa Coffee",
+      "rating": "4.2",
+      "reviewCount": "69",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/costa-coffee-bristol-cabot-circus/1SQcK3tLUO-4ruxpyqYLRA"
+    },
+    {
+      "name": "Chaiiwala",
+      "rating": "4.4",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/chaiiwala-bristol/Z-tlhijKVKyvx7nl4YhiDQ"
+    },
+    {
+      "name": "Parsons Bakery",
+      "rating": "4.4",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "25% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/parsons-bakery-125-gloucester-rd/v3AwMTV9TUiPIPZR80_lVg"
+    },
+    {
+      "name": "Chopstix Noodle Bar",
+      "rating": "4.0",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/chopstix-noodle-bar-bristol-broadmead/2LxELJaLVpu-eirCU_8ubg"
+    },
+    {
+      "name": "Crispy Dosa",
+      "rating": "4.3",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/crispy-dosa-bristol/hUqJrV2KVBq2v6IPQ1lveg"
+    },
+    {
+      "name": "Breakfast Burrito Boys",
+      "rating": "3.9",
+      "reviewCount": "350+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/breakfast-burrito-boys-bristol/fCG8Fa8eUyKyoTqBUZyHjg"
+    },
+    {
+      "name": "Blue Sky Cafe",
+      "rating": "3.1",
+      "reviewCount": "38",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/blue-sky-cafe/LYYnH0X6UcSGRuKrHqzw9g"
+    },
+    {
+      "name": "The Bagel Place",
+      "rating": "4.4",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-bagel-place-bristol/Weq73f_DVtCDm5-hnI8RFA"
+    },
+    {
+      "name": "Morrisons Daily",
+      "rating": "4.1",
+      "reviewCount": "95",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-daily-bristol-baltic-wharf/pnzH60dQXjKlDtyC-kTngg"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.2",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/caffe-nero-brisqueensave/5Nfb75nFQbqoeSEqbweoqg"
+    },
+    {
+      "name": "D & V Catering",
+      "rating": "4.7",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/d-%26-v-catering-%40-debs-cafe-and-takeaway/xR-qFBJAQ3qAQYNqulOEag"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.3",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-eastville-park/1TphrAieWqahq1F7KGGJ0Q"
+    },
+    {
+      "name": "CUPP Bubble Tea",
+      "rating": "4.4",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/cupp-bubble-tea-park-row/qz9sc2QGVfqK-arlS9c7uw"
+    },
+    {
+      "name": "Sushi Daily",
+      "rating": "4.3",
+      "reviewCount": "43",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sushi-daily-clifton/2E7vmkEAXz63UPFdkLDb2A"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.7",
+      "reviewCount": "370+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-bristol-broadmead/5Cf4AZ8QUQun062qRI_qPg"
+    },
+    {
+      "name": "Coffee #1",
+      "rating": "4.4",
+      "reviewCount": "72",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/coffee-1-welsh-back/uPAQqj81U2muN1VyXKWQZA"
+    },
+    {
+      "name": "Turtle Bay",
+      "rating": "4.2",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/turtle-bay-bristol-broad-quay/ENjdqqk4QcupCj4nTZHwvQ"
+    },
+    {
+      "name": "Bigger Baps Sandwich Shop",
+      "rating": "4.4",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bigger-baps-sandwich-shop/OcrENpuTRuyWfHBlloYlRA"
+    },
+    {
+      "name": "Super Mashriq Halal Butchers",
+      "rating": "4.5",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/super-mashriq-halal-butchers/phH1GRiLX6CmyboDO7q29Q"
+    },
+    {
+      "name": "Brunch by Frankie & Benny's",
+      "rating": "4.2",
+      "reviewCount": "35",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brunch-by-frankie-%26-bennys-bristol-cabot-circus/4GT-5pyzWA6F89FM9OAsCg"
+    },
+    {
+      "name": "Morrisons Cafe",
+      "rating": "4.4",
+      "reviewCount": "43",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-cafe-hartcliffe/6DnK1iZPVKGMSiUhiWGm6g"
+    },
+    {
+      "name": "Bagelicious",
+      "rating": "4.7",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/bagelicious/19KE5l-qRcqMhPjLftT_oA"
+    },
+    {
+      "name": "Rose Cafe",
+      "rating": "4.7",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/rose-cafe/SQx2qAtBTtGCKPgSLBgraQ"
+    },
+    {
+      "name": "Monte Carlo Café",
+      "rating": "3.8",
+      "reviewCount": "99",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/monte-carlo-cafe/saQt9gxiUvaSoI9k7q5ddg"
+    },
+    {
+      "name": "Napolita",
+      "rating": "4.7",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/napolita/-vuYB4AkTkebfHASNUQ0vQ"
+    },
+    {
+      "name": "Cafe Amore",
+      "rating": "4.4",
+      "reviewCount": "400+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/cafe-amore/LUXNINkuTqWo-QvpJd2ivA"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts & Coffee",
+      "rating": "4.7",
+      "reviewCount": "72",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-doughnuts-%26-coffee-bristol-college-green/fXgJYvQOUwqAHDgKrjQX4g"
+    },
+    {
+      "name": "Southern Co-Op Bristol Redcliffe Street",
+      "rating": "4.7",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/southern-co-op-bristol-redcliffe-street/faJDMTNNX8mIICLK65brhg"
+    },
+    {
+      "name": "Yafo",
+      "rating": "4.5",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yafo/ejR_qAyZUoqNWdwGgI95jg"
+    },
+    {
+      "name": "Poquito Coffee",
+      "rating": "4.9",
+      "reviewCount": "60",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/poquito-coffee/yWPEV1SfXv-ffY05xtDBgw"
+    },
+    {
+      "name": "Jo’s Tea",
+      "rating": "4.7",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/jos-tea-park-row/giN1HrMTRrijFJYgp1v7vg"
+    },
+    {
+      "name": "Mrs. Potts Chocolate House",
+      "rating": "4.7",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mrs-potts-chocolate-house/x8f3G1ZORju0-88KD_XFqQ"
+    },
+    {
+      "name": "Taste of Napoli",
+      "rating": "4.7",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/taste-of-napoli/3rMMVx-ASx-xze4Tmw7WYQ"
+    },
+    {
+      "name": "Cafe Mocha",
+      "rating": "4.3",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-mocha/k6tYGrnZRISBfHoJjVD2Fg"
+    },
+    {
+      "name": "Barwaaqo Restaurant",
+      "rating": "4.5",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/barwaaqo-restaurant-east-african-restaurant/FuX6Y2ujWCWxX3JY_3hfNA"
+    },
+    {
+      "name": "One Stop Fishponds Bristol",
+      "rating": "4.0",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-fishponds-bristol/WLdglqnEWC-Xtv98-H_DQQ"
+    },
+    {
+      "name": "Street Feud",
+      "rating": "4.2",
+      "reviewCount": "32",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/street-feud-bristol-cabot-circus/rIlohe7xWomFdRjFX7g94A"
+    },
+    {
+      "name": "Mother Clucker Fried Chicken",
+      "rating": "2.7",
+      "reviewCount": "25",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mother-clucker-fried-chicken-cribbs/4LPLS-42XDycfj8iYrKRng"
+    },
+    {
+      "name": "Holy Bagel",
+      "rating": "2.8",
+      "reviewCount": "30",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/holy-bagel-bristol/Ic3feNqNXq6dRbCTlE4Hhw"
+    },
+    {
+      "name": "Kam's Cafe",
+      "rating": "4.8",
+      "reviewCount": "62",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/kams-cafe/kiiEjFPWU1OvEep9D8xE5g"
+    },
+    {
+      "name": "YO! sushi counter",
+      "rating": "4.3",
+      "reviewCount": "15",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yo!-sushi-counter-bristol-east-tesco/uSXHk18gWhaiYHLWPOwUHQ"
+    },
+    {
+      "name": "Byron Burgers & Fries",
+      "rating": "3.0",
+      "reviewCount": "21",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/byron-burgers-%26-fries-cribbs/taLMSwnuWGS8Nd5BS_oEVQ"
+    },
+    {
+      "name": "Laila",
+      "rating": "4.6",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/laila/PV6PEKi2XSW7A2xJH83i0w"
+    },
+    {
+      "name": "Jo's Tea",
+      "rating": "4.9",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/jos-tea-queen-road/K5tkSj1JWYSm6gXOouTzMg"
+    },
+    {
+      "name": "The Bowl Shed",
+      "rating": "4.8",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-bowl-shed/0ZWChPUCVk6lWN9Gf0Lppw"
+    },
+    {
+      "name": "Oak Tree Cafe",
+      "rating": "4.5",
+      "reviewCount": "4",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £30)"
+      ],
+      "url": "https://www.ubereats.com/store/oak-tree-cafe/ch5Snp6PX2m9qnrriQ-52A"
+    },
+    {
+      "name": "Hatter House Cafe",
+      "rating": "4.8",
+      "reviewCount": "150+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/hatter-house-cafe/sh-wsytnS82zr3490O4fUQ"
+    },
+    {
+      "name": "itsu [sushi, noodles & rice'bowls]",
+      "rating": "4.6",
+      "reviewCount": "10,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/itsu-sushi-noodles-%26-ricebowls-bristol-broadmead/Hc_nxgW2S6i8BGu3OaPByg"
+    },
+    {
+      "name": "Harvester",
+      "rating": "3.8",
+      "reviewCount": "18",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/harvester-bristol-frenchay-park-road/I6mtQ-OcV5ORRN-LctoJTQ"
+    },
+    {
+      "name": "OAKBERRY Acai and Smoothies",
+      "rating": "3.9",
+      "reviewCount": "49",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/oakberry-acai-and-smoothies-bristol/X_CGDE0kVjW0UcReJuJBSg"
+    },
+    {
+      "name": "Stacks",
+      "rating": "4.0",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/stacks-burgers-bristol-cabot-circus/cH7yUzLXQtGcjjO7p0a4Qg"
+    },
+    {
+      "name": "The Henbury Arms",
+      "rating": "3.8",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-henbury-arms-stonehouse-bristol-henbury-road/g_z6I8QFXfCMz_YUSaaXUw"
+    },
+    {
+      "name": "Hot Chick",
+      "rating": "4.3",
+      "reviewCount": "74",
+      "deliveryTime": "",
+      "offers": [
+        "10% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/hot-chick-award-winning-saucy-fried-chicken-fishponds-staple-hill-rd/NWn_bdmOWkaeXtYstJKqeg"
+    },
+    {
+      "name": "Chatime Bristol",
+      "rating": "4.7",
+      "reviewCount": "240+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chatime-bristol/4LwXoCh8WOu8cT3XLJUdfw"
+    },
+    {
+      "name": "Koreatown",
+      "rating": "3.8",
+      "reviewCount": "65",
+      "deliveryTime": "",
+      "offers": [
+        "10% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/koreatown-korean-fried-chicken-fishponds-staple-hill-rd/83y5UE4vWZyyjoi2hByFbw"
+    },
+    {
+      "name": "Durdur Restaurant",
+      "rating": "4.2",
+      "reviewCount": "28",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/durdur-restaurant/3WQjWqJbSlOb_f21pAJxwQ"
+    },
+    {
+      "name": "Londis",
+      "rating": "4.7",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/londis-redland/XkfbDaOzVs6L2dJmsYwhUg"
+    },
+    {
+      "name": "Mamma P's Jamaican Cuisine",
+      "rating": "4.1",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, get a free item"
+      ],
+      "url": "https://www.ubereats.com/store/mamma-ps-jamaican-cuisine-kingswood/kHxtqXNpUO6KVmiegGDeVw"
+    },
+    {
+      "name": "lodgecauseway Cafe",
+      "rating": "4.4",
+      "reviewCount": "320+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/lodgecauseway-cafe/NeO5nB0tRQanG48aM0WzfQ"
+    },
+    {
+      "name": "Five Grains",
+      "rating": "4.6",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-grains/sKysob7YQD23mpDfgFsO3g"
+    },
+    {
+      "name": "Majestic Wine",
+      "rating": "5.0",
+      "reviewCount": "73",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/majestic-wine-westbury-on-trym/AQxCIaFSXMaNsJLhjUGsQQ"
+    },
+    {
+      "name": "Waffle & Bubble",
+      "rating": "4.0",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/waffle-%26-bubble-kingswood/MdtlArDIT2W6W-1BJj2WHg"
+    },
+    {
+      "name": "One Stop Stores Redland Coldharbour Rd",
+      "rating": "5.0",
+      "reviewCount": "2",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-stores-redland-coldharbour-rd/1pA3SsxVUHmZ2C5OnNyfxg"
+    },
+    {
+      "name": "Cake Box",
+      "rating": "3.4",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cake-box-bristol-church-road/TbaR5CanW3qvQuQh7dQ-ew"
+    },
+    {
+      "name": "COFFEE CUP",
+      "rating": "4.9",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/coffee-cup/f5Yp9-3iR2C5McWU_qrwVA"
+    },
+    {
+      "name": "The Lamb Inn",
+      "rating": "3.7",
+      "reviewCount": "87",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-lamb-inn-sizzling-pubs/u4Eg-NZZXQic-qKJFJzaZg"
+    },
+    {
+      "name": "Tesco Cafe",
+      "rating": "3.2",
+      "reviewCount": "56",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tesco-cafe-bristol-east/jxQJ9KIOWNSIorPUcvZIew"
+    },
+    {
+      "name": "The White Elephant Cafe",
+      "rating": "4.7",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-white-elephant-cafe/ul3KWpWVQDmOPFiSZ8TqEw"
+    },
+    {
+      "name": "Bird Box",
+      "rating": "4.2",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/bird-box-bristol-cabot-circus/B9iCd9I5Qv2uLXPJj1zQiA"
+    },
+    {
+      "name": "SMASHED",
+      "rating": "3.5",
+      "reviewCount": "69",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/smashed-burgers-%26-fries-hillfields/fw5wAPknXKyt08Lc2DRuHA"
+    },
+    {
+      "name": "Sotiris Greek Bakery",
+      "rating": "4.8",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "offers": [
+        "25% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/sotiris-greek-bakery/WJyezxuxW0Ku0siBbk7gzg"
+    },
+    {
+      "name": "Patty Guy",
+      "rating": "4.3",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/patty-guy-hillfields/FWebj54_W0arYXper6BNCg"
+    }
+  ]
+}

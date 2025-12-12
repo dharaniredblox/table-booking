@@ -1,0 +1,705 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/chopstix-noodle-bar-bristol-broadmead/2LxELJaLVpu-eirCU_8ubg",
+  "name": "Chopstix Noodle Bar - Bristol Broadmead",
+  "servesCuisine": [
+    "Asian",
+    "Chinese",
+    "Noodles",
+    "Halal",
+    "Vegetarian",
+    "Vegetarian Friendly"
+  ],
+  "priceRange": "₹₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/6b80f2cd33244ee18e2e5bb5360b4fa8/dfe73df3a8123af1971eabf3eeff9ac1.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/6b80f2cd33244ee18e2e5bb5360b4fa8/63d18745892c100be9e4ef3c560c9204.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/6b80f2cd33244ee18e2e5bb5360b4fa8/20fa9288fdc01be28055baedd768dc37.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/6b80f2cd33244ee18e2e5bb5360b4fa8/b15c9ad51e970f3ee593eca3d03cee54.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/6b80f2cd33244ee18e2e5bb5360b4fa8/492abbfd79da0fd117a23fd2a6cf3df9.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/6b80f2cd33244ee18e2e5bb5360b4fa8/db809eadd12d21eb61044e0f3bf7c9b7.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/chopstix-noodle-bar-bristol-broadmead/2LxELJaLVpu-eirCU_8ubg?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "EMEA",
+    "postalCode": "BS1 3DT",
+    "addressCountry": "GB",
+    "streetAddress": "85 Broadmead"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.4571501,
+    "longitude": -2.5907027
+  },
+  "telephone": "+441173259360",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4,
+    "reviewCount": "1000"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "opens": "10:30",
+      "closes": "20:45"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Thursday",
+      "opens": "11:30",
+      "closes": "20:45"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "10:30",
+      "closes": "21:45"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "name": "✨ Meal Deals ✨",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Hot Wok for 1 ⭐️",
+            "description": "Build A Box, Extra Topping, 5 Veg Spring Rolls, Prawn Crackers, Dip and Drink of choice",
+            "offers": {
+              "@type": "Offer",
+              "price": "14.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Big Night In",
+            "description": "4 Family-Sized Bases, 8 Extra Toppings, 2 Spring Roll Sharer Boxes, 2 x Salt &amp; Pepper Potatoes and 4 Dips of choice",
+            "offers": {
+              "@type": "Offer",
+              "price": "47.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "The Most Valuable Box (MVB). 🥡",
+            "description": "Build A Box, 5 Veg Spring Rolls, Prawn Crackers, Dip and Drink of choice",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "The MVB for 2 🥡🥡",
+            "description": "SAVE £1.99 on 2 x MVB meals!",
+            "offers": {
+              "@type": "Offer",
+              "price": "23.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hot Wok for 2 ⭐️⭐️",
+            "description": "SAVE £2.48 on 2 x Hot Wok for 1 meals!",
+            "offers": {
+              "@type": "Offer",
+              "price": "27.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "🥡 Triple Topper Box 🥡 3 Toppings",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Triple Topper Box 🥡🥡🥡",
+            "description": "Choice of base with ANY 3 toppings!",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "🥡 Build A Box 🥡 2 Toppings",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Salt &amp; Pepper Chicken Box 🧂🌶",
+            "description": "Crispy golden chicken pieces, tumbled in our signature mix of salt, pepper, garlic, chilies, onions and some LIP SMACKIN' ATTITUDE",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Drizzle Chicken Box 🍯",
+            "description": "Juicy chicken in a sweet, sticky caramel glaze that hits different. GET SOME DRIZZZ!",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sweet &amp; Sour Chicken Box 🧡",
+            "description": "Chicken bites tossed in a sweet and tangy fruity sauce, bejazzled with bell peppers! PURE SAUCEMNOIUS!",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pumpkin Katsu Curry Box 🌱🎃",
+            "description": "Naturally sweet pumpkin coated in breadcrumbs, paired with a KICKIN' KATSU SAUCE! 爆発的な風味",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Katsu Chicken Curry Box 💛",
+            "description": "Golden crispy coating wrapped around juicy, tender chicken strips served with a warming curry sauce. It’ll tantalise your taste buds!",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.69",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "No Beef Teriyaki Box 🌱",
+            "description": "Tender strips of plant based beef coated in our sweet and tangy teriyaki glaze. All leaf, no beef!",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.69",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Firecracker Chicken Box 🧨",
+            "description": "Explosion of flavours, with tender salt &amp; chilli chicken drenched in our sweet and fiery chilli sauce!",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.69",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Soy-Mazing Chicken Box 🖤",
+            "description": "Soy-Mazing Chicken Box",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.69",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Salted Caramel Chilli Prawns Box 🍤",
+            "description": "Salted Caramel Chilli Prawns Box",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.69",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chinese Chicken Curry Box 🇨🇳",
+            "description": "Warming Chinese chicken curry, where tender chicken strips mix with bold spices and vibrant flavours. It's the OG for a reason...",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "🥟 Sides 🥟",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Salt &amp; Pepper Potatoes 🧂🌶🌱",
+            "description": "Potato bites fried to perfection, tossed in our signature salt and pepper combo for an epic taste explosion.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mini Veg Spring Rolls (5) 🌱",
+            "description": "5 crispy veggie spring rolls ! DIP EM', DUNK EM' and let the good times ROLL!",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Prawn Crackers - Delivery Bag",
+            "description": "Light and airy crunchy prawn crackers. Perfect for pairing with our delicious dips!",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "10 Mini Chicken Balls",
+            "description": "10 delicious bite-sized crispy chicken balls made from 100% chicken breast",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crispy Veggie Gyoza (3)🥟🌱",
+            "description": "Crispy pockets filled with seasoned veggie goodness! Made for some deep dipping",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Katsu Chicken Strips (3) 💛",
+            "description": "Finger-lickin’ tender chicken strips coated in golden breadcrumbs…dip and devour!",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.75",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "🥢 Extras 🥢",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Go Large! Vegetable Chow Mein (Noodles) (VG) 🌱",
+            "description": "Noodles wok-fried with veggies in our savoury umami sauce",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Go Large! Egg-Fried Rice",
+            "description": "Your tasty go-to egg-fried rice for anytime cravings ⭐ New Recipe with Garlic and Ginger! ⭐",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Extra Caramel Drizzle Chicken 🍯",
+            "description": "Juicy chicken in a sweet, sticky caramel glaze that hits different. GET SOME DRIZZZ!",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Extra Salt &amp; Pepper Chicken 🧂🌶",
+            "description": "Crispy golden chicken pieces, tumbled in our signature mix of salt, pepper, garlic, chilies, onions and some LIP SMACKIN' ATTITUDE",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Extra Chinese Chicken Curry 🇨🇳",
+            "description": "Warming Chinese chicken curry, where tender chicken strips mix with bold spices and vibrant flavours. It's the OG for a reason...",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Extra Pumpkin Katsu Curry (VG) 🌱🎃",
+            "description": "Naturally sweet pumpkin coated in breadcrumbs, paired with a KICKIN' KATSU SAUCE! 爆発的な風味",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Extra Sweet &amp; Sour Chicken 🧡",
+            "description": "Chicken bites tossed in a sweet and tangy fruity sauce, bejazzled with bell peppers! PURE SAUCEMNOIUS!",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Go Large! Skinny Cauliflower Rice (VG)🌱",
+            "description": "Low-carb, guilt free cauliflower rice",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Extra No Beef Teriyaki 🌱",
+            "description": "Tender strips of plant based beef coated in our sweet and tangy teriyaki glaze. All leaf, no beef!",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Extra Firecracker Chicken 🧨",
+            "description": "Explosion of flavours, with tender salt &amp; chilli chicken drenched in our sweet and fiery chilli sauce!",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Extra Katsu Chicken Curry 💛",
+            "description": "Golden crispy coating wrapped around juicy, tender chicken strips served with a warming curry sauce. It’ll tantalise your taste buds!",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Extra Soy-Mazing Chicken 🖤",
+            "description": "Extra Soy-Mazing Chicken",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Extra Salted Caramel Chilli Prawns 🍤",
+            "description": "Salted Caramel Chilli Prawns",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.60",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "🥢 Sharer Boxes 🥢",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Mini Chicken Balls Sharer Box",
+            "description": "Delicious bite-sized crispy chicken balls made from 100% chicken breast",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Spring Rolls Sharer Box - VG (15)",
+            "description": "15 crispy veggie spring rolls! DIP EM', DUNK EM' and let the good times ROLL!",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Katsu Chicken Strips Sharer Box (10) 💛",
+            "description": "Finger-lickin’ tender chicken strips coated in golden breadcrumbs…dip and devour!",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crispy Veggie Gyoza Sharer Box (10)🥟🌱",
+            "description": "Crispy pockets filled with seasoned veggie goodness! Made for some deep dipping",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.70",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "💥 Dips 💥",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Katsu Curry Sauce 💛",
+            "description": "Aromatic  ✨",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sweet Chilli Dip ❤️",
+            "description": "Tangy and sweet",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Firepit Mayo Dip 🧡",
+            "description": "Sizzling and spicy",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chinese BBQ Dip 💜",
+            "description": "Smoky and deep",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Light Soy Sauce 🖤",
+            "description": "Light and umami",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sweet Caramel Dip 🤎",
+            "description": "Gooey and sweet",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "🥠 Sweet Treats 🥠",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "2 Apple Pie Rolls with Sweet Caramel Dip 🍏",
+            "description": "2 flaky rolls bursting with a sweet apple filling, served with our caramel dip",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "5 Apple Pie Rolls with Sweet Caramel Dip 🍏",
+            "description": "5 flaky rolls bursting with a sweet apple filling, served with our caramel dip",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "🥤 Drinks 🥤",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Pepsi Max Cherry (330ml) 🍒",
+            "description": "Pepsi Max Cherry (330ml)",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.19",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pepsi Max (330ml)",
+            "description": "Pepsi Max (330ml)",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.19",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "7 UP Free (330ml) 🍋",
+            "description": "7UP (330ml)",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.19",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Diet Pepsi (330ml)",
+            "description": "Diet Pepsi (330ml)",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.19",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tango Orange (330ml) 🍊",
+            "description": "Tango Orange (330ml) Sugar Free",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.19",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pepsi (330ml)",
+            "description": "Pepsi (330ml)",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.19",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Water (500ml)",
+            "description": "Water (500ml)",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.89",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Red Bull Energy Drink",
+            "description": "Red Bull Energy Drink",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Red Bull Sugar Free Pink Edition",
+            "description": "Red Bull Sugar Free Pink Edition",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.15",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Red Bull Watermelon Edition",
+            "description": "Red Bull Watermelon Edition",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.15",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

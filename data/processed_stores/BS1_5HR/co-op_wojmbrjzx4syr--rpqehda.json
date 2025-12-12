@@ -1,0 +1,863 @@
+{
+  "restaurant_id": "coopbristolcoronationroad-BS31RF-51",
+  "source_id": "5a82666e-b259-5f84-b247-efab3ea78774",
+  "restaurant_url": "https://www.ubereats.com/store/co-op-bristol-coronation-road/WoJmbrJZX4SyR--rPqeHdA",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:12:31.324Z",
+  "restaurant": {
+    "name": "Co-op (Bristol - Coronation Road)",
+    "slug": "co-op-bristol-coronation-road",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441179632675",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "171-179 Coronation Road, Bristol, EMEA BS3 1RF",
+    "streetAddress": "171-179 Coronation Road",
+    "addressCity": "bristol-eng",
+    "neighborhood": "spike-island-bristol-eng",
+    "addressRegion": "EMEA",
+    "postalCode": "BS3 1RF",
+    "addressCountry": "GB",
+    "latitude": 51.4458616,
+    "longitude": -2.6102054,
+    "geohash": "gcnhst",
+    "etaRange": "170–190 Min",
+    "ratingAvg": 4.7,
+    "totalReviews": "900+",
+    "workingHours": "Open until 2:14 AM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Supermarket",
+      "Grocery",
+      "Alcohol",
+      "Convenience",
+      "Everyday Essentials",
+      "Snacks",
+      "Specialty Foods",
+      "Beauty Supply",
+      "Pharmacy",
+      "Personal Care"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Every Day",
+      "hours": [
+        {
+          "open": "07:30",
+          "close": "21:44",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Back To Routine offers",
+      "items": [
+        {
+          "id": "546dab1e-212a-55f4-b2e9-b47486fb4583",
+          "name": "Co-op Small, Fairtrade Bananas",
+          "description": "N/A",
+          "price": "£1.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 125,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/60bfeee178fb139c91e0d8c407ccbb4b/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "315c01e6-2b37-5d27-b9d5-41b16391f50b",
+          "name": "Co-op M, Free Range Eggs (6 pack)",
+          "description": "N/A",
+          "price": "£1.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 170,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/70ea9d7a0bf32d6dabdd556a88c1878b/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "eb431b02-4c76-5b29-b9fc-977279612275",
+          "name": "Co-op Whole Milk (2.27L)",
+          "description": "N/A",
+          "price": "£1.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 185,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/24b5249f72c29b28d22ac858513237bb/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3312b6b8-1997-55d9-b17d-a11c403024c9",
+          "name": "Co-op Bakery White Toastie (800g)",
+          "description": "N/A",
+          "price": "£0.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 85,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ef30862736f6788de3d6c68f4850612d/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "041de948-b1f4-5354-a18b-2b059d3d827c",
+          "name": "Co-op Greek Style Natural Yogurt (500g)",
+          "description": "N/A",
+          "price": "£1.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 140,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/efdb3cda59adf74059adba5968ed51b5/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "428cf81c-4695-5a2c-84c5-9e24f01ef79e",
+          "name": "Co-op British Outdoor Bred Thin Sliced Honey Roast Ham (100g)",
+          "description": "N/A",
+          "price": "£1.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 140,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6a20152a0806c6297d981e3875d5444c/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ec492848-7aec-5762-ace0-f9724502bb6e",
+          "name": "Co-op Italian Mozzarella (225g)",
+          "description": "N/A",
+          "price": "£1.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 130,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c6e311e296c264660a61af937ff6f800/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b3e02ba7-d2eb-5410-a0a9-ca61ece1759f",
+          "name": "Co-op Semi-Skimmed Milk (2.27L)",
+          "description": "N/A",
+          "price": "£1.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 185,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e645788242a9f7123444a67c72756755/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4de2dcf4-a4ff-5405-afbb-9ed3687eae96",
+          "name": "Co-op Thin Sliced Chicken (8 pack)",
+          "description": "N/A",
+          "price": "£1.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 140,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ede98173c0ceeb1a4cb9bac19f4afdd4/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "07fd30c7-d1fb-5fff-9510-f7b0aea7d798",
+          "name": "Wildlife Assorted, Variety Choobs Kids Yoghurt Tubes (6 x 37g)",
+          "description": "N/A",
+          "price": "£1.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 135,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b202032c71b94fc6befa8099bd47dea2/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "eaf37cef-49d6-5f15-aaba-5abf76cec99a",
+          "name": "Co-op Bakery Pains Au Chocolate (4 pack)",
+          "description": "N/A",
+          "price": "£2.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 235,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c2b5a47d0604c56bc55b72c48e54af8d/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8866d1dd-7387-54d2-bed3-87e1e9fea2e5",
+          "name": "Co-op Snack Watermelon Wedges (200g)",
+          "description": "N/A",
+          "price": "£1.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 150,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/81cd11e98dd33f99780c6688140c9993/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8de1eae2-b6aa-5ca8-88c3-7815fae67bf5",
+          "name": "Lucozade Orange, Energy Drink (4 x 380ml)",
+          "description": "N/A",
+          "price": "£4.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 410,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/da85bfa969116291fd6a92a3d84a8a9e/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "aae24389-dcfc-5acf-a6b8-70a8c22446a7",
+          "name": "Co-op Mild Cheddar Cheese (400g)",
+          "description": "N/A",
+          "price": "£3.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 385,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0c038d119644df67d5535138363853cf/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "590465e9-333b-55ef-a526-40bc5acc729f",
+          "name": "Co-op Irresistible All French Butter Croissants (293g)",
+          "description": "N/A",
+          "price": "£2.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 290,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0dcdd4b3ebd490c6b570f953b5ff9b0b/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Bakery and Cakes",
+      "items": [
+        {
+          "id": "a46d0132-0cab-5f32-b533-f456e64a3588",
+          "name": "Warburtons Crumpets (6 pack)",
+          "description": "N/A",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/df043880031229239a434081a3713295/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ea0c2863-3aaf-5431-b36c-9939cf6553ad",
+          "name": "Co-op Plain Tortilla Wraps (8 pack)",
+          "description": "N/A",
+          "price": "£1.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 160,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a5be69eb8a677b9f4b947c6a8f784d76/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "95e06077-c1ed-571e-8011-a6a19dc58fb2",
+          "name": "Co-op Vanilla, Irresistible Hand Finished Victoria Sponge Cake",
+          "description": "N/A",
+          "price": "£4.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 405,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/76aa0620cfc9d97e5d0aade87c3686ea/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "241c9b63-84d2-560e-b7a5-c772e897be82",
+          "name": "Co-op Blueberry, Bakery Muffins (4 pack)",
+          "description": "N/A",
+          "price": "£2.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 235,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2e5a94cd8883062abdda27bdafbfc22f/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "61d756fa-8985-58c1-bebe-b85f59739d6c",
+          "name": "Co-op Sliced Tiger Bloomer White Bread (800g)",
+          "description": "N/A",
+          "price": "£1.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 165,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/094d04b8681580d705c641d2b4e3ffdc/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "eaf37cef-49d6-5f15-aaba-5abf76cec99a",
+          "name": "Co-op Bakery Pains Au Chocolate (4 pack)",
+          "description": "N/A",
+          "price": "£2.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 235,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c2b5a47d0604c56bc55b72c48e54af8d/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3312b6b8-1997-55d9-b17d-a11c403024c9",
+          "name": "Co-op Bakery White Toastie (800g)",
+          "description": "N/A",
+          "price": "£0.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 85,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ef30862736f6788de3d6c68f4850612d/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a97639fe-69c0-5163-8048-e34398b94573",
+          "name": "New York Bakery Co. the Original Bagels Fresher For Longer (5 pack)",
+          "description": "N/A",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b06585311dda68d7d8ab86243f8b5fe3/d8f60faa0bdb47e41df331ee0e7d84f8.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2896ae74-46bc-594e-9aa7-221e77bce870",
+          "name": "Co-op Happy Easter Hot Cross Buns (6 pack)",
+          "description": "N/A",
+          "price": "£1.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 185,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d0f0747833fb037fa6d61727c11a78a7/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e05430ab-806f-5473-85b4-733eaaeb675c",
+          "name": "Co-op Irresistible Hand Finished White Sourdough Bread (500g)",
+          "description": "N/A",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ab602c4a175d73b94904512ed6b2572a/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "055a79eb-145a-58b4-a9b4-1e7c12d287a0",
+          "name": "Warburtons Potato Cakes (6 pack)",
+          "description": "N/A",
+          "price": "£1.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 135,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/89b48a9ac5e3f2cca58bc10db9f8c1e5/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "40069a6b-610b-5517-b9c4-17f402251a87",
+          "name": "Warburtons Seeded Protein Thin Soft & Sliced Bagels (4 pack)",
+          "description": "N/A",
+          "price": "£2.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 210,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8c3e22dcd9e1eba869cc5f5d1a77b51c/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9d492cae-baaa-56e5-a49a-b90ea8e13301",
+          "name": "Warburtons Toastie Soft Thick White Bread (800g)",
+          "description": "N/A",
+          "price": "£1.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 160,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f3638105b7112e6ab2781bcad55463a7/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "590465e9-333b-55ef-a526-40bc5acc729f",
+          "name": "Co-op Irresistible All French Butter Croissants (293g)",
+          "description": "N/A",
+          "price": "£2.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 290,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0dcdd4b3ebd490c6b570f953b5ff9b0b/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4bd12947-24f9-59b0-807e-3536385473cc",
+          "name": "Warburtons White Soft Pittas (4 pack)",
+          "description": "N/A",
+          "price": "£1.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 140,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ce84333a62b8cca3714edddfabe16eed/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "In-Store Bakery",
+      "items": [
+        {
+          "id": "41d0041d-ea68-541c-8c7d-91361432e2d1",
+          "name": "Co-op Custard, Bakery Ball Doughnuts (4 pack)",
+          "description": "N/A",
+          "price": "£1.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 135,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d2105f0fdab2bf4a1b02b98ef4e0e32b/0e5313be7a8831b8ed60f8dab3c2df10.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f5a0a3e9-ff19-5234-97bd-01aa28116299",
+          "name": "Co-op White Chocolate Chunks Cookies (5 pack)",
+          "description": "N/A",
+          "price": "£1.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 190,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0f0e16a11a1a813a4ce9610e459ed837/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f060718a-4e30-53fe-ba2c-d7aef00786e7",
+          "name": "Co-op Milk Chocolate Chunk Cookies (5 pack)",
+          "description": "N/A",
+          "price": "£1.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 190,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0045f2b7118a55d499a5790b47fb632c/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "21b19cac-31a4-5b86-9fab-7e2ae049af58",
+          "name": "Co-op Double Chocolate Bakery Cookies",
+          "description": "N/A",
+          "price": "£1.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 190,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/211a79b0ebdfd365983feb6dc0db4a03/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "222883a3-ef38-5425-87d6-145a0068c712",
+          "name": "Co-op Bakery Jam Ball Doughnuts (4 pack)",
+          "description": "N/A",
+          "price": "£1.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 135,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c24cb6a6e2e4a46e85b7ef7acef7c841/0e5313be7a8831b8ed60f8dab3c2df10.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cdb6f23d-b4a2-57c7-82c8-ac668ab83f7b",
+          "name": "Co-op Belgian Chocolate, Irresistible Triple Chocolate Cookies (4 pack)",
+          "description": "N/A",
+          "price": "£2.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 235,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/57c59e56c875bc59f629a69481aeed79/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1242dff4-53a3-57c1-8ab7-69ec09f59dc4",
+          "name": "Co-op British Cream Chocolate Eclairs (2 pack)",
+          "description": "N/A",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f764712f7a3fb07ac0f204225cb498ae/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "37a076b3-cd3e-5cac-820d-067dbe336c4a",
+          "name": "Co-op Lemon, Bakery Belgian Buns (2 pack)",
+          "description": "N/A",
+          "price": "£2.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 230,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ad9dfaf96a4e5578cf22d1770a1b5fd3/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "08036431-1215-54fd-9fd7-5982c6a589e4",
+          "name": "Co-op Oat & Raisin Cookies",
+          "description": "N/A",
+          "price": "£1.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 190,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a87b4b5a2046090d24e70b3d8b32f01b/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3ff9b2f1-3b49-542a-83a5-6b5dd0000581",
+          "name": "Popdots Sharing Moments Stracciatella Bomb Dessert (5 pack)",
+          "description": "N/A",
+          "price": "£1.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 165,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3533b7231c68f47d3f82d9b233418d20/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9473ad47-f9db-5382-9fa5-508731eae0bc",
+          "name": "Co-op Bakery Cornflake Cluster Bites (18 pack)",
+          "description": "N/A",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9e1d5e66c30c97ae93a92553aa444786/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Soft Drinks",
+      "items": [
+        {
+          "id": "bdd2829d-0196-5c6d-a825-66ba4ed9a967",
+          "name": "Co-op Still Natural Mineral Water (2L)",
+          "description": "N/A",
+          "price": "£0.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 90,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/30c498bee9ce13c815b464a70a66b43a/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e0af5582-34d1-56ad-a0a4-b52cd88f8588",
+          "name": "Coca-Cola Zero Sugar Soft Drink (1.25L)",
+          "description": "N/A",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/001d4a9bcb3cdecbe019131acda1152e/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "390028d9-23bf-5eb8-878d-ad525a6909bd",
+          "name": "Co-op Strawberry -Kiwi, Still Spring Water (1L)",
+          "description": "N/A",
+          "price": "£0.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 90,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1dd3cea2d5e4c5f434895f417f03c966/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5387c554-8c09-59fd-92aa-58175f4e9dd6",
+          "name": "Co-op Pure Apple Juice (3 x 200ml)",
+          "description": "N/A",
+          "price": "£1.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 185,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/978e06843885f67ab3b0b1638bf35964/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e314175d-0c5f-5b96-8aa8-fc151b67777e",
+          "name": "Co-op Natural Mineral Water Still (5L)",
+          "description": "N/A",
+          "price": "£1.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 165,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4c1d5bba52ab1cb549519e16723113ff/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "88ff6d98-876d-5767-9d79-3f7233d5be85",
+          "name": "Co-op Lemonade, Diet Sparkling (2L)",
+          "description": "N/A",
+          "price": "£0.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 75,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/546aa484857ac7db92627e478a2300b8/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f7dc8aac-ff27-571f-a089-fac7b08fdff8",
+          "name": "Ocean Spray Cranberry Juice Drink (1L)",
+          "description": "N/A",
+          "price": "£2.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 215,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/32873e86127d4c9479b2eb317b135dbb/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7e3865da-bcdd-525c-a10d-139b88743738",
+          "name": "Co-op Squash Orange Juice (750ml)",
+          "description": "N/A",
+          "price": "£2.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 205,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2dfee43a949c3e250e5e6b8aed3e5c30/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "929adec3-26c4-578b-a46a-ff0eefbf0074",
+          "name": "Evian Natural Mineral Water (1.5L)",
+          "description": "N/A",
+          "price": "£1.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 155,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/47052063f56bed4344e8298336173cc8/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "473ee7ba-cbca-5c45-848e-d16db6b6fabe",
+          "name": "Co-op Sparkling Lemonade (2L)",
+          "description": "N/A",
+          "price": "£0.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 90,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/04b005e5dd394201fc8dd68dbe52acbc/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "06cc31d2-6f63-5d8a-84fd-5ea74814bedb",
+          "name": "Co-op Summer Fruits, Naturally Fruity Still Spring Water (1L)",
+          "description": "N/A",
+          "price": "£0.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 90,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c0d8b8c623338db173d5b2e1853209d8/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "64c7c8b5-9b80-54c2-9ce7-8b251e2e2e2e",
+          "name": "Co-op Diet Ginger Ale (1L)",
+          "description": "N/A",
+          "price": "£0.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 90,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b72082cddfaee77b3ed933982a5c6a3d/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6b8fa128-9d6e-5b12-af0e-517783ff133f",
+          "name": "Co-op Lemon-Lime, Sparkling Spring Water (1L)",
+          "description": "N/A",
+          "price": "£0.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 90,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8a2ebe1df4af6e212cf461ae9e5c90d4/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "21d510d4-812a-5ed9-bbc7-cb37c607548d",
+          "name": "Nestle Pure Life Still Spring Water (12 x 500ml)",
+          "description": "N/A",
+          "price": "£2.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 290,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a207d06649d7049c3a9611ac1c5e7dba/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "15e56f07-e677-50e5-81bd-93e24c080096",
+          "name": "Pepsi Max Cola, No Sugar Soft Drink (2L)",
+          "description": "N/A",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/76491538a9e11d928ac9fe6d82a8f7d4/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Fresh Fruit, Veg and Salad",
+      "items": [
+        {
+          "id": "546dab1e-212a-55f4-b2e9-b47486fb4583",
+          "name": "Co-op Small, Fairtrade Bananas",
+          "description": "N/A",
+          "price": "£1.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 125,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/60bfeee178fb139c91e0d8c407ccbb4b/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1cd8e0f4-b488-528f-b277-f9c1b0c39fb0",
+          "name": "Co-op Seedless Red Grapes 450g",
+          "description": "N/A",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0dfc6441533e770f11f1cc66f46ff846/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a2bc41e9-0283-5ff3-ab43-2ca68e78205c",
+          "name": "Co-op Cucumber",
+          "description": "N/A",
+          "price": "£1.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 105,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/898a32428dfdeb34d0da2125cc998d55/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3bf729d8-4141-5649-96a2-523cd0579ee8",
+          "name": "Co-op Mashed Potato (400g)",
+          "description": "N/A",
+          "price": "£1.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 145,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/293e10d60d56edb976564233a8312532/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "63502f05-6d94-54a6-9241-cfed20ff2e5e",
+          "name": "Co-op Sweet & Crisp Royal Gala Apples",
+          "description": "N/A",
+          "price": "£2.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 215,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/89a3f891168b7e90267b93a7a3ae42f1/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "550b7351-5029-575f-8034-2126c94f08e3",
+          "name": "Co-op Grown in Britain Carrots (500g)",
+          "description": "N/A",
+          "price": "£0.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 50,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/445d8c633dcba02cba453bbae276c8f5/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7b2d547e-0b79-52df-912f-e349cfcb9416",
+          "name": "Co-op Loose Red Peppers",
+          "description": "N/A",
+          "price": "£0.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 75,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5c405fa12a944b2ba87c80ff05c4267d/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fa08bfdb-3a2f-514e-a81b-b86be2001947",
+          "name": "Co-op Root Mash (300g)",
+          "description": "N/A",
+          "price": "£1.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 185,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ceb9b898c4a47f3f464321e4c25a1914/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c5f136a4-1115-5faf-abdf-48b43cbcf5d6",
+          "name": "Co-op Grown in Britain Strawberries",
+          "description": "N/A",
+          "price": "£2.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 290,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/df548d5ed2f97dde25e1f41b9d04f3d9/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "05092793-66c6-5fa6-a1a4-146384cc710d",
+          "name": "Co-op Closed Cup Mushrooms (300g)",
+          "description": "N/A",
+          "price": "£1.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 125,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/06299840996520a6af09c1d5ff1614c8/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "563515fb-c6cc-5f60-9c61-93f77fc97ac7",
+          "name": "Co-op Irresistibe White Sliced Farmhouse Loaf (800g)",
+          "description": "N/A",
+          "price": "£2.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 210,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/38aed61271c3bea748acbd6e65e6b4d7/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "23d92b7a-3973-50a4-bdbf-2d92b1faa9b5",
+          "name": "Co-op Fairtrade Loose Bananas",
+          "description": "N/A",
+          "price": "£0.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 30,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dc02e62b2d2e0d631a40f5bbb8839117/d8f60faa0bdb47e41df331ee0e7d84f8.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cca5c704-90b5-5940-aa72-988678c3c0c5",
+          "name": "Co-op Green Broccoli (335g)",
+          "description": "N/A",
+          "price": "£0.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 95,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8740bbeb07563788800ca4a5897f4e0d/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "efffe8cd-ff0d-5d9e-950d-35145eb44eb8",
+          "name": "Co-op Blueberries (150g)",
+          "description": "N/A",
+          "price": "£2.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 265,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/26545d9fce941ea490f7716fbba10163/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ad99d8bf-bbb5-550c-8b8c-5859eb9743ae",
+          "name": "Co-op British Raspberries (150g)",
+          "description": "N/A",
+          "price": "£2.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 265,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/76d1d275f3de428688eff8d456041255/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-bristol/YGCsqLk2Uri3Ol-Y87QGmg",
+  "name": "Five Guys - Burgers, Fries &amp; Shakes - Bristol",
+  "servesCuisine": [
+    "Burgers",
+    "Comfort Food",
+    "BBQ",
+    "Desserts",
+    "Sandwiches",
+    "Sandwich"
+  ],
+  "priceRange": "₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/85318e81ea2151f9b8620d1f272c568a/19ec62ba51fde35ba0aff5b84321c5af.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/85318e81ea2151f9b8620d1f272c568a/c67d558c633281f9c71fc6a90ef470ae.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/85318e81ea2151f9b8620d1f272c568a/8681e511c0910e0052cb155c50f01f89.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/85318e81ea2151f9b8620d1f272c568a/6ea4f72e303000fbf403bbb36f971f85.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/85318e81ea2151f9b8620d1f272c568a/4bee0baf259f2b3c95aacdebea87e950.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/85318e81ea2151f9b8620d1f272c568a/5283d81c664b43c5f57a3a186d273063.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-bristol/YGCsqLk2Uri3Ol-Y87QGmg?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "EMEA",
+    "postalCode": "BS1 3BD",
+    "addressCountry": "GB",
+    "streetAddress": "U51a, Cabot Circus"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.4585342,
+    "longitude": -2.5846377
+  },
+  "telephone": "+442070973920",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.1,
+    "reviewCount": "2000"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "10:0",
+      "closes": "22:45"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "name": "Burgers",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Hamburger",
+            "description": "Two fresh high-quality beef patties hot off the grill, on a soft, toasted bun.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.15",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheeseburger",
+            "description": "Our regular two-patty burger with two slices of melted American cheese added.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon Burger",
+            "description": "Our regular two-patty burger layered with two strips of crispy, sweet apple-wood smoked bacon.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon Cheeseburger",
+            "description": "Two fresh high-quality beef patties, melted cheese with two strips of crispy, smoked bacon.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Little Hamburger",
+            "description": "One fresh high-quality patty hot off the grill, on a soft, toasted bun.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Little Cheeseburger",
+            "description": "Our single patty burger with a slice of melted American cheese added.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Little Bacon Burger",
+            "description": "Our single patty burger with two strips of crispy apple-wood smoked bacon.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Little Bacon Cheeseburger",
+            "description": "Our single patty burger with crispy, sweet apple-wood smoked bacon and a slice of melted American cheese.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.65",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Beef Dogs",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "All Beef Hot Dog",
+            "description": "Our All-beef Hotdog, split and grilled lengthwise for a caramelised finish.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese Dog",
+            "description": "Our All-beef Hotdog, topped with a slice of melted American cheese.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.55",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon Dog",
+            "description": "Our All-beef Hotdog with a layer of crispy, sweet apple-wood smoked bacon.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon Cheese Dog",
+            "description": "Our All–beef Hotdog with a layer of melted American cheese topped with crispy, sweet apple-wood smoked bacon.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.65",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sandwiches",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Veggie Sandwich",
+            "description": "Create your own Veggie Sandwich with any or all of our 15 free toppings.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese Veggie Sandwich",
+            "description": "Create your own Veggie Sandwich with any or all of our 15 free toppings. Then add melted American cheese.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Grilled Cheese",
+            "description": "An American classic done the Five Guys way. American cheese melted on an inside-out bun, toasted with a thin layer of mayo until golden brown.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "BLT",
+            "description": "A pile of our crispy, sweet apple-wood smoked bacon with fresh-cut, full-flavoured tomato and cool, crunchy lettuce on a toasted bun.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.25",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Kids Meal",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Kids Burger Meal",
+            "description": "A delicious Kids Meal featuring a juicy Little Hamburger (464 kcal), mini fries and Innocent Juicy Water!\nPlus a choice of 3 toppings.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Hot Dog Meal",
+            "description": "A delicious Kids Meal featuring our Beef Hot Dog (483 kcal) and mini fries and Innocent Juicy Water!\nPlus a choice of 3 toppings.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Grilled Cheese Meal",
+            "description": "A delicious Kids Combo featuring our grilled cheese sandwich plus mini fries!\nPlus a choice of 3 toppings.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Fries",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Little Five Guys Style",
+            "description": "Hot, fresh boardwalk-style fries. Cut fresh, cooked twice and salted. Our fries are cooked in pure, tasty peanut oil.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Five Guys Style",
+            "description": "Hot, fresh boardwalk-style fries. Cut fresh, cooked twice and salted. Our fries are cooked in pure, tasty peanut oil.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.15",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Five Guys Style",
+            "description": "Hot, fresh boardwalk-style fries. Cut fresh, cooked twice and salted. Our fries are cooked in pure, tasty peanut oil.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Little Cajun Style",
+            "description": "Our Five Guys Fries with a heavy dose of Cajun spice added. Our fries are cooked in pure, tasty peanut oil.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Cajun Style",
+            "description": "Our Five Guys Fries with a heavy dose of Cajun spice added. Our fries are cooked in pure, tasty peanut oil.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.15",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Cajun Style",
+            "description": "Our Five Guys Fries with a heavy dose of Cajun spice added. Our fries are cooked in pure, tasty peanut oil.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.95",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Milkshakes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Five Guys Shake",
+            "description": "Make Your Shake with our 11 free flavours to mix in. There are thousands of combinations to try. Or try our limited edition Bubblegum shake!",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.55",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Little Shake",
+            "description": "Make your shake with 11 free flavours to mix-in. There are thousands of combinations to try.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.55",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "NEW: Bubblegum",
+            "description": "Add some nostalgia to your order.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.55",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Coca-Cola Original Taste",
+            "description": "Coca-Cola Original Taste 500ml Bottle",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Diet Coke",
+            "description": "Diet Coke 500ml Bottle",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca-Cola Zero Sugar",
+            "description": "Coca-Cola Zero Sugar 500ml Bottle",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sprite",
+            "description": "Sprite 500ml Bottle",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fanta Orange",
+            "description": "Fanta Orange 500ml Bottle",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dr Pepper",
+            "description": "Dr Pepper 500ml Bottle",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Glaceau Smart Water",
+            "description": "Glaceau SmartWater 600ml Bottle",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Beers",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Corona",
+            "description": "Beer",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Brooklyn Beer",
+            "description": "Beer",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Budweiser",
+            "description": "Beer",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

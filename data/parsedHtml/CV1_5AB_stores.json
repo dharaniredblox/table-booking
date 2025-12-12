@@ -1,0 +1,710 @@
+{
+  "source": "UberEats",
+  "postalCode": "CV1_5AB",
+  "timestamp": "2025-09-15T09:57:16.906Z",
+  "count": 85,
+  "data": [
+    {
+      "name": "McDonald's®",
+      "rating": "4.0",
+      "reviewCount": "15,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mcdonalds-cross-cheaping/5f2v6clySKy1vW78QfElSA"
+    },
+    {
+      "name": "Greggs",
+      "rating": "4.2",
+      "reviewCount": "440+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-coventry-u4-code-building-fai/HzNN2rDBVyqpG0jk9lKVVA"
+    },
+    {
+      "name": "Morrisons",
+      "rating": "4.0",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-coventry/yvK-RGj3WIu0IOJjD4Ph-A"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.5",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-coventry-fairfax-street/XAMXc-ttV4me3X3hqkZnJg"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.2",
+      "reviewCount": "38",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-coventry-west-orchards/RUx5FBoLVsaTWpNA7owPdg"
+    },
+    {
+      "name": "ASDA",
+      "rating": "4.5",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/asda-coventry-jubilee/zZnngVIMV1GyDY-boiYmgw"
+    },
+    {
+      "name": "Burger King",
+      "rating": "4.2",
+      "reviewCount": "6,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burger-king-coventry-c6-dt/98NbT3wKQh6w3j5BBhxpng"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "4.0",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-coventry/WKqjGed5XU-Ab3FyFgA5dQ"
+    },
+    {
+      "name": "B's Batches",
+      "rating": "4.6",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bs-batches/rsYYjPPtTTmgC9F53zHfKQ"
+    },
+    {
+      "name": "Chopstix Noodle Bar",
+      "rating": "4.3",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chopstix-noodle-bar-coventry/eLjMiYwHSnyUzKDzIPnzLw"
+    },
+    {
+      "name": "Chaiiwala",
+      "rating": "4.1",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/chaiiwala-foleshill-road/t-HU6xxSTQ67GbfRg0gTRw"
+    },
+    {
+      "name": "One Stop Henley Green",
+      "rating": "4.6",
+      "reviewCount": "490+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-henley-green/XyxtdzwvUPiC21-x-w_dHQ"
+    },
+    {
+      "name": "Gopuff Groceries",
+      "rating": "4.7",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/gopuff-groceries-coventry/8HNiXIZqW6eTEgnnMgP2eA"
+    },
+    {
+      "name": "Get Stuffed",
+      "rating": "4.3",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/get-stuffed/3tQrA2pZSMKvnzjWVhnU6w"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.7",
+      "reviewCount": "310+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-coventry-lower-precinct/qjt0Xj97V5iwHG3E0OiOBA"
+    },
+    {
+      "name": "Costa Coffee",
+      "rating": "4.5",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/costa-coffee-coventry-gallagherrp/fRMxjlwISfijVBL26Yhabg"
+    },
+    {
+      "name": "Waitrose & Partners",
+      "rating": "4.7",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/waitrose-%26-partners-kenilworth/QLxLsMTWV1iN41s_oVOVRw"
+    },
+    {
+      "name": "Chaye Khana",
+      "rating": "4.2",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "25% off (Spend £35)"
+      ],
+      "url": "https://www.ubereats.com/store/chaye-khana/xqUt2qY1W6-Aexu2xEqzpg"
+    },
+    {
+      "name": "The Breakfast Box",
+      "rating": "4.5",
+      "reviewCount": "26",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/the-breakfast-box/Fek3p_-bU8mHcmGOpJ3qqQ"
+    },
+    {
+      "name": "The Steamhouse",
+      "rating": "4.4",
+      "reviewCount": "470+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-steamhouse-leamington-spa/8l7Njv6BVtiwON3R4B71Uw"
+    },
+    {
+      "name": "Karak Chaii Coventry",
+      "rating": "4.2",
+      "reviewCount": "50",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/karak-chaii-coventry/mSXV8baQXEmKre6rnAMuew"
+    },
+    {
+      "name": "Annai Express",
+      "rating": "4.0",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/annai-express/tEt8wxKZTGaPm8oC68mxow"
+    },
+    {
+      "name": "Morrisons Cafe",
+      "rating": "3.6",
+      "reviewCount": "88",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-cafe-coventry/2hU-l1mwW7q2BLV5895szA"
+    },
+    {
+      "name": "My Chai",
+      "rating": "3.9",
+      "reviewCount": "400+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/my-chai/sWmVMwHSWMminY3yHI-rEg"
+    },
+    {
+      "name": "Bakes Delight",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bakes-delight/x9IfcgTQT8S4oP2Okktfsg"
+    },
+    {
+      "name": "Lucky Lounge Cafe/Restaurant",
+      "rating": "4.7",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/lucky-lounge-cafe-restaurant/2BvIgwYIXgSikuV0gFNXQQ"
+    },
+    {
+      "name": "Morrisons Daily",
+      "rating": "4.5",
+      "reviewCount": "470+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-daily-coventry-green/SSRI6xYuQWacJDGKbW9odg"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.4",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/caffe-nero-coventry/DJXiEuNxSH6RByEPGTeEtA"
+    },
+    {
+      "name": "Sabins Sandwiches",
+      "rating": "4.8",
+      "reviewCount": "26",
+      "deliveryTime": "",
+      "offers": [
+        "£0 Delivery Fee (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/sabins-sandwiches/KQkkOv3wUEOMwn1DmJ1sGw"
+    },
+    {
+      "name": "Tamil's Taste of Asia",
+      "rating": "3.9",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tamils-taste-of-asia/GL32ETsdTge5mJ-5gr-Ifg"
+    },
+    {
+      "name": "Auntie Anne's",
+      "rating": "4.5",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/auntie-annes-west-orchards/5X8rc61WTPyn9kmHxNDUtA"
+    },
+    {
+      "name": "Finger Licking Kitchen & Jerk Centre",
+      "rating": "4.2",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/finger-licking-kitchen-%26-jerk-centre/h7fxlnzSSqSvoohkDPw5aQ"
+    },
+    {
+      "name": "Liangji Roll 良记卷饼",
+      "rating": "4.8",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/liangji-roll-良记卷饼-coventry/QednCqS9UJezwbf1IybNWQ"
+    },
+    {
+      "name": "Chai Green",
+      "rating": "4.8",
+      "reviewCount": "4",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/chai-green-coventry/sBeGw675V4yu4X4tPVRFig"
+    },
+    {
+      "name": "Sabins Sandwiches",
+      "rating": "4.7",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "offers": [
+        "£0 Delivery Fee (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/sabins-sandwiches/10Sb-da4XbqalINzajlySw"
+    },
+    {
+      "name": "Cafe 34",
+      "rating": "4.4",
+      "reviewCount": "91",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-34/ui7R3lJvV5qzwSuNLQiFYg"
+    },
+    {
+      "name": "Turtle Bay",
+      "rating": "4.1",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/turtle-bay-coventry/0QAZpXi5RIe7ogVl-JsWPg"
+    },
+    {
+      "name": "You Diner Cafe",
+      "rating": "4.2",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/you-diner-cafe/CszDHOe7RAOA9vqiaMw2rw"
+    },
+    {
+      "name": "Harvester",
+      "rating": "4.2",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/harvester-elms/9gZRhN5TTTq-5vJ5HI7oEg"
+    },
+    {
+      "name": "Bagel Brunch",
+      "rating": "4.2",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bagel-brunch/z9TR7lYBSna1MHp2YwFmPA"
+    },
+    {
+      "name": "Shawarma King",
+      "rating": "4.0",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shawarma-king/UQAlzUSGTCiH_Shh_OD3tw"
+    },
+    {
+      "name": "SJ's Cafe",
+      "rating": "4.7",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sjs-cafe/BYbvUzEtR2KyzRufQxvVrw"
+    },
+    {
+      "name": "The Coundon Hotel",
+      "rating": "3.6",
+      "reviewCount": "14",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-coundon-hotel-sizzling-pubs/HUue9b_xUGmMPglaZaJJAg"
+    },
+    {
+      "name": "Cocoa Caffe",
+      "rating": "4.0",
+      "reviewCount": "61",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/cocoa-caffe/dLeK5XNgQcO4eKz366BrlQ"
+    },
+    {
+      "name": "Standard Sweet Centre",
+      "rating": "4.4",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/standard-sweet-centre/e40gaV6tSsG9fX4c0tiGUg"
+    },
+    {
+      "name": "Scoffs",
+      "rating": "4.7",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/scoffs/wzz89zFlV5eIgbTrLniZxQ"
+    },
+    {
+      "name": "Street Caffe",
+      "rating": "4.6",
+      "reviewCount": "420+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/street-caffe/b5SV6Q8ASLa5qTlj-cYNMQ"
+    },
+    {
+      "name": "Burger Wraps & Co",
+      "rating": "4.2",
+      "reviewCount": "56",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/burger-wraps-%26-co/A60nhK59WXWoTZ24taPI7Q"
+    },
+    {
+      "name": "Jubilee Junction Breakfast Cafe",
+      "rating": "4.3",
+      "reviewCount": "490+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/jubilee-junction-breakfast-cafe/DTvQ1DZLR7WAZyMXUcFHbQ"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.6",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-stoneycroft/yMJV132yVV-ReY04vJ_3Og"
+    },
+    {
+      "name": "Londis",
+      "rating": "4.5",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/londis-black-prince-avenue/8HWhjf3YSiKTH7u8j-4Klw"
+    },
+    {
+      "name": "Sushi Gourmet",
+      "rating": "4.7",
+      "reviewCount": "81",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sushi-gourmet-canley/Dv5uefk2VW6lT3Wf5Exhfg"
+    },
+    {
+      "name": "Cafe Italia",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-italia/QVlcQMKoQEah7P8QoigrGg"
+    },
+    {
+      "name": "The Walsgrave",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-walsgrave-stonehouse-2025-coventry-walsgrave-road/bv3lVidrRw6UEnMzaR0pfA"
+    },
+    {
+      "name": "Cafe Mechanics",
+      "rating": "4.6",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-mechanics/1xv5CcQiXAiDsWB64y_iAA"
+    },
+    {
+      "name": "Mother Clucker Fried Chicken",
+      "rating": "3.0",
+      "reviewCount": "38",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mother-clucker-fried-chicken-coventry/pOaRGOu5V1G6tGO867vgLg"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.6",
+      "reviewCount": "5",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £30)"
+      ],
+      "url": "https://www.ubereats.com/store/pret-a-manger-leamington-spa/5vBMt23UVJ-tHYMONce5Ww"
+    },
+    {
+      "name": "Jenny's Restaurant",
+      "rating": "4.5",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/jennys-restaurant/C5rEgR9WRo6Lm8lSigx3ig"
+    },
+    {
+      "name": "HART + CO",
+      "rating": "4.6",
+      "reviewCount": "460+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/hart-%2B-co/uUHPBKxhQROFjIGZJy_BMQ"
+    },
+    {
+      "name": "Star Grill",
+      "rating": "4.7",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/star-grill/BCs2D2ZaRySPH8lrIuL-Zw"
+    },
+    {
+      "name": "Adore Bakery",
+      "rating": "4.5",
+      "reviewCount": "77",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/adore-bakery/25dhTbx0T-CXnpUmCffq0Q"
+    },
+    {
+      "name": "One Stop Stores Coventry Winsford Av",
+      "rating": "4.5",
+      "reviewCount": "2",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-stores-coventry-winsford-av/e0QnoT66VE-HYxOXONfpWQ"
+    },
+    {
+      "name": "Aruvi",
+      "rating": "4.0",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/aruvi/zm8QVInYX7qXODw7Dvf3iA"
+    },
+    {
+      "name": "Eatigo Fast Food",
+      "rating": "4.2",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/eatigo-fast-food/5g0BOjOOToWpoWmIA30WhQ"
+    },
+    {
+      "name": "Tesco Cafe",
+      "rating": "3.8",
+      "reviewCount": "38",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tesco-cafe-coventry-walsgrave/RhZOFPdMUTKYWCMJGzVeYA"
+    },
+    {
+      "name": "Royal Punjab Dhabba",
+      "rating": "4.1",
+      "reviewCount": "430+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/royal-punjab-dhabba/rs9QbFmkQUyPNYZtVF8ZxA"
+    },
+    {
+      "name": "Cake Box",
+      "rating": "4.5",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cake-box-daventry-road/qtIMp7rGULOed6HcfCSoLg"
+    },
+    {
+      "name": "Sushi Daily",
+      "rating": "4.6",
+      "reviewCount": "65",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sushi-daily-kenilworth/NVIc2iejUumI0FZazfayWA"
+    },
+    {
+      "name": "Coffee #1",
+      "rating": "4.7",
+      "reviewCount": "31",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/coffee-1-warwick/jt_GtD0-VrKpxFYaWzeYvQ"
+    },
+    {
+      "name": "Byron Burgers & Fries",
+      "rating": "2.9",
+      "reviewCount": "11",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/byron-burgers-%26-fries-coventry/qTnmzh6WV2CEnTdPa7dMVw"
+    },
+    {
+      "name": "Hop N Apple",
+      "rating": "4.7",
+      "reviewCount": "400+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/hop-n-apple/5g4ddOfAT56d8ZkDYyO2JA"
+    },
+    {
+      "name": "Karak Chaii®",
+      "rating": "4.1",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "£0 Delivery Fee (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/karak-chaii-leamington-spa/71dKXPp4UnaKtEphlA2Vmw"
+    },
+    {
+      "name": "AKN Superstore",
+      "rating": "4.7",
+      "reviewCount": "98",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/akn-superstore/K3meb7RETmm4NFOsHe_N8A"
+    },
+    {
+      "name": "Nisa Local",
+      "rating": "4.6",
+      "reviewCount": "60",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/nisa-local-longford/5LhP3UYlRL6g_BRZClsVQw"
+    },
+    {
+      "name": "Yum Yums Kebab Restaurant",
+      "rating": "3.8",
+      "reviewCount": "380+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yum-yums-kebab-restaurant/m-z6HjM-XZSlcWo_pdAdHw"
+    },
+    {
+      "name": "Seven days Local",
+      "rating": "4.8",
+      "reviewCount": "21",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/seven-days-local/KdNOiZVSXHOQmvXmqXD1Ww"
+    },
+    {
+      "name": "Afghan Village",
+      "rating": "4.1",
+      "reviewCount": "23",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/afghan-village/6i7Nm1C3VzKBc3EI8V1LYg"
+    },
+    {
+      "name": "Lp’s burger",
+      "rating": "4.1",
+      "reviewCount": "42",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/lps-burger/QODBmyQtUruSY_MkplPKug"
+    },
+    {
+      "name": "ROSEBUD CAFE",
+      "rating": "4.3",
+      "reviewCount": "45",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/rosebud-cafe/X6MMvuqTVk6Tn2V-UqUkig"
+    },
+    {
+      "name": "Loco Hillfields",
+      "rating": "4.6",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/loco-hillfields/kBWtPaTzTkC8D6fWaG3Ynw"
+    },
+    {
+      "name": "Premier halal butcher",
+      "rating": "4.9",
+      "reviewCount": "36",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/premier-halal-butcher/JLv21l9gVz6v5d7vOPWdHQ"
+    },
+    {
+      "name": "Cake Inn",
+      "rating": "4.4",
+      "reviewCount": "79",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cake-inn/MW27DH0pWBeiITuUpy022g"
+    },
+    {
+      "name": "Heavenly Desserts",
+      "rating": "4.1",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £25, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/heavenly-desserts-leamington-spa/OkzQWORpUDy9dmplVVdm0w"
+    },
+    {
+      "name": "Majestic Wine",
+      "rating": "4.9",
+      "reviewCount": "21",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/majestic-wine-leamington/6mYvXasVVPGirsFAO6A9wA"
+    },
+    {
+      "name": "Wingers Birmingham International",
+      "rating": "4.4",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wingers-birmingham-international/z3HqeY35VC-DDKsMdGChIA"
+    }
+  ]
+}

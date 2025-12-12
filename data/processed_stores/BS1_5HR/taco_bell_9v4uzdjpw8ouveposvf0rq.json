@@ -1,0 +1,1678 @@
+{
+  "restaurant_id": "tacobellbristol-BS81RE-51",
+  "source_id": "f6fe2ecd-d24f-5bc3-94bd-ea684af7f445",
+  "restaurant_url": "https://www.ubereats.com/store/taco-bell-bristol/9v4uzdJPW8OUvepoSvf0RQ",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:40:57.818Z",
+  "restaurant": {
+    "name": "Taco Bell - Bristol",
+    "slug": "taco-bell-bristol",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441172262545",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "64 Queens Road, Bristol, BS8 1RE",
+    "streetAddress": "64 Queens Road",
+    "addressCity": "bristol-eng",
+    "neighborhood": "clifton-bristol-eng",
+    "addressRegion": null,
+    "postalCode": "BS8 1RE",
+    "addressCountry": "GB",
+    "latitude": 51.456943,
+    "longitude": -2.6073722,
+    "geohash": "gcnhsx",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 3.9,
+    "totalReviews": "6000+",
+    "workingHours": "Open until 8:30 AM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Mexican",
+      "American",
+      "Fast Food",
+      "Tacos"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Every Day",
+      "hours": [
+        {
+          "open": "10:00",
+          "close": "04:00",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "New",
+      "items": [
+        {
+          "id": "80ad0c89-a280-5493-8617-e3d0066f42ea",
+          "name": "Loaded Fries Burrito",
+          "description": "Seasoned fries, seasoned beef, diced tomatoes, sour cream, creamy chipotle sauce, warm nacho cheese sauce, wrapped in a warm flour tortilla.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/296d9c78e362d0a732d3ed8aac7b4279/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b14cff04-6d16-5d06-9d75-dfb4bb7784fa",
+          "name": "Loaded Fries Burrito Meal",
+          "description": "Seasoned fries, seasoned beef, diced tomatoes, sour cream, creamy chipotle sauce, warm nacho cheese sauce, wrapped in a warm flour tortilla. Includes regular seasoned fries and a regular soft drink.",
+          "price": "£9.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 929,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ad471e6101945adc353b3a0fea9dc37c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1c116863-f8b7-5497-aa18-a4d1fb9c1012",
+          "name": "Loaded Fries Burrito Deluxe Box",
+          "description": "Seasoned fries, seasoned beef, diced tomatoes, sour cream, creamy chipotle sauce, warm nacho cheese sauce, wrapped in a warm flour tortilla. Includes a crunchy taco supreme, regular nachos/fries, churros & dip and a regular soft drink.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4ab456768007b1d62676ab54d69c77c6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "bb5082fb-4689-5dcd-9d0f-1b19c0ad61ab",
+          "name": "Loaded Fries Burrito Deluxe Meal for 2",
+          "description": "Includes 2x loaded fries burritos, 2x crunchy tacos, nachos or fries bell grande, 6x churros and 2x dips and a large bottle of drink. Perfect for a night in for two!",
+          "price": "£27.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/63f4b531066bd305772147573e7aef2a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "bb699c64-75c7-5325-925f-a5c9a9e24c13",
+          "name": "Deluxe Glazed Churros",
+          "description": "3x churros covered with cinnamon sugar, made with Milkybar® pieces and a condensed milk glaze",
+          "price": "£4.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 479,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/73023cc783b4afd156d2b55efbcbc3bb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "776f8cac-487a-59d2-8bf4-3b88b2b27b6e",
+          "name": "Deluxe Glazed Churros Sharer",
+          "description": "6x churros covered with cinnamon sugar, made with Milkybar® pieces and a condensed milk glaze",
+          "price": "£7.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 779,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/defc03952dd168e26619e7c96131c001/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Groups & Sharer Bundles",
+      "items": [
+        {
+          "id": "bb5082fb-4689-5dcd-9d0f-1b19c0ad61ab",
+          "name": "Loaded Fries Burrito Deluxe Meal for 2",
+          "description": "Includes 2x loaded fries burritos, 2x crunchy tacos, nachos or fries bell grande, 6x churros and 2x dips and a large bottle of drink. Perfect for a night in for two!",
+          "price": "£27.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/63f4b531066bd305772147573e7aef2a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "776f8cac-487a-59d2-8bf4-3b88b2b27b6e",
+          "name": "Deluxe Glazed Churros Sharer",
+          "description": "6x churros covered with cinnamon sugar, made with Milkybar® pieces and a condensed milk glaze",
+          "price": "£7.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 779,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/defc03952dd168e26619e7c96131c001/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "96d1eec1-ed9a-56a5-b312-89d27f318079",
+          "name": "Chicken Nachos Sharer",
+          "description": "20x Chicken Nachos. Add XL Nacho Cheese Sauce for just £2.49.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2a7b407ff4bc6e8d938136d064618cd9/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "90dd1b7d-0d85-57f4-9130-19dfe216166e",
+          "name": "Cravings Meal for 2",
+          "description": "Two Specialities, two crunchy beef tacos, two regular seasoned fries with nacho cheese sauce and two portions of cinnamon twists.",
+          "price": "£21.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cd2f9fa2929a9cae8a1b8c7743ce5ddc/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6332986d-75d3-51d3-8377-80eb05ceaa87",
+          "name": "Cravings Meal for 3",
+          "description": "Your choice of three Specialities, three Crunchy Beef Tacos, three regular Seasoned Fries with Nacho Cheese Sauce and three portions of Cinnamon Twists.",
+          "price": "£29.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d7eac1cf82217ae84f8019899c6fb9ae/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8edccd54-fe6f-5077-af59-b795155ddfe1",
+          "name": "Churros Sharer",
+          "description": "6 crunchy dough swirls covered with cinnamon sugar, served with 2 Caramel sauce dips.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/852ba2c7ac79cef1842bf30be6dec878/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bf7af851-d1e2-5d51-9d3d-817258491330",
+          "name": "Cravings Meal For 4",
+          "description": "Your choice of four Specialties, four Crunchy Beef Tacos, two regular Seasoned Fries with Nacho Cheese Sauce, two regular Seasoned Nachos with Nacho Cheese Sauce, and two portions of Cinnamon Twists and two portions of Churros.",
+          "price": "£36.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/974eb4d23e447a51c87408cf7d9c51b0/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Meals",
+      "items": [
+        {
+          "id": "b14cff04-6d16-5d06-9d75-dfb4bb7784fa",
+          "name": "Loaded Fries Burrito Meal",
+          "description": "Seasoned fries, seasoned beef, diced tomatoes, sour cream, creamy chipotle sauce, warm nacho cheese sauce, wrapped in a warm flour tortilla. Includes regular seasoned fries and a regular soft drink.",
+          "price": "£9.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 929,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ad471e6101945adc353b3a0fea9dc37c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1c116863-f8b7-5497-aa18-a4d1fb9c1012",
+          "name": "Loaded Fries Burrito Deluxe Box",
+          "description": "Seasoned fries, seasoned beef, diced tomatoes, sour cream, creamy chipotle sauce, warm nacho cheese sauce, wrapped in a warm flour tortilla. Includes a crunchy taco supreme, regular nachos/fries, churros & dip and a regular soft drink.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4ab456768007b1d62676ab54d69c77c6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6e28e23a-2dd2-54b1-b2be-5baee6400ce7",
+          "name": "Build Your Own Deluxe Box",
+          "description": "Choice of 1 x Burrito or Specialty, Crunchy Taco, Regular Fries or Nachos, Churros & Dip, Can of drink.\n\nChoose from a Beefy Melt, Volcano Burrito, Crispy Chicken Burrito or Quesadilla.",
+          "price": "£12.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/33710afb4fb1863c20778f532d3aa270/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2984bbbd-2a07-5d2b-af71-cb3137e322ba",
+          "name": "Volcano Burrito Large Meal",
+          "description": "Seasoned beef, spicy lava sauce, crushed nacho chips, seasoned rice, cheddar cheese, and cool sour cream wrapped inside a grilled flour tortilla. Includes large seasoned fries and a 500ml drink.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f3cee093ce0812b06c6268d516b33f73/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d5efb23f-c9b4-58db-9818-a50989fbff08",
+          "name": "Volcano Burrito Regular Meal",
+          "description": "Seasoned beef, spicy lava sauce, crushed nacho chips, seasoned rice, cheddar cheese, and cool sour cream wrapped inside a grilled flour tortilla. Includes regular seasoned fries and a regular drink.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/26a707a175a88c01f334fcfd2c0835b1/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d916b01a-d17b-57e1-9edd-a30a144862e9",
+          "name": "2 Taco Supreme Large Meal",
+          "description": "Two Taco Supremes in crunchy or soft shell. Seasoned beef, crisp lettuce, cool sour cream, diced tomatoes and cheddar cheese in a taco shell. Includes large seasoned fries and a 500ml drink.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6e1a36417aa9ffa288faa1237c2ab013/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e8b40211-10cb-56ce-8f21-cb2a3cf7e863",
+          "name": "2 Taco Supreme Regular Meal",
+          "description": "Two Taco Supremes in crunchy or soft shell, with Nachos or Fries and drink",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/32469a7cd3a292916f19b5fe2592ff0c/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "cfdf0b7f-255f-59d3-b61c-7fbdd301faf9",
+          "name": "Chicken Quesadilla Large Meal",
+          "description": "Grilled chicken, creamy jalapeño style sauce and three cheese blend melted inside a grilled flour tortilla. Includes large seasoned fries and a 500ml drink.",
+          "price": "£10.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1069,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/20b18c1d8b8ec81534b3ac62e58634c6/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "cb3d2b39-8692-5259-abc4-a093cb410863",
+          "name": "Chicken Quesadilla Regular Meal",
+          "description": "Grilled chicken, creamy jalapeño style sauce and three cheese blend melted inside a grilled flour tortilla. Includes regular seasoned fries and a regular drink.",
+          "price": "£9.19",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 919,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/768ec9ad5ede301a193d28514b3aeba8/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "eab5d294-ee50-53f5-9d99-9c31a51a2ed1",
+          "name": "Beefy Melt Burrito Large Meal",
+          "description": "Seasoned Rice, Seasoned Beef, Nacho Cheese Sauce, Crushed Nachos, Three Cheese Blend, Sour Cream wrapped in a tortilla. Includes Regular Fries or Nachos and a 500ml drink.",
+          "price": "£10.39",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1039,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8d9138425ee1a58287759bf61fc5f674/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2e6883e0-c481-578c-81df-adf1ab7ddff1",
+          "name": "Beefy Melt Burrito Regular Meal",
+          "description": "Seasoned Rice, Seasoned Beef, Nacho Cheese Sauce, Crushed Nachos, Three Cheese Blend, Sour Cream wrapped in a tortilla. Served with Regular Fries or Nachos and a Regular Drink.",
+          "price": "£8.89",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 889,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/edfbc9be4b095f5d0bad0c21a2a6d999/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "0f7c477b-eee5-5649-a568-d457e261a162",
+          "name": "Crispy Chicken Burrito Large Meal",
+          "description": "Soft flour tortilla, two crispy chicken strips, creamy jalapeño style sauce, crisp lettuce, diced tomatoes and cheddar cheese. Includes large seasoned fries and a 500ml drink.",
+          "price": "£11.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1129,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/414cddf6316497354f9648ccb4d7a528/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4f38e95f-b0da-57a4-b197-26d920e34f68",
+          "name": "Crispy Chicken Burrito Regular Meal",
+          "description": "Soft flour tortilla, two crispy chicken strips, creamy jalapeño style sauce, crisp lettuce, diced tomatoes and cheddar cheese. Includes regular seasoned fries and a regular drink.",
+          "price": "£9.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 979,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ff8c9d823c157bf10b0fda5459f173c3/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1c2cc39c-ebb1-5e2c-8600-2626b6a0562a",
+          "name": "Crunchwrap Supreme® Large Meal",
+          "description": "Seasoned beef, crisp lettuce, diced tomatoes, cool sour cream, a crunchy tostada and nacho cheese sauce inside a warm, grilled, folded flour tortilla, for maximum portability. Includes large seasoned fries and a 500ml drink.",
+          "price": "£10.89",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1089,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/64114db306ad1eafa091e03a3ece49a6/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6dee38a1-dd68-5dfc-a3ac-61d7dee916c4",
+          "name": "Crunchwrap Supreme® Meal",
+          "description": "Seasoned beef, crisp lettuce, diced tomatoes, cool sour cream, a crunchy tostada and nacho cheese sauce inside a warm, grilled, folded flour tortilla, for maximum portability. Includes regular seasoned fries and a regular drink.",
+          "price": "£9.39",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 939,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0d94f133e218d24ecaf60b6d015fc110/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fdd36c7d-f941-5e8b-9e22-dcc8abdb9ccf",
+          "name": "Cali Chicken Bowl Meal",
+          "description": "Grilled chicken, black beans, seasoned rice, lettuce, tomatoes, a choice of Cali Ranch sauce or Lava sauce.  Includes regular Seasoned Fries and a regular Soft Drink.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/496027fdbb5b03d7d540a1c0eba98c89/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b39b3695-eff1-5f37-8c6f-f028e004fb16",
+          "name": "Naked Chicken Taco Large Meal",
+          "description": "Crispy chicken shell filled with crispy lettuce, diced tomatoes, 3 cheese blend and the choice of sauce. Includes large seasoned fries and a 500ml drink.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f5749e81fa168935464a1d296c107c50/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3f6a2a3b-edf0-580a-bd45-9807c2e72c5b",
+          "name": "Naked Chicken Taco Regular Meal",
+          "description": "Naked Chicken Taco - crispy chicken shell filled with crispy lettuce, diced tomatoes, 3 cheese blend and the choice of sauce - wiith regular seasoned fries and a regular drink.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6cf0b7ae1f55e519269233a2c9edcbff/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "56247729-bf75-59ac-85a0-d064cc50ef4c",
+          "name": "Chalupa Supreme Large Meal",
+          "description": "Two flatbread shells filled with seasoned beef, crisp lettuce, diced tomatoes, cool sour cream and three cheese blend. Includes large seasoned fries and a 500ml drink.",
+          "price": "£10.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1079,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d9a334b1b924536cdd742a6662033bdc/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fa962bfd-c348-5ae6-88cc-a3ef7514eaff",
+          "name": "Chalupa Supreme Regular Meal",
+          "description": "Two flatbread shells filled with seasoned beef, crisp lettuce, diced tomatoes, cool sour cream and three cheese blend. Includes regular seasoned fries and a regular drink.",
+          "price": "£9.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 929,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cec234b23357d261f6627f9d6dc94199/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6afca6dd-9015-502d-9c8a-9a99476a32ce",
+          "name": "Cheese Quesadilla Large Meal",
+          "description": "Creamy jalapeño style sauce and three cheese blend melted inside a grilled flour tortilla. Includes large seasoned fries and a 500ml drink.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1ff91a0c5c5b0d26d69be2ee29a02cb5/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b6ced21a-4a51-5dab-a522-41c092198f60",
+          "name": "Cheese Quesadilla Regular Meal",
+          "description": "Cheese Quesadilla, Regular Fries and a Regular drink",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e0738c4feb59534bf14536fbe821d9c3/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "82f42ae2-2fe4-52dc-9d1c-9b059a5a0639",
+          "name": "7 Layer Burrito Large Meal",
+          "description": "Black beans, seasoned rice, cool sour cream, guacamole, crisp lettuce, diced tomatoes and three cheese blend wrapped in a grilled flour tortilla. Includes large seasoned fries and a 500ml drink.",
+          "price": "£10.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1029,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e0967232fe6e2b561e72a77eadae4b69/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1f8a3ac8-0b22-5d20-ba3f-fd69aedd122b",
+          "name": "7 Layer Burrito Regular Meal",
+          "description": "Black beans, seasoned rice, cool sour cream, guacamole, crisp lettuce, diced tomatoes and three cheese blend wrapped in a grilled flour tortilla.  Includes regular seasoned fries and a regular drink.",
+          "price": "£8.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 879,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/525bdaab645702b07938da66448b72be/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "22800d17-9b85-547f-b9ae-d768a8b59076",
+          "name": "3 x Crispy Chicken Tender Large Meal",
+          "description": "Three Crispy Chicken Tenders, large seasoned fries and a 500ml drink.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4f69c8e29250283a2bdc61bfa6bb2929/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d190e86d-7387-569c-bf8c-8788c444dcd1",
+          "name": "3x Crispy Chicken Tender Regular Meal",
+          "description": "Three Crispy Chicken Tenders Combo meal, includes regular seasoned fries and a regular drink.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f839ee9cd36948bbd73f3642f57b993a/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "30adbf7c-8764-5218-aff6-fe720c421c7c",
+          "name": "5 x Crispy Chicken Tender Large Meal",
+          "description": "Five Crispy Chicken Tenders, large seasoned fries and a 500ml drink.",
+          "price": "£12.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cfa1baf33a17d9abb6d94a489d694a88/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "267b9829-c5b9-50e4-87fc-4b038b8b013a",
+          "name": "5x Crispy Chicken Tender Regular Meal",
+          "description": "Five Crispy Chicken Tenders Combo meal, includes regular seasoned fries and a regular drink.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7413318e65f1f0e8d57400bfd43dc9aa/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Specialities",
+      "items": [
+        {
+          "id": "3194d0ad-d5bd-52f6-a76e-a7cb777841e5",
+          "name": "Cali Chicken Bowl",
+          "description": "Grilled chicken, black beans, seasoned rice, lettuce, tomatoes, a choice of Cali Ranch sauce or Lava sauce",
+          "price": "£6.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 649,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/752770ab33e27a6dbeaa8db975eb3d4f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "bce24923-7951-54f6-8ddd-28e3d687b9b0",
+          "name": "Chicken Quesadilla",
+          "description": "Grilled chicken, creamy jalapeño style sauce and three cheese blend melted inside a grilled flour tortilla.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/13185987601d376674b4fdc5cf185585/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3cb50d57-023a-5de0-b5d0-ff31c0ccb469",
+          "name": "Crunchwrap Supreme®",
+          "description": "Seasoned beef, crisp lettuce, diced tomatoes, cool sour cream, a crunchy tostada and nacho cheese sauce inside a warm, grilled, folded flour tortilla, for maximum portability.",
+          "price": "£7.19",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 719,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b8c0de666653513980fa9b7651948b05/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a05adaa6-4e2e-537d-bc29-93b37fb0904f",
+          "name": "Cheesy Gordita Crunch",
+          "description": "Pillowy flatbread covered in melted cheese and wrapped around a crunchy taco shell filled with seasoned beef, crisp lettuce, cheddar cheese and Cali ranch sauce​.",
+          "price": "£4.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 479,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/89eb8644ced72e5adeadda85e04c3a06/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b55dfedb-ba44-5d6d-b91d-ccfebd3f8e5d",
+          "name": "Chalupa Supreme",
+          "description": "Chewy fried chalupa bread filled with seasoned beef, cool sour cream, crisp lettuce, three-cheese blend and diced tomatoes.",
+          "price": "£4.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 459,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1743681fa57dcd2bdba74a63694dd68c/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9f37fed3-d3ed-5804-b0b3-2fbdf7b00b39",
+          "name": "Cheese Quesadilla",
+          "description": "Creamy jalapeño style sauce and three cheese blend melted inside a grilled flour tortilla.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8e47f5dce0d997789d91da2936287e88/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cf9825ec-0251-5c9a-8dd3-6611380eb5e5",
+          "name": "Mini Chicken Quesadilla",
+          "description": "Grilled chicken, creamy jalapeño style sauce and three blend melted cheese inside a small flour tortilla.",
+          "price": "£3.89",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 389,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c1d383c253e5a51d464849e5282ea333/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Crispy Chicken",
+      "items": [
+        {
+          "id": "916cb5d4-b4e4-5200-9893-8ecc51a80622",
+          "name": "Crispy Chicken Burrito",
+          "description": "Two crispy chicken strips, creamy jalapeño style sauce, crisp lettuce, diced tomatoes and cheddar cheese wrapped inside a grilled flour tortilla.",
+          "price": "£7.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 749,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/968dd71218901a6a6800ba5e11079e0d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "0f7c477b-eee5-5649-a568-d457e261a162",
+          "name": "Crispy Chicken Burrito Large Meal",
+          "description": "Soft flour tortilla, two crispy chicken strips, creamy jalapeño style sauce, crisp lettuce, diced tomatoes and cheddar cheese. Includes large seasoned fries and a 500ml drink.",
+          "price": "£11.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1129,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/414cddf6316497354f9648ccb4d7a528/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4f38e95f-b0da-57a4-b197-26d920e34f68",
+          "name": "Crispy Chicken Burrito Regular Meal",
+          "description": "Soft flour tortilla, two crispy chicken strips, creamy jalapeño style sauce, crisp lettuce, diced tomatoes and cheddar cheese. Includes regular seasoned fries and a regular drink.",
+          "price": "£9.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 979,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ff8c9d823c157bf10b0fda5459f173c3/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e6664c9f-f94c-56ee-86e2-28342a86af1c",
+          "name": "Crispy Chicken Soft Taco",
+          "description": "Crispy chicken, Cali Ranch sauce, crisp lettuce and cheddar cheese inside a grilled flour tortilla.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/04c0a5c1441cce69667a74e97b6ba83f/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "0ac39806-7351-5108-8ad3-093f4182a189",
+          "name": "3x Chicken Nachos and Nacho Cheese Sauce",
+          "description": "Try the NEW Chicken Nachos! \n\n3x Chicken Nachos and a Nacho Cheese Sauce",
+          "price": "£2.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 279,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/387df61c141c5e641e6f59c604062376/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7e3ffa18-53d3-53bb-91f5-db51d140826c",
+          "name": "5x Chicken Nachos and Nacho Cheese Sauce",
+          "description": "Try the NEW Chicken Nachos! \n\n5x Chicken Nachos and a Nacho Cheese Sauce\nAvailable on their own or in a Deluxe Box!",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fdcfa5c23123f369c1bf2c21760a1c5a/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "96d1eec1-ed9a-56a5-b312-89d27f318079",
+          "name": "Chicken Nachos Sharer",
+          "description": "20x Chicken Nachos. Add XL Nacho Cheese Sauce for just £2.49.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2a7b407ff4bc6e8d938136d064618cd9/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a150a2f0-a79f-5ef2-8464-b4981e44133f",
+          "name": "2x Crispy Chicken Tenders",
+          "description": "Two Crispy Chicken Tenders",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c8f34ab2dc8adcb45f550277b4320c66/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a74f7c60-ccb1-55d9-9fe9-75f7d9443404",
+          "name": "3x Crispy Chicken Tenders and Dip",
+          "description": "Three Crispy Chicken Tenders with a choice of dip.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6bf0894b87338f9fb906355774882095/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6bf2d14f-bfe7-59df-b64d-24deea035e0d",
+          "name": "Regular Crispy Chicken Sharer",
+          "description": "Includes 3x Chicken Tenders and 4x Chicken Nachos",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0ef0843c0806f99043cb28273ac4945a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "16cb48a5-e769-5ce9-86c3-1fe65cf134d0",
+          "name": "5x Crispy Chicken Tenders and Dip",
+          "description": "Five Crispy Chicken Tenders with a choice of dip.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fe899e87cf304a7e8a398252f5fe9687/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9871622f-5b44-5815-bfca-b197092b4525",
+          "name": "Large Crispy Chicken Sharer",
+          "description": "Includes 6x Chicken Tenders and 12x Chicken Nachos",
+          "price": "£14.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f667fc402ba86194204df4553b258baa/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d190e86d-7387-569c-bf8c-8788c444dcd1",
+          "name": "3x Crispy Chicken Tender Regular Meal",
+          "description": "Three Crispy Chicken Tenders Combo meal, includes regular seasoned fries and a regular drink.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f839ee9cd36948bbd73f3642f57b993a/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "267b9829-c5b9-50e4-87fc-4b038b8b013a",
+          "name": "5x Crispy Chicken Tender Regular Meal",
+          "description": "Five Crispy Chicken Tenders Combo meal, includes regular seasoned fries and a regular drink.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7413318e65f1f0e8d57400bfd43dc9aa/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9e0e94a7-24d3-5c1a-bdf2-f3432bd9d3cd",
+          "name": "Naked Chicken Taco",
+          "description": "A crispy chicken shell filled with crispy lettuce, diced tomatoes, 3 cheese blend and the choice of Cali Ranch Sauce (Mild) or Lava Sauce (Wild)",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9b75028536f4de9d70d64153bf9774b0/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b39b3695-eff1-5f37-8c6f-f028e004fb16",
+          "name": "Naked Chicken Taco Large Meal",
+          "description": "Crispy chicken shell filled with crispy lettuce, diced tomatoes, 3 cheese blend and the choice of sauce. Includes large seasoned fries and a 500ml drink.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f5749e81fa168935464a1d296c107c50/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3f6a2a3b-edf0-580a-bd45-9807c2e72c5b",
+          "name": "Naked Chicken Taco Regular Meal",
+          "description": "Naked Chicken Taco - crispy chicken shell filled with crispy lettuce, diced tomatoes, 3 cheese blend and the choice of sauce - wiith regular seasoned fries and a regular drink.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6cf0b7ae1f55e519269233a2c9edcbff/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Tacos",
+      "items": [
+        {
+          "id": "8ab12e76-b766-583a-bbf0-8674c6954a41",
+          "name": "Crunchy Taco Supreme",
+          "description": "Seasoned beef, crisp lettuce, cool sour cream, diced tomatoes and cheddar cheese in a crunchy corn taco shell.",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/89467075a85e3d796c5d64b039621a3d/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "16d6c0db-b47b-5ae8-84b2-35e2ea7f6e4f",
+          "name": "Soft Taco Supreme",
+          "description": "Seasoned beef, crisp lettuce, cool sour cream, diced tomatoes and cheddar cheese in a soft flour tortilla.",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/417266657b489ca44efeca11cdcb74c7/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fb483ada-3d7e-5cf9-aabe-253c8f178181",
+          "name": "Crunchy Taco",
+          "description": "Seasoned beef, crisp lettuce and cheddar cheese inside a crunchy corn taco shell.",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/378b41cfe955c88974c00aa2c1454541/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f9676532-4340-5284-bdd6-a716921466e9",
+          "name": "Soft Taco",
+          "description": "Grilled chicken, crisp lettuce and cheddar cheese inside a soft flour tortilla.",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e9392164399fb37ad8a21baf1023f684/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e6664c9f-f94c-56ee-86e2-28342a86af1c",
+          "name": "Crispy Chicken Soft Taco",
+          "description": "Crispy chicken, Cali Ranch sauce, crisp lettuce and cheddar cheese inside a grilled flour tortilla.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/04c0a5c1441cce69667a74e97b6ba83f/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9e0e94a7-24d3-5c1a-bdf2-f3432bd9d3cd",
+          "name": "Naked Chicken Taco",
+          "description": "A crispy chicken shell filled with crispy lettuce, diced tomatoes, 3 cheese blend and the choice of Cali Ranch Sauce (Mild) or Lava Sauce (Wild)",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9b75028536f4de9d70d64153bf9774b0/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Burritos",
+      "items": [
+        {
+          "id": "80ad0c89-a280-5493-8617-e3d0066f42ea",
+          "name": "Loaded Fries Burrito",
+          "description": "Seasoned fries, seasoned beef, diced tomatoes, sour cream, creamy chipotle sauce, warm nacho cheese sauce, wrapped in a warm flour tortilla.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/296d9c78e362d0a732d3ed8aac7b4279/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "916cb5d4-b4e4-5200-9893-8ecc51a80622",
+          "name": "Crispy Chicken Burrito",
+          "description": "Two crispy chicken strips, creamy jalapeño style sauce, crisp lettuce, diced tomatoes and cheddar cheese wrapped inside a grilled flour tortilla.",
+          "price": "£7.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 749,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/968dd71218901a6a6800ba5e11079e0d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "766862d7-243f-53cf-955e-3b6949f7dfb4",
+          "name": "Beefy Melt Burrito",
+          "description": "Seasoned Rice, Seasoned Beef, Nacho Cheese Sauce, Crushed Nachos, Three Cheese Blend, Sour Cream wrapped in a tortilla.",
+          "price": "£6.39",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 639,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4e5efaa109c8cd2b068a663f415c66bc/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8e72a610-74bf-57b6-972a-52ad4facb342",
+          "name": "Volcano Burrito",
+          "description": "Seasoned beef, spicy lava sauce, crushed nacho chips, seasoned rice, cheddar cheese, and cool sour cream wrapped inside a grilled flour tortilla.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/53a2dd762244e80affd3ce8dd63197c2/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7afc0fe8-90d6-52cb-bf38-3a9045bee69b",
+          "name": "7 Layer Burrito",
+          "description": "Black beans, seasoned rice, cool sour cream, guacamole, crisp lettuce, diced tomatoes and three cheese blend wrapped in a grilled flour tortilla.",
+          "price": "£6.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 629,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a74fb0e9dbb967a1f02d90aaf97a3458/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1dcd23c2-3896-5597-9015-52dfadeaa8c6",
+          "name": "Double Cheesy Black Bean Cravings Burrito",
+          "description": "Black beans, seasoned rice, nacho cheese sauce, and cheddar cheese all wrapped inside a grilled flour tortilla.",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d10dbfdbcac4e0fd380a09ceba503d13/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f23ca6b7-73e4-56e7-bdde-85541399bac8",
+          "name": "Beefy Nacho Cravings Burrito",
+          "description": "Seasoned beef, warm nacho cheese sauce, crushed nacho chips wrapped inside a grilled flour tortilla.",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/52320b762d6bfc36f9063b3da10b4211/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "11f2c345-19cc-5f98-918d-7cf4e0cb4506",
+          "name": "Spicy Chicken Cravings Burrito",
+          "description": "Grilled chicken, jalapeños, cool sour cream wrapped inside a soft flour tortilla.",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b085003196817ca3164080c83c151797/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e1969b9b-692a-54e8-86d7-9f1d0a85d5e0",
+          "name": "Cheesy Roll-up",
+          "description": "A flour tortilla rolled up with a melted three cheese blend.",
+          "price": "£1.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2fa71278019374cf75bc29cf589a5dd1/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Fries",
+      "items": [
+        {
+          "id": "3973f74c-97e9-5557-b3c3-15ef76902948",
+          "name": "Seasoned Fries",
+          "description": "Seasoned Fries",
+          "price": "£2.19",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 219,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/50e617ad9964c421e18c5d1c84dcec11/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bbb86f25-d2d9-5987-bc15-4738b1ff384d",
+          "name": "Large Seasoned Fries",
+          "description": "Large Seasoned Fries",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/50e617ad9964c421e18c5d1c84dcec11/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1f7ce73f-7539-5a8a-8b34-4e10da640672",
+          "name": "Regular Seasoned Fries with Nacho Cheese Sauce",
+          "description": "Regular portion of Seasoned Fries with Nacho Cheese Sauce",
+          "price": "£3.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9cce5352cdeb3ff6db24bb983ab20487/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "30a64449-eec6-5f39-9ed8-8d271ebda099",
+          "name": "Large Seasoned Fries with Nacho Cheese Sauce",
+          "description": "Large portion of Seasoned Fries with Nacho Cheese Sauce",
+          "price": "£3.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 369,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9cce5352cdeb3ff6db24bb983ab20487/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "12e30c1d-58b3-5bb1-ab2d-b68d751b6ece",
+          "name": "XL Fries",
+          "description": "An XL portion of Seasoned Fries. 2x size of our Regular Fries",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2e428719172dd70a49f78de2bf77986b/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "acc433e1-8357-503f-b126-65cfdb271339",
+          "name": "Cheesy Topped Large Fries",
+          "description": "A large portion of seasoned fries topped with extra warm nacho cheese sauce and cool sour cream.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/11e1cb905dc31419cb18c8683ee6fa46/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "294b5ef1-4cfb-5799-88c6-30fa1cf2998e",
+          "name": "Fries Supreme",
+          "description": "A regular portion of seasoned fries topped with warm nacho cheese sauce, seasoned beef, diced tomatoes and cool sour cream.",
+          "price": "£5.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 549,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/538ab9eecef236330b1ff110695635c6/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "026faf2d-f31c-54d3-a0b1-7c70c384d8a3",
+          "name": "Fries BellGrande®",
+          "description": "A large portion of seasoned fries topped with extra warm nacho cheese sauce, seasoned beef, diced tomatoes and cool sour cream.",
+          "price": "£6.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 679,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8dc68e8694cda9a0f7f3e7b88f0082d7/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Sides and Sauces",
+      "items": [
+        {
+          "id": "cf9825ec-0251-5c9a-8dd3-6611380eb5e5",
+          "name": "Mini Chicken Quesadilla",
+          "description": "Grilled chicken, creamy jalapeño style sauce and three blend melted cheese inside a small flour tortilla.",
+          "price": "£3.89",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 389,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c1d383c253e5a51d464849e5282ea333/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e1969b9b-692a-54e8-86d7-9f1d0a85d5e0",
+          "name": "Cheesy Roll-up",
+          "description": "A flour tortilla rolled up with a melted three cheese blend.",
+          "price": "£1.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2fa71278019374cf75bc29cf589a5dd1/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "58b0765b-516f-557f-a4db-183c6d9dbec8",
+          "name": "Nacho Cheese Sauce",
+          "description": "N/A",
+          "price": "£1.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/836907cc3ea681fb5e920909b27cb752/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "aef8efd6-6131-5890-80fa-920a7bc3b734",
+          "name": "XL Nacho Cheese Sauce",
+          "description": "An XL portion of our fan fave Nacho Cheese sauce - THREE times bigger. Because why not?",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/faca494bf79577a12a943a19f8c4a2ac/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "df73df0b-85ea-5d2b-afdd-5a510617f9a6",
+          "name": "Nachos",
+          "description": "Nacho Chips",
+          "price": "£2.19",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 219,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d6c3317c422cc5d29caa4b1ff2e71829/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "eec920c0-da4b-5f11-884d-01e8d7a1374c",
+          "name": "Regular Nachos with Nacho Cheese Sauce",
+          "description": "Regular portion of Seasoned Nachos with Nacho Cheese Sauce",
+          "price": "£3.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ecc282ebc889fe427fbfc1c0cded2552/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e0d9e8f4-912a-54cf-ba9e-f617cb3f5ef6",
+          "name": "Large Nachos with Nacho Cheese Sauce",
+          "description": "N/A",
+          "price": "£3.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 379,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ecc282ebc889fe427fbfc1c0cded2552/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c82bef49-baa4-5b6c-88c0-fb4d37c70aac",
+          "name": "Cheesy Topped Large Nachos",
+          "description": "A large portion of seasoned nachos topped with extra warm nacho cheese sauce and cool sour cream.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5888998a0ccf67a9cf8074b8ed427d64/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "46a5331b-1750-5479-9576-7ff3cd0b5ef2",
+          "name": "Nachos BellGrande®",
+          "description": "A large portion of seasoned nachos topped with extra warm nacho cheese sauce, black beans, seasoned beef, diced tomatoes and cool sour cream.",
+          "price": "£6.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 679,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5e11ff7afe9a3930ea897cc24e81b63d/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5ef1dba0-aff5-54f2-a504-0a976f554c18",
+          "name": "Guacamole",
+          "description": "N/A",
+          "price": "£1.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f0ba7122c5b87410c3229de5f50c6bb5/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "680412b2-0dc5-5aaf-9211-24c66aeb8702",
+          "name": "Jalapeños",
+          "description": "N/A",
+          "price": "£1.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/65757b0ca485ad6a758ecb229166a9fc/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d0a9e76b-a0a6-5312-8b79-039be38b0dc4",
+          "name": "Seasoned Rice",
+          "description": "N/A",
+          "price": "£2.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 229,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6196b20175e8321637bf53f38602c52d/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b83b6ab4-142f-5fd9-96b8-2b4b115dedd2",
+          "name": "Sour Cream",
+          "description": "N/A",
+          "price": "£1.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bd9591f50874ebcb9716d4cc6ee70f3d/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e97798b6-89d0-5b10-8867-668762c42da6",
+          "name": "Black Beans",
+          "description": "N/A",
+          "price": "£2.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 229,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/12c40138b62edd4fb7d91560e049b10d/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "482e46d7-23fa-5a5e-93a2-220f856a1e79",
+          "name": "Creamy Jalapeno Dip",
+          "description": "N/A",
+          "price": "£0.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 59,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/223bf6b02ab8d30ae884922b8b9186ab/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e655add4-4582-513c-a383-f0f8a0a2750e",
+          "name": "Cali Ranch Dip",
+          "description": "N/A",
+          "price": "£0.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 59,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/daf80e41ab087a54683e56970c5be82b/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "237f77c9-8c01-5930-9637-ee081ace0582",
+          "name": "Lava Dip",
+          "description": "N/A",
+          "price": "£0.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 59,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9446d780975be7c1541d4d36427ced9f/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Drinks",
+      "items": [
+        {
+          "id": "07013b69-28cb-5c6a-a2e4-2e8da6be0af7",
+          "name": "Red Bull Energy Drink",
+          "description": "N/A",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c4352d22fa6760f5839f01565df3f799/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e6efc935-4e72-51e9-956f-30c2856be0ab",
+          "name": "Red Bull Zero",
+          "description": "Enjoy your wiiings without sugar!",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/89a2b0d3228fef596f5ae1fbf9e7b2cb/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "51c809da-b219-5b28-a317-ed26cd8544b0",
+          "name": "Red Bull Lilac",
+          "description": "Red Bull Energy Drink with the taste of Grapefruit & Blossom",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/77db4c4e2ee1788ed81ccb9263484e8d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "595e3da9-aa29-5d41-9a89-153b7f71d42e",
+          "name": "Pepsi Max 330ml",
+          "description": "N/A",
+          "price": "£2.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 229,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bec54dde6c1ee70c538e6101f8a5f7fd/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "16101b6f-79a4-56ba-aa59-797c591ab20e",
+          "name": "Pepsi 330ml",
+          "description": "N/A",
+          "price": "£2.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 229,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4d68b82774cefcf71334f4273bad958f/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d483945b-a91b-5229-8d0f-68d1bf0ebdd3",
+          "name": "Diet Pepsi 330ml",
+          "description": "N/A",
+          "price": "£2.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 229,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/15c5ab1bb84a4a9f3ac75a1bc841a2f2/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ae0112d5-4eaa-5f7a-9c96-0f1b02370c10",
+          "name": "Tango Orange 330ml",
+          "description": "N/A",
+          "price": "£2.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 229,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0d56446538e30b9c9dd7b87c2c3f7068/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6ee8c14c-2f15-5d2e-89d0-9b9d6e04f75c",
+          "name": "7UP Free 330ml",
+          "description": "N/A",
+          "price": "£2.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 229,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0537e017efddafdf1e19c2fa8138dff6/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "19961e4a-77fc-59f8-aef9-8951be442f3f",
+          "name": "Pepsi Max 500ML",
+          "description": "N/A",
+          "price": "£3.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 359,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6dcd842ffee2477d2eec5098c43b2c82/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3ac7cdaa-e768-52c8-9c0a-f5f55cb2cd3e",
+          "name": "Diet Pepsi 500ML",
+          "description": "N/A",
+          "price": "£3.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 359,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/01c377e3852c78d7406cf4f4676902fd/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0af8aa26-1acb-5c6b-95e1-a91582fca1ee",
+          "name": "Tango Orange 500ml",
+          "description": "N/A",
+          "price": "£3.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 359,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3561bebb559192da4b63d48954d70428/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b3098cc2-d0a6-5e1a-b132-1d199178c26f",
+          "name": "7UP Free 500ML",
+          "description": "N/A",
+          "price": "£3.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 359,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/39a15aad079e212f46f175df97c938e5/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4cafbf0f-882c-5b2a-a99c-3bc644f52bba",
+          "name": "Mountain Dew - Sugar Free 500ml",
+          "description": "N/A",
+          "price": "£3.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 359,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/26858597bd56b531b3583e8933836e69/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "23cd82f8-081e-55bb-b470-521b1144145a",
+          "name": "Bottled Water",
+          "description": "N/A",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aeb0800fa79058a48cf4974e6a5d75fa/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": true,
+          "hasCustomizations": false
+        },
+        {
+          "id": "94472bac-fb13-5ebf-934b-9d78a1a9f968",
+          "name": "Pepsi Max 1.5L",
+          "description": "N/A",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b04b99af6735a9f68fe3d903fc78421a/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5f08767a-15a8-57b6-a16d-ef79180049fd",
+          "name": "Pepsi 1.5L",
+          "description": "N/A",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/152877ac832be7b73b9606ed79963175/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "87e15d52-7517-5a05-8dc7-404dac46fd7b",
+          "name": "Diet Pepsi 1.5L",
+          "description": "N/A",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/01c377e3852c78d7406cf4f4676902fd/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1faf8c87-8e84-5cf9-bc17-db6755e1b3a0",
+          "name": "Tango Orange 1.5L",
+          "description": "N/A",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/96d337702eac13ecc6e98115f8c1a2ea/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6891529a-d606-576e-aa15-d6f6c37fbdc4",
+          "name": "7UP 1.5L",
+          "description": "N/A",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/021a906d7e51c1112f314063c1203fb0/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Desserts",
+      "items": [
+        {
+          "id": "bb699c64-75c7-5325-925f-a5c9a9e24c13",
+          "name": "Deluxe Glazed Churros",
+          "description": "3x churros covered with cinnamon sugar, made with Milkybar® pieces and a condensed milk glaze",
+          "price": "£4.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 479,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/73023cc783b4afd156d2b55efbcbc3bb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "776f8cac-487a-59d2-8bf4-3b88b2b27b6e",
+          "name": "Deluxe Glazed Churros Sharer",
+          "description": "6x churros covered with cinnamon sugar, made with Milkybar® pieces and a condensed milk glaze",
+          "price": "£7.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 779,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/defc03952dd168e26619e7c96131c001/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "604dc65a-b52f-548d-ab4a-dd755638abf6",
+          "name": "Cinnamon Twists",
+          "description": "A crunchy sweet treat dusted with cinnamon sugar.",
+          "price": "£1.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/263c9b6d649438e62d83fd0d049b0175/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4243dfa5-4af2-593a-a720-3a4f9c1169b7",
+          "name": "2 x Churros",
+          "description": "2 crunchy dough swirls covered with cinnamon sugar.",
+          "price": "£2.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 279,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2d8cc8ddeb59301b3908bf1f991cf524/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fd105909-afc8-50b0-8641-67472558d608",
+          "name": "2x Churros + Caramel Dip",
+          "description": "2 crunchy dough swirls covered with cinnamon sugar, and a dip of caramel sauce",
+          "price": "£3.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 379,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c7dac6311b28f01436bdc0c65f1272cd/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8edccd54-fe6f-5077-af59-b795155ddfe1",
+          "name": "Churros Sharer",
+          "description": "6 crunchy dough swirls covered with cinnamon sugar, served with 2 Caramel sauce dips.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/852ba2c7ac79cef1842bf30be6dec878/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e9e4d35d-2e5c-5873-9f4b-4b2c728a83b2",
+          "name": "Grande Cinnamon Twists (Serves 5)",
+          "description": "Crunchy sweet treats dusted with cinnamon sugar.",
+          "price": "£6.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 659,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0f43ddb330bba90c3dd0b1c7a1140ae7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e329dd9e-7ecf-516d-9bf3-0822bed88d18",
+          "name": "Caramel Sauce",
+          "description": "N/A",
+          "price": "£1.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/db2fa3114c030a67fef2e85cc30fb3d6/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Vegetarian",
+      "items": [
+        {
+          "id": "5214f738-3a7d-5b08-9664-ab47251ba92d",
+          "name": "Veggie Deluxe Box",
+          "description": "Our Veggie Deluxe Box includes 7 Layer Burrito​, Cheesy Black Bean Cravings Burrito​, Churros and Dip​, Regular Drink​, Regular Fries or Nachos​.\n\n**Please note that in some restaurants we use the same frying oil to prepare menu items that may or may not contain meat. All vegetarian ingredients are handled by our employees in common with meat ingredients, which may not be acceptable to certain types of vegetarian diets. We cannot guarantee that cross contact with meat products will not occur.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e71864a09a25c422bccb5e28abd32507/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b6ced21a-4a51-5dab-a522-41c092198f60",
+          "name": "Cheese Quesadilla Regular Meal",
+          "description": "Cheese Quesadilla, Regular Fries and a Regular drink",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e0738c4feb59534bf14536fbe821d9c3/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1f8a3ac8-0b22-5d20-ba3f-fd69aedd122b",
+          "name": "7 Layer Burrito Regular Meal",
+          "description": "Black beans, seasoned rice, cool sour cream, guacamole, crisp lettuce, diced tomatoes and three cheese blend wrapped in a grilled flour tortilla.  Includes regular seasoned fries and a regular drink.",
+          "price": "£8.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 879,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/525bdaab645702b07938da66448b72be/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7afc0fe8-90d6-52cb-bf38-3a9045bee69b",
+          "name": "7 Layer Burrito",
+          "description": "Black beans, seasoned rice, cool sour cream, guacamole, crisp lettuce, diced tomatoes and three cheese blend wrapped in a grilled flour tortilla.",
+          "price": "£6.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 629,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a74fb0e9dbb967a1f02d90aaf97a3458/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9f37fed3-d3ed-5804-b0b3-2fbdf7b00b39",
+          "name": "Cheese Quesadilla",
+          "description": "Creamy jalapeño style sauce and three cheese blend melted inside a grilled flour tortilla.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8e47f5dce0d997789d91da2936287e88/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4e767514-fb26-564f-9b7d-b659c6842ca7",
+          "name": "Double Cheesy Black Bean Cravings Burrito",
+          "description": "Black beans, seasoned rice, nacho cheese sauce, and cheddar cheese all wrapped inside a grilled flour tortilla.",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d10dbfdbcac4e0fd380a09ceba503d13/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e1969b9b-692a-54e8-86d7-9f1d0a85d5e0",
+          "name": "Cheesy Roll-up",
+          "description": "A flour tortilla rolled up with a melted three cheese blend.",
+          "price": "£1.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2fa71278019374cf75bc29cf589a5dd1/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Cravings Value Burritos",
+      "items": [
+        {
+          "id": "f23ca6b7-73e4-56e7-bdde-85541399bac8",
+          "name": "Beefy Nacho Cravings Burrito",
+          "description": "Seasoned beef, warm nacho cheese sauce, crushed nacho chips wrapped inside a grilled flour tortilla.",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/52320b762d6bfc36f9063b3da10b4211/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "11f2c345-19cc-5f98-918d-7cf4e0cb4506",
+          "name": "Spicy Chicken Cravings Burrito",
+          "description": "Grilled chicken, jalapeños, cool sour cream wrapped inside a soft flour tortilla.",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b085003196817ca3164080c83c151797/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1dcd23c2-3896-5597-9015-52dfadeaa8c6",
+          "name": "Double Cheesy Black Bean Cravings Burrito",
+          "description": "Black beans, seasoned rice, nacho cheese sauce, and cheddar cheese all wrapped inside a grilled flour tortilla.",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d10dbfdbcac4e0fd380a09ceba503d13/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    }
+  ]
+}

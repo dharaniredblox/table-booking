@@ -1,0 +1,658 @@
+{
+  "source": "UberEats",
+  "postalCode": "NN1_2AJ",
+  "timestamp": "2025-09-15T09:57:27.450Z",
+  "count": 82,
+  "data": [
+    {
+      "name": "McDonald's®",
+      "rating": "3.8",
+      "reviewCount": "10,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mcdonalds-the-drapery/HJANS5CKS5m0iGQAEqNE2g"
+    },
+    {
+      "name": "Greggs",
+      "rating": "4.3",
+      "reviewCount": "290+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-northampton-51-abington-st/0PINbSnWUGqa2fpOAczJyg"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.4",
+      "reviewCount": "600+",
+      "deliveryTime": "In-store prices",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-semilong/gThooHiKX2WhEqU-kCHt9A"
+    },
+    {
+      "name": "Morrisons",
+      "rating": "4.0",
+      "reviewCount": "320+",
+      "deliveryTime": "In-store prices",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-northampton/bflumvENVCqYL79RyeaeSg"
+    },
+    {
+      "name": "Burger King",
+      "rating": "4.0",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/burger-king-northampton-market-sq/XlPf15npSmKm76EFSia_uw"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "4.0",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/popeyes-northampton/r1m27GFdUVu97oR0F2ec-w"
+    },
+    {
+      "name": "Subway",
+      "rating": "4.3",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/subway-the-parade-northampton/NLzjIhLeWQKfAJy-o2Oe5Q"
+    },
+    {
+      "name": "Taco Bell",
+      "rating": "3.7",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/taco-bell-drapery-road/ylofCN9qVUaikkX3dw_BFA"
+    },
+    {
+      "name": "KFC Northampton",
+      "rating": "4.2",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-northampton-nene-park-sixfields/XB_toA_bQgCZJCBDviw9Sg"
+    },
+    {
+      "name": "The sandwich bar",
+      "rating": "4.7",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-sandwich-bar/5LMYc27aTAqOGOX3QOb_Og"
+    },
+    {
+      "name": "Chaiiwala",
+      "rating": "4.6",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chaiiwala-northampton/V2Tbf2-wUz-sq6s5mDDy4g"
+    },
+    {
+      "name": "Tim Hortons",
+      "rating": "4.1",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tim-hortons-northampton/Eg3BIQ92VH2YVRD6qayHuA"
+    },
+    {
+      "name": "One Stop Northampton",
+      "rating": "4.4",
+      "reviewCount": "450+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-northampton/RrHE_rNCXX6EfDvVkz4PBQ"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "4.3",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-northampton/-HsJhuvXVeGfqEKReq1QwQ"
+    },
+    {
+      "name": "Wenzels the Bakers",
+      "rating": "4.1",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wenzels-the-bakers-northampton/iksDWPDvWpGrmBCtbB3M8A"
+    },
+    {
+      "name": "Morrisons Daily",
+      "rating": "4.3",
+      "reviewCount": "230+",
+      "deliveryTime": "In-store prices",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-daily-northampton-university/GEPHMKMARnCRBSMnilND9Q"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.7",
+      "reviewCount": "29",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-northampton-sixfields-retail-park/Nk7fmM55WcSeegFnda5csw"
+    },
+    {
+      "name": "Waakye Joint Northampton",
+      "rating": "4.4",
+      "reviewCount": "240+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/waakye-joint-northampton/rC2M7Ez4R8a44kH9KysjlQ"
+    },
+    {
+      "name": "Costa Coffee Northampton",
+      "rating": "4.4",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/costa-coffee-northampton/D3ij75pBRV2G8_Baf8e5JA"
+    },
+    {
+      "name": "Jemmy's Cafe",
+      "rating": "4.5",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/jemmys-cafe/C6naPfHUR0S6nNbODUg7fg"
+    },
+    {
+      "name": "Morrisons Cafe",
+      "rating": "2.3",
+      "reviewCount": "51",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-cafe-northampton/mJpPmoqtVpiThJo5vlN5eQ"
+    },
+    {
+      "name": "Turtle Bay",
+      "rating": "4.0",
+      "reviewCount": "430+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/turtle-bay-northampton/c5CtVyurSKGEVFC7MBuvTg"
+    },
+    {
+      "name": "Saints on St Giles",
+      "rating": "4.7",
+      "reviewCount": "32",
+      "deliveryTime": "",
+      "offers": [
+        "£0 Delivery Fee (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/saints-on-st-giles/PMBoGlaIU-WcXXXSY8Zs9g"
+    },
+    {
+      "name": "Lahori Breakfast Ashiana.",
+      "rating": "4.0",
+      "reviewCount": "16",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/lahori-breakfast-ashiana/h0cMzBuSWS28bM4V7_JiPQ"
+    },
+    {
+      "name": "Londis",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/londis-farcotton/10oJt0wFQ4mcQ8AsANr2Ug"
+    },
+    {
+      "name": "Harvester",
+      "rating": "4.1",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/harvester-nene-valley/ng7D-wTqTGiofttPVEDw8A"
+    },
+    {
+      "name": "Swedish Kitchen Wellingborough",
+      "rating": "4.6",
+      "reviewCount": "490+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/swedish-kitchen-wellingborough/_b4MXGmzVCColwdIkUVygw"
+    },
+    {
+      "name": "Ze Fast Food",
+      "rating": "3.8",
+      "reviewCount": "78",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ze-fast-food/ZDzKnJt3XV6kC5_z6IHdDw"
+    },
+    {
+      "name": "Genevieve's Cafe",
+      "rating": "3.7",
+      "reviewCount": "51",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/genevieves-cafe/EaqIoAWqQdCPdHG242gpUQ"
+    },
+    {
+      "name": "Butterwick Bakery & Coffee Shop",
+      "rating": "4.7",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/butterwick-bakery-%26-coffee-shop-northampton/HoOk44qnVGOcTc5QYkQnuQ"
+    },
+    {
+      "name": "Majestic Wine",
+      "rating": "In-store prices",
+      "reviewCount": "",
+      "deliveryTime": "In-store prices",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/majestic-wine-northampton/8BpTjGMFW96euKAb8QNGJQ"
+    },
+    {
+      "name": "The Sahara NN Restaurant",
+      "rating": "3.9",
+      "reviewCount": "65",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-sahara-nn-restaurant/c6t5wOSKT6e3ySLOXOyjWw"
+    },
+    {
+      "name": "Farmhouse Inns",
+      "rating": "3.6",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/farmhouse-inns-poppy-field-farm-duston/TJ3_A86EWjm70_3hpBBqAQ"
+    },
+    {
+      "name": "Brunch by Frankie & Benny's",
+      "rating": "4.5",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brunch-by-frankie-%26-bennys-northampton-riverside/yi2BhYqUUVuqwl6A8DJSsA"
+    },
+    {
+      "name": "Chip Stop",
+      "rating": "3.8",
+      "reviewCount": "290+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chip-stop/6gg7T3PZQ96t_pOgRAHg1g"
+    },
+    {
+      "name": "bp M&S Food Upton Way",
+      "rating": "4.6",
+      "reviewCount": "35",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/bp-m%26s-food-upton-way/cgngvJA3UeKorrVAfsu2Bg"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.3",
+      "reviewCount": "38",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-wellingborough/oWSz5wHmUlOEdcuioEZSmQ"
+    },
+    {
+      "name": "Your Co-op Food",
+      "rating": "4.9",
+      "reviewCount": "10",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/your-co-op-food-pineham/PrwRojpgWomesPCOVeowzQ"
+    },
+    {
+      "name": "cake inn northampton",
+      "rating": "4.7",
+      "reviewCount": "150+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cake-inn-northampton/A3RqLhfGTsOBP6rVtmgr5w"
+    },
+    {
+      "name": "Street Feud",
+      "rating": "3.7",
+      "reviewCount": "59",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/street-feud-northampton-riverside/FrRgDe8nXI2cg0zxWNtqcw"
+    },
+    {
+      "name": "The Big Cake Co.",
+      "rating": "4.6",
+      "reviewCount": "55",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-big-cake-co-northampton/fi6Nv81lXbeyn1UkMSyLsg"
+    },
+    {
+      "name": "Windhover",
+      "rating": "3.5",
+      "reviewCount": "12",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/windhover-northampton-brampton-lane/Zls_Jq5iXfOoC1Wtvf3qoA"
+    },
+    {
+      "name": "Raj Punjabi Kitchen",
+      "rating": "3.9",
+      "reviewCount": "240+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/raj-punjabi-kitchen/SPAnzMckTsK4ru8bWkKMsg"
+    },
+    {
+      "name": "COOK Northampton",
+      "rating": "5.0",
+      "reviewCount": "18",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cook-northampton/hZaFXGToVRSj5maQtckD-A"
+    },
+    {
+      "name": "Stacks",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/stacks-burgers-northampton-riverside/vYxVeDraTzK5qZQNwoNwzA"
+    },
+    {
+      "name": "Kauai",
+      "rating": "5.0",
+      "reviewCount": "10",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kauai-northampton-riverside-drive/xY5LtwfgWES2QFg_m2naLg"
+    },
+    {
+      "name": "Shell Far Cotton",
+      "rating": "4.0",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shell-far-cotton/UPUgxqshUUul2qn7x-VKSw"
+    },
+    {
+      "name": "Costcutter",
+      "rating": "4.4",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/costcutter-lumbertubs/ZtUkX76KRiutzUyYdxOCBw"
+    },
+    {
+      "name": "Budgens",
+      "rating": "4.7",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/budgens-berrymoor-court/_7kvPdz9QjC2tuVT9Y1quQ"
+    },
+    {
+      "name": "The Priory",
+      "rating": "4.2",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-priory-sizzling-pubs/1mOrROHHUT-Mg6-w1AehEA"
+    },
+    {
+      "name": "Bird Box",
+      "rating": "4.1",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/bird-box-northampton-riverside/f4_ZOwfFQCuUkuYoVwTPwg"
+    },
+    {
+      "name": "Warriwakis",
+      "rating": "3.8",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/warriwakis/gG7LLFCFVPygJvNkCLqnRg"
+    },
+    {
+      "name": "Andrews Fastfood Emporium",
+      "rating": "4.3",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/andrews-fastfood-emporium/qQfDh_KBSzy1jzPua93vjA"
+    },
+    {
+      "name": "Butterwick Bakery Weston Favell",
+      "rating": "4.1",
+      "reviewCount": "15",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/butterwick-bakery-weston-favell/RccROExpXVuFbmh3FFab3A"
+    },
+    {
+      "name": "Sainsbury's Local",
+      "rating": "4.6",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-local-northampton-wellingborough-road/3M-1A6FPW3-tk1aCgdov4w"
+    },
+    {
+      "name": "Super Sausage",
+      "rating": "4.5",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, get a free item"
+      ],
+      "url": "https://www.ubereats.com/store/super-sausage/pBtA0JQpUvOzGJMFtSBfRQ"
+    },
+    {
+      "name": "Caprinos Pizza",
+      "rating": "3.8",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 25% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/caprinos-pizza-northampton/blIDRlcrVtWORTbUDe_1OQ"
+    },
+    {
+      "name": "Heavenly Desserts",
+      "rating": "4.1",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £25, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/heavenly-desserts-northampton/QaaXrwQ_TM2AXeYqYdE1tg"
+    },
+    {
+      "name": "Rio's Piri Piri",
+      "rating": "4.2",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/rios-piri-piri-gold-street/uebqExi7Ra-bUuYTkFnprw"
+    },
+    {
+      "name": "The Simple Greek",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-simple-greek/ZEWR3POuU0uuDFaH0eXRAw"
+    },
+    {
+      "name": "Millennium Pizza Gold St Est. 2000",
+      "rating": "4.3",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/millennium-pizza-gold-st-est-2000/UzjWhOZ3Q9ym14-8GI3Gww"
+    },
+    {
+      "name": "The Ladz",
+      "rating": "4.6",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-ladz-northampton/yeNulH6LXaK5q-vK81M5wQ"
+    },
+    {
+      "name": "Kerala Hut",
+      "rating": "4.0",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kerala-hut-northampton/_RNkFnF7XqSEYSrACCTdnw"
+    },
+    {
+      "name": "Mr Chippy",
+      "rating": "4.6",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mr-chippy/NQooBhHGSPapqI1q4pRaNA"
+    },
+    {
+      "name": "Manna Food Corner",
+      "rating": "3.8",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/manna-food-corner/GagiMrDXU6OlTVXlks715w"
+    },
+    {
+      "name": "Cake Box",
+      "rating": "4.6",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cake-box-northampton/xlUkpvyKTBWDl7Y9SH_fAg"
+    },
+    {
+      "name": "Zizou Lounge",
+      "rating": "3.8",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/zizou-lounge/XBrGgNvQRkWlZENudkjg4A"
+    },
+    {
+      "name": "GDK",
+      "rating": "4.0",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/gdk-northampton/Ykh5YGzTXmOPHTiNXgIJTA"
+    },
+    {
+      "name": "Pepe's Piri Piri",
+      "rating": "4.2",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pepes-piri-piri-northampton/Mk6rJ_VwWHuUSpLuKQWymw"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "rating": "4.1",
+      "reviewCount": "310+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/papa-johns-pizza-northampton-bridge-street/aqtOigK3QUSG2Q_zAh-Eow"
+    },
+    {
+      "name": "Southside",
+      "rating": "3.6",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/southside/pJuqcpy2XMiUvou2NQRoNQ"
+    },
+    {
+      "name": "Oodles Wok",
+      "rating": "4.4",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/oodles-wok-northampton/4W68G5q-XX-U2_bEKRDCmg"
+    },
+    {
+      "name": "Upton Fish Bar",
+      "rating": "4.7",
+      "reviewCount": "150+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/upton-fish-bar/dWz-MS9cVNOTml_xzpGN8g"
+    },
+    {
+      "name": "Super Shawarma & Grill",
+      "rating": "2.7",
+      "reviewCount": "56",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/super-shawarma-%26-grill-wellingborough-road/YQ-khMOYWwWTI2w7q40y2Q"
+    },
+    {
+      "name": "Pizza Hut Delivery",
+      "rating": "4.4",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pizza-hut-delivery-northampton-west/EqTXHehdRUOTxS4HnW2nTQ"
+    },
+    {
+      "name": "Kurdistan",
+      "rating": "4.9",
+      "reviewCount": "10",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kurdistan-wellingborough-road/1h65TNQQW3mQaQ0O0Qcm3A"
+    },
+    {
+      "name": "Sam's Kebab House",
+      "rating": "4.1",
+      "reviewCount": "320+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sams-kebab-house/MfJRspo9TqisHkJD39iyvQ"
+    },
+    {
+      "name": "Burger Boi",
+      "rating": "4.3",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/burger-boi-northampton/L2deTmRFUImvmeGCyqtHQA"
+    },
+    {
+      "name": "YO! sushi counter",
+      "rating": "4.3",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yo!-sushi-counter-northampton-south-tesco/pFfkpUdgX6KWvOKDoIEONg"
+    },
+    {
+      "name": "Tuck In restaurant",
+      "rating": "4.3",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tuck-in-restaurant/bnFZK3GmTjaVz7zqJg7Jaw"
+    },
+    {
+      "name": "King Kebab",
+      "rating": "3.6",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/king-kebab/PB5pNg00RmOizATPMjcOSA"
+    },
+    {
+      "name": "Muffin Break Northampton",
+      "rating": "3.9",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/muffin-break-northampton/WW5tdFw3R8GEvaSxh_FIGQ"
+    }
+  ]
+}

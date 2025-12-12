@@ -1,0 +1,122 @@
+{
+  "sainsburys_supermarket_bmvaxuqwrcq8cx6yd-xc0a": {
+    "processed": true,
+    "uploadedOnS3Staging": false
+  },
+  "sandwich_sandwich_ntrtkalks6m1rvcwocu2tw": {
+    "processed": true,
+    "uploadedOnS3Staging": false
+  },
+  "little_waitrose_oo3o2iyax8igz-uz2lotva": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "co-op_wojmbrjzx4syr--rpqehda": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "iceland_kszasqurv3sqvhb0pfaapw": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "greggs_h1gzi2vqxuoqlfor9hl7ea": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "kfc_bristol_-ejlzfgiqw2ktgixx54cqw": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "burger_king_8yeytlp2ts-mum94a6j3aa": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "popeyes_bvo4k7yjxjky2ljhqsfv3g": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "totterdown_canteen_-sieggeps1yigdjgjp0xzg": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "gopuff_groceries_jch1a62hwqqpfvn69dxnig": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "subway_8_j1zdp9tp2fdetpnigprg": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "jessies_cafe_h66cvdplwdocrtu9jukwpa": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "sainsburys_local_20mvltygwteuico-ttc--g": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "starbucks__xpjokr1bskcfqozqplfxmq": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "five_guys_ygcsqlk2uri3ol-y87qgmg": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "taco_bell_9v4uzdjpw8ouveposvf0rq": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "little_bagel_co._odjlsgxwueoevnztjecxcq": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "little_bagel_co_8pffffylv86ahub8zm0kba": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "black_sheep_coffee_qm6m0qtlxxoaffrn13znba": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "pret_a_manger_qbhtiuqexq-dmrayt19pgq": {
+    "processed": false,
+    "uploadedOnS3Staging": false
+  },
+  "sobe_burger_uxb9643awkes_att_m-xfw": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "costa_coffee_1sqck3tluo-4ruxpyqylra": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "chaiiwala_z-tlhijkvkyvx7nl4yhidq": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "parsons_bakery_v3awmtv9tuipipzr80_lvg": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "chopstix_noodle_bar_2lxeljalvpu-eircu_8ubg": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "crispy_dosa_huqjrv2kvbq2v6ipq1lveg": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "breakfast_burrito_boys_fcg8fa8euykyotqbuzyhjg": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "blue_sky_cafe_lyynh0x6ucsgrukrhqzw9g": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  },
+  "the_bagel_place_weq73f_dvtcdm5-hni8rfa": {
+    "processed": true,
+    "uploadedOnS3Staging": true
+  }
+}

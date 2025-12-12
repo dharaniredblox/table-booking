@@ -1,0 +1,745 @@
+{
+  "restaurant_id": "chopstixnoodlebarbristolbroadmead-BS13DT-51",
+  "source_id": "d8bc442c-968b-569b-be7a-2ac253ff2e6e",
+  "restaurant_url": "https://www.ubereats.com/store/chopstix-noodle-bar-bristol-broadmead/2LxELJaLVpu-eirCU_8ubg",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:45:27.461Z",
+  "restaurant": {
+    "name": "Chopstix Noodle Bar - Bristol Broadmead",
+    "slug": "chopstix-noodle-bar-bristol-broadmead",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441173259360",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "85 Broadmead,, Bristol, EMEA BS1 3DT",
+    "streetAddress": "85 Broadmead",
+    "addressCity": "bristol-eng",
+    "neighborhood": "broadmead-bristol-eng",
+    "addressRegion": "EMEA",
+    "postalCode": "BS1 3DT",
+    "addressCountry": "GB",
+    "latitude": 51.4571501,
+    "longitude": -2.5907027,
+    "geohash": "gcnhtp",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 4,
+    "totalReviews": "1000+",
+    "workingHours": "Open until 1:15 AM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Asian",
+      "Chinese",
+      "Noodles",
+      "Halal",
+      "Vegetarian",
+      "Vegetarian Friendly"
+    ],
+    "priceBucket": "₹₹"
+  },
+  "openingHours": [
+    {
+      "day": "Sunday - Wednesday",
+      "hours": [
+        {
+          "open": "10:30",
+          "close": "20:45",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "hours": [
+        {
+          "open": "11:30",
+          "close": "20:45",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Friday - Saturday",
+      "hours": [
+        {
+          "open": "10:30",
+          "close": "21:45",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "✨ Meal Deals ✨",
+      "items": [
+        {
+          "id": "4a3c19b3-6494-5c93-b8d5-ee3949312f24",
+          "name": "Hot Wok for 1 ⭐️",
+          "description": "Build A Box, Extra Topping, 5 Veg Spring Rolls, Prawn Crackers, Dip and Drink of choice",
+          "price": "£14.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9fb63f3383fddd85c98cc03a85c9450a/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "412cb25c-4d5d-5c32-be8e-f890c4e8cb43",
+          "name": "Big Night In",
+          "description": "4 Family-Sized Bases, 8 Extra Toppings, 2 Spring Roll Sharer Boxes, 2 x Salt & Pepper Potatoes and 4 Dips of choice",
+          "price": "£47.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 4799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4098ec392e6e435af9d5469217b9f905/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "51824f0f-1fdb-570c-b06f-16c93ebb1d58",
+          "name": "The Most Valuable Box (MVB). 🥡",
+          "description": "Build A Box, 5 Veg Spring Rolls, Prawn Crackers, Dip and Drink of choice",
+          "price": "£12.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e85566ba3b2c6e723f96187b025a3dc6/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b4eb1e68-5b2e-5e1c-9237-18ebe3db4f52",
+          "name": "The MVB for 2 🥡🥡",
+          "description": "SAVE £1.99 on 2 x MVB meals!",
+          "price": "£23.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e68644b2c4e26a2d8b8515e80ce192f4/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "41747702-ebca-54a2-bb7e-8c985dfc8f7a",
+          "name": "Hot Wok for 2 ⭐️⭐️",
+          "description": "SAVE £2.48 on 2 x Hot Wok for 1 meals!",
+          "price": "£27.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4464b686a89382f9abcf9ed182ae2adb/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "🥡 Triple Topper Box 🥡 3 Toppings",
+      "items": [
+        {
+          "id": "65746aa0-5220-5c34-b1c7-06e7cd7c810f",
+          "name": "Triple Topper Box 🥡🥡🥡",
+          "description": "Choice of base with ANY 3 toppings!",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/66a09c1f666d801f8b04f925d5ff28e4/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "🥡 Build A Box 🥡 2 Toppings",
+      "items": [
+        {
+          "id": "410c9777-85af-52df-b6f1-3caf9ba3e120",
+          "name": "Salt & Pepper Chicken Box 🧂🌶",
+          "description": "Crispy golden chicken pieces, tumbled in our signature mix of salt, pepper, garlic, chilies, onions and some LIP SMACKIN' ATTITUDE",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1e6e926ee269468dac0d4363da43b343/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ae5fefde-68b8-5ab8-b484-b8a566786ec8",
+          "name": "Caramel Drizzle Chicken Box 🍯",
+          "description": "Juicy chicken in a sweet, sticky caramel glaze that hits different. GET SOME DRIZZZ!",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/72aab777733f9204ae19f316f4c1badd/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fac69085-4e9b-5c52-b1db-04e4cdf48729",
+          "name": "Sweet & Sour Chicken Box 🧡",
+          "description": "Chicken bites tossed in a sweet and tangy fruity sauce, bejazzled with bell peppers! PURE SAUCEMNOIUS!",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e3e636c74473e5160f8eb2c2277c90f3/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "78d20e76-19bc-5673-aca0-9e39e4de622e",
+          "name": "Pumpkin Katsu Curry Box 🌱🎃",
+          "description": "Naturally sweet pumpkin coated in breadcrumbs, paired with a KICKIN' KATSU SAUCE! 爆発的な風味",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/828317c32fadecda7ae5c49a91e604d9/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "21bc28f3-5824-5412-989c-e52cb68c7942",
+          "name": "Katsu Chicken Curry Box 💛",
+          "description": "Golden crispy coating wrapped around juicy, tender chicken strips served with a warming curry sauce. It’ll tantalise your taste buds!",
+          "price": "£9.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 969,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aa15f12f46b1ee7e23a8e010ed7f8d2a/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1a69f413-a773-559a-b482-20ebd84d630e",
+          "name": "No Beef Teriyaki Box 🌱",
+          "description": "Tender strips of plant based beef coated in our sweet and tangy teriyaki glaze. All leaf, no beef!",
+          "price": "£9.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 969,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6a7108e290d3902e30d932d9c6475f5f/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "bdda8e42-038a-5072-acd1-73d5b0b95cfc",
+          "name": "Firecracker Chicken Box 🧨",
+          "description": "Explosion of flavours, with tender salt & chilli chicken drenched in our sweet and fiery chilli sauce!",
+          "price": "£9.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 969,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e5df736addeebd81aa59c5954ea1311c/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8d4cf516-b9eb-586d-b504-182293e72d5a",
+          "name": "Soy-Mazing Chicken Box 🖤",
+          "description": "Soy-Mazing Chicken Box",
+          "price": "£9.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 969,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/286329a875c294ac467210a10fd06028/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "93a16dd0-e8d8-5825-a616-61bd73f909e4",
+          "name": "Salted Caramel Chilli Prawns Box 🍤",
+          "description": "Salted Caramel Chilli Prawns Box",
+          "price": "£9.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 969,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d73f4f9f0a39d99ac1f7c08933ca102d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6c2d4f09-86e4-55cb-bc49-70eeffafcd97",
+          "name": "Chinese Chicken Curry Box 🇨🇳",
+          "description": "Warming Chinese chicken curry, where tender chicken strips mix with bold spices and vibrant flavours. It's the OG for a reason...",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/249c7d8eede8574ad888e35d89e7b1da/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "🥟 Sides 🥟",
+      "items": [
+        {
+          "id": "55186a17-d02e-587f-8844-e207d8f01bdb",
+          "name": "Salt & Pepper Potatoes 🧂🌶🌱",
+          "description": "Potato bites fried to perfection, tossed in our signature salt and pepper combo for an epic taste explosion.",
+          "price": "£3.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 395,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3d85c50497504d772f374ec54907e41c/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f14fb180-3e27-5658-a2db-743e77d74096",
+          "name": "Mini Veg Spring Rolls (5) 🌱",
+          "description": "5 crispy veggie spring rolls ! DIP EM', DUNK EM' and let the good times ROLL!",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/65942efa3f0b4564bf9febbe523a4860/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ad0cf43d-325a-588d-8d6f-0c8989e08a5f",
+          "name": "Prawn Crackers - Delivery Bag",
+          "description": "Light and airy crunchy prawn crackers. Perfect for pairing with our delicious dips!",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6e2333b1f89315b07a98d42d73705e0b/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2ead6697-0e7c-52ce-93a9-47400ad014b4",
+          "name": "10 Mini Chicken Balls",
+          "description": "10 delicious bite-sized crispy chicken balls made from 100% chicken breast",
+          "price": "£3.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 325,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f6280fb228330b080a35df7ffb51d850/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1dfbe172-256c-5876-a25a-84a44e3b1a56",
+          "name": "Crispy Veggie Gyoza (3)🥟🌱",
+          "description": "Crispy pockets filled with seasoned veggie goodness! Made for some deep dipping",
+          "price": "£2.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 270,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e2f2dda7d37483b99442c978f548405e/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "0a58dd70-7c4e-5a84-8c60-2e6d6a55e88c",
+          "name": "Katsu Chicken Strips (3) 💛",
+          "description": "Finger-lickin’ tender chicken strips coated in golden breadcrumbs…dip and devour!",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0a67e17cbc8ff075acbd32ebcb75698b/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "🥢 Extras 🥢",
+      "items": [
+        {
+          "id": "91492182-66fe-5674-b863-42bd6cb0dfa6",
+          "name": "Go Large! Vegetable Chow Mein (Noodles) (VG) 🌱",
+          "description": "Noodles wok-fried with veggies in our savoury umami sauce",
+          "price": "£6.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 690,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1d4fbd9d3de21e8b2f5939a61a62eadd/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "653a31bf-0be2-5889-b07c-5182809ecd16",
+          "name": "Go Large! Egg-Fried Rice",
+          "description": "Your tasty go-to egg-fried rice for anytime cravings ⭐ New Recipe with Garlic and Ginger! ⭐",
+          "price": "£6.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 690,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0e5617ff88e59f2e898e6ef5ce6382c3/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e6c32d7b-32e2-566c-9d63-2ff2ed3d55e7",
+          "name": "Extra Caramel Drizzle Chicken 🍯",
+          "description": "Juicy chicken in a sweet, sticky caramel glaze that hits different. GET SOME DRIZZZ!",
+          "price": "£3.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 390,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c052f9d3d7ee87253358dd558c030330/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "59fcc0fb-1213-5af3-ab00-040940f3adc4",
+          "name": "Extra Salt & Pepper Chicken 🧂🌶",
+          "description": "Crispy golden chicken pieces, tumbled in our signature mix of salt, pepper, garlic, chilies, onions and some LIP SMACKIN' ATTITUDE",
+          "price": "£3.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 390,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6941446f499a912bee13a6b12a381925/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "da07efab-e2d3-561c-928b-10928fc2b575",
+          "name": "Extra Chinese Chicken Curry 🇨🇳",
+          "description": "Warming Chinese chicken curry, where tender chicken strips mix with bold spices and vibrant flavours. It's the OG for a reason...",
+          "price": "£3.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 390,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/39d596a3b44abf32667057a72d83f2f9/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2608192a-0ce5-5a5a-beb2-67b6e89d441d",
+          "name": "Extra Pumpkin Katsu Curry (VG) 🌱🎃",
+          "description": "Naturally sweet pumpkin coated in breadcrumbs, paired with a KICKIN' KATSU SAUCE! 爆発的な風味",
+          "price": "£3.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 390,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7226c5e7156756aebdf15674712af00e/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "58eb8196-c82f-5c2e-8073-fc581927ee7d",
+          "name": "Extra Sweet & Sour Chicken 🧡",
+          "description": "Chicken bites tossed in a sweet and tangy fruity sauce, bejazzled with bell peppers! PURE SAUCEMNOIUS!",
+          "price": "£3.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 390,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/866900344fab40678d6f49f01e12127c/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c587f898-ece8-5838-a359-ec36d208ced9",
+          "name": "Go Large! Skinny Cauliflower Rice (VG)🌱",
+          "description": "Low-carb, guilt free cauliflower rice",
+          "price": "£7.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 740,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/17e38c093fb9c5f2a1f5bc5c8f04775e/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "765dc6f4-3106-5367-b1cf-2c37a90d8da4",
+          "name": "Extra No Beef Teriyaki 🌱",
+          "description": "Tender strips of plant based beef coated in our sweet and tangy teriyaki glaze. All leaf, no beef!",
+          "price": "£4.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 460,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/87abd17c91bf21aa9fb362052972c5e1/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ff4abd79-4acd-5688-8525-1b460455b90c",
+          "name": "Extra Firecracker Chicken 🧨",
+          "description": "Explosion of flavours, with tender salt & chilli chicken drenched in our sweet and fiery chilli sauce!",
+          "price": "£4.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 460,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e935962d776ef7d7512566984b135a44/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "dcacac6f-478c-5241-8947-4cb4b18c3d0e",
+          "name": "Extra Katsu Chicken Curry 💛",
+          "description": "Golden crispy coating wrapped around juicy, tender chicken strips served with a warming curry sauce. It’ll tantalise your taste buds!",
+          "price": "£4.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 460,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/654ab7c753cf62ab09452ee833bbe572/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "262ddfc4-4e0b-5926-9cec-fbc1742ba6ae",
+          "name": "Extra Soy-Mazing Chicken 🖤",
+          "description": "Extra Soy-Mazing Chicken",
+          "price": "£4.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 460,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f5e2e2f70414a3908cfa4108c83de6a6/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6a336a0b-5b81-5d4f-aa16-78bcd2a44939",
+          "name": "Extra Salted Caramel Chilli Prawns 🍤",
+          "description": "Salted Caramel Chilli Prawns",
+          "price": "£4.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 460,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a7102456c1beb4dee7ed4b5e2337650c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "🥢 Sharer Boxes 🥢",
+      "items": [
+        {
+          "id": "506bd4f1-3c03-59a1-918e-914751b6dee7",
+          "name": "Mini Chicken Balls Sharer Box",
+          "description": "Delicious bite-sized crispy chicken balls made from 100% chicken breast",
+          "price": "£6.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 695,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/80778814d311e60cb03f2b95f0541286/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8fc85810-4cca-5256-9415-8b16ddef3dfb",
+          "name": "Spring Rolls Sharer Box - VG (15)",
+          "description": "15 crispy veggie spring rolls! DIP EM', DUNK EM' and let the good times ROLL!",
+          "price": "£5.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 525,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/efd6ba79d2e4219176cae8de17fdff48/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f35597d4-8279-57ec-9918-bf76e2d8deca",
+          "name": "Katsu Chicken Strips Sharer Box (10) 💛",
+          "description": "Finger-lickin’ tender chicken strips coated in golden breadcrumbs…dip and devour!",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9c25f72b18d390a4af1857c7076d2ec8/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5b47184e-748a-5a25-a714-2ab47a5757dc",
+          "name": "Crispy Veggie Gyoza Sharer Box (10)🥟🌱",
+          "description": "Crispy pockets filled with seasoned veggie goodness! Made for some deep dipping",
+          "price": "£5.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 570,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3d724c4c99c7365df4442eda9d3a482f/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "💥 Dips 💥",
+      "items": [
+        {
+          "id": "8f248bea-1853-533c-8927-03b4b0f74f71",
+          "name": "Katsu Curry Sauce 💛",
+          "description": "Aromatic  ✨",
+          "price": "£1.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 150,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3042e0fa2107f7a6c367fb44caf887d4/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fb8b0de1-abce-5f22-9e30-146c93a33e14",
+          "name": "Sweet Chilli Dip ❤️",
+          "description": "Tangy and sweet",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3f8bdc6939cf5f47689fc2928659b86b/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "43fa0427-d5a9-5cf5-b47a-e2638f9ba65b",
+          "name": "Firepit Mayo Dip 🧡",
+          "description": "Sizzling and spicy",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/307d66d3aebe2b7add15594e7ff3e642/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "64ca5a55-1362-54c8-b171-6f590a332216",
+          "name": "Chinese BBQ Dip 💜",
+          "description": "Smoky and deep",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e3510e9120e9aad32c3a6e1532088469/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9c3ab2e5-a896-5762-b299-e26b6e322e79",
+          "name": "Light Soy Sauce 🖤",
+          "description": "Light and umami",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ecd41b7fed0aa03cfc416850c52d9834/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "02a6ea3b-469c-5cb2-8b18-bee54fa2ee46",
+          "name": "Sweet Caramel Dip 🤎",
+          "description": "Gooey and sweet",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9c8b234ab7b95f7119601e61f908afc7/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "🥠 Sweet Treats 🥠",
+      "items": [
+        {
+          "id": "ca5f0a9b-8716-5481-85e2-ee681ee14990",
+          "name": "2 Apple Pie Rolls with Sweet Caramel Dip 🍏",
+          "description": "2 flaky rolls bursting with a sweet apple filling, served with our caramel dip",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f2f167323abcf643e83c8445af53401c/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6f7b841b-d61a-52e3-b856-3b82a6ca60d4",
+          "name": "5 Apple Pie Rolls with Sweet Caramel Dip 🍏",
+          "description": "5 flaky rolls bursting with a sweet apple filling, served with our caramel dip",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a9b50856c0d2cbb71a754399aa988525/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "🥤 Drinks 🥤",
+      "items": [
+        {
+          "id": "be0dc067-49f9-5189-8f31-b1f0a5253f13",
+          "name": "Pepsi Max Cherry (330ml) 🍒",
+          "description": "Pepsi Max Cherry (330ml)",
+          "price": "£2.19",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 219,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/968ee9eb1a9b9644336e92ce7c92327a/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "31334d93-40fd-5ba1-9c7e-90a3665140b5",
+          "name": "Pepsi Max (330ml)",
+          "description": "Pepsi Max (330ml)",
+          "price": "£2.19",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 219,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dfe40d6aacf8d912a56fccb494a9f10e/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a0dd4b04-2fbc-557d-a773-51cd2dcc0b10",
+          "name": "7 UP Free (330ml) 🍋",
+          "description": "7UP (330ml)",
+          "price": "£2.19",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 219,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5a8039adc6c860fe3339e016a9d2f62e/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b16fddac-1db5-5f60-899a-79e516296fe0",
+          "name": "Diet Pepsi (330ml)",
+          "description": "Diet Pepsi (330ml)",
+          "price": "£2.19",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 219,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bc3f4cc2e4dbca518494a09cd915ab09/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8c6d0f0d-0299-5f8e-a232-ced4c7528109",
+          "name": "Tango Orange (330ml) 🍊",
+          "description": "Tango Orange (330ml) Sugar Free",
+          "price": "£2.19",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 219,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8a1759db32c27967eea9b376fcb69b57/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6c89c4a3-bf34-55d8-9767-e3df17b3243d",
+          "name": "Pepsi (330ml)",
+          "description": "Pepsi (330ml)",
+          "price": "£2.19",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 219,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d55e352e501ec1b60a3040818a2cc5b9/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2a8bed07-5edf-5482-aea6-98d73dd51e52",
+          "name": "Water (500ml)",
+          "description": "Water (500ml)",
+          "price": "£1.89",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 189,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/252839e7edc92bf49dc3fb7851f6e05b/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2ccb4662-5c9a-552a-a6a5-06490baf1291",
+          "name": "Red Bull Energy Drink",
+          "description": "Red Bull Energy Drink",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1f2f11637d3ceb69133970797cedf96a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "61b3bed1-bd32-5bab-a201-bab1cf377ffe",
+          "name": "Red Bull Sugar Free Pink Edition",
+          "description": "Red Bull Sugar Free Pink Edition",
+          "price": "£3.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 315,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ea9ac733ab60dba9f8d238fed96d582f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7a531d13-250f-583a-bc19-2ca1fec44a55",
+          "name": "Red Bull Watermelon Edition",
+          "description": "Red Bull Watermelon Edition",
+          "price": "£3.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 315,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5765ae45da7f364c7a6363725688420c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

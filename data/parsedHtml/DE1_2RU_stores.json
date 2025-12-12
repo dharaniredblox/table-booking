@@ -1,0 +1,576 @@
+{
+  "source": "UberEats",
+  "postalCode": "DE1_2RU",
+  "timestamp": "2025-09-15T09:57:19.256Z",
+  "count": 71,
+  "data": [
+    {
+      "name": "Chaiiwala",
+      "rating": "3.9",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/chaiiwala-derby/7QcCYfOQQK2LM3EzfcPAzA"
+    },
+    {
+      "name": "ASDA",
+      "rating": "4.0",
+      "reviewCount": "800+",
+      "deliveryTime": "In-store prices",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/asda-sinfin/8Ligx9LnXciwckZo3OXTQQ"
+    },
+    {
+      "name": "Brenda’s Cafe",
+      "rating": "4.5",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brendas-cafe/nVK2LJCGQXeYoBpsgDZEfQ"
+    },
+    {
+      "name": "Tim Hortons",
+      "rating": "4.1",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tim-hortons-derby/aUZPSCHcWlaGOdAeXDJJ5A"
+    },
+    {
+      "name": "Burger King",
+      "rating": "3.7",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burger-king-derby-dt/X4DKyCLiTUmmufw3aQHVIQ"
+    },
+    {
+      "name": "Morrisons",
+      "rating": "3.9",
+      "reviewCount": "430+",
+      "deliveryTime": "In-store prices",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-derby/2qihtSjeWj-zVQJu6732iQ"
+    },
+    {
+      "name": "The Little Cob Shop",
+      "rating": "4.6",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-little-cob-shop/HcBgFqHCQK-zDhwZP8lFMQ"
+    },
+    {
+      "name": "One Stop Chaddesden",
+      "rating": "4.5",
+      "reviewCount": "450+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-chaddesden/ZC0XP00UUxKKLFtWgdtApg"
+    },
+    {
+      "name": "Gopuff Groceries",
+      "rating": "4.7",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/gopuff-groceries-derby/EcA1w3zBUs2eOWW_YP2njg"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.4",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-derby-express-petrol/4T9IRX0ZV86m0HHIxW2JCw"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "3.7",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/popeyes-derby/YH5a2DXdXmCsyaWs8kapnQ"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.6",
+      "reviewCount": "310+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-derbion-shopping-centre/3mxWwBfjUGqFoNltGVltrw"
+    },
+    {
+      "name": "Corner Cafe",
+      "rating": "4.1",
+      "reviewCount": "410+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/corner-cafe/yzaGxG1ZQXeWRHpZcdiXdw"
+    },
+    {
+      "name": "Bird's Bakery",
+      "rating": "4.5",
+      "reviewCount": "72",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/birds-bakery-crown-walk/_07QOLduUqCp80iZKwm39g"
+    },
+    {
+      "name": "Grillzilla",
+      "rating": "4.4",
+      "reviewCount": "5,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/grillzilla/AcE4GnIjTamCyrxhNof43w"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.4",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/caffe-nero-derby/tO0KEAwlQayf7IZ7aGdv4Q"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "4.3",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-derby/urDzJy0HXy6hcvBJPvCJPg"
+    },
+    {
+      "name": "The Blue Peter",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-blue-peter-stonehouse-derby-shardlow-road/o9d-Qd2HSr2bFFzqKgiWCA"
+    },
+    {
+      "name": "Star Chai Hut",
+      "rating": "3.8",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/star-chai-hut/eTJXFw4XWpmlMZOvRyWt4Q"
+    },
+    {
+      "name": "Phat Buns",
+      "rating": "4.0",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/phat-buns-derby/tQvU-oyFWbqrgK2RhR6dog"
+    },
+    {
+      "name": "The Base Bar",
+      "rating": "4.6",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-base-bar/T-YbWSgPWyCknCom13ma6g"
+    },
+    {
+      "name": "Central Co-op",
+      "rating": "4.6",
+      "reviewCount": "89",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/central-co-op-osmaston-road/rqkNZD-4WDWUtaJGUvOq0g"
+    },
+    {
+      "name": "Morrisons Cafe",
+      "rating": "3.7",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-cafe-derby/gyLk-BewUtu4tN7mQbM4fA"
+    },
+    {
+      "name": "The Bookcafe in the Quarter",
+      "rating": "3.6",
+      "reviewCount": "59",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-bookcafe-in-the-quarter/_5EEL_hsXF271OCOl7jsJA"
+    },
+    {
+      "name": "Littleover Lunchbox",
+      "rating": "3.8",
+      "reviewCount": "95",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/littleover-lunchbox/COTMfG4lX422D0iMUjg3QA"
+    },
+    {
+      "name": "Shahenshah Sweets",
+      "rating": "4.3",
+      "reviewCount": "90",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shahenshah-sweets/hzwBiHenR6i98-Ec7RJpbQ"
+    },
+    {
+      "name": "Harvester",
+      "rating": "3.8",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/harvester-pride-park/PE4Q3Z3XTR61DTo8RmB45Q"
+    },
+    {
+      "name": "Harper's British Classics",
+      "rating": "4.5",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/harpers-british-classics-derby/xNlVhBG1XlShczUGQajW-g"
+    },
+    {
+      "name": "Coffee#1",
+      "rating": "4.4",
+      "reviewCount": "38",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/coffee1-derby/5xAVxdyWX3iG1jTsLE9Z7w"
+    },
+    {
+      "name": "Yangtze Intu Derby",
+      "rating": "4.4",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yangtze-intu-derby/m2WBxMlMTkSDTdEhNccQjg"
+    },
+    {
+      "name": "The Bookcafe",
+      "rating": "4.6",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-bookcafe/yhFhxX5ZTIWgR8A2P25qsw"
+    },
+    {
+      "name": "Chopstix Intu Derby",
+      "rating": "4.3",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chopstix-intu-derby/_4yebgTWQI6xEAyhVlamfQ"
+    },
+    {
+      "name": "Chocoberry",
+      "rating": "4.3",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/chocoberry-derby/tXTJpEh4WBeUfwRkR_0C-g"
+    },
+    {
+      "name": "Morrisons Daily",
+      "rating": "4.6",
+      "reviewCount": "700+",
+      "deliveryTime": "In-store prices",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-daily-long-eaton-tamworth-road/3H2XP1uIW2eT-F2JWwisrA"
+    },
+    {
+      "name": "Gusto Cafe",
+      "rating": "4.7",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/gusto-cafe/pFqBDGJnRbWLKQd8nwTtxw"
+    },
+    {
+      "name": "Cobways Sandwich Bar",
+      "rating": "4.5",
+      "reviewCount": "490+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cobways-sandwich-bar/5kqXzieITF2WgvZMVbv1fQ"
+    },
+    {
+      "name": "Bloom Juice",
+      "rating": "3.0",
+      "reviewCount": "37",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/bloom-juice/oh6XYiEdU2O4pNUpJQ7DSA"
+    },
+    {
+      "name": "The Argosy",
+      "rating": "4.0",
+      "reviewCount": "95",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-argosy-sizzling-pubs/ssVRu3T8VISfDrUyi5FxTw"
+    },
+    {
+      "name": "Gerard St Fish Bar",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/gerard-st-fish-bar/1Pe83tEcQD2JRiwOWdVz9w"
+    },
+    {
+      "name": "Burger & Sauce",
+      "rating": "4.4",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/burger-%26-sauce-derby/-pqu9ju7Vs6jXCuPmc97Hw"
+    },
+    {
+      "name": "Monk street Convenience Store",
+      "rating": "4.4",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/monk-street-convenience-store/qtyh9RX7RU-lOSo7UAn_lw"
+    },
+    {
+      "name": "Mezzo",
+      "rating": "4.5",
+      "reviewCount": "320+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mezzo/xIb9xv4CTuKoOevxDMt0Ew"
+    },
+    {
+      "name": "Vedi Foods",
+      "rating": "5.0",
+      "reviewCount": "21",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/vedi-foods/XEz2KlLAXqi-GC3Fpw-shA"
+    },
+    {
+      "name": "Derby Chicken And Pizza",
+      "rating": "3.5",
+      "reviewCount": "47",
+      "deliveryTime": "",
+      "offers": [
+        "10% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/derby-chicken-and-pizza/IBYAw7fMRbWDwAlFyg-shw"
+    },
+    {
+      "name": "Village booze",
+      "rating": "4.4",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/village-booze/gPiDGLNESluC0nWKwVkPTQ"
+    },
+    {
+      "name": "Sushi Daily",
+      "rating": "4.3",
+      "reviewCount": "10",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sushi-daily-derby-supercentre/ZTF_ONIIVqu4TlRDfmVhQg"
+    },
+    {
+      "name": "Carluccio's",
+      "rating": "4.1",
+      "reviewCount": "150+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/carluccios-derby/mA42tROQRJCCBCljBWk6KA"
+    },
+    {
+      "name": "Istanbul Restaurant",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/istanbul-restaurant-derby/pkctDLxQXK2Bmsl7W6-9Jw"
+    },
+    {
+      "name": "Cake Box",
+      "rating": "4.8",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cake-box-derby/ffNtJTzXTRytxccdlI_Mgg"
+    },
+    {
+      "name": "The Grange",
+      "rating": "4.6",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-grange/I0Y7ruRrRVaGlV-ZKKZQ0g"
+    },
+    {
+      "name": "HiGuys",
+      "rating": "4.7",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/higuys/5VMIRQR0Xee66mIDntas3w"
+    },
+    {
+      "name": "Mr Booze Express",
+      "rating": "4.3",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mr-booze-express-midlands-road/L1dCzDieRXCp09ts1wZz3A"
+    },
+    {
+      "name": "Sergio's",
+      "rating": "4.9",
+      "reviewCount": "12",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sergios/qLdnZedMVUqYRXQd70hL_Q"
+    },
+    {
+      "name": "Bubble CiTea",
+      "rating": "4.5",
+      "reviewCount": "94",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bubble-citea-derby/b9nK2OnXV7qKa4LP0D2Eng"
+    },
+    {
+      "name": "Ascot fish bar",
+      "rating": "3.6",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/ascot-fish-bar/ruxlHnAiWoq6koxCn9p_YQ"
+    },
+    {
+      "name": "Auntie Anne's",
+      "rating": "5.0",
+      "reviewCount": "2",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/auntie-annes-derby/_sAXldrJW_6HqSvTaw_ZmA"
+    },
+    {
+      "name": "Shell Little Waitrose Allestree",
+      "rating": "4.3",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shell-little-waitrose-allestree/2YLyx5rJWOqFf3BjCwW5qQ"
+    },
+    {
+      "name": "One Stop Stores College Street, Longeaton",
+      "rating": "4.7",
+      "reviewCount": "10",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-stores-college-street-longeaton/hjqm-49NUDe8sGvfEviIYg"
+    },
+    {
+      "name": "Majestic Wine",
+      "rating": "5.0",
+      "reviewCount": "31",
+      "deliveryTime": "In-store prices",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/majestic-wine-derby/WgYLcK9uXyyjIX8D887o9g"
+    },
+    {
+      "name": "The Brown Bear Coffee Shop",
+      "rating": "4.6",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-brown-bear-coffee-shop/0v0ZchlMQl6xkifCim734w"
+    },
+    {
+      "name": "Desserts by The Cake Solution",
+      "rating": "4.8",
+      "reviewCount": "400+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/desserts-by-the-cake-solution-wollaton/zHZa5pgJSPKK9_uF28V2ug"
+    },
+    {
+      "name": "bp M&S Food Fairway",
+      "rating": "4.7",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/bp-m%26s-food-fairway/g05QMWCOULCQCkqE-2pSbg"
+    },
+    {
+      "name": "Avocado Healthy Cafe",
+      "rating": "4.4",
+      "reviewCount": "23",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/avocado-healthy-cafe/3uq6Q58JW3aDq0O78wOhyw"
+    },
+    {
+      "name": "Ace Market",
+      "rating": "4.9",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ace-market/cFL1M6lGRt2kXLOZFqR4TA"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.7",
+      "reviewCount": "290+",
+      "deliveryTime": "In-store prices",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-chaddesden/MlPOkxN5XC2kr-cewg94Xw"
+    },
+    {
+      "name": "Sizzling Pig Café",
+      "rating": "4.8",
+      "reviewCount": "290+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sizzling-pig-cafe/PNoeCFDZVJqBbgYA6wsEdw"
+    },
+    {
+      "name": "County Express",
+      "rating": "4.8",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/county-express/070pOvLZRkaGzDSuHeD3cQ"
+    },
+    {
+      "name": "Piggy's Gastro Grub",
+      "rating": "4.9",
+      "reviewCount": "30",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/piggys-gastro-grub/TvFxelPFUu6OwtXOb_8nTQ"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts & Coffee",
+      "rating": "4.5",
+      "reviewCount": "310+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-doughnuts-%26-coffee-derby/52-mcOTARAWSoXq-OgAPuQ"
+    },
+    {
+      "name": "Bennetts Hotel, Restaurant & Bar",
+      "rating": "4.1",
+      "reviewCount": "52",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bennetts-hotel-restaurant-%26-bar/EFVaw_BoVQi2CU1jlYneGQ"
+    },
+    {
+      "name": "DUNKIN' Donuts & Coffee",
+      "rating": "4.4",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dunkin-donuts-%26-coffee-college-retail-park/BVVS72IGXLq1rcJM5ymxNA"
+    }
+  ]
+}

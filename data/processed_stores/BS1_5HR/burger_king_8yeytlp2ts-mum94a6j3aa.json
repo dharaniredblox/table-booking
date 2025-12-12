@@ -1,0 +1,1191 @@
+{
+  "restaurant_id": "burgerkingbristolhorsefair-BS13JE-51",
+  "source_id": "f321324e-5a76-4d2f-a6ba-6f7803a27768",
+  "restaurant_url": "https://www.ubereats.com/store/burger-king-bristol-horsefair/8yEyTlp2TS-mum94A6J3aA",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:20:26.878Z",
+  "restaurant": {
+    "name": "Burger King (Bristol Horsefair)",
+    "slug": "burger-king-bristol-horsefair",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441179291211",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "42 The Horsefair, Bristol, BS1 3JE",
+    "streetAddress": "42 THE HORSEFAIR",
+    "addressCity": "bristol-eng",
+    "neighborhood": "st-james-bristol-eng",
+    "addressRegion": null,
+    "postalCode": "BS1 3JE",
+    "addressCountry": "GB",
+    "latitude": 51.4584134,
+    "longitude": -2.5902548,
+    "geohash": "gcnhtp",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 4.2,
+    "totalReviews": "3000+",
+    "workingHours": "Open until 1:15 AM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Burgers",
+      "Drinks",
+      "Fast Food",
+      "Group Friendly",
+      "Chicken",
+      "American"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Every Day",
+      "hours": [
+        {
+          "open": "08:00",
+          "close": "20:45",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Great Value Deals",
+      "items": [
+        {
+          "id": "09faf5bb-934d-51a7-9073-42bf422b53ae",
+          "name": "Bundle for One",
+          "description": "Create the perfect meal for under a tenner! Choose x1 burger from our favourites, and get a choice of x2 sides.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f975d8547b003584811939a0fd73c459/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a7936351-f160-59ee-9655-b754575b1669",
+          "name": "Family Night In",
+          "description": "Perfect for a cosy family night in. Choose 2 burgers and 2 kid’s options with 2 large fries, 2 small fries plus 1 large Ben & Jerry’s ice cream. Add £3 for extra 6 Chicken Nuggets or Chilli Cheese Bites",
+          "price": "£25.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8e272dca6c7259fbc2f3e6fc39ee16a8/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b1218bab-8726-5ba5-9ab3-e49ab443652a",
+          "name": "Bacon Double Duo Deal",
+          "description": "2x Bacon Double Cheeseburgers, 2x Large Fries",
+          "price": "£14.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/75c045e871c229c4c5e5571a9ee894d6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a38b60bb-b124-5ca3-b568-1ad112b4b409",
+          "name": "Family Party",
+          "description": "Big night in? 2 burgers, 2 kids burgers, 2 large fries, 2 small fries, 9 Chilli Cheese Bites.",
+          "price": "£22.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e7baf22b3e5a6dc750e0f17080379bc6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d1bb3643-4c00-5bc8-aea8-a6bbc78f92e1",
+          "name": "Family Feast",
+          "description": "2 adults and one child? We've got you. Choose 2 burgers, a kids burger, 2 large fries, 1 small fries and 6 Chilli Cheese Bites.",
+          "price": "£18.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8d4748b2bb3e3e0b72dcfbae6e1a0a7f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "95e3157c-6b90-55a5-8674-173420bfb156",
+          "name": "Big King Little King",
+          "description": "Perfect for one adult and a child. Choose a burger and a kids burger, large fries, small fries plus 4 Chilli Cheese Bites.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/de0e223c51bede0558b056a0d16036a3/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "59110a20-52b9-51bd-88b1-22857c05e269",
+          "name": "Royal Feast for Four",
+          "description": "Feed four for under £10 per person - choose 4 Burgers and get a choice of 6 sides. Serves four.",
+          "price": "£39.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 3999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e098ac15d454dcf57d9f58cca97bafa8/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "80d1f826-127d-5db2-8411-b72c101de18e",
+          "name": "Kansas BBQ King Box (Beef/Chicken)",
+          "description": "Introducing the Kansas BBQ King Box. Two signature flame-grilled patties topped with golden onion rings, crispy bacon, a swirl of cheese sauce and mayonnaise, and finished with a drizzle of BBQ sauce. Meal includes regular fries, drink and side.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fd4ce2a7d1fee669743d26c7e3b88c6b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d86aa05f-3c3b-524d-8682-8e2ec39c4721",
+          "name": "Monster Bundle",
+          "description": "Get a Monster of a meal – Choose a Burger, a can of Monster, a choice of sides (4 Chilli Cheese Bites or 4 Chicken nuggets), and get Large Fries.",
+          "price": "£14.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/769e31b684a8910f29ac6324b820f49d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Gourmet Kings Collection",
+      "items": [
+        {
+          "id": "713f7a07-3830-57b8-b058-3383cd51281a",
+          "name": "BBQ Steakhouse Angus Meal",
+          "description": "New & improved recipe! A deep smokey BBQ sauce, rocket, a smoked cheddar cheese slice, bacon, crispy onions, tomato and mayo on top of a flame grilled 100% Aberdeen Angus Beef Burger. Meals are served with large fries and a soft drink of your choice.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/74ef4d6ed9f8cd80c16cb5354d91cbad/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e26ffc13-5556-5fa9-88a9-734d5f778edd",
+          "name": "BBQ Steakhouse Angus",
+          "description": "Flame-grilled Aberdeen Angus Beef, topped with BBQ sauce, rocket, smoked cheddar cheese slice, bacon, crispy onions, tomato and mayo.",
+          "price": "£9.39",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 939,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/67e65275412f10985e199fd1b3351e72/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f26ebee0-2a84-59f7-bd22-02a1d191ba2e",
+          "name": "BBQ Steakhouse Crispy Chicken Meal",
+          "description": "100% juicy chicken breast, sandwiched between a pillowy brioche bun and layered with smooth oak-smoked cheddar cheese, fresh rocket, sizzling bacon and topped with crispy onions. It's gourmet. Meals are served with large fries and a soft drink of your choice.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1896916b4155ceeb00c139d8cb53044f/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7aeebfb1-fb1e-5c72-bfd1-a84aea8b49ba",
+          "name": "BBQ Steakhouse Crispy Chicken",
+          "description": "100% juicy chicken breast, sandwiched between a pillowy brioche bun and layered with smooth oak-smoked cheddar cheese, fresh rocket, sizzling bacon and topped with crispy onions. It's gourmet.",
+          "price": "£9.39",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 939,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/24e52c3612c56bdb6597c5908d6af0f8/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Starters",
+      "items": [
+        {
+          "id": "56973a26-baaf-515b-9a42-aa9a9aadd4ff",
+          "name": "Kansas BBQ Chicken Fries",
+          "description": "Juicy chicken strips made with 100% chicken breast, wrapped in a crispy, golden coating packed with the bold, smoky-sweet taste of authentic Kansas City BBQ.",
+          "price": "£6.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 629,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dbee278b6be4c84b68bbab5703761580/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d08bb4b5-74f3-5e40-84a8-589787b25166",
+          "name": "Spicy Mayo Loaded Nuggets",
+          "description": "9 pieces of golden nuggets drizzled with our our creamy Spicy Mayo sauce, topped with and crispy onions",
+          "price": "£7.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 749,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1ae5a9e3fb6d90f4be63366c0a204e42/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6505062e-f943-5532-be0d-2f30773fd6b3",
+          "name": "Halloumi Fries",
+          "description": "Cheesy golden bliss in every bite",
+          "price": "£5.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 579,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/85b2f7817f02752727c473255b79ae6e/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5f986169-c600-55e1-8425-347867e89079",
+          "name": "Chilli Cheese Bites",
+          "description": "Crispy coated with smooth and spicy cheese inside.  A unique taste of chilli with every bite.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bf71e548a4de937d01981bd7174fdad7/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ce8eee9d-3a8b-5444-86ac-dd97cfdd9e2e",
+          "name": "Onion Rings",
+          "description": "Classic golden onion rings",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c895e8335e4ba852f06ddec4340b5878/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4e3e88ca-fa92-5086-9421-05c84a001436",
+          "name": "Chicken Nuggets",
+          "description": "Bite-sized Chicken Nuggets, coated in a crispy tempura.  Served with our BK dip.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2dcac0b39291144f19f798f2b13d8466/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8fb67e2d-fce8-5aee-bcdc-82440004e629",
+          "name": "Loaded King Fries (Cheese & Bacon)",
+          "description": "A large portion of fries drenched in cheese sauce and bacon pieces.",
+          "price": "£4.89",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 489,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d7a2faabbba2d8c1da8e95a652d04a4f/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "89f5982f-a1f8-5937-ab37-193d27c58e42",
+          "name": "Loaded King Fries",
+          "description": "A large portion of fries drenched in cheese sauce. (other flavours available)",
+          "price": "£4.39",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 439,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/780eb7a34eb45efec10e62baaed4646c/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Flame-Grilled Beef Meals and Burgers",
+      "items": [
+        {
+          "id": "e9d83b36-ad9e-5390-8b8d-e4b6b7123294",
+          "name": "Whopper Meal",
+          "description": "A flame-grilled beef patty, topped with tomatoes, fresh cut lettuce, mayo, pickles, a swirl of ketchup, and sliced onions on a soft sesame seed bun. Meals are served with large fries and a drink of your choice.",
+          "price": "£10.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1029,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/470ce8a725bf0a2ccef6c864e347b513/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "da26a3bc-79a5-5831-8657-90bda433f527",
+          "name": "Spicy Mayo Double Whopper Meal",
+          "description": "Two flame-grilled Whopper® patties made with 100% British and Irish beef, topped with crispy strips of bacon, layered with fresh lettuce, tomato, onion, pickles, ketchup and our creamy Spicy Mayo. Meals are served with large fries and a drink of your choice",
+          "price": "£12.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1259,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/569c40cbeeeaf4b8c1f8109c307b8a4f/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e94188ab-d54f-57ff-9784-ac9173e431d1",
+          "name": "Spicy Mayo Double Whopper",
+          "description": "Two flame-grilled Whopper® patties made with 100% British and Irish beef, topped with crispy strips of bacon, layered with fresh lettuce, tomato, onion, pickles, ketchup and our creamy Spicy Mayo.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e03cfd5a22826bd0081ddd73f54f833b/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "713f7a07-3830-57b8-b058-3383cd51281a",
+          "name": "BBQ Steakhouse Angus Meal",
+          "description": "New & improved recipe! A deep smokey BBQ sauce, rocket, a smoked cheddar cheese slice, bacon, crispy onions, tomato and mayo on top of a flame grilled 100% Aberdeen Angus Beef Burger. Meals are served with large fries and a soft drink of your choice.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/74ef4d6ed9f8cd80c16cb5354d91cbad/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f4b00b38-58f7-520e-9d7b-d9c78dd118e9",
+          "name": "Bacon Double Cheese XL Meal",
+          "description": "Two signature flame-grilled beef patties topped with smoked bacon and two layers of melted American cheese on a toasted sesame seed bun. Meals are served with large fries and a drink of your choice.",
+          "price": "£12.09",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1209,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/42e5f522be5569b97907340e3e4199ff/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5ec23919-5526-5e7f-8194-fab0a4a4d4ab",
+          "name": "Double Whopper Meal",
+          "description": "Two flame-grilled beef patties topped with juicy tomatoes, fresh cut lettuce, mayo, pickles, white onions and  a swirl of ketchup on a soft sesame seed bun.  Meals are served with large fries and a drink of your choice.",
+          "price": "£11.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1179,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/498c941273c34253edef73cc6b9a27f6/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "cedf80b9-735c-586c-973d-fb7489bd2c0c",
+          "name": "Bacon Double Cheeseburger Meal",
+          "description": "Two signature flame-grilled beef patties topped with smoked bacon and two layers of melted American cheese on a toasted sesame seed bun.  Meals are served with large fries and a drink of your choice.",
+          "price": "£9.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 929,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bb821e1d2b5912297866b701a7494e1a/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e26ffc13-5556-5fa9-88a9-734d5f778edd",
+          "name": "BBQ Steakhouse Angus",
+          "description": "Flame-grilled Aberdeen Angus Beef, topped with BBQ sauce, rocket, smoked cheddar cheese slice, bacon, crispy onions, tomato and mayo.",
+          "price": "£9.39",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 939,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/67e65275412f10985e199fd1b3351e72/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3b29dea8-f9f2-5eee-974f-0f0e417543c3",
+          "name": "Bacon Double Cheese XL",
+          "description": "Two flame- grilled beef patties topped with Applewood smoked bacon and American cheese, all in our toasted sesame seed bun.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8b6b964909826e62d73aa01653fd67e0/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e103f7a1-7c7f-5ba1-9213-ea5bf2945058",
+          "name": "Double Whopper",
+          "description": "Two flame- grilled beef patties topped with juicy tomatoes, fresh cut lettuce, mayo, pickles, white onions and a swirl of ketchup on a soft sesame seed bun.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9e4dd400c544fed2aeb2bb7ca640199d/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5cd5b3e6-6c76-58cd-ac06-f457d8488991",
+          "name": "Bacon Double Cheeseburger",
+          "description": "Two signature flame-grilled beef patties topped with smoked bacon and two layers of melted American cheese on a toasted sesame seed bun.",
+          "price": "£6.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 669,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c91da719f880b203b5c09777995179ce/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "df25f39a-5f44-527b-985c-83e89073c18d",
+          "name": "Whopper",
+          "description": "A flame-grilled beef patty, topped with tomatoes, fresh cut lettuce, mayo, pickles, a swirl of ketchup and sliced onions on a soft sesame seed bun.",
+          "price": "£7.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 769,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fac4d5e05731f9f54e44ec5f4cc5978e/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Crispy and Tender Chicken",
+      "items": [
+        {
+          "id": "88fbd4c6-b750-57da-9453-ca37f3c9108e",
+          "name": "Double Chicken Royale Meal",
+          "description": "Two golden, crispy Chicken Royale patties made with 100% chicken breast topped with iceberg lettuce, creamy mayo and crowned with a toasted sesame seed bun. Meals are served with a large fries and a soft drink of your choice",
+          "price": "£11.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1179,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9203aa7da47d61546ddd7a697a8ed4f7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2a782ff1-25e9-5e4f-ad3a-133b88e25b3a",
+          "name": "Chicken Royale Meal",
+          "description": "Tasty chicken wrapped in a special crisp coating topped with iceberg lettuce, mayo and crowned with a toasted sesame seed bun.  Meals are served with large fries and a drink of your choice.",
+          "price": "£10.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1029,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/768385abdc71771325f7c0e482bc1e60/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9a6e9516-ac0e-55e1-972c-2367362b469b",
+          "name": "Spicy Mayo Chicken Royale Meal.",
+          "description": "A golden Chicken Royale patty made with 100% chicken breast topped with crispy strips of bacon, fresh lettuce, ketchup and our creamy Spicy Mayo. Meals are served with large fries and a drink of your choice",
+          "price": "£11.39",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1139,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d35ff91c5293b0871f995473b494f97c/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e7b06d67-66bc-58e6-8d3f-6dc6cba0e8f5",
+          "name": "Spicy Mayo Chicken Royale",
+          "description": "A golden Chicken Royale patty made with 100% chicken breast topped with crispy strips of bacon, fresh lettuce, ketchup and our creamy Spicy Mayo.",
+          "price": "£8.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 879,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2d1f210b75f72b9be2c5c273fcf4e8f8/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f26ebee0-2a84-59f7-bd22-02a1d191ba2e",
+          "name": "BBQ Steakhouse Crispy Chicken Meal",
+          "description": "100% juicy chicken breast, sandwiched between a pillowy brioche bun and layered with smooth oak-smoked cheddar cheese, fresh rocket, sizzling bacon and topped with crispy onions. It's gourmet. Meals are served with large fries and a soft drink of your choice.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1896916b4155ceeb00c139d8cb53044f/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "51881fde-9550-5af6-9411-3413594a052f",
+          "name": "Chicken Royale Bacon and Cheese Meal",
+          "description": "Toasted long sesame bun with crispy chicken, lettuce, mayo, melted cheese and crispy bacon.  Meals are served with large fries and a drink of your choice.",
+          "price": "£11.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1159,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f9d9db510215bce68bc928c9d4714ac6/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7aeebfb1-fb1e-5c72-bfd1-a84aea8b49ba",
+          "name": "BBQ Steakhouse Crispy Chicken",
+          "description": "100% juicy chicken breast, sandwiched between a pillowy brioche bun and layered with smooth oak-smoked cheddar cheese, fresh rocket, sizzling bacon and topped with crispy onions. It's gourmet.",
+          "price": "£9.39",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 939,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/24e52c3612c56bdb6597c5908d6af0f8/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1f7fcaa0-ca5b-524b-acf6-c06140772a04",
+          "name": "Double Chicken Royale HD",
+          "description": "Two golden, crispy Chicken Royale patties made with 100% chicken breast topped with iceberg lettuce, creamy mayo and crowned with a toasted sesame seed bun.",
+          "price": "£9.19",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 919,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f477d77ee87c3bfa1a64473c39baeefa/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d662ae57-b6d0-588d-be34-8cb746f2a92c",
+          "name": "Chicken Royale",
+          "description": "Tasty chicken wrapped in a special crisp coating, topped with iceberg lettuce, creamy mayo and crowned with a toasted sesame seed bun.",
+          "price": "£7.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 769,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/89d26b19748f11c142a5bea5ddf37cba/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ed8eb9c3-0687-54cd-a95f-639611224242",
+          "name": "9 Chicken Nuggets Meal",
+          "description": "Bite- sized Chicken Nuggets coated in crispy tempura  batter.  All of our meals are served with large fries or onion rings and a soft drink of your choice.",
+          "price": "£9.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 959,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d54135730c39d7066f30974afd826f04/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f8796213-011c-5b63-bce5-c14a4b9a1f1b",
+          "name": "6 Chicken Nuggets Meal",
+          "description": "Bite- sized Chicken Nuggets coated in crispy tempura  batter.  All of our meals are served with large fries and a soft drink of your choice.",
+          "price": "£8.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 859,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6ac7433d69be2010caaf8a51170e416b/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e7221cce-460e-50d7-a2f0-d87349aaf076",
+          "name": "Chicken Royale Bacon & Cheese",
+          "description": "Toasted long sesame bun with crispy chicken, lettuce, creamy mayo, melted cheese and crispy bacon.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/86e27f9afb5802d05886853296d3007f/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Vegan, Vegetarian and Plant-Based",
+      "items": [
+        {
+          "id": "e033de58-2e9c-5747-b19a-c0d93b1bafee",
+          "name": "Plant-Based Whopper Meal",
+          "description": "A Flame-grilled Plant-based burger, topped with tomatoes, fresh cut lettuce, vegan mayo, pickles, a swirl of ketchup, and sliced onions on a soft sesame seed bun. Meals are served with large fries and a soft drink of your choice. The Plant-based Whopper is plant-based, however it is cooked on the same broiler as our original Whopper to deliver the same unique flame-grilled taste.",
+          "price": "£10.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1029,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c84494e039e2fbb524947329b7bf862b/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "21a517de-d128-57e8-812d-a236aed0f128",
+          "name": "Vegan Royale Meal",
+          "description": "Certified by the Vegan Society- A crispy vegan patty topped with iceberg lettuce, vegan mayo and crowned with a toasted sesame seed bun. Meals are served with large fries and a soft drink of your choice. Please note only Capri Sun drinks and Water are Vegan Society Certified. If you select an alternative drink, the meal is no longer certified by the Vegan Society",
+          "price": "£10.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1029,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a5b9c8978654e09f34f45eb861bde33e/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b5531a02-bd66-5bcd-b417-b8a0ee6f7d07",
+          "name": "Vegan Royale",
+          "description": "Certified by the Vegan society- a crispy vegan patty topped with iceberg lettuce, vegan mayo and crowned with a sesame seed bun.",
+          "price": "£7.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 769,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/947a55234b64cc0c1c1663555984e852/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "edea8bf7-e7fa-582a-b66b-ae057db847ea",
+          "name": "Plant-Based Whopper",
+          "description": "A Flame-grilled Plant-based burger, topped with tomatoes, fresh cut lettuce, vegan mayo, pickles, a swirl of ketchup, and sliced onions on a soft sesame seed bun. The Plant-based Whopper is plant-based, however it is cooked on the same broiler as our original Whopper to deliver the same unique flame-grilled taste.",
+          "price": "£7.69",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 769,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d85978ebd58cfe76a89f0de1e779e062/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Made for sharing",
+      "items": [
+        {
+          "id": "2bc24359-3551-5677-baa2-6c58c0439b69",
+          "name": "20 Kansas BBQ Chicken Fries",
+          "description": "Juicy chicken strips made with 100% chicken breast, wrapped in a crispy, golden coating packed with the bold, smoky-sweet taste of authentic Kansas City BBQ.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/00dec8d89f5a669f7b4e900b9f17995e/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7a78fd5d-dd6e-5922-baef-83c31d36ea2d",
+          "name": "Sharer Box",
+          "description": "5 Nuggets, 5 Chilli Cheese Bites, 5 Kansas BBQ Chicken Fries and 5 Onion Rings. Cross contact of allergens can occur between assorted products. Served with dips",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c2c0d12579b029827ba8c28d1440e71d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9e372e98-15f2-596f-b8b5-c4119c870c6a",
+          "name": "20 Chicken Nuggets",
+          "description": "20 Bite sized chicken nuggets, coated in a crispy tempura.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5df705cdebb0e2975edae42b86ca1e3b/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5cb6c7f5-491e-50b4-840f-3db890287368",
+          "name": "20 Chilli Cheese bites",
+          "description": "Crispy coated with smooth and spicy cheese inside. A unique taste of chilli with each bite.",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/80d901ee4fcb96008d2a83970f0358ec/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "312db13b-1422-5a07-a4c8-9af8365ab193",
+          "name": "20 Onion Rings",
+          "description": "20 Classic golden onion rings",
+          "price": "£6.09",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 609,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1412c596c46ea470515749da1dbe069d/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Sides and Fries",
+      "items": [
+        {
+          "id": "56973a26-baaf-515b-9a42-aa9a9aadd4ff",
+          "name": "Kansas BBQ Chicken Fries",
+          "description": "Juicy chicken strips made with 100% chicken breast, wrapped in a crispy, golden coating packed with the bold, smoky-sweet taste of authentic Kansas City BBQ.",
+          "price": "£6.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 629,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dbee278b6be4c84b68bbab5703761580/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d08bb4b5-74f3-5e40-84a8-589787b25166",
+          "name": "Spicy Mayo Loaded Nuggets",
+          "description": "9 pieces of golden nuggets drizzled with our our creamy Spicy Mayo sauce, topped with and crispy onions",
+          "price": "£7.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 749,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1ae5a9e3fb6d90f4be63366c0a204e42/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6505062e-f943-5532-be0d-2f30773fd6b3",
+          "name": "Halloumi Fries",
+          "description": "Cheesy golden bliss in every bite",
+          "price": "£5.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 579,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/85b2f7817f02752727c473255b79ae6e/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5f986169-c600-55e1-8425-347867e89079",
+          "name": "Chilli Cheese Bites",
+          "description": "Crispy coated with smooth and spicy cheese inside.  A unique taste of chilli with every bite.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bf71e548a4de937d01981bd7174fdad7/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ce8eee9d-3a8b-5444-86ac-dd97cfdd9e2e",
+          "name": "Onion Rings",
+          "description": "Classic golden onion rings",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c895e8335e4ba852f06ddec4340b5878/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4e3e88ca-fa92-5086-9421-05c84a001436",
+          "name": "Chicken Nuggets",
+          "description": "Bite-sized Chicken Nuggets, coated in a crispy tempura.  Served with our BK dip.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2dcac0b39291144f19f798f2b13d8466/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "89f5982f-a1f8-5937-ab37-193d27c58e42",
+          "name": "Loaded King Fries",
+          "description": "A large portion of fries drenched in cheese sauce. (other flavours available)",
+          "price": "£4.39",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 439,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/780eb7a34eb45efec10e62baaed4646c/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6b399363-94ae-5f43-9bf0-03f8b2ad9279",
+          "name": "Fries",
+          "description": "Our signature thick cut salted French Fries.",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a7d585626dcc9be12c91710e2a467643/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Kids Meals",
+      "items": [
+        {
+          "id": "e94e9a14-94e1-54f7-b5fe-413054330add",
+          "name": "Cheeseburger Kids Meal",
+          "description": "Our original burger topped with a slice of cheese and ketchup in a sesame seed bun. Served with a portion of small fries or apple slices and a drink of your choice.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a5e380813081f927537ac69fcb350463/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ce656c09-ea36-5565-a41a-a1c68c7f1a09",
+          "name": "Chicken Nuggets Kids Meal",
+          "description": "4 Bite-sized Chicken Nuggets, coated in a crispy tempura. Served with a small portion of fries or apple slices and a drink of your choice.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/48ff55b89ea4d003c46c3e7840c1e690/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9700cd05-3dc3-5195-a0ef-f6b4a4c57979",
+          "name": "Hamburger Kids Meal",
+          "description": "Our original burger with ketchup served in a sesame seed bun. Served with a portion of small fries or apple slices and a drink of your choice.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/51fa085b2714567b3df72dacd8833783/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Desserts",
+      "items": [
+        {
+          "id": "b20c6d05-5fe7-5e32-9c1a-cf6d16cc02f6",
+          "name": "Large Chocolate Fudge Brownie",
+          "description": "465ml",
+          "price": "£6.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 649,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b719dac9189c84f9c692faed7e33356c/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c56bede9-fcab-5558-ac33-22b325aa9507",
+          "name": "Large Cookie Dough",
+          "description": "465ml",
+          "price": "£6.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 649,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/03c2b5b8cf177045bf02c538a1744024/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b06d7778-b3ab-5067-b5a7-b53f3177b230",
+          "name": "Small Caramel Chew Chew",
+          "description": "100ml",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/064bf9ce082ba7d36c9858382958a686/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d641d3fb-0aaf-50ea-918c-491cde4cd5ad",
+          "name": "Small Chocolate Fudge Brownie",
+          "description": "100ml",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dbbdc47802a04a0e695f6b05937981aa/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b36730bc-05dd-5733-a8c5-1b78ccc46897",
+          "name": "Small Cookie Dough",
+          "description": "100ml",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/02cc65ebb13e093959858bcb9eb6beb6/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Drinks and Milkshakes",
+      "items": [
+        {
+          "id": "eebdfc10-c966-5525-95fa-80332afd025b",
+          "name": "Chocolate Shake HD",
+          "description": "A thick creamy shake with the taste of chocolate.",
+          "price": "£4.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 479,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0332978d38f49504b84b24a5a264fb88/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": true,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b2b602a3-2bb7-50c6-b5c5-93a29f77f0ee",
+          "name": "Strawberry Shake HD",
+          "description": "A thick creamy shake with the taste of strawberry",
+          "price": "£4.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 479,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/240dc04bf5028421953017cf9dd51b70/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": true,
+          "hasCustomizations": false
+        },
+        {
+          "id": "08c3d0dc-2653-505f-8c92-cbb0130f50fd",
+          "name": "Vanilla Shake HD",
+          "description": "A thick creamy shake with the taste of vanilla.",
+          "price": "£4.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 479,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6ad294386e2f2cc60844842241a8d295/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": true,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6f83dd70-6bbc-5002-9759-c114d4c73eb0",
+          "name": "Coca-Cola Zero Sugar",
+          "description": "500ml",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/588de3d60cba73fa42fb431db46881e8/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "382a0831-e255-5219-931f-be577bff03ee",
+          "name": "Diet Coke",
+          "description": "500ml",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f7778eab443674b4c1f476fb60f81c45/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c2a5ea5d-0623-5b8a-aede-63e9b258ac95",
+          "name": "Fanta Orange",
+          "description": "500ml",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3ebd2af0debb67a8f826804696e187c7/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8cda57cd-13d3-5225-908e-215155017ea4",
+          "name": "Sprite Zero Sugar",
+          "description": "500ml",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d2c4f4cc57f3684deb2a19b4c14c3dbf/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5889dc29-63a7-576e-a697-0d6219a48f69",
+          "name": "Dr Pepper Zero",
+          "description": "500ml",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7c3f36e2af4645f5b275eafa8918bd3c/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7765ccab-7ad2-5886-8a5a-7b8eb2aacfe5",
+          "name": "Still Water",
+          "description": "500ml",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f5f2fa82d26b365faee3683940108907/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "18471290-80c0-5272-ab91-267310d46568",
+          "name": "Classic Coca-Cola",
+          "description": "500ml",
+          "price": "£3.17",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 317,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/96d6996d68f475f126cef11cc154c0e0/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6b0cd9a1-2faa-526e-b394-8c9e14e375d3",
+          "name": "Monster Energy Lando Norris Zero Sugar",
+          "description": "500ml",
+          "price": "£3.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 379,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/315140359f4356b5ebb98eaa7f650470/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": true,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bad92970-158a-5c84-9639-5b6e913724d3",
+          "name": "Monster Mango Loco",
+          "description": "500ml",
+          "price": "£3.93",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 393,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3156e382b82cc0893cc5e778792e2495/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "625249ab-9d01-5693-9fb8-d88c7c9790c6",
+          "name": "Monster Ultra Zero Sugar",
+          "description": "500ml",
+          "price": "£3.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 379,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/edf8af1ddbc817fb2fc9d8b584879ef3/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "43401324-bcfd-5774-a616-ab7c534038d9",
+          "name": "Monster Original",
+          "description": "500ml",
+          "price": "£3.93",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 393,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/03af3f8b2f22330c060ef66d47c41e0f/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "eca54e94-8107-52c2-9f2f-7a6ad9acbf62",
+          "name": "Frozen Fanta Strawberry",
+          "description": "Strawberry flavoured fizzy frozen slushy- excite your tastebuds!",
+          "price": "£3.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 379,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/345c4579cd1491b3855bf1062ca94ffd/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "18d01dae-1efe-5a73-b59a-6889b613797a",
+          "name": "Frozen Fanta Blue Raspberry",
+          "description": "With a sweet, fruity raspberry flavour, it packs a punch of deliciousness and keeps you cool all summer long",
+          "price": "£3.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 379,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e5670c6b2c677754edd2d7212329d9ea/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "da16ac9b-16f3-559d-aea8-fc5159e7c745",
+          "name": "Frozen Fanta Strawberry & Raspberry",
+          "description": "A fruity mix of strawberry and blue raspberry - get the best of both",
+          "price": "£3.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 379,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8495410ca96d6f7a5531521fd31dcf5d/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "72a67ad0-fd40-5765-865a-f9f5b6b068dc",
+          "name": "Regular Americano",
+          "description": "Bold, rich espresso with hot water. Simple and satisfying",
+          "price": "£2.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 229,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0adb0beba725f7d9503cb73796bc000b/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ae4bc841-b2b6-5d1e-8f00-cc10bf92d80a",
+          "name": "Regular Cappuccino",
+          "description": "The classic. equal parts espresso, steamed milk, and frothy foam.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/262e1f1197107391af56d620752a893d/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9920578e-a7ee-51c4-9723-2d2c414069ff",
+          "name": "Regular Flat White HD",
+          "description": "Velvety espresso with a perfect balance of milk and foam",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/df8d890f52bba88f2d2f9b3176b91cf8/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0d317269-0fb3-5074-bc58-56dc646d5d7e",
+          "name": "Regular Hot Chocolate HD",
+          "description": "A real treat. Luxurious and rich hot chocolate blended with steamed milk.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/774aef7dfd79dced1b864b6baf31fa4b/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4cbb77d8-3783-5487-953c-e908d420922f",
+          "name": "Regular Latte HD",
+          "description": "A creamy blend of espresso and steamed milk, topped with a light layer of foam.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ad797390f098787e6a04a82200f61546/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4087df5d-988c-558a-8b1e-4e9dadd87f5a",
+          "name": "innocent kids juicy water apples and mangoes",
+          "description": "innocent kids juicy water apples & mangoes 200ml",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0360cb8ccc59c8f66a1faf745653984f/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "85730ed7-468c-5ed2-9168-49f088850d8f",
+          "name": "innocent kids juicy water apples and strawberries",
+          "description": "innocent kids juicy water apples & strawberries 200ml",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9628976d666603a0b77cd4825687da8a/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Sauces & Dips",
+      "items": [
+        {
+          "id": "edc03650-bf3e-5b12-8306-64e5499b48a7",
+          "name": "Smoky BBQ Dip",
+          "description": "25g",
+          "price": "£0.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 35,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f3c822a022c43b8b1c85dd7ea4fae6a7/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f10b1b79-a508-5b7b-8e73-e944f9e98f61",
+          "name": "Spicy Mayo Dip",
+          "description": "25g",
+          "price": "£0.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 35,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2b5625c26e1c53fade5cbcaa253e13fe/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b3b59b35-c11b-5b95-ae4c-655cfdc85cfd",
+          "name": "Mayo Dip",
+          "description": "25g",
+          "price": "£0.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 35,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ce2e540bd1562cf9659570eb996acd29/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e5c48fd7-b6d6-5718-9bb7-ead2f4cdba22",
+          "name": "Sweet Chilli Dip",
+          "description": "25g",
+          "price": "£0.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 35,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4828a263c5d59966f963944a54a562f1/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

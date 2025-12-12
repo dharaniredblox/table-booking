@@ -1,0 +1,1455 @@
+{
+  "restaurant_id": "costacoffeebristolcabotcircus-BS13BQ-51",
+  "source_id": "d5241c2b-7b4b-50ef-b8ae-ec69caa60b44",
+  "restaurant_url": "https://www.ubereats.com/store/costa-coffee-bristol-cabot-circus/1SQcK3tLUO-4ruxpyqYLRA",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:44:02.070Z",
+  "restaurant": {
+    "name": "Costa Coffee (Bristol Cabot Circus)",
+    "slug": "costa-coffee-bristol-cabot-circus",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441173169733",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "Cabot Circus Shopping Centre, Su65, Block 5, Bristol, BS1 3BQ",
+    "streetAddress": "Cabot Circus Shopping Centre, SU65, Block 5",
+    "addressCity": "bristol-eng",
+    "neighborhood": "st-james-bristol-eng",
+    "addressRegion": null,
+    "postalCode": "BS1 3BQ",
+    "addressCountry": "GB",
+    "latitude": 51.458511,
+    "longitude": -2.585339,
+    "geohash": "gcnhtp",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 4.2,
+    "totalReviews": "70",
+    "workingHours": "Open until 11:30 PM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Coffee and Tea",
+      "Breakfast and Brunch",
+      "Sandwich"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Sunday",
+      "hours": [
+        {
+          "open": "08:30",
+          "close": "17:00",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Monday - Friday",
+      "hours": [
+        {
+          "open": "07:30",
+          "close": "19:00",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "hours": [
+        {
+          "open": "08:00",
+          "close": "19:00",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Deals",
+      "items": [
+        {
+          "id": "9740108d-0b2f-5067-963c-69b2469ed42b",
+          "name": "Refuel Your Day",
+          "description": "Choose 1 item from the required sections below. Subject to availability. Customisations, additions & milk alternatives subject to additional charge(s) shown. Items not listed are excluded. Full T&Cs at Costa.co.uk.",
+          "price": "£6.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 649,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cece9ff4d60ea3381397f8830a7265ad/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Deals",
+      "items": [
+        {
+          "id": "adbeadec-ea2f-57e1-a259-ba57405f88cf",
+          "name": "Lunch Meal For 1",
+          "description": "11am to 3pm.Choose 1 item from the required sections below. Subject to availability. Customisations, additions & milk alternatives subject to additional charge(s) shown. Items not listed are excluded. Full T&Cs at Costa.co.uk.",
+          "price": "£10.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1000,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e10001d347b05fe82c8de92c4a8c289c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6dd8aaa5-7dcf-53d9-980b-324ddffd1f27",
+          "name": "Lunch Meal For 2",
+          "description": "11am to 3pm.Choose 1 item from the required sections below. Subject to availability. Customisations, additions & milk alternatives subject to additional charge(s) shown. Items not listed are excluded. Full T&Cs at Costa.co.uk.",
+          "price": "£19.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1900,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/53418833db9c478d6d04f15a38625aa3/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "What's New",
+      "items": [
+        {
+          "id": "b79cc9ed-b4a7-5055-bd5c-3bb7760a62e5",
+          "name": "Maple Hazel Latte",
+          "description": "Your favourite latte layered with roasted hazelnut flavour syrup & luxurious maple sauce   **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk**\nFor full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 525,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f6ac0a68f92ffce68f99869cde82015c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "238e24f3-b233-5f5b-8024-20a06c39ab19",
+          "name": "Maple Hazel Hot Chocolate",
+          "description": "A rich hot chocolate with roasted hazelnut flavour syrup and luxurious maple sauce. **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk**\nFor full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 525,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dce0c192b1874e50330339f62fe372f7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "bcff1f79-7a17-5747-91af-981de5620866",
+          "name": "Maple Hazel Frappé",
+          "description": "A delicious Frappé with a luxurious Maple Hazel Flavour Sauce, topped with Light Whip and sprinkled with an autumnal crunchy biscuit topping. **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk** \nFor full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 540,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0b81fd9f63c03b67ceaeb57dac5a62c6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8b7cf933-0cef-585e-90b4-7113a0df2e36",
+          "name": "Maple Hazel Iced Latte",
+          "description": "Chilled milk over ice with fresh espresso with roasted hazelnut flavour syrup & luxurious maple sauce, topped with Light Whip and sprinkled with an autumnal crunchy biscuit topping.   **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk**\nFor full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 525,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7b0648997cecca6c0ee7456ff0282d00/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "daf3b2bb-6014-59a6-a7c2-0cc785c9bb1a",
+          "name": "Roast Chicken & Bacon Sandwich",
+          "description": "Roast chicken with chicken gravy mayonnaise and beechwood smoked streaky bacon on malted bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2f30279a65b232dd167a0978003368bd/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f1af3a15-ccee-545a-8e5a-3d64df7ef54a",
+          "name": "Chocolate & Salted Caramel Cake",
+          "description": "Layered chocolate sponge filled with salted caramel and chocolate frostings, topped with dark chocolate shavings, fudge pieces and drizzled with caramel. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 425,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f509018a9363a9be4aa4fc1c315a3a01/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e4763589-8482-5f12-973c-1d8a2527b0e2",
+          "name": "Gingernut Loaf Cake",
+          "description": "A plant based sticky ginger sponge topped with a sweet ginger frosting and hand finished with crumbled gingernut biscuits. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 390,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b310dcb384e20bba80437914dc30988e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "63000f62-92b9-59fd-a952-1c31f087f5a7",
+          "name": "Iced Ghost Gingerbread Biscuit",
+          "description": "Gingerbread biscuit with fondant icing. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/58acc7053b5ce56789cb40729fc20048/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c08f7887-af23-5c7f-86b6-cc4dd9f546a4",
+          "name": "Sticky Pecan Mini Loaf",
+          "description": "A caramel cake with pecan nut inclusions, injected with a sticky toffee sauce and topped with icing and praline pecan pieces. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 360,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5110734180b30f45713e0a02757bef14/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "aeda8587-091a-520c-affa-135277fc7492",
+          "name": "Halloween Chocolate Cornflake Cake",
+          "description": "Chocolate covered cornflakes topped with a white chocolate decoration. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 320,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fd320352d682d99f0b9d7bb746fa6e8d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6309bae4-9a1a-5cb4-8a42-ec181789690f",
+          "name": "Maple Hazelnut Cookie Sandwich",
+          "description": "A white chocolate cookie sandwich filled with a maple and caramel frosting, finished with icing and roasted hazelnut pieces. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cb417ab17ad3401596ccc657b00f8d76/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Pastries, Baps & Breakfast",
+      "items": [
+        {
+          "id": "bb999cbb-fbb8-55ec-8970-9a10338bc7e6",
+          "name": "Egg & Mushroom Bap",
+          "description": "Free range scrambled egg, roasted mushrooms, spinach and mature Cheddar cheese with hollandaise style sauce in a white roll For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f3d6c668c0751a1e8bd35425ee6622c9/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "be1c71b4-9839-5df8-a99d-15e55ed5f45c",
+          "name": "Greek Style Yogurt with Mixed Berry Compote",
+          "description": "Greek Style Yogurt with Mixed Berry Compote and Crunchy Granola For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 330,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/323849759873ca16ccf9dcd00624cd73/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "53e350cd-9b44-5efd-a3ec-f2ac86448092",
+          "name": "Pain Aux Raisins",
+          "description": "All butter pastry swirled with raisins. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 310,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7462620f072dcb1a07d833f20b6b5eeb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bcfa8fae-9c0e-514f-9f7f-364808041aa0",
+          "name": "Pork Sausage Bap",
+          "description": "Succulent pork sausage in a buttered white roll For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/870373c0e6d8a17cb6a344b321baddc2/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5788710c-36d7-502d-b731-7d3753705a2a",
+          "name": "Smoked Bacon Bap",
+          "description": "Beechwood smoked bacon in a buttered white roll For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/87b4b8365c6b7d1ac44c7933b6e5c46b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b07b4dd1-e7ec-5f7c-81d3-b74edc685a95",
+          "name": "Croissant (V)",
+          "description": "All butter croissant. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 270,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f78cf269bfef65474e7fd27e11225c3f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "665ff081-99dd-52a4-8687-077e71e2f65c",
+          "name": "Almond Croissant",
+          "description": "Croissants with an almond filling, topped with almond flakes and icing sugar. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 310,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/44f55a5f2ea36c2b3558c279092c180a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cf53676c-b01c-5b04-8212-a59ef049c4c2",
+          "name": "Chocolate Twist (V)",
+          "description": "A chocolate pastry with a twist. You see what we did there? For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 310,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9ba9a78d0eb38cbb3af3c3008f0d054d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Main Meals",
+      "items": [
+        {
+          "id": "8051b7ee-8c98-5b9b-89a1-6ef281f87a46",
+          "name": "Creamy Mac & Cheese (V)",
+          "description": "Cooked pasta with mature cheddar cheese sauce topped with fresh spinach and a parsley crumb. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£6.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 615,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ffc9a6bc5f2683cc766de45a95319617/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e9d88c7d-fb82-5912-9c20-5bafe15eb394",
+          "name": "Hog Roast Toastie",
+          "description": "Hickory pulled pork, spiced apple glaze, caramelised onion chutney, sage & onion stuffing & oak smoked Cheddar in garlic & herb topped bloomer For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£6.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 605,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7a2c91c56040352a48f0d42a0165fb68/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "27b541a9-186c-5e74-bbe2-e98e52015d03",
+          "name": "Nacho Chilli Cheese & Chicken Toastie",
+          "description": "British roast chicken & chilli Cheese with nacho cheese sauce & jalapeños on tortilla chips & cheese topped bloomer bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£6.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 605,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ed70814ddb54e2a6a63e88b13faecc80/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f404be0b-2748-5ecd-8e9e-af7dd680340e",
+          "name": "Cajun Spiced Chicken Pizza Wrap",
+          "description": "Cajun spiced chicken with tomato & oregano sauce, roasted onion and peppers, mozzarella & Cheddar cheese in a barmarked tortilla wrap. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 585,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/480efea5ca10f54d9f30a552cc0404e0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "50e639bd-89aa-5857-adbd-2963eb7ba418",
+          "name": "All Day Breakfast Wrap",
+          "description": "British Beechwood smoked bacon, pork sausage & free range egg with tomato ketchup in a barmarked tortilla wrap For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 585,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0fbc0e9b15102e3c19bbb0f291718539/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3997164f-3e04-5282-b6b1-00b456869449",
+          "name": "Ham & Cheese Toastie",
+          "description": "Ham, cheddar cheese and bechamel on toasted bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3eb1dcb0f24cfcbc5ddd216b40c012a9/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5e01aa3b-d476-527e-bbd9-7eefc0e9037c",
+          "name": "Wiltshire Ham & Mature Cheddar Toastie",
+          "description": "Wiltshire ham and mature cheddar with a hint of mustard on white bread, topped with melted cheese. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 549,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d7e2f8c9427615945320d062cf211c0f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "16b486a4-15e7-50c3-a84d-ec1c350bcde1",
+          "name": "Mozzarella & Tomato Panini (V)",
+          "description": "Slow roasted tomatoes and basil pesto on a toasted sourdough ciabatta. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 565,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2d06aba14625a520e8659130917b1615/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "375b3886-1a4e-566f-812c-1feb6dfedb58",
+          "name": "Tuna Melt Panini",
+          "description": "Tuna, Cheddar cheese and mozzarella in a stone baked sourdough panini For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 565,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e888444202f7f54ff564fc0ea9859387/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7679e674-5faf-5b3f-9556-57c690c0586f",
+          "name": "BLT Sandwich",
+          "description": "Beechwood smoked bacon with tomato, lettuce & mayo on malted bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d125c787cd0c97ff8eb929a117c4e9ed/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cdfedd98-bdd5-58ed-a3c4-2be81b329403",
+          "name": "Free Range Egg Mayo Sandwich",
+          "description": "Free range egg in a creamy seasoned mayonnaise, on malted bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/526eec8dfa6a293e035125d6420a0abb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "19351e80-a140-5c68-9b56-bbd5d4e02caa",
+          "name": "Prawn Mayo Sandwich",
+          "description": "Prawns with mayonnaise on oatmeal bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5f99733d6d0c3e837825ab33421a9e9f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7f1f39cc-1d5b-5ba8-9f57-121d77c397e0",
+          "name": "Cheese & Tomato Toastie (V)",
+          "description": "The classic combination of cheese and tomato on toasted bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 549,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/91028b3c7e062790f8cd54369cc0e578/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "daf3b2bb-6014-59a6-a7c2-0cc785c9bb1a",
+          "name": "Roast Chicken & Bacon Sandwich",
+          "description": "Roast chicken with chicken gravy mayonnaise and beechwood smoked streaky bacon on malted bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2f30279a65b232dd167a0978003368bd/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "efc0c721-80d5-5280-9618-9f09c978f492",
+          "name": "High Protein Chicken Bites",
+          "description": "Breaded chicken bites with chipotle BBQ sauce. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 410,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/73f95cacba82cc2af4b9b05816711799/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "55f062a1-3111-5c27-9308-253fe5074f0e",
+          "name": "Vegan Ham & Cheeze Toastie",
+          "description": "Plant based smoky ham, cheeze and plant based mayonnaise on barmarked white bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/245028ee30f8754adcf9a68db44ca470/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "90e2ef01-b9e2-5947-8a29-a6e913980757",
+          "name": "Chicken & Bacon Toastie",
+          "description": "British roast chicken & sweetcure bacon with mature Cheddar & mozzarella cheese on cheese topped white bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 580,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d808dfdbbb3c2da4b61595e86758a977/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0f2a1574-da1d-54aa-ac19-56fcb3d9bd4c",
+          "name": "Brie, Bacon & Chilli Jam Panini",
+          "description": "Brie, beechwood smoked streaky bacon and smoky chilli relish in a seed topped panini For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£6.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 605,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2b9af863d29288082c8157a10477768d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ea3ae533-c968-5cf4-b696-d3d1e0353f15",
+          "name": "Heinz Beanz & Cheese Toastie",
+          "description": "Heinz baked beanz and mature Cheddar cheese in bar marked white bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d8a6996a36ba131175df082120023c01/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Muffins, Cakes and Bakes",
+      "items": [
+        {
+          "id": "6215e4c4-539b-58c4-b722-c414d02922d3",
+          "name": "Bakewell Tart (V)",
+          "description": "A butter rich pastry encasing a layer of almond frangipane, Morello cherry jam and sweet, glossy fondant. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 335,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/883496ab391687f542b6a216c55179c2/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "dfb7f6ed-6944-5a6c-87ed-bfef2fa53f05",
+          "name": "Salted Caramel Brownie",
+          "description": "Dark chocolate brownie with salted caramel For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 335,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cb6d7c21bdfef801d7530f371270ddf7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f1af3a15-ccee-545a-8e5a-3d64df7ef54a",
+          "name": "Chocolate & Salted Caramel Cake",
+          "description": "Layered chocolate sponge filled with salted caramel and chocolate frostings, topped with dark chocolate shavings, fudge pieces and drizzled with caramel. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 425,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f509018a9363a9be4aa4fc1c315a3a01/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "df88f308-e47c-5771-8f8c-7bee0f0a487d",
+          "name": "Carrot & Walnut Cake",
+          "description": "Carrot and walnut cake topped and filled with layers of soft cream cheese butter icing and decorated with walnut nibs. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3e2f3a703117a3ab3d5e601a0fa2e628/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fe1cfb5d-0e93-502f-b643-693ea6d35c6f",
+          "name": "Blueberry Muffin",
+          "description": "A blueberry muffin, filled with a blueberry sauce and topped with blueberries For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1ee043cfcb1cf1720faddd53b16ca79f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a33aea2e-9148-5be3-a3ca-16bacca1dcbc",
+          "name": "Lemon Muffin (V)",
+          "description": "Lemon muffin with a gooey lemon curd centre. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ccd8cae760a3446b5cbef9a813348969/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "95cf9b92-d4eb-5d2d-805e-7c27808f65cf",
+          "name": "Millionaire’s Shortbread (V)",
+          "description": "Crisp Scottish shortbread base, topped with a buttery rich caramel and layer of milk chocolate. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 335,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a7b6637ba12f03a0eef0494cae5929f3/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5fa4500a-ba91-53d0-a96f-7256fba80144",
+          "name": "Chocolate Tiffin (V)",
+          "description": "Milk chocolate binding dried fruit and digestive biscuit pieces. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 335,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7d22fa4dc6e01956c1cabb3a3cb80b9a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ce401664-d86d-5375-bb4d-5bc1f944694d",
+          "name": "Raspberry & Almond Bake (V)",
+          "description": "Almond rich frangipane topped with shiny raspberry jam. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 335,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/43f71bf04e5330494ba01ec05c116cd5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0d4cb6c3-1039-567e-a2f4-900d301cc053",
+          "name": "Lemon Curd Tart (V)",
+          "description": "Pastry case filled with lemon curd and a white chocolate and lemon ganache, topped with lemon peel. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 335,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c7153cf72db0fc693585870cbcda8e74/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e4763589-8482-5f12-973c-1d8a2527b0e2",
+          "name": "Gingernut Loaf Cake",
+          "description": "A plant based sticky ginger sponge topped with a sweet ginger frosting and hand finished with crumbled gingernut biscuits. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 390,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b310dcb384e20bba80437914dc30988e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c08f7887-af23-5c7f-86b6-cc4dd9f546a4",
+          "name": "Sticky Pecan Mini Loaf",
+          "description": "A caramel cake with pecan nut inclusions, injected with a sticky toffee sauce and topped with icing and praline pecan pieces. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 360,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5110734180b30f45713e0a02757bef14/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "aeda8587-091a-520c-affa-135277fc7492",
+          "name": "Halloween Chocolate Cornflake Cake",
+          "description": "Chocolate covered cornflakes topped with a white chocolate decoration. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 320,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fd320352d682d99f0b9d7bb746fa6e8d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6309bae4-9a1a-5cb4-8a42-ec181789690f",
+          "name": "Maple Hazelnut Cookie Sandwich",
+          "description": "A white chocolate cookie sandwich filled with a maple and caramel frosting, finished with icing and roasted hazelnut pieces. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cb417ab17ad3401596ccc657b00f8d76/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "38288680-b3c6-5b4d-a8fa-4ffa49bb0949",
+          "name": "Triple Chocolate Muffin",
+          "description": "Chocolate muffin filled with a chocolate sauce and topped with chocolate chunks. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5c6639504ce5d99292924a9bd757115d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a551dd85-7dbf-5c02-a1d5-93931b309751",
+          "name": "Milk Chocolate Cookie",
+          "description": "Baked Cookie with Milk Chocolate Pieces. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 320,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/92d5dae34111ade403f14f18739cd948/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "170474a9-7fa8-54b3-8843-58e709920d99",
+          "name": "Lemon Drizzle Loaf Cake",
+          "description": "Lemon flavoured sponge with lemon curd, topped with a lemon flavoured syrup and glaze For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 390,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/49094ab4561c5845577b3304d1aa7103/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Biscuits and Snacks",
+      "items": [
+        {
+          "id": "cfb85137-696d-5ae6-b966-b63deb31979d",
+          "name": "Mini All Butter Shortbreads",
+          "description": "Eight crumbly all butter shortbread bites. Perfect for sharing. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 380,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/853a670381826ef7f8c9419bfc7e4526/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1e6a8b5f-4d04-550a-ab00-b4050178c5a2",
+          "name": "Belgian Chocolate Brownie (Gluten Free)",
+          "description": "Brownie with milk and dark chocolate. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 290,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/015fe9628e0570e246cdd62270b81f40/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0cfef7dd-d86b-55e4-919c-0025c4248ff9",
+          "name": "Caramel Waffles",
+          "description": "Our waffles are made to an authentic family recipe from the Netherlands and filled with a buttery syrup filling, enriched with natural vanilla. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 230,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d4157847c5fbf48a879d1b4ac8a0bcf4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "68bf1607-e4b4-5061-a7ef-3bfcd4fb79e7",
+          "name": "Balocco Wafers - Cocoa (V)",
+          "description": "Crisp wafer biscuits layered with a sweet and creamy cocoa and hazelnut filling. Made in Italy. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d9f397086a0d11f28a3f9e514021afe9/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b429a1cd-a7d5-50ae-bbf7-244960e1d6ea",
+          "name": "Balocco Wafers - Milk Vanilla (V)",
+          "description": "Crisp wafer biscuits layered with a sweet vanilla crème. Made in Italy. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6911274569ca79d28e226c68783d4a12/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "09e1f903-a6dc-5f42-8d92-d557aae66ba1",
+          "name": "Fruity Flapjack",
+          "description": "Flapjack with dried apricots, cranberries, coconut and sultanas. Mixed with oats and baked until golden. (GF v) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 290,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3573d30aea79161ff9f9b573d1a66cf0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "eec1e98d-4b67-512b-89e4-21df62f0bbae",
+          "name": "Stem Ginger Biscuits",
+          "description": "Coming all the way from Scotland, our stem ginger biscuits are deliciously sweet and spicy. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3798c387c4e2574125c12caa7f61cada/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1f00c381-88a0-5157-bfc2-b9568ab787fa",
+          "name": "Fruit & Oat Biscuits",
+          "description": "This classic Scottish combination of raisins and rolled oats is always a winner. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/88fb8c0f9aeba11989f9fe799d310a6b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "adebc15e-a9ca-5557-857c-53fa15ad9463",
+          "name": "Pom-Bear Original Crisps",
+          "description": "Deliciously light and crispy bear-shaped snacks that simply melt in your mouth. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£1.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 150,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/26bb3995fcea302dcd2673b88df17476/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "63000f62-92b9-59fd-a952-1c31f087f5a7",
+          "name": "Iced Ghost Gingerbread Biscuit",
+          "description": "Gingerbread biscuit with fondant icing. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/58acc7053b5ce56789cb40729fc20048/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ebdfec3a-e424-5bba-94bc-8f3f4be2b470",
+          "name": "Watermelon",
+          "description": "Juicy watermelon chunks. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/eac45e393ff07e354abcf6db49d8360a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Iced Drinks",
+      "items": [
+        {
+          "id": "8b7cf933-0cef-585e-90b4-7113a0df2e36",
+          "name": "Maple Hazel Iced Latte",
+          "description": "Chilled milk over ice with fresh espresso with roasted hazelnut flavour syrup & luxurious maple sauce, topped with Light Whip and sprinkled with an autumnal crunchy biscuit topping.   **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk**\nFor full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 525,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7b0648997cecca6c0ee7456ff0282d00/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ad1c74c2-e4be-5168-ba77-523e2a313cb4",
+          "name": "Iced Latte",
+          "description": "Chilled milk over ice, topped with espresso. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7ecbb335c5c7775684459fff9b5b8775/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "899088a3-f0e7-5917-a5df-e33321e10255",
+          "name": "Coffee Frappé",
+          "description": "Have your coffee fix in the form of a creamy, milky, ice-cold coffee frappé, with a light whip topping. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 540,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/681b6acc6b6733afef0ef55c5840f281/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "dd71c0f9-0f66-5dbe-ad12-e430f9818d06",
+          "name": "Strawberry Drizzle Frappe",
+          "description": "A delicious blended drink with strawberry sauce and topped with a light whip. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 540,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/14fdd3b92dfe3015ced76032dd7abf48/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b96d411d-0d6b-546c-8b26-a365ed4e361a",
+          "name": "Chocolate Fudge Frappé",
+          "description": "Deliciously rich and chocolate-y,  creamy blended drink with a light whip topping. \n\n**ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk** For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 540,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/21611d82acf84f9e57171d7d294bb3d6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8a7c2219-bf4b-5c5c-9cde-fcfa3fd3c005",
+          "name": "Chocolate Fudge Frappé with Coffee",
+          "description": "Deliciously rich and chocolate-y, this creamy blended drink with added coffee is topped with a light topping.\n\n**ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk** For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 540,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/21611d82acf84f9e57171d7d294bb3d6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a5f90c3f-3512-5f80-82b0-d638998fa8d9",
+          "name": "Salted Caramel Frappé",
+          "description": "A rich salted caramel frappé, topped with a deliciously light whip topping. \n\n**ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk** For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 540,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4fcf4d6b686a508ad3b3a647f2cc9ec0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e76395f0-fae5-5508-84db-f0a326a85ffe",
+          "name": "Salted Caramel Frappé with Coffee",
+          "description": "A rich salted caramel & coffee frappé, topped with a deliciously light whip topping.\n\n **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk** For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 540,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4fcf4d6b686a508ad3b3a647f2cc9ec0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "42a9254c-61a9-58e9-a6c0-e82a42745361",
+          "name": "Tropical Mango Bubble Frappé",
+          "description": "Tropical Frappe; this scrumptious and fun frappe with rich mango flavoured sauce, bursting juicy mango bubbles & a delicious light whip topping, drizzled with rich mango flavoured sauce. WARNING CHOKING HAZARD: Not suitable for children under 3 years For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 545,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7a4aadf5fbb96b1bd8e984cf65e768a3/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c17a37bc-56a9-55b8-8d1a-fedf8159d9b7",
+          "name": "Mango & Passion Fruit Cooler",
+          "description": "Mango and passionfruit puree base, simply blended with ice for a tropical and refreshing drink. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 510,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/241281a6755601c394c5d13e0e75440d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "925f936d-c0f9-5228-a82d-5e96c5ef4358",
+          "name": "Red Summer Berries",
+          "description": "Summer berries puree base, simply blended with ice for a bright zing-y experience. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 510,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0ca34200dc51623bf3f0387eb59dc8a8/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bcff1f79-7a17-5747-91af-981de5620866",
+          "name": "Maple Hazel Frappé",
+          "description": "A delicious Frappé with a luxurious Maple Hazel Flavour Sauce, topped with Light Whip and sprinkled with an autumnal crunchy biscuit topping. **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk** \nFor full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 540,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0b81fd9f63c03b67ceaeb57dac5a62c6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fdd92792-7bbc-54bd-8921-1fd886c86aac",
+          "name": "Caramel Iced Whipped Latte",
+          "description": "A layered iced latte, a rich salted caramel sauce, a layer of your choice milk or dairy alternative and topped with a smooth whipped milky coffee. Stir it to blend the textures and flavours and enjoy this indulgent iced latte. ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 490,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5e0c51ad6eb5f5805933d6e6a5524fd5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b73468b4-ce1d-5ffd-9876-c9efa514b563",
+          "name": "White Chocolate Iced Whipped Latte",
+          "description": "A layered iced latte, a rich white chocolate sauce, a layer of your choice milk or dairy alternative and topped with a smooth whipped milky coffee. Stir it to blend the textures and flavours and enjoy this indulgent iced latte. ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 490,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d3e8423c42de7d1cc71811fd0c6b3248/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ffc7aacb-bd32-5852-bb7b-dbb2349fe903",
+          "name": "Iced Flat White",
+          "description": "An intense cortissimo shot, blended with milk,  topped with whipped milk foam   \n\n**ATTENTION: This drink cannot be made dairy free as the whipped layer contains milk.** For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 445,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/31dd8422f594a3296fcb8547258e8e6e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9cd1ebf7-a819-53de-b634-6f39d5a9a460",
+          "name": "Iced Cappuccino",
+          "description": "A bold and balanced coffee, made with freshly extracted espresso and topped with whipped milk foam. \n\n**ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk** For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6bf5e49c92b496cd1494c36cf6973757/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a0eef80e-1c66-5a63-822c-69edd9f64c90",
+          "name": "Iced Americano (white)",
+          "description": "Espresso coffee served over ice with milk or dairy alternative For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 390,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/db326cd1a6dcb1df84e3e7a85bc8ccd6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c693a639-45f4-5177-b542-6d9e10d51915",
+          "name": "Iced Black Americano",
+          "description": "Classic black coffee served over ice For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 390,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/db326cd1a6dcb1df84e3e7a85bc8ccd6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fd1984fc-fbea-521a-ac6d-de36cfc0d188",
+          "name": "Peach Ice Tea",
+          "description": "Sweet yet refreshing, peach iced tea. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 410,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/474f71ffe234e935060173d763b426dd/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Coffee",
+      "items": [
+        {
+          "id": "b79cc9ed-b4a7-5055-bd5c-3bb7760a62e5",
+          "name": "Maple Hazel Latte",
+          "description": "Your favourite latte layered with roasted hazelnut flavour syrup & luxurious maple sauce   **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk**\nFor full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 525,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f6ac0a68f92ffce68f99869cde82015c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "adc0429e-746f-546c-8644-b52e82549be4",
+          "name": "Latte",
+          "description": "Our signature blend espresso with steamed milk for a smooth and creamy coffee. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/765d19707688f55c859330a040435b85/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "cd676f50-8384-5821-9f29-05dc30fff34d",
+          "name": "Cappuccino",
+          "description": "Perfectly extracted espresso capped with luxurious frothy milk, finished with a chocolatey dusting. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/97e259af51d2c788850f5c10c2817dc6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4d75972c-da1c-5d74-bd26-353b11c6a440",
+          "name": "Flat White",
+          "description": "A short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 445,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cdb454be02f04bf92a1f56dce2954f27/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1e573906-93a5-5548-bd0e-47b9775fb52e",
+          "name": "Americano",
+          "description": "Espresso combined with hot water for a smooth black coffee For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 390,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/382171215dd233d4e6e53f75bd9830eb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e57c2364-fdb5-5936-809a-1b48d31801dd",
+          "name": "Mocha",
+          "description": "Expertly steamed chocolate milk blended with espresso for a caffeinated chocolate treat. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 480,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/80e6fc66f078f5d0110a2537eeb7920a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Hot Chocolate and More",
+      "items": [
+        {
+          "id": "238e24f3-b233-5f5b-8024-20a06c39ab19",
+          "name": "Maple Hazel Hot Chocolate",
+          "description": "A rich hot chocolate with roasted hazelnut flavour syrup and luxurious maple sauce. **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk**\nFor full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£5.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 525,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dce0c192b1874e50330339f62fe372f7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f2c54064-3a01-509a-94d1-5b1022a86c83",
+          "name": "White Hot Chocolate",
+          "description": "Rich, creamy and silky smooth.  \n\n**ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk** For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b837e166ebf5282ece5a75dbb2ff52a4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2ae7f273-bdae-5735-afa0-3b232a1f8b24",
+          "name": "Chai Latte",
+          "description": "A warm comforting milky tea with aromatic spices. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£4.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 455,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6bfe979bd755f655191f2eac328e9cbd/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Teas and Infusions",
+      "items": [
+        {
+          "id": "b7ec0a30-155d-536d-9e34-7c63208b457a",
+          "name": "Citrus Zing with Vitamin C",
+          "description": "Lemon, ginger & green tea with vitamin C served with a lemon slice. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 340,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/52a422d9cc62149a775a000e71026ff6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "901590de-fe31-5c2f-bce4-bb0c1fdae17d",
+          "name": "English Breakfast Tea",
+          "description": "A bold and full bodied tea, full of flavour and perfect for brightening up your day. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 335,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c242d8e22358bc2182425737ae8b093c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6337a52f-adca-5ee3-9374-693a6143e593",
+          "name": "Green Tea",
+          "description": "A wonderfully mellow steam dried green tea from Eastern China. So delicious and easy to drink. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 335,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7fee858b1b02be3f5ff0ccad6812c65f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1201a170-6e6c-57c4-af4e-d62de734b590",
+          "name": "Mint Tea",
+          "description": "Everything you expect from the ultimate mint experience - glorious peppermint, rounded with vibrant bursts of sweet spearmint. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 335,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f77cc9e594e9bb09eaa889f8ea527d0b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Chilled Drinks",
+      "items": [
+        {
+          "id": "e0a39a7d-817b-5c3b-b407-a77749232d7f",
+          "name": "Sprite Zero",
+          "description": "Quench your thirst with zero sugar. (500ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 290,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8c66167c574788f7f5842c6b5e980ac5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d679c5fd-aa37-56f1-8b12-619e87b3ee44",
+          "name": "Innocent Kids Smoothie",
+          "description": "A blend of whole crushed fruit, pure juices and absolutely nothing else. (150ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f8fea965b534f2a80d81326fdbabab18/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d00cfe1c-42a4-5a96-bf17-914eeb373847",
+          "name": "Coca-Cola Original Taste",
+          "description": "Enjoy the great taste of regular Coke. (500ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 300,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4793e3e85cfc97db844d50cd54ab97e7/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "901c6652-b42a-564c-937c-a2d5e5026d9c",
+          "name": "Diet Coke",
+          "description": "Sugar and calorie-free with a light, refreshing taste. (500ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 290,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bd46f92fe804f20cfbc67232c3faa42d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "98029ae9-3215-50bf-b8b8-45425b080e62",
+          "name": "Coca-Cola Zero Sugar",
+          "description": "Zero sugar, same great taste as the original. (500ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 290,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/067235acdfe230475a5ec75d4b6ac719/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "af9e4246-9a03-5bab-9143-36a80e73e3ef",
+          "name": "Fanta Orange",
+          "description": "Enjoy the refreshing taste of Fanta. (500ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 290,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3d8329ae7462a9dc31db8f0ea938795a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "587f0750-f2ab-53f7-a4ec-0a0071858960",
+          "name": "SmartWater Still",
+          "description": "Vapour distilled water with added electrolytes to create a clean & crisp taste. (600ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 280,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/daae8acbfc8d7bd97c4b4c595b248538/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1a0ef593-7247-52d3-b706-5f65ee4784d5",
+          "name": "SmartWater Sparkling",
+          "description": "Vapour distilled water with added electrolytes gently carbonated. (600ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 280,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8ae5c01a75a17ea7a5997fdf4a5b5b47/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9fae013c-de6c-5672-8dab-a024b802bce2",
+          "name": "Costa Latte RTD 330ml",
+          "description": "Our slow-roasted Signature Blend coffee is the base for our silky-smooth iced Classic Latte. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 310,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5ac978f81d4aabdb6be5d14ca3cc8491/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8a5e6721-c336-588f-b437-fb337304deb6",
+          "name": "Innocent Gut Health Shot",
+          "description": "Bursting with health-boosting ingredients, these Innocent shots are designed to support your immunity & gut health. Each shot is packed with essential vitamins and minerals, including Vitamins A, C, D, and calcium, to keep you feeling your best every day.  For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3204ceb074ec18488302daec46c6fc2e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9c5c2334-7ca1-5f21-b529-cb90cece2c5f",
+          "name": "Innocent Immunity Shot",
+          "description": "Bursting with health-boosting ingredients, these Innocent shots are designed to support your immunity & gut health. Each shot is packed with essential vitamins and minerals, including Vitamins A, C, D, and calcium, to keep you feeling your best every day. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5e822e522d0614d298931d6806d5f520/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5817147d-0900-5224-8ffe-fc61cf8a55ec",
+          "name": "Costa Coffee Caramel Latte Bottle 330ml",
+          "description": "Our Legendary slow-roasted signature blend coffee is the base for our rich, smooth and caramel latte on the go. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 310,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/96006fcc82decdcff88e69aabd19b7ea/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3b806685-e940-5de6-930a-eddbb3a2e12a",
+          "name": "Innocent Orange Juice 250ml",
+          "description": "No peel, no bits, just smooth orange juice. (250ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 300,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b5351c09d2521a1517eff8ff9bcbfbd9/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "671995f6-7249-56a6-baed-da974d7f13be",
+          "name": "Innocent Apple Juice 250ml",
+          "description": "Sweet, crisp and refreshing apple juice. (250ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£3.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 300,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5b249fd82abe91162f5242d19857160d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Sides & Extras",
+      "items": [
+        {
+          "id": "7b8dff1e-ee8a-582a-be9b-f20f13f25986",
+          "name": "Heinz Tomato Ketchup Sachets 10ml",
+          "description": "The irresistible rich thick taste of Heinz Tomato Ketchup you know and love, a classic since 1876. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£0.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 10,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/08df5d0abed736e29b3d467ec608c09f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fcc66e6c-2386-5cb5-b88d-549ffe805311",
+          "name": "HP Brown Sauce Sachets 10ml",
+          "description": "HP Sauce, the original brown sauce since 1899. Tangy, full-bodied, and delicious. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£0.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 10,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dae71428063854f0b946d081500806a5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cf4d9c4c-9e67-5132-90bd-1766bf7bd43c",
+          "name": "Bonne Maman Bitter Orange Marmalade 30g",
+          "description": "Orange Marmalade. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£0.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 40,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a78ceb62-ca0f-530e-8c15-a03188640457",
+          "name": "Bonne Maman Honey 30g",
+          "description": "Honey. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£0.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 40,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f31ea195-4210-539a-98de-98fc4acb4f99",
+          "name": "Bonne Maman Strawberry Conserve 30g",
+          "description": "Strawberry Jam. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+          "price": "£0.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 40,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

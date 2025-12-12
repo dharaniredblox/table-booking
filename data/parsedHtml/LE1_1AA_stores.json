@@ -1,0 +1,729 @@
+{
+  "source": "UberEats",
+  "postalCode": "LE1_1AA",
+  "timestamp": "2025-09-15T09:57:22.585Z",
+  "count": 89,
+  "data": [
+    {
+      "name": "Crispy Dosa",
+      "rating": "4.1",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/crispy-dosa-leicester/X0eqvbdrTeSYfm8vQlC2MQ"
+    },
+    {
+      "name": "Chaiiwala",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/chaiiwala-granby-street/LxHlSegxTmmxwrW50rD_6A"
+    },
+    {
+      "name": "Burger King",
+      "rating": "4.1",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burger-king-leicester-haymarket/v31W_TdmQDStRChqGNZOvQ"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.5",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-leicester-london-road/jVFRq75aXpyq62ykn5184w"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "4.0",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/popeyes-leicester/9funUAzuUVO6k8RQoC6bTA"
+    },
+    {
+      "name": "Tim Hortons",
+      "rating": "4.2",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tim-hortons-leicester-east-gates/rt-sseYcRpydjovc9Ubr1w"
+    },
+    {
+      "name": "KFC Leicester",
+      "rating": "4.0",
+      "reviewCount": "9,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-leicester-high-street/Kidm-dDERsOjKFs0U8lV0w"
+    },
+    {
+      "name": "Morrisons",
+      "rating": "4.4",
+      "reviewCount": "430+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-glenfield/RdyO6DkhUEeYfPlgKj0zlg"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.7",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-leicester-gallowtree-gt/bRS7kw9NWeyVFyfBv93GAw"
+    },
+    {
+      "name": "Jollibee",
+      "rating": "4.0",
+      "reviewCount": "5,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/jollibee-leicester/3vRGaOcfRwiuFiW6E_2xRQ"
+    },
+    {
+      "name": "Chocoberry Cafe",
+      "rating": "4.3",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/chocoberry-cafe-london-road/297K0Y7fWuCGesYNwsTWMA"
+    },
+    {
+      "name": "Kelly Ks Cafe",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/kelly-ks-cafe/eu0FDP7aR6adB8855-E3DA"
+    },
+    {
+      "name": "One Stop Stores Leicester Evington Rd",
+      "rating": "4.4",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-stores-leicester-evington-rd/QL8_HrDRUryDT-_PAGh3gA"
+    },
+    {
+      "name": "Al-Khalid Halal Meat Centre HMC",
+      "rating": "4.5",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/al-khalid-halal-meat-centre-hmc/jwnYOWXUVHmUXXmo-WPn5A"
+    },
+    {
+      "name": "Nashtawala",
+      "rating": "4.0",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/nashtawala-city-centre/wnqqoKfDSomMkxBKQDl-Zg"
+    },
+    {
+      "name": "Cafe Two Ten",
+      "rating": "4.3",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-two-ten/ToU0fnpzUSK1Nc29I-2vSA"
+    },
+    {
+      "name": "Tegtat Turkish Café & Desserts",
+      "rating": "4.4",
+      "reviewCount": "410+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/tegtat-turkish-cafe-%26-desserts/sJJEDQCPTfmbD59PMD8dHQ"
+    },
+    {
+      "name": "TEATIME",
+      "rating": "4.4",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/teatime/KEgQ41cRWHCxgqnIwJn0KQ"
+    },
+    {
+      "name": "Regal Sweet Mart",
+      "rating": "4.1",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/regal-sweet-mart/UTA4y2GDR1W5Jut4TYLaRQ"
+    },
+    {
+      "name": "KAI",
+      "rating": "4.2",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kai/8E7L6y2cV-itnXqYyTlJxw"
+    },
+    {
+      "name": "Costa Coffee",
+      "rating": "3.8",
+      "reviewCount": "80",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/costa-coffee-leicester-haymarket/15jFaX9MXfaTJAtg3yssXw"
+    },
+    {
+      "name": "Waitrose & Partners",
+      "rating": "4.5",
+      "reviewCount": "360+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/waitrose-%26-partners-mountsorrel/iEg7GxFVX-iDUL0LbVW1mg"
+    },
+    {
+      "name": "Desi Street Food",
+      "rating": "4.0",
+      "reviewCount": "68",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/desi-street-food/0CZ28l3IXVWjHrM3xjmhTA"
+    },
+    {
+      "name": "Morrisons Cafe",
+      "rating": "4.1",
+      "reviewCount": "69",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-cafe-leicester/r55LcHQnUfKTO5yz8IKGZg"
+    },
+    {
+      "name": "One Stop Leicester",
+      "rating": "4.3",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-leicester/F1bcEI3uXDugT69KRLddNA"
+    },
+    {
+      "name": "Cafe 804 Restaurant",
+      "rating": "3.8",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £35)"
+      ],
+      "url": "https://www.ubereats.com/store/cafe-804-restaurant/K2eptEm3RoykkF8t5eo84Q"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.0",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/caffe-nero-leicester-market-st/m5Su6nrRRtKVG0eZg3DNvQ"
+    },
+    {
+      "name": "Silver street cafe",
+      "rating": "4.5",
+      "reviewCount": "480+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/silver-street-cafe-leicester-ltd/5oQOBFyzRWCHjJx2VXXtgQ"
+    },
+    {
+      "name": "New Purnima Of Mombasa",
+      "rating": "4.3",
+      "reviewCount": "63",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/new-purnima-of-mombasa/z2c3QeFaWS6Nb85mDEpJYg"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.5",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-st-martins/10xEgI04Xe-nMUVjDHFzDw"
+    },
+    {
+      "name": "Kell's Cafe",
+      "rating": "4.6",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kells-cafe/H2_llAx7Wj2lmb0qdHewkQ"
+    },
+    {
+      "name": "Shere Punjab Melton Road 100% Vegetarian Restaurant",
+      "rating": "4.2",
+      "reviewCount": "460+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shere-punjab-melton-road-100-vegetarian-restaurant/yRRy-vmsSEW2YFm-Degt6w"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-leicester/YenZPXGRXLKOZ3qwNlx7yg"
+    },
+    {
+      "name": "NaanStaap",
+      "rating": "4.5",
+      "reviewCount": "26",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/naanstaap-leicester/jSCsCeAwXxOqFh9LerUneA"
+    },
+    {
+      "name": "&KITH",
+      "rating": "3.6",
+      "reviewCount": "55",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/%26kith/iizeMdFZUW6GGY16CV_dOw"
+    },
+    {
+      "name": "Chopstix",
+      "rating": "3.9",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chopstix-leicester/5NRxXL4VQx2AwBlNiXrrQQ"
+    },
+    {
+      "name": "Bagel Break",
+      "rating": "4.6",
+      "reviewCount": "350+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bagel-break/9e1u-TmyTXeCKJ2UEdggQA"
+    },
+    {
+      "name": "Boon Boon",
+      "rating": "4.6",
+      "reviewCount": "18",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/boon-boon/WdbRlTi_XSuLgy5jkNijtw"
+    },
+    {
+      "name": "Karak Chaii",
+      "rating": "3.9",
+      "reviewCount": "33",
+      "deliveryTime": "",
+      "offers": [
+        "£0 Delivery Fee (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/karak-chaii-leicester/OfoZdxxiWge8eSZPORc2RQ"
+    },
+    {
+      "name": "Big Dave's Cafe",
+      "rating": "4.4",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/big-daves-cafe/0DyuD_RkRaely8FT7QigBw"
+    },
+    {
+      "name": "Apna Punjab Sweet Centre",
+      "rating": "4.5",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/apna-punjab-sweet-centre/HDJdzT7ZTdebYnESdKLX6A"
+    },
+    {
+      "name": "YO!",
+      "rating": "4.4",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/yo!-leicester-highcross/wENk7VW2T76nFyVDbvtCuw"
+    },
+    {
+      "name": "Mr Browns Cafe",
+      "rating": "4.1",
+      "reviewCount": "56",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/mr-browns-cafe/xLugbYRvT4yh5tBPm6kGcA"
+    },
+    {
+      "name": "The Bread Basket",
+      "rating": "4.2",
+      "reviewCount": "33",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-bread-basket/KijouvJJQNaNFqocDzdRCA"
+    },
+    {
+      "name": "CHERIAN'S FOODCOURT",
+      "rating": "3.8",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cherians-foodcourt/GoiBb5XfRB6ym1z6C3OreQ"
+    },
+    {
+      "name": "CUPP Bubble Tea",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/cupp-bubble-tea-leicester/e-DSuY55UayEAlHw61eAaQ"
+    },
+    {
+      "name": "The Blackbird Hotel",
+      "rating": "3.8",
+      "reviewCount": "57",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-blackbird-hotel-sizzling-pubs/fWcPYk8NVmSHN3jeo527nw"
+    },
+    {
+      "name": "Guru Nanak Sweet Centre",
+      "rating": "3.9",
+      "reviewCount": "76",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/guru-nanak-sweet-centre/lKUlCea8WK2NfFf0TD-pUQ"
+    },
+    {
+      "name": "Londis",
+      "rating": "4.7",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/londis-demontfort/vzjwekRUW2WAxsl5F-bbtQ"
+    },
+    {
+      "name": "Desi Sweet Centre",
+      "rating": "4.2",
+      "reviewCount": "41",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/desi-sweet-centre/sh2jlsJOWlup3d8E5Ms5GQ"
+    },
+    {
+      "name": "Royal Bites",
+      "rating": "4.4",
+      "reviewCount": "480+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/royal-bites/SnSpHKtdRBOenKWAOTykHA"
+    },
+    {
+      "name": "Turtle Bay",
+      "rating": "4.1",
+      "reviewCount": "370+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/turtle-bay-leicester/9EpN7O19Q7CLejviy490qw"
+    },
+    {
+      "name": "Boost Juice Bar",
+      "rating": "4.7",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/boost-juice-bar-highcross-shopping-centre/svXl0aIARSiDBSLz1cE2iA"
+    },
+    {
+      "name": "Fidel Habesha Cuisine",
+      "rating": "3.9",
+      "reviewCount": "49",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/fidel-habesha-cuisine/rAqalAtIXZyX0Y02K-7ejA"
+    },
+    {
+      "name": "AL-Guhlam Halal Butcher HMC",
+      "rating": "4.2",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/al-guhlam-halal-butcher-hmc/5tMnso2BVR65bkClDVS66A"
+    },
+    {
+      "name": "Hyderabadi Adda",
+      "rating": "3.9",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/hyderabadi-adda/Grg2mDcmRwi7zKBebuVjNg"
+    },
+    {
+      "name": "Sj’s cafe",
+      "rating": "4.5",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sjs-cafe/HvwwPvi2TBm2cGxK6xfiFQ"
+    },
+    {
+      "name": "Bru Coffee & Gelato",
+      "rating": "4.5",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/bru-coffee-%26-gelato/_1ULlWSlRxG6d8-v7N6sOw"
+    },
+    {
+      "name": "Al Hamra Meat & Groceries",
+      "rating": "4.7",
+      "reviewCount": "150+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/al-hamra-meat-%26-groceries-hmc/FlRIuZC4SS2eM_DuI1XHpw"
+    },
+    {
+      "name": "Auntie Anne's",
+      "rating": "4.3",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/auntie-annes-leicester/B6YOVsR-T2-HpDey0ZBcrw"
+    },
+    {
+      "name": "CY Cafe",
+      "rating": "4.6",
+      "reviewCount": "49",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cy-cafe/b4397c0OUrqb4crBWHaZVw"
+    },
+    {
+      "name": "Fes Mangal",
+      "rating": "4.6",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/fes-mangal/JPsQsajzUN20YaFP5x6xeQ"
+    },
+    {
+      "name": "Kake Temptations",
+      "rating": "4.4",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kake-temptations/Ym_cG3xGRRG0CflUHlFmyA"
+    },
+    {
+      "name": "Sanjha Punjab",
+      "rating": "4.3",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sanjha-punjab/ZFJP4RnpU32wokGKceSXIA"
+    },
+    {
+      "name": "Harvester",
+      "rating": "3.9",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/harvester-meridian-park/l3DtYVDUTbuR8WcwAARh5Q"
+    },
+    {
+      "name": "3 For 10 Pizza",
+      "rating": "4.1",
+      "reviewCount": "480+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/3-for-10-pizza-belgrave/GMGqRfmxUtaNWLV6Tfi8Cg"
+    },
+    {
+      "name": "Esquires Coffee",
+      "rating": "3.6",
+      "reviewCount": "44",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/esquires-coffee-wullcomb/nX5sKUg9R5aIwuFL6drZPQ"
+    },
+    {
+      "name": "Batchd",
+      "rating": "4.8",
+      "reviewCount": "5",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/batchd-leicester-highcross/SUMb6bT9URCm8-FvKnpKyg"
+    },
+    {
+      "name": "Bruberry",
+      "rating": "4.0",
+      "reviewCount": "66",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bruberry/rA6j_cuSV_-FutSHs7dk1g"
+    },
+    {
+      "name": "Central Co-op",
+      "rating": "3.6",
+      "reviewCount": "77",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/central-co-op-clarendon-park/ptKO2UGbWmiGxD19Gr_3gw"
+    },
+    {
+      "name": "Casablanca café",
+      "rating": "3.9",
+      "reviewCount": "52",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/casablanca-cafe/WZxLkhYgVu2pGU9o5ffWxw"
+    },
+    {
+      "name": "Fresh Bake",
+      "rating": "4.7",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/fresh-bake/alSX75qqXjirxlY5bhxYVA"
+    },
+    {
+      "name": "Wrap And Roll",
+      "rating": "4.1",
+      "reviewCount": "32",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/wrap-and-roll/InOMTrr-VlqbUHwtEc4XuQ"
+    },
+    {
+      "name": "Crusty's Cafe",
+      "rating": "4.3",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/crustys-cafe/RvDhxcwmUeypuMCFT6_cUQ"
+    },
+    {
+      "name": "Haryanvi Tadka",
+      "rating": "4.1",
+      "reviewCount": "76",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/haryanvi-tadka/Zjy7zTJ6Ri6YONhXgfnLhg"
+    },
+    {
+      "name": "Milans Dhosa Express",
+      "rating": "3.9",
+      "reviewCount": "390+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/milans-dhosa-express/sWjo3Eh8TMOnsYlC0cz2Hg"
+    },
+    {
+      "name": "Radha Sweet Mart",
+      "rating": "4.1",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/radha-sweet-mart/RRmbsNiRTHqxAqfa_VVf2w"
+    },
+    {
+      "name": "The Snack Box",
+      "rating": "3.9",
+      "reviewCount": "87",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-snack-box/5krrHMliTSiRxg-9TfQiMQ"
+    },
+    {
+      "name": "Abike’s Kitchen Limited Belgrave Gate",
+      "rating": "3.5",
+      "reviewCount": "150+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/abikes-kitchen-limited-belgrave-gate/Q1r47xPcSzejA6bdIa8lrQ"
+    },
+    {
+      "name": "Browns Cafe Bistro",
+      "rating": "4.6",
+      "reviewCount": "350+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/browns-cafe-bistro/TVH0N22mRTisT8mqGsXifQ"
+    },
+    {
+      "name": "Skrannies Breakfast",
+      "rating": "4.3",
+      "reviewCount": "53",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/skrannies-breakfast/5uPusOUSWAObfeR3NnQqUA"
+    },
+    {
+      "name": "Amoretti Cafe",
+      "rating": "4.8",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/amoretti-cafe/4QmcKk1LSl2vR2I3vzp3Hg"
+    },
+    {
+      "name": "The Good Breakfast",
+      "rating": "3.9",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-good-breakfast-leicester/NQMQoVdDSlSA4rPuozCRyA"
+    },
+    {
+      "name": "Brunch by Frankie & Benny's",
+      "rating": "4.6",
+      "reviewCount": "38",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brunch-by-frankie-%26-bennys-leicester-highcross/O9IVZM0oV0Wm9IlvkXGy-Q"
+    },
+    {
+      "name": "Asli Zaiqa",
+      "rating": "4.0",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/asli-zaiqa/BzAMzqLkT1-NEuD1hhkv0A"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts & Coffee",
+      "rating": "4.5",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-doughnuts-%26-coffee-leicester/i-4nqCuPT1aqwnpt6PG52w"
+    },
+    {
+      "name": "Bru",
+      "rating": "4.6",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bru-oadby/NDhO63sZRdK3vJIMNbWpBQ"
+    },
+    {
+      "name": "Chartwell Cafe",
+      "rating": "4.7",
+      "reviewCount": "31",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chartwell-cafe/ARj1pSS9WHaL3JLd3ln0yg"
+    },
+    {
+      "name": "EAT IN KITCHEN",
+      "rating": "4.4",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/eat-in-kitchen/IqHpZ_5ARfyZlCu1SkXF_Q"
+    }
+  ]
+}

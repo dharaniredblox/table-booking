@@ -1,0 +1,960 @@
+{
+  "restaurant_id": "parsonsbakery125gloucesterrd-BS78AX-51",
+  "source_id": "bf703031-357d-4d48-8f20-f651f34fe556",
+  "restaurant_url": "https://www.ubereats.com/store/parsons-bakery-125-gloucester-rd/v3AwMTV9TUiPIPZR80_lVg",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:44:52.758Z",
+  "restaurant": {
+    "name": "Parsons Bakery (125 Gloucester Rd)",
+    "slug": "parsons-bakery-125-gloucester-rd",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441179426549",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "125 Gloucester Road Bishopston, Bristol, BS7 8AX",
+    "streetAddress": "125 Gloucester Road Bishopston",
+    "addressCity": "bristol-eng",
+    "neighborhood": "st-andrews-bristol-eng",
+    "addressRegion": null,
+    "postalCode": "BS7 8AX",
+    "addressCountry": "GB",
+    "latitude": 51.4733256,
+    "longitude": -2.5912776,
+    "geohash": "gcnhv4",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 4.4,
+    "totalReviews": "1000+",
+    "workingHours": "Open until 7:30 PM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Bakery",
+      "Breakfast and Brunch",
+      "Sandwiches"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Sunday",
+      "hours": [
+        {
+          "open": "09:00",
+          "close": "14:00",
+          "section": "Menu"
+        }
+      ]
+    },
+    {
+      "day": "Monday - Saturday",
+      "hours": [
+        {
+          "open": "08:00",
+          "close": "15:00",
+          "section": "Menu"
+        },
+        {
+          "open": "16:00",
+          "close": "18:00",
+          "section": "Parsons Bakery Evening"
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Freshly Baked Bread",
+      "items": [
+        {
+          "id": "5e289eb8-919e-577b-92f9-b96fd9c5cc3a",
+          "name": "White Sourdough",
+          "description": "A traditional non yeasted loaf, perfect for sandwiches or thick toast. Suitable for vegans.",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7431beed-533e-5e8d-9f59-f45dd712de5c",
+          "name": "Large Baton",
+          "description": "A rustic baguette great for sharing. Suitable for vegans.",
+          "price": "£2.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 210,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "aed006be-6b22-5fc9-ab9b-458c612b7a7c",
+          "name": "Seeded Sourdough",
+          "description": "Small. A multi-seeded version of our sourdough loaf. Suitable for vegans.",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a817eaf6-b915-5e77-84ce-e774694d3c95",
+          "name": "Split Tin Loaf",
+          "description": "Large. A classic white loaf baked in a tin. Suitable for vegans.",
+          "price": "£3.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 330,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9aed5f74-8093-45f8-923d-32f364147330",
+          "name": "Granary Loaf",
+          "description": "Our popular Granary Loaf makes it's return.",
+          "price": "£3.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 330,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "The Big Breakfast",
+      "items": [
+        {
+          "id": "9ec7bbb7-9be7-59be-a820-fe2d5fbd38a3",
+          "name": "Sausage Doorstep Sandwich",
+          "description": "A thick doorstep sandwich packed with sausage, using our split tin loaf.",
+          "price": "£4.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 495,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1fec218bc671d60225c5d3df8600817e/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Oven Fresh Savouries",
+      "items": [
+        {
+          "id": "97f3bd0b-de8f-539e-8313-d67eeba0cc02",
+          "name": "King Size Sausage Roll",
+          "description": "Premium pork sausage encased in layers of golden, flaky, and puff pastry.",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/97632c897741e35d60f10655885b1a7e/859baff1d76042a45e319d1de80aec7a.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "535758cc-fbb7-5d86-b753-7b99365c550e",
+          "name": "Bacon and Cheese Wrap",
+          "description": "Golden, flaky, puff pastry wrapped around best back bacon and topped with mature cheddar.",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fb999f9531a6f4dae96ba643b8767d14/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "91a48239-92c1-59e4-8ed2-b297b19f5bc3",
+          "name": "Traditional Steak Pasty",
+          "description": "A true classic. Juicy steak meat and vegetables hand crimped in our puff pastry.",
+          "price": "£4.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 465,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f7f1c92459be75ee6f20c05930b1e864/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f3a8d4cf-c011-55f5-a17e-c23938a11b6e",
+          "name": "Cheese and Onion Pasty",
+          "description": "The veggie classic. Mature cheddar, onion, and potato. Hand crimped in our puff pastry.",
+          "price": "£4.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 465,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fcd2b2967948d2fd6afc1accd9077495/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9b79f245-d78a-5b3f-b2c0-b7d7b67a2528",
+          "name": "Veggie Roll",
+          "description": "Layers of golden, flaky, puff pastry encases a scrumptious soya protein suitable for Vegetarians and Vegans.",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5c17029c50bd9d6bf39fd2af5d246361/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Filled Baguettes & Sandwiches",
+      "items": [
+        {
+          "id": "8086ecf6-19e5-505f-8a71-ff6787ccbf88",
+          "name": "Chicken Mayo Baguette",
+          "description": "A freshly baked rustic baguette filled with succulent chunks of chicken mixed with mayo on a bed of mixed leaves.",
+          "price": "£4.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 425,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b6ca28dba6c09e9ee8ec11b1be37dd0b/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f7627af9-cac7-4b59-b717-c7885abf66f3",
+          "name": "Tuna Mayo and Cucumber Baguette",
+          "description": "A freshly baked rustic baguette filled with our tuna mayo mixed and topped off with slices of cucumber.",
+          "price": "£4.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 425,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1bb3772ddee4cfb8f6d87912815b1f68/859baff1d76042a45e319d1de80aec7a.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "db97216f-f019-5ab3-893c-f9f59f1eb381",
+          "name": "Ham and Cheese Baguette",
+          "description": "A freshly baked rustic baguette filled with slices of thick ham and mature cheddar.",
+          "price": "£4.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 425,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c44559c12ea45344838c545eb69b815b/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "546226c8-96e9-4eb7-86a1-f4a1cdf1031d",
+          "name": "Ham and Salad Baguette",
+          "description": "A freshly baked rustic baguette filled with ham, mixed leaves, tomato, cucumber, and red onion.",
+          "price": "£4.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 425,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f0d29d9437e4d2083ad76ab48c981c3f/859baff1d76042a45e319d1de80aec7a.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Cakes and Treats",
+      "items": [
+        {
+          "id": "a9a1e862-1e17-5f01-a03b-bd84a25a4c32",
+          "name": "Custard Slice",
+          "description": "A generous helping of custard between two layers of puff pastry, strawberry jam lines the bottom and it is topped with our sticky, fondant icing.",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a3a3614131c99cdf8bbc2bc396c4a3a2/859baff1d76042a45e319d1de80aec7a.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3108c34f-cd52-5edc-944a-6f9574b3016d",
+          "name": "Apple and Sultana Crown",
+          "description": "Golden, flaky puff pastry with an apple and sultana centre, finished off with a drizzle of icing.",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/965a50a1d4eea59e0f9681381a3be0ac/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "19f6711c-fb08-531a-8674-c50243f33ce8",
+          "name": "Chelsea Bun",
+          "description": "A true classic, this sweet bun is filled with juicy sultanas, plump raisins, and mixed spice.",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a0cea273f0a51d4409b2972886f5e65d/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "15065b45-f69c-59b7-bd32-cdefe86ea5d2",
+          "name": "Raspberry and White Chocolate Muffin",
+          "description": "A light and fluffy vanilla sponge with a raspberry centre and white chocolate chunks.",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a395992a5062e9a7add8b99f6dca95ec/859baff1d76042a45e319d1de80aec7a.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "33c5e680-d24c-50f7-8d7c-78a6a5b16f4c",
+          "name": "Ginger Bread Teddy",
+          "description": "A chewy, gingerbread teddy complete with smartie buttons and chocolate dipped feet.",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/68980a11896d7385d6fdd03caf34e62b/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bd5de51d-bf00-51b3-88b8-e2fbaca7f15a",
+          "name": "Novelty Biscuit",
+          "description": "Our vanilla biscuit takes many forms but it is always topped with treats. What will you get.",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cc519540ea0e754d58950e82c5d76aab/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5791b160-0ae0-5008-a524-b523ab50cf6e",
+          "name": "Fruit and Nut Flapjack",
+          "description": "A gooey flapjack filled with mixed nuts and dried fruit. 100% tasty and 100% vegan.",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2797892e4fb297c397368f8f5544c89b/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e13bae7b-47d3-4c74-aa9d-5afef96d0411",
+          "name": "Caramel Jack",
+          "description": "Gooey Flapjack topped with Caramel & Chocolate",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/63248871bef8fb0c7bffc9f789c16707/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2266613f-f4a4-4144-bf6c-8a3a66bd9226",
+          "name": "School Cake",
+          "description": "Chocolate Sponge, icing & spinkles",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/998d318090d85db8de908e5f946fcc14/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "620a5ea6-8ae3-5c55-a524-da7ac6056064",
+          "name": "Bread Pudding",
+          "description": "A blend of sultanas and spices infused with our split tin loaf create this gorgeous vegan treat. Loved by everybody.",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Drinks and Crisps",
+      "items": [
+        {
+          "id": "142987d3-10ef-5d56-93ff-57b59ced0b5d",
+          "name": "MAXIMUM TASTE, NO SUGAR. A bold and refreshing fizzy drink",
+          "description": "MAXIMUM TASTE, NO SUGAR. A bold and refreshing fizzy drink",
+          "price": "£2.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 245,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/55e70a7018321e5eb28f7dd78f4411e0/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "96f2dd45-26dc-51a7-9d5e-43cca6335491",
+          "name": "Coca Cola",
+          "description": "500ml.",
+          "price": "£2.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 245,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ef2fc0dc-597f-5d25-8c89-2e25c354ba45",
+          "name": "Sea Salt and Cider Vinegar Crisps",
+          "description": "40g.",
+          "price": "£1.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 145,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9940b164-f248-5ce2-a661-9b1ffc8121c1",
+          "name": "Quavers",
+          "description": "20g.",
+          "price": "£1.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 145,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f3b026dc-42f1-5bd7-a3e3-fb443de7a1dd",
+          "name": "Lightly Sea Salted Crisps",
+          "description": "40g.",
+          "price": "£1.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 145,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "39bf71e8-9859-549d-9106-76a842d1670f",
+          "name": "Smart Water",
+          "description": "600ml",
+          "price": "£2.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 245,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f2457b42-86ae-5251-b94e-a2ea48912595",
+          "name": "Mature Cheddar and Chive Crisps",
+          "description": "40g.",
+          "price": "£1.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 145,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e0a1e157-f707-513b-a81c-001abc2959f8",
+          "name": "Sweet Chilli and Red Pepper Crisps",
+          "description": "40g.",
+          "price": "£1.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 145,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Filled Sandwiches",
+      "items": [
+        {
+          "id": "4e4b4e18-1deb-4781-b309-01f90600999f",
+          "name": "Tuna Mayo & Cucumber Sandwich",
+          "description": "Tuna Mayo & Cucumber sandwich made using our freshly baked Granary loaf. Filled with Tuna Mayo & Cucumber",
+          "price": "£4.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 410,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Hot Drinks",
+      "items": [
+        {
+          "id": "af26477b-2fba-4fd1-9050-dd7b788af5d9",
+          "name": "Latte",
+          "description": "Coffee, Milky and Smooth. 10 oz",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3572966c5f9df4630c6c92d2e8cae8c2/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4269a04e-ec43-41f6-a1db-d4f02c3f167c",
+          "name": "Cappuccino",
+          "description": "Frothy, Milky, Dusted with Chocolate. 10 oz",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a8c7d87ec236aedca023c99b0348c137/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ffcdeedf-54f7-4f1b-88b9-1310b6668b30",
+          "name": "Americano",
+          "description": "Tall Dark & Havesome. 10 oz",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ce0e6d3a5faef047ce2114dde2784997/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "53c66ec1-5a9e-4cba-b835-3890252569d9",
+          "name": "Flat White",
+          "description": "Milky Micro Foam, Strong Velvety Texture. 6oz",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a675eb0d-349e-4c62-a9b6-c3c042def2bc",
+          "name": "White Americano",
+          "description": "Tall Dark & Havesome with a dash of milk. 10 oz",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4bf642c2-04b4-433c-a840-4e2734f369ce",
+          "name": "Mocha",
+          "description": "Coffee & Chocolate Combo! 10oz",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4f165c16-c9f8-46eb-b0eb-a0b6a5c13ad5",
+          "name": "Hot Chocolate",
+          "description": "Liquid Chocolatey Yumminess! 10oz",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "35dcae45-080f-43f5-b50a-cd9d765639f2",
+          "name": "Tea",
+          "description": "Classic Cuppa W/Without Milk. 10 oz",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "The PB Bundle",
+      "items": [
+        {
+          "id": "78dc9942-6552-4b85-9256-40ed198c170e",
+          "name": "Any 2 Pasties + Any 2 Drinks.",
+          "description": "Parsons for Tea? Pick 2 of our hand crimped pasties and two drinks for an AMAZING £7.95!",
+          "price": "£7.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 795,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Oven Fresh Savouries",
+      "items": [
+        {
+          "id": "97f3bd0b-de8f-539e-8313-d67eeba0cc02",
+          "name": "King Size Sausage Roll",
+          "description": "Premium pork sausage encased in layers of golden, flaky, and puff pastry.",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/97632c897741e35d60f10655885b1a7e/859baff1d76042a45e319d1de80aec7a.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "535758cc-fbb7-5d86-b753-7b99365c550e",
+          "name": "Bacon and Cheese Wrap",
+          "description": "Golden, flaky, puff pastry wrapped around best back bacon and topped with mature cheddar.",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fb999f9531a6f4dae96ba643b8767d14/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "91a48239-92c1-59e4-8ed2-b297b19f5bc3",
+          "name": "Traditional Steak Pasty",
+          "description": "A true classic. Juicy steak meat and vegetables hand crimped in our puff pastry.",
+          "price": "£4.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 465,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f7f1c92459be75ee6f20c05930b1e864/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f3a8d4cf-c011-55f5-a17e-c23938a11b6e",
+          "name": "Cheese and Onion Pasty",
+          "description": "The veggie classic. Mature cheddar, onion, and potato. Hand crimped in our puff pastry.",
+          "price": "£4.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 465,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fcd2b2967948d2fd6afc1accd9077495/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9b79f245-d78a-5b3f-b2c0-b7d7b67a2528",
+          "name": "Veggie Roll",
+          "description": "Layers of golden, flaky, puff pastry encases a scrumptious soya protein suitable for Vegetarians and Vegans.",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5c17029c50bd9d6bf39fd2af5d246361/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Cakes and Treats",
+      "items": [
+        {
+          "id": "a9a1e862-1e17-5f01-a03b-bd84a25a4c32",
+          "name": "Custard Slice",
+          "description": "A generous helping of custard between two layers of puff pastry, strawberry jam lines the bottom and it is topped with our sticky, fondant icing.",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a3a3614131c99cdf8bbc2bc396c4a3a2/859baff1d76042a45e319d1de80aec7a.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3108c34f-cd52-5edc-944a-6f9574b3016d",
+          "name": "Apple and Sultana Crown",
+          "description": "Golden, flaky puff pastry with an apple and sultana centre, finished off with a drizzle of icing.",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/965a50a1d4eea59e0f9681381a3be0ac/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "19f6711c-fb08-531a-8674-c50243f33ce8",
+          "name": "Chelsea Bun",
+          "description": "A true classic, this sweet bun is filled with juicy sultanas, plump raisins, and mixed spice.",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a0cea273f0a51d4409b2972886f5e65d/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "15065b45-f69c-59b7-bd32-cdefe86ea5d2",
+          "name": "Raspberry and White Chocolate Muffin",
+          "description": "A light and fluffy vanilla sponge with a raspberry centre and white chocolate chunks.",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a395992a5062e9a7add8b99f6dca95ec/859baff1d76042a45e319d1de80aec7a.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "33c5e680-d24c-50f7-8d7c-78a6a5b16f4c",
+          "name": "Ginger Bread Teddy",
+          "description": "A chewy, gingerbread teddy complete with smartie buttons and chocolate dipped feet.",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/68980a11896d7385d6fdd03caf34e62b/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bd5de51d-bf00-51b3-88b8-e2fbaca7f15a",
+          "name": "Novelty Biscuit",
+          "description": "Our vanilla biscuit takes many forms but it is always topped with treats. What will you get.",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cc519540ea0e754d58950e82c5d76aab/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5791b160-0ae0-5008-a524-b523ab50cf6e",
+          "name": "Fruit and Nut Flapjack",
+          "description": "A gooey flapjack filled with mixed nuts and dried fruit. 100% tasty and 100% vegan.",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2797892e4fb297c397368f8f5544c89b/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e13bae7b-47d3-4c74-aa9d-5afef96d0411",
+          "name": "Caramel Jack",
+          "description": "Gooey Flapjack topped with Caramel & Chocolate",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/63248871bef8fb0c7bffc9f789c16707/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2266613f-f4a4-4144-bf6c-8a3a66bd9226",
+          "name": "School Cake",
+          "description": "Chocolate Sponge, icing & spinkles",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/998d318090d85db8de908e5f946fcc14/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "620a5ea6-8ae3-5c55-a524-da7ac6056064",
+          "name": "Bread Pudding",
+          "description": "A blend of sultanas and spices infused with our split tin loaf create this gorgeous vegan treat. Loved by everybody.",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Drinks and Crisps",
+      "items": [
+        {
+          "id": "142987d3-10ef-5d56-93ff-57b59ced0b5d",
+          "name": "MAXIMUM TASTE, NO SUGAR. A bold and refreshing fizzy drink",
+          "description": "MAXIMUM TASTE, NO SUGAR. A bold and refreshing fizzy drink",
+          "price": "£2.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 245,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/55e70a7018321e5eb28f7dd78f4411e0/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "96f2dd45-26dc-51a7-9d5e-43cca6335491",
+          "name": "Coca Cola",
+          "description": "500ml.",
+          "price": "£2.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 245,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ef2fc0dc-597f-5d25-8c89-2e25c354ba45",
+          "name": "Sea Salt and Cider Vinegar Crisps",
+          "description": "40g.",
+          "price": "£1.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 145,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9940b164-f248-5ce2-a661-9b1ffc8121c1",
+          "name": "Quavers",
+          "description": "20g.",
+          "price": "£1.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 145,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f3b026dc-42f1-5bd7-a3e3-fb443de7a1dd",
+          "name": "Lightly Sea Salted Crisps",
+          "description": "40g.",
+          "price": "£1.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 145,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "39bf71e8-9859-549d-9106-76a842d1670f",
+          "name": "Smart Water",
+          "description": "600ml",
+          "price": "£2.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 245,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f2457b42-86ae-5251-b94e-a2ea48912595",
+          "name": "Mature Cheddar and Chive Crisps",
+          "description": "40g.",
+          "price": "£1.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 145,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e0a1e157-f707-513b-a81c-001abc2959f8",
+          "name": "Sweet Chilli and Red Pepper Crisps",
+          "description": "40g.",
+          "price": "£1.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 145,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Filled Baguettes & Sandwiches",
+      "items": [
+        {
+          "id": "8086ecf6-19e5-505f-8a71-ff6787ccbf88",
+          "name": "Chicken Mayo Baguette",
+          "description": "A freshly baked rustic baguette filled with succulent chunks of chicken mixed with mayo on a bed of mixed leaves.",
+          "price": "£4.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 425,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b6ca28dba6c09e9ee8ec11b1be37dd0b/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f7627af9-cac7-4b59-b717-c7885abf66f3",
+          "name": "Tuna Mayo and Cucumber Baguette",
+          "description": "A freshly baked rustic baguette filled with our tuna mayo mixed and topped off with slices of cucumber.",
+          "price": "£4.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 425,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1bb3772ddee4cfb8f6d87912815b1f68/859baff1d76042a45e319d1de80aec7a.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "db97216f-f019-5ab3-893c-f9f59f1eb381",
+          "name": "Ham and Cheese Baguette",
+          "description": "A freshly baked rustic baguette filled with slices of thick ham and mature cheddar.",
+          "price": "£4.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 425,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c44559c12ea45344838c545eb69b815b/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "546226c8-96e9-4eb7-86a1-f4a1cdf1031d",
+          "name": "Ham and Salad Baguette",
+          "description": "A freshly baked rustic baguette filled with ham, mixed leaves, tomato, cucumber, and red onion.",
+          "price": "£4.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 425,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f0d29d9437e4d2083ad76ab48c981c3f/859baff1d76042a45e319d1de80aec7a.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Freshly Baked Bread",
+      "items": [
+        {
+          "id": "5e289eb8-919e-577b-92f9-b96fd9c5cc3a",
+          "name": "White Sourdough",
+          "description": "A traditional non yeasted loaf, perfect for sandwiches or thick toast. Suitable for vegans.",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7431beed-533e-5e8d-9f59-f45dd712de5c",
+          "name": "Large Baton",
+          "description": "A rustic baguette great for sharing. Suitable for vegans.",
+          "price": "£2.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 210,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "aed006be-6b22-5fc9-ab9b-458c612b7a7c",
+          "name": "Seeded Sourdough",
+          "description": "Small. A multi-seeded version of our sourdough loaf. Suitable for vegans.",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a817eaf6-b915-5e77-84ce-e774694d3c95",
+          "name": "Split Tin Loaf",
+          "description": "Large. A classic white loaf baked in a tin. Suitable for vegans.",
+          "price": "£3.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 330,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9aed5f74-8093-45f8-923d-32f364147330",
+          "name": "Granary Loaf",
+          "description": "Our popular Granary Loaf makes it's return.",
+          "price": "£3.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 330,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

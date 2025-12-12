@@ -1,0 +1,469 @@
+{
+  "restaurant_id": "breakfastburritoboysbristol-BS15PF-51",
+  "source_id": "7c21bc15-af1e-5322-b2a1-3a81519c878e",
+  "restaurant_url": "https://www.ubereats.com/store/breakfast-burrito-boys-bristol/fCG8Fa8eUyKyoTqBUZyHjg",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:46:38.291Z",
+  "restaurant": {
+    "name": "Breakfast Burrito Boys (Bristol)",
+    "slug": "breakfast-burrito-boys-bristol",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441179857826",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "79 Park Street, Bristol, EMEA BS1 5PF",
+    "streetAddress": "79 Park Street",
+    "addressCity": "bristol-eng",
+    "neighborhood": "west-end-bristol-eng",
+    "addressRegion": "EMEA",
+    "postalCode": "BS1 5PF",
+    "addressCountry": "GB",
+    "latitude": 51.4553354,
+    "longitude": -2.6036872,
+    "geohash": "gcnhsz",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 3.9,
+    "totalReviews": "350+",
+    "workingHours": "Open until 9:00 PM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Breakfast",
+      "Breakfast and Brunch",
+      "American",
+      "Sandwiches",
+      "New Mexican",
+      "Sandwich",
+      "Brunch",
+      "Mexican",
+      "Burritos"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Sunday",
+      "hours": [
+        {
+          "open": "07:15",
+          "close": "16:30",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Monday - Friday",
+      "hours": [
+        {
+          "open": "08:15",
+          "close": "16:30",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "hours": [
+        {
+          "open": "07:15",
+          "close": "17:30",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Build Your Own",
+      "items": [
+        {
+          "id": "afd8a79e-f42e-5740-b831-9dc272ea8f5f",
+          "name": "Build Your Own Breakfast Burrito",
+          "description": "(Piping hot breakfast items and sauces rolled up together in a soft tortilla).",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4816fbe1043ce5fa64a642f51dcd8b06/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f67854c5-f148-539d-a2d3-920172f0a54b",
+          "name": "Build Your Own Veggie Breakfast Burrito",
+          "description": "(Piping hot breakfast items and sauces rolled up together in a soft tortilla).",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4816fbe1043ce5fa64a642f51dcd8b06/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Barista-Made Coffees",
+      "items": [
+        {
+          "id": "1b59f7e7-23d7-53c6-a941-36ab091a9d6c",
+          "name": "Latte",
+          "description": "Ground-to-order Lavazza espresso, and steamed milk with a touch of micro-foam - made by our barista trained staff.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "afc9d1f4-5a4d-5db4-9940-1d59b9cfc4cc",
+          "name": "Cappuccino",
+          "description": "Ground-to-order Lavazza espresso, and micro-foamed milk (and a sprinkle of chocolate) - made by our barista trained staff.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "20306462-ba68-5601-ab5e-27b7c90ee471",
+          "name": "Flat White",
+          "description": "Ground-to-order Lavazza espresso, and steamed milk - made by our barista trained staff.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e7da0066-e581-59b6-a6e2-9ad0b83f2839",
+          "name": "Mocha",
+          "description": "Ground-to-order Lavazza espresso, and Cadbury's Hot Chocolate (vegan) - topped with steamed milk with a dash of micro-foam - made by our barista trained staff.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "22187d53-9db9-552d-8d30-9be0be2b907c",
+          "name": "Hot Chocolate",
+          "description": "N/A",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4cf85f74-b016-568d-8b4f-1e3b949516b3",
+          "name": "Americano",
+          "description": "Ground-to-order Lavazza espresso, and hot water - made by our barista trained staff.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "548f5a7a-a948-573c-97ad-a0c80a16f2cf",
+          "name": "Chai Latte",
+          "description": "Drink me Chai Artisan Blend (Vegan) whisked with lightly micro-foamed steamed milk.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "55211277-a875-44ca-8b57-711155e569d4",
+          "name": "Iced Latte",
+          "description": "Lavazza espresso over ice and milk - made by our trained baristas",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Crisps",
+      "items": [
+        {
+          "id": "fdfdbd84-8cb7-5960-9e64-59d82f17a11f",
+          "name": "\"Real\" Sea Salt",
+          "description": "Some swanky crisps.",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cb8a163a4180a7b8e042ccc52cfe7d88/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cf9fcc59-4e04-58f7-9b3e-7e872e1881c1",
+          "name": "\"Real\" Sea Salt & Malt Vinegar",
+          "description": "Some swanky crisps.",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cdfd1c2cffc9144c6e4147c04045f5b6/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "18273405-86c3-527d-a0c8-cbc0a2448a15",
+          "name": "\"Real\" Sweet Chilli",
+          "description": "Some swanky crisps.",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8d5a3569bf1fbdfd3234d674f747af96/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f08625de-ef62-51fe-87a2-b5f56d05fe56",
+          "name": "\"Real\" Strong Cheddar & Onion",
+          "description": "Some swanky crisps.",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f0b31b1f907affe5d310700419434420/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Sweet Treats",
+      "items": [
+        {
+          "id": "1fd8fe22-5c0d-4f5c-87fc-f28e1ae2f3ad",
+          "name": "Cookie Sandwich",
+          "description": "N/A",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5e36132de9284caf8f19b05c78112141/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ba68949f-ea2b-591a-8e6d-266774bfe56f",
+          "name": "Chocolate Chip Cookie",
+          "description": "N/A",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dd917f6f81bea487e150ae95467c5675/70aa2a4db7f990373ca9c376323e3dea.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7c7060ce-5d9d-588c-9ff3-a8b41836ea7a",
+          "name": "White Chocolate Cookie",
+          "description": "N/A",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0db0e415179be402605f7072c618464f/70aa2a4db7f990373ca9c376323e3dea.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "db7fa7b6-efcb-5285-9e57-4ff28cc5db21",
+          "name": "Triple Chocolate Cookie",
+          "description": "N/A",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b064c389e3138ef30334412d99c16f6e/70aa2a4db7f990373ca9c376323e3dea.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "54aa5c83-b26b-49ab-9dc2-dd0f6e726d8d",
+          "name": "Red Velvet Cupcake",
+          "description": "N/A",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3448fc97d2cb67e43f7de89ba30eaa8d/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5e808b1d-00ae-5e45-ae95-2014bc376de0",
+          "name": "Chocolate Shortbread",
+          "description": "N/A",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Soft Drinks",
+      "items": [
+        {
+          "id": "350e774a-4a3b-4b0a-9a94-69df360e8b93",
+          "name": "Pepsi 330ml",
+          "description": "In a glass bottle",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0812c5d7cd5fec2e37651baf74b293da/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9426ffbb-20d9-5eba-88b5-1b167607415d",
+          "name": "Juice Burst Apple 500ml",
+          "description": "N/A",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e193ad3c7964af78a6686538467e8439/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "275a6765-7bd9-5764-aa78-62db73da0a6d",
+          "name": "Juice Burst Orange 400ml",
+          "description": "N/A",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5d5a07b06528169ab4c23bdbb97e4be4/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "33628584-b033-5549-9edb-f9be649167dc",
+          "name": "Lipton Ice Tea Lemon 500ml",
+          "description": "N/A",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/be6397c76c93cb721b932ea5a3ee0ec6/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fc6b240c-4c82-5221-8939-7884ecbf7bef",
+          "name": "San Pellegrino Lemon 330ml",
+          "description": "N/A",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7c048f04a0aa1c8cdfd62da02fdc65d6/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5b158231-a044-54d4-b336-2ce11a92f5c4",
+          "name": "San Pellegrino Orange 330ml",
+          "description": "N/A",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/05fda3c3230c046e5cea6cc139443e81/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "27c92fd9-883f-56fa-aaab-44cbabc68939",
+          "name": "San Pellegrino Orange & Pomegranate 330ml",
+          "description": "N/A",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c852df1e36b86715235913e0c4e20086/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "72098e4f-8e50-55a4-bb9b-fb126d70d147",
+          "name": "Lipton Ice Tea Peach 500ml",
+          "description": "N/A",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7c618559075516d509599c018550b701/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5e652c07-f8d0-5878-a2ca-547ed31180de",
+          "name": "Pepsi Max 330ml",
+          "description": "(In a glass bottle!).",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6ff5dbb3-34f3-5d84-bd75-7e3a54ca75ca",
+          "name": "Radnor Hills Water 500ml",
+          "description": "N/A",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Smoothies",
+      "items": [
+        {
+          "id": "0941af52-3ac0-5e40-8119-81d9350d4e55",
+          "name": "Blueberry Thrill Smoothie",
+          "description": "Blueberries, banana and raspberries blended with orange & apple juice to order.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/230989a03f119f9ea24fb3835d46bc39/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3c5b6441-b507-525d-9a3c-1afda6244d09",
+          "name": "Mango & Pineapple Smoothie",
+          "description": "Made from real fruit and blended with orange & apple juice to order.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f1e73d6c097c3e1117095f96ea4b6cb7/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1e38666f-658d-5d15-a8af-8e43fdc6b4ec",
+          "name": "Strawberry & Banana Smoothie",
+          "description": "Whole strawberries and slices of banana blended with orange & apple juice to order.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7bd5227e348329a3ab3a62dfcc30e448/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "source": "UberEats",
+  "postalCode": "PL1_1HZ",
+  "timestamp": "2025-09-15T09:57:29.795Z",
+  "count": 70,
+  "data": [
+    {
+      "name": "McDonald's®",
+      "rating": "4.0",
+      "reviewCount": "10,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mcdonalds-new-george-st-2/oRbLzyIIThSL0_E_PrWjTg"
+    },
+    {
+      "name": "Morrisons",
+      "rating": "4.2",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-plymstock/qCYoVmgmVC643ks7R7YLVw"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.6",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-plymouth/haAVWWSHVAmGKlkXSe20Hw"
+    },
+    {
+      "name": "Tim Hortons",
+      "rating": "4.0",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tim-hortons-plymouth/NEi0frPfUwS3PtTKv7vOQw"
+    },
+    {
+      "name": "Burger King",
+      "rating": "3.8",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burger-king-plymouth-new-george-st/1xnqQw4gTfKkLn6xc5tGdg"
+    },
+    {
+      "name": "Subway",
+      "rating": "3.7",
+      "reviewCount": "410+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/subway-armada-way/QYmjOFHcRrC74DPpYmJ5Dg"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "3.7",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/popeyes-plymouth/OvSJYKDGU7KW-R_Nkb3lHg"
+    },
+    {
+      "name": "The Early Bird",
+      "rating": "4.4",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-early-bird-mayflower-street/QjAkKNmDWK2yrtJk7gfaeA"
+    },
+    {
+      "name": "Jake's",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/jakes/EDOK60IeQmq50DuaH-A4fQ"
+    },
+    {
+      "name": "Taco Bell",
+      "rating": "3.9",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/taco-bell-plymouth%3A-new-george-street/kzzhbn1LSmOFb-rCquG4Hw"
+    },
+    {
+      "name": "Starbucks ®",
+      "rating": "4.5",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-drakes-circus/rZRK-tv8SUuvMwxNOPLANQ"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "4.0",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-plymouth/P-xqEH88XF6utelaaOxT9g"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.2",
+      "reviewCount": "58",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-wembury/bqacULqhVIS5op07KgYRzQ"
+    },
+    {
+      "name": "One Stop Plymouth, Millbay Road",
+      "rating": "4.1",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-plymouth-millbay-road/v0YwATAAWSyxE2V0eeroLw"
+    },
+    {
+      "name": "Elvira's Cafe",
+      "rating": "4.4",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/elviras-cafe/M0HGrvbvVKqZWSg0VYsJzA"
+    },
+    {
+      "name": "KFC Plymouth",
+      "rating": "4.1",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-plymouth-old-town-street/l9Ix-i2AQneo_0sNpfCjpA"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.5",
+      "reviewCount": "99",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-plymouth-drake-circus/vqoya5z4VVKQ6LZg423a1Q"
+    },
+    {
+      "name": "Slim Chickens",
+      "rating": "3.9",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/slim-chickens-plymouth/H3jcMkBDWrKRyKEhuO4TPg"
+    },
+    {
+      "name": "Oggy Oggy Cornish Pasties",
+      "rating": "4.0",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/oggy-oggy-cornish-pasties-armada-way/KS9QZ9DzQ6asROWCf47l6A"
+    },
+    {
+      "name": "Karak Chaii",
+      "rating": "3.8",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "offers": [
+        "£0 Delivery Fee (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/karak-chaii-plymouth/rYfXLSLEWSaMhToChBPKCQ"
+    },
+    {
+      "name": "Bonnie's Brunch",
+      "rating": "4.6",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bonnies-brunch/KkVlq72bScuyHMwxn5uejg"
+    },
+    {
+      "name": "Sunny & Fine's Breakfast Burritos",
+      "rating": "3.1",
+      "reviewCount": "24",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £30, Save £8"
+      ],
+      "url": "https://www.ubereats.com/store/sunny-%26-fines-breakfast-burritos-pl1/nMQ-_A-vWZCYxYPRto-W2Q"
+    },
+    {
+      "name": "Sandwich Emporium",
+      "rating": "4.9",
+      "reviewCount": "23",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sandwich-emporium/EzA1JqxBWne677_hX4qWIw"
+    },
+    {
+      "name": "Morrisons Cafe",
+      "rating": "2.0",
+      "reviewCount": "25",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-cafe-plymouth/Lq50JSh0VpiBBab2f4qmSQ"
+    },
+    {
+      "name": "The Original Pasty House",
+      "rating": "4.4",
+      "reviewCount": "490+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-original-pasty-house/_tDnAZaaTTOHk3eLM4ytxg"
+    },
+    {
+      "name": "The Big Breakfast",
+      "rating": "3.9",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-big-breakfast/QEDMGTw5Q36eaNuapgsjzQ"
+    },
+    {
+      "name": "Jakez In The City",
+      "rating": "4.5",
+      "reviewCount": "30",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/jakez-in-the-city/XpwqjD1uS_-HMLCSANZONw"
+    },
+    {
+      "name": "Coffee #1",
+      "rating": "4.3",
+      "reviewCount": "65",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/coffee-1-plymouth/_t9neng5VdSf8_cfx8o-AA"
+    },
+    {
+      "name": "The Lord Louis",
+      "rating": "3.5",
+      "reviewCount": "480+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-lord-louis-stonehouse-plymouth-glen-road/IgU4eq-hQBmp7dt-tClA8Q"
+    },
+    {
+      "name": "Tesco Cafe",
+      "rating": "3.6",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tesco-cafe-plymouth-transit-way/Ak8CbkXfUtmi1JtPd8qFqA"
+    },
+    {
+      "name": "Chaddlewood",
+      "rating": "3.8",
+      "reviewCount": "44",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chaddlewood-plymouth-glen-road/Iiz51D4lUJKV0ujFY0mlIw"
+    },
+    {
+      "name": "Cake Box",
+      "rating": "4.3",
+      "reviewCount": "86",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cake-box-plymouth/JbuincmCUYO7fQEMZ-TRcQ"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.1",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/caffe-nero-plymouth-h-st/GTCvNZZGS-OWYx22Qaw2UA"
+    },
+    {
+      "name": "Mrs Browns",
+      "rating": "3.1",
+      "reviewCount": "11",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mrs-browns/FlwQv3LhUDGB7gnuQnCDHw"
+    },
+    {
+      "name": "Turtle Bay",
+      "rating": "4.1",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/turtle-bay-plymouth/46HKui-jQLCvAHIk5i3tcQ"
+    },
+    {
+      "name": "BALANCE DONE RIGHT",
+      "rating": "4.7",
+      "reviewCount": "15",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/balance-done-right/rA5917aOWtiWx2EBhUHCTQ"
+    },
+    {
+      "name": "Bubble CiTea",
+      "rating": "4.3",
+      "reviewCount": "87",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bubble-citea-plymouth/9UyNLwEiUxSSxcDWSpuHSw"
+    },
+    {
+      "name": "Krispy Kreme",
+      "rating": "4.6",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-plymouth/dQa_EysVR8eM5jmkYIRSBA"
+    },
+    {
+      "name": "Asian Food Store",
+      "rating": "4.7",
+      "reviewCount": "59",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/asian-food-store-88-oriental-supermarket/BvoyrdWzSrOfKXEjw53vfw"
+    },
+    {
+      "name": "Harvester",
+      "rating": "3.8",
+      "reviewCount": "320+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/harvester-unicorn/MaPTiXVKSyagx9Uw3YhJbQ"
+    },
+    {
+      "name": "Londis",
+      "rating": "4.3",
+      "reviewCount": "470+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/londis-hartley/NAnMxwOWTdyT4TpOmLn0-g"
+    },
+    {
+      "name": "Panku Sushi Counter",
+      "rating": "4.5",
+      "reviewCount": "27",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/panku-sushi-counter-plymouth-asda/fFoozMCbVSO1LrrP0F2JUw"
+    },
+    {
+      "name": "Shop'N Drive",
+      "rating": "3.7",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shopn-drive-home-park/l_vIoCgtSLCqIySs3Zc00Q"
+    },
+    {
+      "name": "Devon's Finest Hot Chocolate Bombs",
+      "rating": "4.1",
+      "reviewCount": "10",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/devons-finest-hot-chocolate-bombs/8KBp_rmtV4uhWTe4ZBvOkw"
+    },
+    {
+      "name": "Gourmet Grill",
+      "rating": "3.6",
+      "reviewCount": "23",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/gourmet-grill/PjHWXlOKTJa_xxQpW6uFlA"
+    },
+    {
+      "name": "Morrisons Daily Plymstock",
+      "rating": "4.4",
+      "reviewCount": "20",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/morrisons-daily-plymstock/ze2qUQQaU1iQ0Hdnht5x8g"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.5",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-regent-street/52QUvnBSWDSINNF3Tg8lUQ"
+    },
+    {
+      "name": "Cornwall Street Fish Bar",
+      "rating": "4.6",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cornwall-street-fish-bar/g1vreORLS2-ApCzx_IjDqg"
+    },
+    {
+      "name": "GDK",
+      "rating": "4.0",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/gdk-plymouth/sZ40AoBpRDWKx0rFM4o_CA"
+    },
+    {
+      "name": "Mr Woks",
+      "rating": "4.5",
+      "reviewCount": "370+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mr-woks/iXmAQ73gRWq47-7Ti7wf2g"
+    },
+    {
+      "name": "Sobe Burger",
+      "rating": "4.6",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/sobe-burger-plymouth/j0TfN7HTWEmlIr4KhLccHg"
+    },
+    {
+      "name": "Chopstix Noodle Bar",
+      "rating": "3.5",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chopstix-noodle-bar-plymouth/h6B7tdHdWiyrVf6bXGERhw"
+    },
+    {
+      "name": "Bamo Restaurant",
+      "rating": "4.4",
+      "reviewCount": "360+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bamo-restaurant/muQHNmjCWtiptQ7gw7ZN-w"
+    },
+    {
+      "name": "Coco di Mama Kitchens",
+      "rating": "4.3",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "25% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/coco-di-mama-kitchens-plymouth/EZrgojULTziDhSFbH4mJtw"
+    },
+    {
+      "name": "Franco Manca Sourdough Pizza",
+      "rating": "3.4",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/franco-manca-sourdough-pizza-plymouth/OIk5hQUwU4ulFUrVJqPEpg"
+    },
+    {
+      "name": "YO!",
+      "rating": "4.3",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yo!-plymouth/GIbisTkST5W0ts44bIaVuw"
+    },
+    {
+      "name": "Wildwood",
+      "rating": "4.1",
+      "reviewCount": "320+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/wildwood-plymouth-royal-william-yard/mabkZnZVQvaEsTrkZMkHpg"
+    },
+    {
+      "name": "Peri Peri Perfection",
+      "rating": "4.6",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/peri-peri-perfection/Y0kFOctATXieszC8esRKAg"
+    },
+    {
+      "name": "Toby Carvery",
+      "rating": "3.8",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/toby-carvery-roborough/m7VwuLrNUzalhNv1InWdWw"
+    },
+    {
+      "name": "The Jack Rabbit",
+      "rating": "4.2",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-jack-rabbit-vintage-inns-contemporary-plymouth-bracken-lane/VcmDd5IwX0WgUJf3dCpWrQ"
+    },
+    {
+      "name": "Crispy's",
+      "rating": "4.0",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/crispys-plymouth/89plsl2JU2S7fz0W1Yj2Fw"
+    },
+    {
+      "name": "Plymouth Fried Chicken",
+      "rating": "3.8",
+      "reviewCount": "44",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/plymouth-fried-chicken/ks7xHM36TSiRHQqr-KwCPA"
+    },
+    {
+      "name": "The Thai House",
+      "rating": "4.5",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-thai-house/FF-Du1mRTi6a-BgExm4Vww"
+    },
+    {
+      "name": "Sabeez",
+      "rating": "4.4",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sabeez-town-centre/RDpBFYgTVze3ij_8Pv6Dmg"
+    },
+    {
+      "name": "Zizzi",
+      "rating": "4.2",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/zizzi-plymouth/P1PqSL_BRHahuMYV2OCz_g"
+    },
+    {
+      "name": "Friary Mill Broadway",
+      "rating": "5.0",
+      "reviewCount": "16",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/friary-mill-broadway/nfjFLymTVneAHO_sa2mlUw"
+    },
+    {
+      "name": "The Village",
+      "rating": "4.2",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-village/fFjFewiDQ8yNqXPSx-qq1g"
+    },
+    {
+      "name": "Majestic Wine",
+      "rating": "In-store prices",
+      "reviewCount": "",
+      "deliveryTime": "",
+      "offers": [
+        "£0 Delivery Fee (Spend £25)",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/majestic-wine-plymouth/enBBvezgVmSsGzqQrxNOsg"
+    },
+    {
+      "name": "Goodbody's Takeaway & Bakery",
+      "rating": "4.4",
+      "reviewCount": "26",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/goodbodys-takeaway-%26-bakery/k7Z2v_mJWom5AwD6ynjdIQ"
+    },
+    {
+      "name": "Ugly Chicken",
+      "rating": "3.0",
+      "reviewCount": "16",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ugly-chicken-plymouth/0xylWnARXG-FCJCJIFqyfw"
+    }
+  ]
+}

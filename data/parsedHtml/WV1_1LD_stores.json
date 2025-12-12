@@ -1,0 +1,744 @@
+{
+  "source": "UberEats",
+  "postalCode": "WV1_1LD",
+  "timestamp": "2025-09-15T09:57:34.915Z",
+  "count": 89,
+  "data": [
+    {
+      "name": "Greggs",
+      "rating": "4.3",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-wolverhampton-24-market-st/3ShU4XPEXl6PjeUb6J2ObA"
+    },
+    {
+      "name": "Sainsbury's Local",
+      "rating": "4.6",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-local-wolverhampton-interchange/9isnCkvfXsGd4zjvkbL5sw"
+    },
+    {
+      "name": "ASDA Superstore",
+      "rating": "4.0",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/asda-superstore-wolverhampton/KKqAqJFUTf-AMacwY7U1PQ"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.7",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-tettenhall/q-MjMofCXEm3Tx5I8mxq5g"
+    },
+    {
+      "name": "Jeans Cafe",
+      "rating": "4.7",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/jeans-cafe/63ofz0YoQ3-q_c1hdxPuZQ"
+    },
+    {
+      "name": "Morrisons",
+      "rating": "4.3",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-dudley-kingswinford/F6-gui3yVnydRLyF__RH7A"
+    },
+    {
+      "name": "Burger King",
+      "rating": "3.9",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burger-king-bilston-dt/_bEBjIgNQN6uOaHgF6lyIg"
+    },
+    {
+      "name": "Tim Hortons",
+      "rating": "3.9",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tim-hortons-wolverhampton-wednesfield/_uxye2QbWweX68dVInMpsQ"
+    },
+    {
+      "name": "GDK",
+      "rating": "3.9",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "3 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/gdk-wolverhampton/XaJiG0o_UuSAOmmJQMxiOw"
+    },
+    {
+      "name": "Starbucks ®",
+      "rating": "4.2",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-wolverhampton/I4T1j4HNXICTj2VNWnZaUg"
+    },
+    {
+      "name": "Chaiiwala",
+      "rating": "4.1",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chaiiwala-wolverhampton/6fI1b9hGVe6GNgJH-2GuEg"
+    },
+    {
+      "name": "Burger & Sauce",
+      "rating": "4.4",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/burger-%26-sauce-wolverhampton/wwdyrsr9WVa0zH53gqdtug"
+    },
+    {
+      "name": "Betsy's x Little Dessert Shop",
+      "rating": "4.3",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/betsys-x-little-dessert-shop-wolverhampton/hbbo_YBQUpyd1c-NzsINBQ"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.5",
+      "reviewCount": "84",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-wolverhmptn-dudley-st/-cVp40PGXImwhVaf3r48qg"
+    },
+    {
+      "name": "Jack's Cafe and Bar",
+      "rating": "4.6",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/jacks-cafe-and-bar/id54zZxcRZ6EDwid1VEWww"
+    },
+    {
+      "name": "Jolly's Grab & Go",
+      "rating": "4.4",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "4 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/jollys-grab-%26-go/3-oHjVbLT3ubOYDxtdHdgQ"
+    },
+    {
+      "name": "Costa Coffee",
+      "rating": "4.2",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/costa-coffee-wolverhampton-dudley/Z8dIhdevQAyKMksdTmNyqA"
+    },
+    {
+      "name": "Chopstix Noodle Bar",
+      "rating": "3.7",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/chopstix-noodle-bar-wolverhampton/7xHgaXoBX3OoEndQF-QqWg"
+    },
+    {
+      "name": "Sandwich",
+      "rating": "4.7",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "3 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/sandwich/TdiTr7XZSmij8ndPrNeGIQ"
+    },
+    {
+      "name": "The Newbridge",
+      "rating": "4.2",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-newbridge-stonehouse-2025-wolverhampton-tettenhall-road/pCGrXsgPQwWtNhtGZZAPVQ"
+    },
+    {
+      "name": "Poundbakery",
+      "rating": "3.9",
+      "reviewCount": "24",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/poundbakery-wolverhampton/FLUEz-TrUU28rwtWImji1A"
+    },
+    {
+      "name": "Perfect Cafe & Shake",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/perfect-cafe-%26-shake/Al0wh7ApRWW-qqlKhL2a9w"
+    },
+    {
+      "name": "Tesco Cafe",
+      "rating": "4.7",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tesco-cafe-wolverhampton/CjZJVu1GXMSnyAuVWxlc7Q"
+    },
+    {
+      "name": "The Chestnut Tree",
+      "rating": "4.3",
+      "reviewCount": "85",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-chestnut-tree-sizzling-pubs/_PQ1WQVJXA65c8kUhWOYmg"
+    },
+    {
+      "name": "Morrisons Cafe",
+      "rating": "3.1",
+      "reviewCount": "37",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-cafe-willenhall/HondSr2aU7SEQXk42ZPD-Q"
+    },
+    {
+      "name": "Whole Hog",
+      "rating": "3.6",
+      "reviewCount": "90",
+      "deliveryTime": "",
+      "offers": [
+        "3 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/whole-hog/twFSvsUEUiWM_Ig-fM49_g"
+    },
+    {
+      "name": "Ghale’s Takeaway",
+      "rating": "4.4",
+      "reviewCount": "360+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ghales-takeaway/53QR2CjTQliuxlls3e_NbA"
+    },
+    {
+      "name": "Londis",
+      "rating": "4.5",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/londis-royal-oak/usfYfxXeVK-kMwJP6aKEPQ"
+    },
+    {
+      "name": "No.1 Pizza Bar & Grill",
+      "rating": "3.9",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "3 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/no1-pizza-bar-%26-grill-official-store/DAcMUdKeS96RTBtyJ0XMtw"
+    },
+    {
+      "name": "Your Co-op Food",
+      "rating": "4.1",
+      "reviewCount": "28",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/your-co-op-food-merry-hill/nJ8ROGhOXs6l5WtQwa_lgg"
+    },
+    {
+      "name": "The Hungry Pigs Cafe",
+      "rating": "4.1",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £35)"
+      ],
+      "url": "https://www.ubereats.com/store/the-hungry-pigs-cafe/0Av65J4lQ0uEFddYI7VwFQ"
+    },
+    {
+      "name": "Evie’s Kitchen",
+      "rating": "4.4",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/evies-kitchen/waF-6Wi2SImluETiPoudnw"
+    },
+    {
+      "name": "Babs Cafe",
+      "rating": "4.8",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/babs-cafe/FNsTb40BRtukVWmHCO2Ufw"
+    },
+    {
+      "name": "The Cabin Cafe",
+      "rating": "4.5",
+      "reviewCount": "150+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-cabin-cafe/tmeEPE3jQ8WFA4PbTB02Hw"
+    },
+    {
+      "name": "Deli 64",
+      "rating": "4.8",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/deli-64/zml2BcjzQ3GqL3S-HaHSrA"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "5.0",
+      "reviewCount": "24",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-merryhill/Kx_q1MkrUXWipdTEI8OqVQ"
+    },
+    {
+      "name": "Bella Italia Pizza & Pasta",
+      "rating": "4.2",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bella-italia-pizza-%26-pasta-wolverhampton/WVVGFjHDRZqrALkD7ydQ8g"
+    },
+    {
+      "name": "Chai Galli",
+      "rating": "4.3",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chai-galli/SxIwwhrCQNakG4Tc1CoQiA"
+    },
+    {
+      "name": "Beez kneez cafe",
+      "rating": "4.4",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/beez-kneez-cafe-wolverhampton/8NTnUjJuX5iIONWS9Od49w"
+    },
+    {
+      "name": "Hello Tacos",
+      "rating": "3.1",
+      "reviewCount": "77",
+      "deliveryTime": "",
+      "offers": [
+        "10% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/hello-tacos/P5WjPrDqWdyye8UKSxKsrQ"
+    },
+    {
+      "name": "Shawarma Station",
+      "rating": "4.0",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shawarma-station/Vw-1lqTmRdaEl_loZDQWlg"
+    },
+    {
+      "name": "Bikaner Sweet Centre",
+      "rating": "4.4",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bikaner-sweet-centre/iyN-P7EMSKqlzoHJTwWNsQ"
+    },
+    {
+      "name": "Pooja Mithai & Namkeen",
+      "rating": "4.5",
+      "reviewCount": "18",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pooja-mithai-%26-namkeen/4PvFbq3DRDySUDvg_286iQ"
+    },
+    {
+      "name": "Chai Hubb",
+      "rating": "4.2",
+      "reviewCount": "410+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/chai-hubb/U7K1duBoXb-PK9hI60DbKw"
+    },
+    {
+      "name": "The Black Country Cafe",
+      "rating": "4.8",
+      "reviewCount": "33",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-black-country-cafe/gt9XdL0BUxqpRf6Xxw5SZg"
+    },
+    {
+      "name": "Morrisons Daily",
+      "rating": "4.2",
+      "reviewCount": "14",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-daily-wolverhampton-blaydon-road/p5JdwCIvXtyz4bm9yXW8TA"
+    },
+    {
+      "name": "Lovey’s",
+      "rating": "4.5",
+      "reviewCount": "43",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/loveys/nZn1G8AKSCKYL6lVMd9P0Q"
+    },
+    {
+      "name": "Rayhan's Cafe",
+      "rating": "4.3",
+      "reviewCount": "34",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/rayhans-cafe/9x-ONNF3Wr-0f6PrmQHCYg"
+    },
+    {
+      "name": "Shell Wolverhampton",
+      "rating": "4.4",
+      "reviewCount": "99",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shell-wolverhampton/JaoRJCcLXge7ZNWGF0tA3Q"
+    },
+    {
+      "name": "Yaadgaar",
+      "rating": "4.3",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yaadgaar/BHXjWuRgWY21IlQ-lMcNYg"
+    },
+    {
+      "name": "Harvester",
+      "rating": "4.5",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/harvester-beacon/NSc_Z44KS9-2Hyi-S1nikA"
+    },
+    {
+      "name": "Super Nonna Pasta, Presto!",
+      "rating": "4.1",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/super-nonna-pasta-presto!-wolverhampton/aQb3G8quWVi1Nr4yusEjAQ"
+    },
+    {
+      "name": "Central Co-op",
+      "rating": "4.0",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/central-co-op-west-bromwich/RbCHoTk7VIWECcGsXJ_UvQ"
+    },
+    {
+      "name": "Jollof People",
+      "rating": "4.5",
+      "reviewCount": "32",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/jollof-people/6A_0u4yJQcWFeZeJyWjjbg"
+    },
+    {
+      "name": "The Birdcage Cafe",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-birdcage-cafe/JIC3VMGjQ1-rr9GeC5I2cg"
+    },
+    {
+      "name": "QuickFix Diner",
+      "rating": "4.8",
+      "reviewCount": "60",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/quickfix-diner/oh9tKealXaS9gnwEcLUNvQ"
+    },
+    {
+      "name": "Bilston Drinks Stop",
+      "rating": "4.6",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bilston-drinks-stop/AKa9IeuqVla7-gE2BtRe7g"
+    },
+    {
+      "name": "One Stop Stores Bilston Highfields Rd",
+      "rating": "4.6",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-stores-bilston-highfields-rd/OJWqKPjhX2uMOzbK1hNV4Q"
+    },
+    {
+      "name": "ODEON",
+      "rating": "3.8",
+      "reviewCount": "44",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/odeon-west-bromwich/18ODtKSpWvG-D9XjbQwwMg"
+    },
+    {
+      "name": "Majestic Wine",
+      "rating": "5.0",
+      "reviewCount": "62",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/majestic-wine-wolverhampton/w7MS732DXL2PWir46dpYOQ"
+    },
+    {
+      "name": "Greedy B’s Cafe",
+      "rating": "4.0",
+      "reviewCount": "37",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greedy-bs-cafe/LvlKRP7iR2OY1-Pp0LWyLQ"
+    },
+    {
+      "name": "Robinson's Bakery",
+      "rating": "4.2",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/robinsons-bakery/x8sVhdKvVdOcjXYEzRi9Vw"
+    },
+    {
+      "name": "Royal Punjab",
+      "rating": "3.9",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/royal-punjab/1tK6enQySUGUkn-InKICxw"
+    },
+    {
+      "name": "Cake Inn",
+      "rating": "3.9",
+      "reviewCount": "70",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cake-inn/Uy_hn_j-Q_CbAv-Eg6N1kA"
+    },
+    {
+      "name": "Paratha Express",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/paratha-express/Xf9NKWW_QGeATN1duRdTug"
+    },
+    {
+      "name": "Harry's Diner",
+      "rating": "4.7",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/harrys-diner/ZRVtbJpsRL6mB_VHHIxeSA"
+    },
+    {
+      "name": "The Big Cake co.",
+      "rating": "3.8",
+      "reviewCount": "64",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-big-cake-co-oldbury/ySR20tHIXEaIswJT3jaxYg"
+    },
+    {
+      "name": "Chainak",
+      "rating": "4.4",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/chainak/kuYk6g5eRAmvnHlQ8qLjag"
+    },
+    {
+      "name": "Cottage Bakers",
+      "rating": "4.5",
+      "reviewCount": "52",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cottage-bakers/7nFyw4GnUmyCSEbd3BUFPQ"
+    },
+    {
+      "name": "Bills Cafe",
+      "rating": "4.8",
+      "reviewCount": "34",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bills-cafe/BmPNj-KwRwW2XXWA3JrQPA"
+    },
+    {
+      "name": "AMMA’s Cafe & Desserts",
+      "rating": "4.0",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/ammas-cafe-%26-desserts/yMgrM1SbW0y0-tUw19ZlZw"
+    },
+    {
+      "name": "Cafe Rosa",
+      "rating": "3.2",
+      "reviewCount": "20",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-rosa/KjgreHbCX--EP2tGNC9f8g"
+    },
+    {
+      "name": "Mother Clucker Fried Chicken",
+      "rating": "3.7",
+      "reviewCount": "19",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mother-clucker-fried-chicken-walsall/ECA5qUCPVDGgxXVEuhwaDw"
+    },
+    {
+      "name": "Don Taco'te",
+      "rating": "3.3",
+      "reviewCount": "32",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/don-tacote-leicester-street/e89Bp11bXZy2sHQGxCLHyw"
+    },
+    {
+      "name": "Cafe pars",
+      "rating": "4.8",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-pars/qGOK1YKESS-9RNWgOTkySQ"
+    },
+    {
+      "name": "Four Ways Inn Premier",
+      "rating": "4.3",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/four-ways-inn-premier/jDJ83Dt6Rb2G4pBRycFp9w"
+    },
+    {
+      "name": "Old Hill Cafe",
+      "rating": "4.5",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/old-hill-cafe/p4IxZ2ifVTyyKUNyD3lKeQ"
+    },
+    {
+      "name": "Chay's Caribbean And African Cuisine",
+      "rating": "4.6",
+      "reviewCount": "68",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chays-caribbean-and-african-cuisine/H7c2RixlQgGa7wXWzECEBw"
+    },
+    {
+      "name": "A Place to Taste",
+      "rating": "4.3",
+      "reviewCount": "73",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/a-place-to-taste/FtNyxKRSWmmfw0VTp7nXTQ"
+    },
+    {
+      "name": "Heavenly Desserts",
+      "rating": "4.0",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £25, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/heavenly-desserts-walsall/23uwHa-hSW2xjfhKCB724g"
+    },
+    {
+      "name": "Bikaner Sweets & Catering",
+      "rating": "4.5",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bikaner-sweets-%26-catering/HCRRLfLCVuuznh00AQMENA"
+    },
+    {
+      "name": "Berry's Bostin Bites",
+      "rating": "4.4",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/berrys-bostin-bites/8egJpjjqQe-t6L-uaPezAw"
+    },
+    {
+      "name": "Byron Burgers & Fries",
+      "rating": "3.8",
+      "reviewCount": "16",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/byron-burgers-%26-fries-walsall/ydE1nQo8WfarQdug30u4Ug"
+    },
+    {
+      "name": "Mi Amor",
+      "rating": "3.6",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/mi-amor/b0Z0n_VsQAyinYlIOPS49w"
+    },
+    {
+      "name": "Central cafe",
+      "rating": "4.4",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/central-cafe/aKqGSa9AXZy-lUhZVA9fSQ"
+    },
+    {
+      "name": "The Britannia Cafe",
+      "rating": "4.6",
+      "reviewCount": "310+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-britannia-cafe/TxAyjj2bWNGKxXwYuNe7EQ"
+    },
+    {
+      "name": "Anmol Sweet Shop",
+      "rating": "4.2",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/anmol-sweet-shop/XtEAvZrAWzGlXd3yVF-D6A"
+    },
+    {
+      "name": "BP Terminus",
+      "rating": "4.4",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bp-terminus/35KEPtIBTtux_kimssyvGA"
+    },
+    {
+      "name": "House of Chaii",
+      "rating": "4.7",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/house-of-chaii-wolverhampton/NJiiLdQUXbym_yUlOz6elg"
+    }
+  ]
+}

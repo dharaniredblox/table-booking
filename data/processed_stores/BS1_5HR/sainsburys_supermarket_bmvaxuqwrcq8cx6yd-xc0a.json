@@ -1,0 +1,918 @@
+{
+  "restaurant_id": "sainsburyssupermarketdingles-BS81-51",
+  "source_id": "6cc55ac6-ea96-442a-bc0b-1eb277e5dcd0",
+  "restaurant_url": "https://www.ubereats.com/store/sainsburys-supermarket-dingles/bMVaxuqWRCq8Cx6yd-Xc0A",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:05:03.507Z",
+  "restaurant": {
+    "name": "Sainsbury's Supermarket - Dingles",
+    "slug": "sainsburys-supermarket-dingles",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441179221693",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "Queens Rd, Clifton, Bristol BS8 1",
+    "streetAddress": "Queens Rd, Clifton",
+    "addressCity": "bristol-eng",
+    "neighborhood": "west-end-bristol-eng",
+    "addressRegion": null,
+    "postalCode": "BS8 1",
+    "addressCountry": "GB",
+    "latitude": 51.4567159,
+    "longitude": -2.6069145,
+    "geohash": "gcnhsx",
+    "etaRange": "170–190 Min",
+    "ratingAvg": 4.5,
+    "totalReviews": "6000+",
+    "workingHours": "Open until 3:00 AM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Alcohol",
+      "Convenience",
+      "Everyday Essentials",
+      "Grocery",
+      "Specialty Foods",
+      "Beauty Supply",
+      "Retail",
+      "Baby",
+      "Electronics",
+      "Pharmacy",
+      "Personal Care"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Sunday",
+      "hours": [
+        {
+          "open": "12:00",
+          "close": "17:30",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Monday - Saturday",
+      "hours": [
+        {
+          "open": "07:00",
+          "close": "22:30",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Offers",
+      "items": [
+        {
+          "id": "1fa8f8a9-94c3-5ea9-aab0-a091e0c982d5",
+          "name": "Sainsbury's Guacamole, Tortilla Chips (230g)",
+          "description": "N/A",
+          "price": "£1.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 150,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/babf66c34cb29853e0ce6cf457bf7683/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1ba20536-9d29-5f6b-8db4-8cb042d2c4a9",
+          "name": "Sainsbury's Chocolate & Hazelnut Filled Crêpes (6 pack)",
+          "description": "N/A",
+          "price": "£2.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 235,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/45f327e7b234438d103eca62a671b450/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3eefcc4f-79ac-5bb4-82e8-04cd0d4ae763",
+          "name": "Lu Petit Choc 100g",
+          "description": "N/A",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2b2736701192703ea07fcc54cba8cde2/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "95508198-060e-5278-ab51-4292b00de883",
+          "name": "Sainsbury's Red Seedless Grapes (500g)",
+          "description": "N/A",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/62a76c625826b4afbe8f3908d76f0e3d/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9c123319-d6ea-5e93-b789-3c4c333d25be",
+          "name": "Ritz Bakery the Original Cracker (150g)",
+          "description": "N/A",
+          "price": "£1.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 130,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e4d629322711306c9f12945e50865696/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "228e45b5-5f38-5053-b8a7-f80aec2e0e2c",
+          "name": "Sainsbury's Southern Fried Chicken Goujons (270g)",
+          "description": "N/A",
+          "price": "£3.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 310,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2d966e628495e7cea767c606edaffc97/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6c72a675-dc3b-54b0-abe7-ecfcdf2766a1",
+          "name": "Fanta Fruit Twist, Sparkling Drink (2L)",
+          "description": "N/A",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1cce994352205308a734d9377fdf385d/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c29fb3ae-07f7-4b7a-a32f-e9c4d90eddb8",
+          "name": "Pom-Bear Original Potato Snacks (6 pack)",
+          "description": "N/A",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dfffb47f2cef84d409f01c2aceed3cdd/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b51a36f1-5ecf-58bd-a535-a643fc3f10c0",
+          "name": "Graze Lemon-Blueberry, Cereal Bars (4 pack)",
+          "description": "N/A",
+          "price": "£3.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 300,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5994fcb718955e5ab9d7aa675ce75386/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "173d8721-6204-4dc8-9fb8-0d925623dfa7",
+          "name": "Fox's Fabulous Chocolatey Milk Chocolate Rounds (130g)",
+          "description": "N/A",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c4cc28de6014b5db674cfa5a9677fb24/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "22b569e6-92f2-58c1-83de-e3577b0c6c33",
+          "name": "Dr Pepper Fruit, Sparkling Flavour Soft Drink (2L)",
+          "description": "N/A",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/684e9d471354ed4d597cd5943facf524/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bfabe00e-9e49-5918-9ebc-7abddec650b4",
+          "name": "Fox's Fabulous Half-Coated Milk Chocolate Cookies (175g)",
+          "description": "N/A",
+          "price": "£2.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 265,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5bdf2b03f5015a29120236b6efdbcc00/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "61f77ed6-299c-564f-87ab-c0c87b3f1c5f",
+          "name": "LU Le Petit Beurre Biscuits (167g)",
+          "description": "N/A",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/42c1ef05f11df1cb5558ce21a8d5983e/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d4e74166-035c-5e0f-b540-a2734d73009b",
+          "name": "KitKat Caramel, Chocolate Bars (8 x 20.7g)",
+          "description": "N/A",
+          "price": "£2.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 245,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d70161bb2fd299a52bb2650a6c42c687/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e4a6b1fe-6750-5c3f-b830-6984a8976bff",
+          "name": "Cadbury Dairy Milk Dessert With Flake Pmp (75g)",
+          "description": "N/A",
+          "price": "£1.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 135,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b71451f6db3d64d0fa0f5f058d370f86/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Bakery",
+      "items": [
+        {
+          "id": "f1973b07-ed14-504b-b5a6-932c2b7c4308",
+          "name": "Warburtons Crumpets (6 pack)",
+          "description": "N/A",
+          "price": "£1.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 115,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9f1d0ab26e893ae1ed5193f516460d33/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9ad3daaf-a4ea-5018-b549-d893f4b5f868",
+          "name": "Warburtons Toastie Soft Thick White Bread (800g)",
+          "description": "N/A",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f3638105b7112e6ab2781bcad55463a7/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8bf03467-5dba-52cc-aada-8e33cdf913f9",
+          "name": "Warburtons Crumpets (9 pack)",
+          "description": "N/A",
+          "price": "£1.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 135,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1711202e38973a5da8894ee6a160fdd8/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f57230ea-7ca6-54c7-b9fe-82eefc1d0395",
+          "name": "Sainsbury's White Pittas (6 pack)",
+          "description": "N/A",
+          "price": "£0.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 60,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e3fbdc55d08932bef46f8e57e89bfe7d/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "67ccb67a-8670-5a15-9310-13a95aefcaa4",
+          "name": "Cadbury Chocolate &Vanilla, Mini Rolls Milk Chocolate Cakes (5 pack)",
+          "description": "N/A",
+          "price": "£3.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 300,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5c9e8b3a5f90b15008178389c899c4ec/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "42a93441-6b06-5539-855c-7138778dc41a",
+          "name": "Sainsbury's Crumpets (6 pack)",
+          "description": "N/A",
+          "price": "£0.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 60,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2c1b35d2d19607a33b99c6cf222b9448/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1ba20536-9d29-5f6b-8db4-8cb042d2c4a9",
+          "name": "Sainsbury's Chocolate & Hazelnut Filled Crêpes (6 pack)",
+          "description": "N/A",
+          "price": "£2.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 235,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/45f327e7b234438d103eca62a671b450/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e10103f1-f038-536f-8a31-56bb2e90b594",
+          "name": "Warburtons Toastie Thick Sliced Soft White Bread (400g)",
+          "description": "N/A",
+          "price": "£1.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 125,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f77918bd2b9d671bf400761660658dcf/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c444c3c5-4a56-55ac-a1f3-09100945b6be",
+          "name": "Sainsbury's Plain Tortilla Wraps (8 pack)",
+          "description": "N/A",
+          "price": "£1.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 160,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/720d0a7f46f4634f54075b8b56f38ef3/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "dd51b7b5-b7eb-517e-b0be-bdfc065c499e",
+          "name": "Sainsbury's Milk Chocolate Chip Brioche Rolls (8 pack)",
+          "description": "N/A",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1b6fe718cfd5cc2cf1cda3359b7d97ae/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7740e48d-0630-5fc6-848a-2af67e0e7daa",
+          "name": "Warburtons Seeded Protein Thin Soft & Sliced Bagels (4 pack)",
+          "description": "N/A",
+          "price": "£1.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 185,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8c3e22dcd9e1eba869cc5f5d1a77b51c/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "40cf1572-62a4-54f1-9312-596bbcee9355",
+          "name": "Sainsbury's Scotch Pancakes (6 pack)",
+          "description": "N/A",
+          "price": "£0.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 70,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/539c0bd902b10b9b2fc0068cb2b7facd/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bb7c35b7-0fee-573e-aa6d-28747ff1da9c",
+          "name": "Hovis Soft White Medium Bread (800g)",
+          "description": "N/A",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2921a7badb3f77edd0601799524ec51e/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cce2be39-8aec-57c9-b216-ba2cb6f4a19a",
+          "name": "Sheldon's Lancashire Oven Bottom Muffins (6 pack)",
+          "description": "N/A",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aea74a4ec0a5c0d4bad6ff00d32667fe/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a70b8720-4f41-5310-9305-9172c7ccb240",
+          "name": "Sainsbury's Butter Brioche Rolls (8 pack)",
+          "description": "N/A",
+          "price": "£2.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 230,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ac039cb95166b0ff5a48a0761320e1c0/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Dairy and Juice",
+      "items": [
+        {
+          "id": "80fa4c7e-a4e0-5555-9789-a512f9d5d5e2",
+          "name": "Stamford Street Co. Assorted, Free Range British Eggs (10 pack)",
+          "description": "N/A",
+          "price": "£2.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 215,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b25cb32989641216c0f6d6e1e62a394a/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "353ac0fb-3443-5073-a12a-448c2824c629",
+          "name": "Sainsbury's Fresh West Country Semi Skimmed 1.8% Fat Milk (1.14L)",
+          "description": "N/A",
+          "price": "£1.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 150,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6a7a82fc606d4816840af470d94a8599/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bce3e84c-12bf-59e7-be8b-e1f0d2e1e776",
+          "name": "Sainsbury's Apple Juice (1L)",
+          "description": "N/A",
+          "price": "£1.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 115,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a0aa6c6ddfae47d8169f409b53f703f4/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2de8f160-fd81-5853-b633-e3d0b7194bc4",
+          "name": "Sainsbury's Salted British Butter (250g)",
+          "description": "N/A",
+          "price": "£2.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 230,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/21f10985225b2f6aaf7b818059c897ce/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0c47af71-2a73-5681-a758-eb207a1c417a",
+          "name": "Sainsbury's Grated Mature British Cheddar (250g)",
+          "description": "N/A",
+          "price": "£3.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d832138d2e1e22ea4bdad4b0c2a5ca7a/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8fd02271-10d7-57bc-82e4-ca0b8479c6c6",
+          "name": "Sainsbury's L, British Free Range Eggs (12 pack)",
+          "description": "N/A",
+          "price": "£4.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 410,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cfe7a85bebb389a788ea4da22bb663f9/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "380ad952-3b82-5575-8c58-54dbbaa279b0",
+          "name": "Sainsbury's Fresh West Country Whole Fat Milk (3.41L)",
+          "description": "N/A",
+          "price": "£2.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 275,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f652f6f0531b07165c4dfd3b950ead29/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2917d5b6-5373-5c4b-af2d-ec90fccdc2bf",
+          "name": "Dairylea Lunchers Ham & Cheese Convenience Meals (65g)",
+          "description": "N/A",
+          "price": "£1.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 175,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bec1ac9f9f7878076f800aab3d734158/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b55ddc6e-3357-545f-8394-90af3fb33bd4",
+          "name": "Vita Coco The Original Coconut Water (1L)",
+          "description": "N/A",
+          "price": "£5.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 530,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/858337cc29c6749af4c62aa17802316d/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9aaebd38-49ab-5496-a11b-e42e253d1b88",
+          "name": "Sainsbury's Unsalted British Butter (250g)",
+          "description": "N/A",
+          "price": "£2.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 230,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1d84751c9ce31fecb39d5152adc9f706/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "df6581fd-965e-54fd-882d-ceea3f1e2726",
+          "name": "Sainsbury's M, British Free Range Whole Eggs (12 pack)",
+          "description": "N/A",
+          "price": "£3.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 340,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8604ff2d7cadbbc7e258876af03b7164/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "881fae2c-4d6a-531d-9be5-fa47d4910f9d",
+          "name": "Sainsbury's West Country Skimmed Milk (2.27L)",
+          "description": "N/A",
+          "price": "£1.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 190,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/be8df73ce9f91778c77a6c507f3f473c/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b6ec28d2-8322-54ba-9aca-aaa24b922ede",
+          "name": "innocent Pure Orange Juice Smooth (900ml)",
+          "description": "N/A",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1423878bcf2620aa78fc87d3016afa6e/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "40b5809e-b6a5-5d27-ad4b-6052c507bf7e",
+          "name": "Sainsbury's Mature British Cheddar Cheese (400g)",
+          "description": "N/A",
+          "price": "£4.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 445,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d5907d38ab75f7f72f61ad58f08a8b21/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0a672b22-e94e-5174-a908-2ebb82dedd12",
+          "name": "Sainsbury's Smooth Orange Juice (1L)",
+          "description": "N/A",
+          "price": "£1.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 135,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3d3dc15534e6f29837a9d5e96f90702d/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Meat, Fish and Poultry",
+      "items": [
+        {
+          "id": "0d8f355d-094c-4e3a-9cad-543a2555f244",
+          "name": "Sainsbury's British Fresh Chicken Wings (1kg)",
+          "description": "N/A",
+          "price": "£2.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 275,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8dbf5f3634bef7d36822fc4780d59b9c/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1eb71b72-716c-5f81-896c-f815833accd3",
+          "name": "Sainsbury's Stamford Street Co Back Bacon Rashers (300g)",
+          "description": "N/A",
+          "price": "£1.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 185,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/56234a0fb2cac2c3d5ae9165bc7e54fe/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d1288af3-a4af-5d25-93af-deedb7cf4c61",
+          "name": "Sainsbury's Stamford Street Co. Scottish Smoked Salmon (100g)",
+          "description": "N/A",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d64e52813e4e96ca508ce8ddd9080e3d/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b5e596da-9f63-52ac-a182-1884d386eb25",
+          "name": "Sainsbury's Irish 20% Fat Beef Mince (500g)",
+          "description": "N/A",
+          "price": "£4.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 405,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/55f510375404b21f9bcdddec5df24b5d/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "84bca371-3063-54bf-8da9-5b4d3354c4d4",
+          "name": "Sainsbury's Lamb Leg Steaks (300g)",
+          "description": "N/A",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/98467677be1cf106ae66566045088f2a/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a69a57f2-7661-5408-b33e-0625ff6e61cf",
+          "name": "Sainsbury's British Fresh Chicken Skin on Drumsticks (1kg)",
+          "description": "N/A",
+          "price": "£2.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 280,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e5fa4683f9eabdedf60f358536e7b8aa/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "228e45b5-5f38-5053-b8a7-f80aec2e0e2c",
+          "name": "Sainsbury's Southern Fried Chicken Goujons (270g)",
+          "description": "N/A",
+          "price": "£3.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 310,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2d966e628495e7cea767c606edaffc97/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7494cf57-10d0-4589-a0eb-3f70c8ceff30",
+          "name": "Sainsbury's Smoked Back Bacon Rashers (10 pack)",
+          "description": "N/A",
+          "price": "£2.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 270,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/09c4cb1c82402662c3fb1e60a9093393/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f02491b5-9efd-5b40-afda-3d4b54e8d304",
+          "name": "Sainsbury's Stamford Street Co. Salmon Fillets (2 pack)",
+          "description": "N/A",
+          "price": "£3.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 390,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d4e49a2d7ff33532ab69b23a62f9a2a0/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f7782fce-962b-52c5-bbe3-422172eb0bcc",
+          "name": "Sainsbury's Extra Lean Diced Beef (250g)",
+          "description": "N/A",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b688c67b322ee88720eb56739cee4461/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e4aabd49-64ba-5af5-aa85-811eeedb8056",
+          "name": "Sainsbury's British Fresh Chicken Breast Fillets (2 pack)",
+          "description": "N/A",
+          "price": "£3.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/82284f369549ce0657ee0aa28d779874/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a0e281f0-060d-5a17-8483-b1a0b59d128b",
+          "name": "Stamford Street Co. Unsmoked Back Bacon Rashers (300g)",
+          "description": "N/A",
+          "price": "£1.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 185,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f6f468cd9682bdc9458082223f5147ab/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "124dea00-989a-5ec8-9369-ab09921e27d2",
+          "name": "Sainsbury's British or Irish 5% Fat Beef Mince (250g)",
+          "description": "N/A",
+          "price": "£3.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dad41050b5bd571e6bc061a14556745c/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1e5ebd29-fae4-5397-a13e-a3c8e1f6a422",
+          "name": "Sainsbury's Lamb Chops (340g)",
+          "description": "N/A",
+          "price": "£8.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 845,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/84ee473307a051b97022f83b56f3e048/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b15c0f82-2d39-5a78-8bbf-d15b9fa7b978",
+          "name": "Sainsbury's British Chicken Legs (1kg)",
+          "description": "N/A",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/49ad6035d9ff3c6669c231c35c4ede50/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Crisps and Snacks",
+      "items": [
+        {
+          "id": "c29fb3ae-07f7-4b7a-a32f-e9c4d90eddb8",
+          "name": "Pom-Bear Original Potato Snacks (6 pack)",
+          "description": "N/A",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dfffb47f2cef84d409f01c2aceed3cdd/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3b538c9a-c09a-5759-b126-78ae2d1988f0",
+          "name": "Skips Prawn Cocktail, Light & Melty Crisps (6 x 78.6g)",
+          "description": "N/A",
+          "price": "£2.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 205,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c942865ff276219f90a8f7d72541f789/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a6e587af-2bb2-5219-97dd-475b6ea3bcdd",
+          "name": "Sainsbury's Stamford Street Co. Salted Peanuts (200g)",
+          "description": "N/A",
+          "price": "£0.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 80,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/84db29ed444f0a551b9cc9b5fe5ecd6f/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9e2a53af-937e-5eb8-8382-a9d8cc9cae39",
+          "name": "Butterkist Cinema Sweet Popcorn (100g)",
+          "description": "N/A",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5db7d95abdb89a5ab9cc82e9717ad50a/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6f096fbd-2feb-5d74-bf70-ca7fe94b6801",
+          "name": "Mr. Porky Original Scratchings (65g)",
+          "description": "N/A",
+          "price": "£1.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 160,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f99c54a9eb7221abb12de13393f3a86e/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "173d8721-6204-4dc8-9fb8-0d925623dfa7",
+          "name": "Fox's Fabulous Chocolatey Milk Chocolate Rounds (130g)",
+          "description": "N/A",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c4cc28de6014b5db674cfa5a9677fb24/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4d153d1a-1697-5fe6-bb47-05ec34b1507d",
+          "name": "Sainsbury's Onion Rings (125g)",
+          "description": "N/A",
+          "price": "£1.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 170,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fdc3448d6080b9063875a171b97282ed/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1cf67aa0-b0bd-55f5-9828-96a4d2aea628",
+          "name": "Serious Pig Snacking Pickles (40g)",
+          "description": "N/A",
+          "price": "£1.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 165,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cd1d686aebdf9e4c1e11353486982e44/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1d735ccb-9244-5ac5-9a60-65629719f625",
+          "name": "PROPERCORN Sweet & Salty Popcorn (90g)",
+          "description": "N/A",
+          "price": "£2.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 210,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/59dc8d4e7a05c72e9aeb71a440c6ebc9/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "248238a2-ed66-5dc2-8793-d37b61804dd1",
+          "name": "Walkers Really Cheesy, Wotsits Giants Snacks (131.5g)",
+          "description": "N/A",
+          "price": "£2.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 285,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fce9d75a01fbd8806835604d39a3f261/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cab4fa84-8d18-585e-b6c6-0a7a42d2f612",
+          "name": "Doritos Chilli Heatwave, Corn Chips (180g)",
+          "description": "N/A",
+          "price": "£2.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 275,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dd5462a995d1d1d051d47ca560c0a8bc/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "56a3aa52-520b-5b54-9284-422f3c6637f6",
+          "name": "Sainsbury's Cheese-Onion, Crisps (6 pack)",
+          "description": "N/A",
+          "price": "£1.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 130,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/26c847360073908f6cfa7365b2d5e012/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7ce06c05-0568-552e-a02e-8b24a40c8ecf",
+          "name": "Midland Snacks Traditional Pork Scratchings (40g)",
+          "description": "N/A",
+          "price": "£2.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 205,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f17e8595dd04fa42e7a48e97f1c39d7b/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f46383bd-d5cc-5042-aab4-cacf8eefcb70",
+          "name": "Love Corn Smoked Bbq Delicious Crunchy Corn (45g)",
+          "description": "N/A",
+          "price": "£1.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 115,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4f016f3d76fcc5a5fac7ac4f9649b5f1/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0a0265ce-0d6e-5ec8-a606-88d81c377b39",
+          "name": "Doritos Cool Original, Corn Chips (180g)",
+          "description": "N/A",
+          "price": "£2.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 275,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/782704c833bc620bc7684fd175e39992/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

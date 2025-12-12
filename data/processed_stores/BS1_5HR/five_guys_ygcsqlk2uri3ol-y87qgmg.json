@@ -1,0 +1,511 @@
+{
+  "restaurant_id": "fiveguysburgersfriesshakesbristol-BS13BD-51",
+  "source_id": "6060aca8-b936-52b8-b73a-5f98f3b4069a",
+  "restaurant_url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-bristol/YGCsqLk2Uri3Ol-Y87QGmg",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:40:24.172Z",
+  "restaurant": {
+    "name": "Five Guys - Burgers, Fries & Shakes - Bristol",
+    "slug": "five-guys-burgers-fries-&-shakes-bristol",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+442070973920",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "U51a, Cabot Circus, Bristol, EMEA BS1 3BD",
+    "streetAddress": "U51a, Cabot Circus",
+    "addressCity": "bristol-eng",
+    "neighborhood": "st-james-bristol-eng",
+    "addressRegion": "EMEA",
+    "postalCode": "BS1 3BD",
+    "addressCountry": "GB",
+    "latitude": 51.4585342,
+    "longitude": -2.5846377,
+    "geohash": "gcnhtp",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 4.1,
+    "totalReviews": "2000+",
+    "workingHours": "Open until 3:15 AM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Burgers",
+      "Comfort Food",
+      "BBQ",
+      "Desserts",
+      "Sandwiches",
+      "Sandwich"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Every Day",
+      "hours": [
+        {
+          "open": "10:00",
+          "close": "22:45",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Burgers",
+      "items": [
+        {
+          "id": "d341792a-6985-59a4-8adb-456850b01ac2",
+          "name": "Hamburger",
+          "description": "Two fresh high-quality beef patties hot off the grill, on a soft, toasted bun.",
+          "price": "£11.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1115,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6f1619a522b6c89cad087d734241cc71/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b9c97deb-a070-56d1-bc41-7d080661cb79",
+          "name": "Cheeseburger",
+          "description": "Our regular two-patty burger with two slices of melted American cheese added.",
+          "price": "£12.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/37946aa8ef4eb5997e7282b2f8598a90/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d5f73ea6-6d9a-5544-922b-b82884f2e270",
+          "name": "Bacon Burger",
+          "description": "Our regular two-patty burger layered with two strips of crispy, sweet apple-wood smoked bacon.",
+          "price": "£13.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1335,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e96d4aeb37f639300d7b8d620e57b1a8/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "60fe10e7-b625-5fd6-bdb5-ef74672fb072",
+          "name": "Bacon Cheeseburger",
+          "description": "Two fresh high-quality beef patties, melted cheese with two strips of crispy, smoked bacon.",
+          "price": "£13.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1395,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/927543ac1ed12a32054feefe30b5a2a6/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "08af2872-2e1f-50e8-ae0e-c61f19e65c4e",
+          "name": "Little Hamburger",
+          "description": "One fresh high-quality patty hot off the grill, on a soft, toasted bun.",
+          "price": "£8.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 865,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7a57db6024cfc494a933adacade7f698/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "72be488a-68ec-5900-8d0f-db16b242b5f4",
+          "name": "Little Cheeseburger",
+          "description": "Our single patty burger with a slice of melted American cheese added.",
+          "price": "£10.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1045,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4cabdfedd0993ba98e744373a9564234/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "de21e398-a0d4-5275-aece-b28c244a2abe",
+          "name": "Little Bacon Burger",
+          "description": "Our single patty burger with two strips of crispy apple-wood smoked bacon.",
+          "price": "£10.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1085,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0578cc8dcc1c564b70b3403297fc782d/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8f45bdf0-32e5-5293-9418-929fdccec0aa",
+          "name": "Little Bacon Cheeseburger",
+          "description": "Our single patty burger with crispy, sweet apple-wood smoked bacon and a slice of melted American cheese.",
+          "price": "£11.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1165,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5cc3f79bc998ff18255af01735b2aa75/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Beef Dogs",
+      "items": [
+        {
+          "id": "fd487891-dee2-54fb-b595-c8ab3fcab415",
+          "name": "All Beef Hot Dog",
+          "description": "Our All-beef Hotdog, split and grilled lengthwise for a caramelised finish.",
+          "price": "£8.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 835,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6a04aef7a00d0c25b08b714f46b40d22/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d3845613-d509-569d-b0c6-a80c61fa78b6",
+          "name": "Cheese Dog",
+          "description": "Our All-beef Hotdog, topped with a slice of melted American cheese.",
+          "price": "£9.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 955,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5761477064c9f350fb100fc27fd49fd0/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6087a9f9-0110-591e-9828-e3a5f07cb039",
+          "name": "Bacon Dog",
+          "description": "Our All-beef Hotdog with a layer of crispy, sweet apple-wood smoked bacon.",
+          "price": "£9.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 995,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8039e786b74f09da0e0de0c6ed0bcbde/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9b960de1-7c06-5523-bee6-370ad13cae95",
+          "name": "Bacon Cheese Dog",
+          "description": "Our All–beef Hotdog with a layer of melted American cheese topped with crispy, sweet apple-wood smoked bacon.",
+          "price": "£10.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1065,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d40a4c480d537dbacd61b53ff3ff756d/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Sandwiches",
+      "items": [
+        {
+          "id": "cc87cab9-3140-524a-814f-efe8f3c8110e",
+          "name": "Veggie Sandwich",
+          "description": "Create your own Veggie Sandwich with any or all of our 15 free toppings.",
+          "price": "£6.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 605,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cc205caad7b6a5f5f2f210c57a0946a2/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ccdb236a-8987-5276-aebb-ab3690ead954",
+          "name": "Cheese Veggie Sandwich",
+          "description": "Create your own Veggie Sandwich with any or all of our 15 free toppings. Then add melted American cheese.",
+          "price": "£6.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 675,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ddc35c408f68a2598cea891b382d6a79/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b762a191-b18c-5206-b040-5ce7da37c208",
+          "name": "Grilled Cheese",
+          "description": "An American classic done the Five Guys way. American cheese melted on an inside-out bun, toasted with a thin layer of mayo until golden brown.",
+          "price": "£6.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 605,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/04d227a7b263427423679bc15a01a8ad/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b1bced3d-5322-5354-9f5a-8bfd0edba6fc",
+          "name": "BLT",
+          "description": "A pile of our crispy, sweet apple-wood smoked bacon with fresh-cut, full-flavoured tomato and cool, crunchy lettuce on a toasted bun.",
+          "price": "£7.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 725,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b0a0da552607f089b2a7ae374fbe5b2f/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Kids Meal",
+      "items": [
+        {
+          "id": "d4e66a3f-e84c-58dc-95f0-31c31d869108",
+          "name": "Kids Burger Meal",
+          "description": "A delicious Kids Meal featuring a juicy Little Hamburger (464 kcal), mini fries and Innocent Juicy Water!\nPlus a choice of 3 toppings.",
+          "price": "£8.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 850,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/02a17651a0f327ccbaca19da7ea60942/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e9a8f006-04a3-5592-94ca-31406e8dc971",
+          "name": "Kids Hot Dog Meal",
+          "description": "A delicious Kids Meal featuring our Beef Hot Dog (483 kcal) and mini fries and Innocent Juicy Water!\nPlus a choice of 3 toppings.",
+          "price": "£8.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 850,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/631c63c005ac2ee2973933a895585673/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c2de4d46-5004-5216-9392-6144b215abe0",
+          "name": "Kids Grilled Cheese Meal",
+          "description": "A delicious Kids Combo featuring our grilled cheese sandwich plus mini fries!\nPlus a choice of 3 toppings.",
+          "price": "£8.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 850,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/83f9a06b50bd58343e40f69f032f1672/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Fries",
+      "items": [
+        {
+          "id": "4460d7e4-5789-5179-bd90-72a38c06704c",
+          "name": "Little Five Guys Style",
+          "description": "Hot, fresh boardwalk-style fries. Cut fresh, cooked twice and salted. Our fries are cooked in pure, tasty peanut oil.",
+          "price": "£4.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 475,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/916d34500aca69df39d0fdaa3ef5775e/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3b7b0134-d904-5bb4-b3d8-9d0c1f04cdd1",
+          "name": "Regular Five Guys Style",
+          "description": "Hot, fresh boardwalk-style fries. Cut fresh, cooked twice and salted. Our fries are cooked in pure, tasty peanut oil.",
+          "price": "£6.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 615,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/887d8bba11b3649ca32cac732e4e7312/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c7e61255-1ad6-514a-b6bc-2db614b71402",
+          "name": "Large Five Guys Style",
+          "description": "Hot, fresh boardwalk-style fries. Cut fresh, cooked twice and salted. Our fries are cooked in pure, tasty peanut oil.",
+          "price": "£6.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 695,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fca50d72a2d1de9ffd66969c4ee2e13e/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8c9f78ce-7423-5e7c-9ea8-a36dd7b056f3",
+          "name": "Little Cajun Style",
+          "description": "Our Five Guys Fries with a heavy dose of Cajun spice added. Our fries are cooked in pure, tasty peanut oil.",
+          "price": "£4.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 475,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5f5a4ccc27afeb003c88b7073307ab42/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "eebf7736-d598-50aa-a3a4-94a9c0be4be8",
+          "name": "Regular Cajun Style",
+          "description": "Our Five Guys Fries with a heavy dose of Cajun spice added. Our fries are cooked in pure, tasty peanut oil.",
+          "price": "£6.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 615,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0537b6ed03d4529730bf90bfb668129d/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a1de73aa-b33b-575e-8a4a-507ed54a685c",
+          "name": "Large Cajun Style",
+          "description": "Our Five Guys Fries with a heavy dose of Cajun spice added. Our fries are cooked in pure, tasty peanut oil.",
+          "price": "£6.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 695,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4b8f44efa7df688ecebe6f623600b165/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Milkshakes",
+      "items": [
+        {
+          "id": "4002cbc4-c12e-53cb-9715-0a30e6c4e54d",
+          "name": "Five Guys Shake",
+          "description": "Make Your Shake with our 11 free flavours to mix in. There are thousands of combinations to try. Or try our limited edition Bubblegum shake!",
+          "price": "£6.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 655,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ea6d364ad1f7a0b2385f1e969e6ac222/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "bb411e9c-d146-5031-a096-2c6cd38834fa",
+          "name": "Little Shake",
+          "description": "Make your shake with 11 free flavours to mix-in. There are thousands of combinations to try.",
+          "price": "£4.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 455,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3b71e6bb2edbbbcb119b36ba99a8355c/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f8e78a8c-67bd-5796-81dc-98b1b4b6d6d3",
+          "name": "NEW: Bubblegum",
+          "description": "Add some nostalgia to your order.",
+          "price": "£6.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 655,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5768fc16b85e3a62a54f30b348878b63/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Drinks",
+      "items": [
+        {
+          "id": "9b9ea7fd-a8ca-585b-9c57-af255474bd99",
+          "name": "Coca-Cola Original Taste",
+          "description": "Coca-Cola Original Taste 500ml Bottle",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/369a7609cb92854d7002ca25ba4a9499/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d432d682-e5c1-597b-8308-633c4b762fab",
+          "name": "Diet Coke",
+          "description": "Diet Coke 500ml Bottle",
+          "price": "£2.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 285,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a7076462f5376653666179a7e59cc48e/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8df0d9c8-8a27-5ffb-a2b2-d2d9fd55e523",
+          "name": "Coca-Cola Zero Sugar",
+          "description": "Coca-Cola Zero Sugar 500ml Bottle",
+          "price": "£2.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 285,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f0a849ad22ea520aa5c914c1bde5dac7/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ac2ec64c-9967-5483-9754-6d8e405c506e",
+          "name": "Sprite",
+          "description": "Sprite 500ml Bottle",
+          "price": "£2.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 285,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c8fda9a1e312d10dfa301e4aa64bf896/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "54e2d195-5b39-56b9-a325-c50da354f4d5",
+          "name": "Fanta Orange",
+          "description": "Fanta Orange 500ml Bottle",
+          "price": "£2.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 285,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d51ac272bd627a52229bee7bbe4cd459/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "34261313-38be-5d5a-8673-a29370e910ca",
+          "name": "Dr Pepper",
+          "description": "Dr Pepper 500ml Bottle",
+          "price": "£2.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 285,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/77e25b713c795e6ec845cee4bdba95cb/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "18d4c17e-6e75-5cf8-995e-2de2d7496198",
+          "name": "Glaceau Smart Water",
+          "description": "Glaceau SmartWater 600ml Bottle",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1321a07f690308201c70b3f4f2fd99fa/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Beers",
+      "items": [
+        {
+          "id": "33e01365-fb06-5a94-8c0a-0b8cdef6b3c0",
+          "name": "Corona",
+          "description": "Beer",
+          "price": "£5.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 595,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6400092a837ed660f0545621e01d8c09/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "02313e0a-c8ad-598e-a448-c50467f89124",
+          "name": "Brooklyn Beer",
+          "description": "Beer",
+          "price": "£5.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 595,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a91cfa8a58f437e75ff3170b1fd3f69b/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0bbd5649-98bc-5e5d-ae5a-ffc16e1b58c4",
+          "name": "Budweiser",
+          "description": "Beer",
+          "price": "£5.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 595,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/98a69afc98f221086942648f5f6530cb/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

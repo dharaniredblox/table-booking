@@ -1,0 +1,452 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/breakfast-burrito-boys-bristol/fCG8Fa8eUyKyoTqBUZyHjg",
+  "name": "Breakfast Burrito Boys (Bristol)",
+  "servesCuisine": [
+    "Breakfast",
+    "Breakfast and Brunch",
+    "American",
+    "Sandwiches",
+    "New Mexican",
+    "Sandwich",
+    "Brunch",
+    "Mexican",
+    "Burritos"
+  ],
+  "priceRange": "₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/0f0318585270f5336092224fa321ce05/8b3912aeb4ddaf35be933b04d2d337ad.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/0f0318585270f5336092224fa321ce05/f8403c421bef668ad381b5e82e546060.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/0f0318585270f5336092224fa321ce05/7a19de2b442cf39b430becc5fea2ef06.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/0f0318585270f5336092224fa321ce05/a35eeeca6698a2d3899f60d36c88ed97.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/0f0318585270f5336092224fa321ce05/c4114ef7f0cc2f8ee04dbb216969493e.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/0f0318585270f5336092224fa321ce05/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/breakfast-burrito-boys-bristol/fCG8Fa8eUyKyoTqBUZyHjg?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet",
+      "http://purl.org/goodrelations/v1#DeliveryModePickUp"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "EMEA",
+    "postalCode": "BS1 5PF",
+    "addressCountry": "GB",
+    "streetAddress": "79 Park Street"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.4553354,
+    "longitude": -2.6036872
+  },
+  "telephone": "+441179857826",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 3.9,
+    "reviewCount": "350"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "7:15",
+      "closes": "16:30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "8:15",
+      "closes": "16:30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "7:15",
+      "closes": "17:30"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "name": "Build Your Own",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Build Your Own Breakfast Burrito",
+            "description": "(Piping hot breakfast items and sauces rolled up together in a soft tortilla).",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Build Your Own Veggie Breakfast Burrito",
+            "description": "(Piping hot breakfast items and sauces rolled up together in a soft tortilla).",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Barista-Made Coffees",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Latte",
+            "description": "Ground-to-order Lavazza espresso, and steamed milk with a touch of micro-foam - made by our barista trained staff.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cappuccino",
+            "description": "Ground-to-order Lavazza espresso, and micro-foamed milk (and a sprinkle of chocolate) - made by our barista trained staff.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Flat White",
+            "description": "Ground-to-order Lavazza espresso, and steamed milk - made by our barista trained staff.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mocha",
+            "description": "Ground-to-order Lavazza espresso, and Cadbury's Hot Chocolate (vegan) - topped with steamed milk with a dash of micro-foam - made by our barista trained staff.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hot Chocolate",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Americano",
+            "description": "Ground-to-order Lavazza espresso, and hot water - made by our barista trained staff.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chai Latte",
+            "description": "Drink me Chai Artisan Blend (Vegan) whisked with lightly micro-foamed steamed milk.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Latte",
+            "description": "Lavazza espresso over ice and milk - made by our trained baristas",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Crisps",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "\"Real\" Sea Salt",
+            "description": "Some swanky crisps.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "\"Real\" Sea Salt &amp; Malt Vinegar",
+            "description": "Some swanky crisps.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "\"Real\" Sweet Chilli",
+            "description": "Some swanky crisps.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "\"Real\" Strong Cheddar &amp; Onion",
+            "description": "Some swanky crisps.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sweet Treats",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Cookie Sandwich",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Chip Cookie",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Chocolate Cookie",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Triple Chocolate Cookie",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Red Velvet Cupcake",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Shortbread",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Soft Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Pepsi 330ml",
+            "description": "In a glass bottle",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Juice Burst Apple 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Juice Burst Orange 400ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lipton Ice Tea Lemon 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "San Pellegrino Lemon 330ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "San Pellegrino Orange 330ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "San Pellegrino Orange &amp; Pomegranate 330ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lipton Ice Tea Peach 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pepsi Max 330ml",
+            "description": "(In a glass bottle!).",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Radnor Hills Water 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Smoothies",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Blueberry Thrill Smoothie",
+            "description": "Blueberries, banana and raspberries blended with orange &amp; apple juice to order.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mango &amp; Pineapple Smoothie",
+            "description": "Made from real fruit and blended with orange &amp; apple juice to order.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Strawberry &amp; Banana Smoothie",
+            "description": "Whole strawberries and slices of banana blended with orange &amp; apple juice to order.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

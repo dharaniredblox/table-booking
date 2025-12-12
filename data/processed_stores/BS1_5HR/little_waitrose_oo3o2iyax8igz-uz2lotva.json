@@ -1,0 +1,908 @@
+{
+  "restaurant_id": "littlewaitroseclifton-BS81QS-51",
+  "source_id": "a0edced8-8c80-5fc8-8667-ebb3d8b39354",
+  "restaurant_url": "https://www.ubereats.com/store/little-waitrose-clifton/oO3O2IyAX8iGZ-uz2LOTVA",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:12:06.398Z",
+  "restaurant": {
+    "name": "Little Waitrose - Clifton",
+    "slug": "little-waitrose-clifton",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441179300434",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "85 Queens Road, Bristol, EMEA BS8 1QS",
+    "streetAddress": "85 Queens Road",
+    "addressCity": "bristol-eng",
+    "neighborhood": "clifton-bristol-eng",
+    "addressRegion": "EMEA",
+    "postalCode": "BS8 1QS",
+    "addressCountry": "GB",
+    "latitude": 51.4570144,
+    "longitude": -2.6082372,
+    "geohash": "gcnhsx",
+    "etaRange": "170–190 Min",
+    "ratingAvg": 4.6,
+    "totalReviews": "3000+",
+    "workingHours": "Open until 3:00 AM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Grocery",
+      "Alcohol",
+      "Everyday Essentials",
+      "Snacks",
+      "Convenience",
+      "Specialty Foods",
+      "Beauty Supply",
+      "Pet Supplies",
+      "Electronics",
+      "Personal Care",
+      "Pharmacy"
+    ],
+    "priceBucket": "₹₹₹"
+  },
+  "openingHours": [
+    {
+      "day": "Every Day",
+      "hours": [
+        {
+          "open": "07:00",
+          "close": "22:30",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Trending products",
+      "items": [
+        {
+          "id": "2efb7962-c0ab-50bc-8cb0-631ae1616ee6",
+          "name": "No.1 Waitrose & Partners Wheat & Rye Sourdough Bread (500g)",
+          "description": "N/A",
+          "price": "£2.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 270,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/681ff779d67294e724a313df6678de14/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "350ef85f-7c04-5043-a994-ee0aa2c6b4d9",
+          "name": "Waitrose & Partners Yellow Flesh Nectarines (450g)",
+          "description": "N/A",
+          "price": "£3.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 370,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a9bcd0cd12632ba101b3ea3ea571a419/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ed236833-ba4a-5592-8cb5-39c9c4e7ff38",
+          "name": "No.1 Waitrose & Partners Wood-Fired King Prawn, Garlic & Chilli Sourdough Pizza (464g)",
+          "description": "N/A",
+          "price": "£7.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 750,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5bb1962af6f7d38fd6c6853ac9efb394/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "eb6116a6-714b-5875-bc1e-5e70f6a144fc",
+          "name": "Terre di Faiano Nero D'avola Organic Wine (750ml)",
+          "description": "N/A",
+          "price": "£13.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1320,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/391eb6d7fc9212cfbe7337429a2262e0/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "363b72fe-90ef-5575-8e20-097c07e555d5",
+          "name": "Essential Waitrose & Partners British Diced Chicken Breast (418g)",
+          "description": "N/A",
+          "price": "£5.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 595,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1b3771f93af964902cbdc35cb8e4a218/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "45e03b93-0ae1-5a85-af45-931d829ad357",
+          "name": "Waitrose Large Tortilla Wraps (8s)",
+          "description": "N/A",
+          "price": "£1.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 185,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/db799a833d2343607ab90994ef763060/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "dfc164d4-d460-576a-bc77-e1775561c461",
+          "name": "Waitrose & Partners Frozen Chunky Breaded Cod Fish Fingers (400g)",
+          "description": "N/A",
+          "price": "£4.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 480,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/52dc6b45a8132a2d43774b971bdb7c35/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "eb1020a4-20a2-5205-8a4b-fee746b25c31",
+          "name": "Waitrose & Partners Cooks' Ingredients Smoked Paprika (40g)",
+          "description": "N/A",
+          "price": "£2.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 205,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/be353549b7b92b0f1272f225692fa290/957777de4e8d7439bef56daddbfae227.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bd855c1e-400d-5554-aa43-b775ed0fdde6",
+          "name": "Essential Waitrose & Partners Roasted & Salted Cashew Nuts (200g)",
+          "description": "N/A",
+          "price": "£3.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 360,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/01f98a36409842631cbba71d099927a3/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b54a4663-1b65-5ac1-8d57-830aa8df35f9",
+          "name": "Waitrose & Partners Farfalle Pasta (500g)",
+          "description": "N/A",
+          "price": "£2.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 230,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9dce9346870d207ea8a6e720cb661240/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9af0d7de-0161-56cc-98d8-0b4c58a553bd",
+          "name": "Waitrose & Partners & Partners Spaghetti Bolognese",
+          "description": "N/A",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d382bb34537ecf1540ec6b1ada136c15/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a842ebd7-1080-5e32-9138-23186fdae3d4",
+          "name": "Essential Waitrose & Partners Sparkling Natural Mineral Water (2L)",
+          "description": "N/A",
+          "price": "£1.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 120,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d7459e7a2915b065211dd6c099ce5133/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d1af6cc1-0dee-5cff-a49b-62d59720e674",
+          "name": "Essential Waitrose & Partners Pedal Bin Liners Tie Handles (30 pack)",
+          "description": "N/A",
+          "price": "£2.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 280,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/31c1c842e86249af98b817b1a42fe3d7/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1546186c-a04d-550c-a0e3-a323badb324b",
+          "name": "Waitrose & Partners All Butter Cheddar Cheese Twists (125g)",
+          "description": "N/A",
+          "price": "£2.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 215,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c6071b5bb64477ac7bdd853779820efb/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "418e61ef-4ce1-564a-8fd5-6c6bfdd5dc88",
+          "name": "Waitrose & Partners Mango & Passionfruit Smoothie (750ml)",
+          "description": "N/A",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3a255d2f3a637ea78353913c75a8bb09/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Fruit and Veg",
+      "items": [
+        {
+          "id": "07bf9e4e-6ee7-54ce-b106-36cca9d4ae62",
+          "name": "Essential Waitrose & Partners Fairtrade Bananas (5 pack)",
+          "description": "N/A",
+          "price": "£1.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 120,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2b75c8972231396c2c9b28d3b08291a7/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3d0cc0ab-6c5b-59af-8c63-37fcec30929b",
+          "name": "Waitrose & Partners Whole Cucumber (403.69g)",
+          "description": "N/A",
+          "price": "£1.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 115,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7934acadea8e0c29013dc1856f15bd3b/0e5313be7a8831b8ed60f8dab3c2df10.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "618cec33-afe4-5f9d-b928-dd5bc6794520",
+          "name": "Waitrose & Partners Small, Fairtrade Bananas",
+          "description": "N/A",
+          "price": "£1.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 150,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a1ecbeb482c919826de708d02efb47ec/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5963f535-080a-51f9-8350-b27452e14b08",
+          "name": "Waitrose & Partners Essential Aubergines",
+          "description": "N/A",
+          "price": "£1.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 120,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/326fd54fd271cd01c6fc336473feabac/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "15a2cb5b-821d-52fb-9692-59595ca3d926",
+          "name": "Waitrose & Partners Duchy Organic Fairtrade Bananas (6 pack)",
+          "description": "N/A",
+          "price": "£2.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 235,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ce9ed7c6559a43fab3dcfaf40be3b9bd/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "db395ef5-168b-5ccc-81f5-a29159623b23",
+          "name": "Waitrose & Partners Perfectly Ripe Avocados",
+          "description": "N/A",
+          "price": "£2.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 230,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/68d5056f66b3957b96019a39d65df088/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "233f0611-4e19-537a-9289-050876868f49",
+          "name": "Waitrose & Partners Cooks' Ingredients Garlic",
+          "description": "N/A",
+          "price": "£0.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 65,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/97570ed90fe2625d4710b347f001bd91/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7f415ed7-c4d0-5afb-9c53-67e16476fd01",
+          "name": "Essential Pepper (Each)",
+          "description": "N/A",
+          "price": "£0.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 90,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/82c314f6968d5897ffc8e3848beec1d2/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1a52c05b-a33e-594c-90ce-3cfc6d83ca92",
+          "name": "Essential Waitrose & Partners Baby Potatoes (1kg)",
+          "description": "N/A",
+          "price": "£1.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 150,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/60583e5107640bffd4629c4f9a08a735/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "55d545bc-9e79-5356-8cd2-2931b9068d49",
+          "name": "Waitrose & Partners Green Seedless Grapes (500g)",
+          "description": "N/A",
+          "price": "£3.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 300,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/08afdc6438700cff13fdaad0ae1dd05a/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c2c30c53-fb6d-5254-ba90-19c8bdd58ec2",
+          "name": "Essential Waitrose & Partners Little Gem Lettuce (2 pack)",
+          "description": "N/A",
+          "price": "£1.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 110,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d6f9fe980befd2e02c3e9ca6623b26a6/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0c8da39d-a771-53da-b265-4456da990620",
+          "name": "Essential Waitrose & Partners Sweetcorn (2 pack)",
+          "description": "N/A",
+          "price": "£1.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 175,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8c2f5871f1654122bab02b1e8a8b61c1/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8af04785-1ff8-57df-bf11-0a2851a60019",
+          "name": "Essential Waitrose & Partners Easy Peelers Sweet Mandarins (600g)",
+          "description": "N/A",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fde4c593b6561b47c31067f12e6760e6/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ea64c7a8-94df-5600-a2cf-d4c3cb1d81fd",
+          "name": "Waitrose & Partners Red Onions",
+          "description": "N/A",
+          "price": "£1.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 145,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/587bf5d67d869917596725184e1f1aad/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d7c9295c-fe3f-5683-9e55-462be9262534",
+          "name": "Waitrose & Partners Seedless Easy Peelers",
+          "description": "N/A",
+          "price": "£3.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 305,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/136c5851cc1ec63bdcc2f91bc60a182e/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Bakery",
+      "items": [
+        {
+          "id": "8d49c014-ddad-5a8e-93e4-611780f3c524",
+          "name": "Waitrose & Partners Soft White Toastie Bread (800g)",
+          "description": "N/A",
+          "price": "£1.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 120,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5e7d2e866f2a18cd6acf07dfdc860bec/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "58f719e3-0ad6-5f2e-9faa-08cafc703193",
+          "name": "Pågen Gifflar Cinnamon Rolls (12 pack)",
+          "description": "N/A",
+          "price": "£2.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 280,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/411045d6392eadf4b4a5e55b24c85454/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "864263a4-981e-5edc-a2d0-8245c63dafcb",
+          "name": "New York Bakery Co. The Original Authentic New York Style Bagels (5 pack)",
+          "description": "N/A",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b1a517459716cf7bf9c0916abd086ed0/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "55c73f1d-387d-5b41-a694-9c103f0fe864",
+          "name": "Waitrose & Partners All Butter Croissants (4 pack)",
+          "description": "N/A",
+          "price": "£3.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 300,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6401ddda7f920925f425fd75f924b3e4/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4b76364c-b5a8-5319-ab9b-95098e867c00",
+          "name": "New York Bakery Co. Sesame, Bagels (5 pack)",
+          "description": "N/A",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/abfd31a17f1d1aa8389edb1d68fb65dd/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8340466e-8af5-5925-88f0-8dd4930eb39c",
+          "name": "Waitrose & Partners Almond Croissants (2 pack)",
+          "description": "N/A",
+          "price": "£3.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 300,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b3627fdf960d9b166e39df7816ee178c/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "45e03b93-0ae1-5a85-af45-931d829ad357",
+          "name": "Waitrose Large Tortilla Wraps (8s)",
+          "description": "N/A",
+          "price": "£1.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 185,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/db799a833d2343607ab90994ef763060/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "023751c4-e660-5898-bceb-081a04b9350f",
+          "name": "Jason's The Great White Straight Up Sourdough (450g)",
+          "description": "N/A",
+          "price": "£2.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 270,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/38e5c2a6811670b67e5567949f011993/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3bada88a-255b-557a-9f9e-91d7e95379e5",
+          "name": "Wafflemeister Toasting Waffle (8 pack)",
+          "description": "N/A",
+          "price": "£2.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 235,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/708e0e13a879d9cd69f3ed56f6dbadb3/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "64d31b3f-6dce-59cb-a66a-b860dac13ca5",
+          "name": "Waitrose & Partners Half Ciabattas (2 pack)",
+          "description": "N/A",
+          "price": "£2.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 280,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d8531f24ae0ba23643f0e481722312df/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f70ed02b-4a68-5bce-907d-c62d995438c6",
+          "name": "Jasons Everyday White Rolls With Sourdough (320g)",
+          "description": "N/A",
+          "price": "£2.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 210,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3c20b9d4c10ac078c6b2fa6a99c772d9/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0908a90f-cc8f-5806-8953-b7c09c5d1f70",
+          "name": "Waitrose & Partners Super Soft White Medium Sliced (800g)",
+          "description": "N/A",
+          "price": "£1.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 120,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7dcadad95e7ccb20c2ac21dcadb701d5/957777de4e8d7439bef56daddbfae227.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2fb1c7c5-f5be-55b9-b465-379a7772e001",
+          "name": "Waitrose & Partners Buttermilk Pancakes (4 pack)",
+          "description": "N/A",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3bc905cddae1ab1139b747eded5940a7/2ecda260bcb4a75235533df4a61ef085.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "65e1f11a-86b7-5875-90d4-6ccbd276d46a",
+          "name": "Essential Waitrose & Partners White Floured Baps (6 pack)",
+          "description": "N/A",
+          "price": "£1.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 120,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/86e9d48324c1807163ceebbc8584ccee/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "78f96882-a9a0-5572-9f0c-bd0b6ca53810",
+          "name": "Waitrose & Partners Cinnamon Buns (2 pack)",
+          "description": "N/A",
+          "price": "£3.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 300,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e3d6b6702afbc42dacc6d8eb4a2807a7/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Best sellers",
+      "items": [
+        {
+          "id": "3a69e01b-dd71-50cc-b06b-0f4ed0ce7506",
+          "name": "Essential Waitrose & Partners Free Range White Eggs (6 pack)",
+          "description": "N/A",
+          "price": "£1.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 175,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/95cd9207c4ac3d3353b8352a84973910/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "233f0611-4e19-537a-9289-050876868f49",
+          "name": "Waitrose & Partners Cooks' Ingredients Garlic",
+          "description": "N/A",
+          "price": "£0.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 65,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/97570ed90fe2625d4710b347f001bd91/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "344a49f0-dc38-586c-90af-054045e3ca8d",
+          "name": "Essential Waitrose & Partners 120x99 mm, White, Ultra Soft Bathroom Tissue Rolls (4 pack)",
+          "description": "N/A",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/00ad7fc77091452f96df7c44e8b41d3e/2ecda260bcb4a75235533df4a61ef085.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bd9c063d-52fb-55a8-8553-824f91e5eaba",
+          "name": "Waitrose & Partners Salad Onions Bunch",
+          "description": "N/A",
+          "price": "£0.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 95,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5b494bbff0fe94186afc389df3becada/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2313abb0-3f45-5ac3-b181-0692f1d61ff2",
+          "name": "Essential Waitrose & Partners British Free Range Semi Skimmed Milk (2pint)",
+          "description": "N/A",
+          "price": "£1.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 150,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/57c20663ba653272c4689c809c64c297/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1b49e0b0-8341-5289-b032-c104ec5a1039",
+          "name": "Waitrose & Partners Pink Lady Apples (4 pack)",
+          "description": "N/A",
+          "price": "£3.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 340,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/feb5ff28c9e8ef8807e6f8332ea7182c/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "07bf9e4e-6ee7-54ce-b106-36cca9d4ae62",
+          "name": "Essential Waitrose & Partners Fairtrade Bananas (5 pack)",
+          "description": "N/A",
+          "price": "£1.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 120,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2b75c8972231396c2c9b28d3b08291a7/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3d0cc0ab-6c5b-59af-8c63-37fcec30929b",
+          "name": "Waitrose & Partners Whole Cucumber (403.69g)",
+          "description": "N/A",
+          "price": "£1.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 115,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7934acadea8e0c29013dc1856f15bd3b/0e5313be7a8831b8ed60f8dab3c2df10.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "db395ef5-168b-5ccc-81f5-a29159623b23",
+          "name": "Waitrose & Partners Perfectly Ripe Avocados",
+          "description": "N/A",
+          "price": "£2.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 230,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/68d5056f66b3957b96019a39d65df088/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6567185f-4c5a-524a-b5f8-444585a8635f",
+          "name": "Essential Waitrose & Partners Scottish Natural Mineral Water Still (4 x 2L)",
+          "description": "N/A",
+          "price": "£2.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 240,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e2f3ec59fcdcf98f0bd1e74431a9e60a/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0c8da39d-a771-53da-b265-4456da990620",
+          "name": "Essential Waitrose & Partners Sweetcorn (2 pack)",
+          "description": "N/A",
+          "price": "£1.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 175,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8c2f5871f1654122bab02b1e8a8b61c1/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "66f60844-fcd3-5cd6-9eaf-9b172bfa45fc",
+          "name": "Essential Waitrose & Partners Higher Welfare British Chicken Breast Fillets (600g)",
+          "description": "N/A",
+          "price": "£6.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 630,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dee3636d2a4e0ea317165b204978585b/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8e4ee4c9-457e-55a9-85e6-cc80ecc1291b",
+          "name": "Essential Waitrose & Partners Mature British Cheddar Cheese (350g)",
+          "description": "N/A",
+          "price": "£3.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 330,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/db832a6404241f31afa12fee552cfb57/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8d49c014-ddad-5a8e-93e4-611780f3c524",
+          "name": "Waitrose & Partners Soft White Toastie Bread (800g)",
+          "description": "N/A",
+          "price": "£1.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 120,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5e7d2e866f2a18cd6acf07dfdc860bec/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "488c4247-8e76-5b37-a960-3a165110427c",
+          "name": "Waitrose & Partners Cooks' Ingredients Flat Leaf Parsley",
+          "description": "N/A",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/39c8fd6cf84ebf40d224e7e728a13644/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Dairy",
+      "items": [
+        {
+          "id": "8a92108b-4d18-5e7c-b646-295833c7feb5",
+          "name": "Essential Waitrose & Partners 30% Reduced Fat Italian Mozzarella (235g)",
+          "description": "N/A",
+          "price": "£1.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 130,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6fb4a91304485a6aaab9881fb73a320a/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a3823c35-1743-5747-b359-1a9aa5873182",
+          "name": "No.1 Waitrose & Partners Natural Strained Greek Yogurt (500g)",
+          "description": "N/A",
+          "price": "£2.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 290,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fa8c9268ddfb7d5a40755667418a6974/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "55b4e5f4-afff-5e55-b5ca-7749d692adca",
+          "name": "Waitrose & Partners Large, Free Range Eggs (6 pack)",
+          "description": "N/A",
+          "price": "£2.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 280,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e6a003d52a4149618b82cfcaa733ce5c/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3491b1cb-75c1-5a2d-9712-9d6373636e2f",
+          "name": "Philadelphia Original Soft Cheese (280g)",
+          "description": "N/A",
+          "price": "£4.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 410,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/eed6989ffcef9deec7145b22b6ccbf95/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "180e8e61-05b6-5471-9ead-7d704f75ccf4",
+          "name": "FAGE Natural Fat Free Greek Recipe Strained Yogurt (150g)",
+          "description": "N/A",
+          "price": "£1.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 190,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/36a9d79cba157c90ae4c58e318d04640/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8e4ee4c9-457e-55a9-85e6-cc80ecc1291b",
+          "name": "Essential Waitrose & Partners Mature British Cheddar Cheese (350g)",
+          "description": "N/A",
+          "price": "£3.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 330,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/db832a6404241f31afa12fee552cfb57/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3a69e01b-dd71-50cc-b06b-0f4ed0ce7506",
+          "name": "Essential Waitrose & Partners Free Range White Eggs (6 pack)",
+          "description": "N/A",
+          "price": "£1.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 175,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/95cd9207c4ac3d3353b8352a84973910/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2313abb0-3f45-5ac3-b181-0692f1d61ff2",
+          "name": "Essential Waitrose & Partners British Free Range Semi Skimmed Milk (2pint)",
+          "description": "N/A",
+          "price": "£1.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 150,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/57c20663ba653272c4689c809c64c297/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "acd912e0-d83c-5f32-ac3d-6069d6a63007",
+          "name": "FAGE Total Greek Recipe Strained Yoghurt (450g)",
+          "description": "N/A",
+          "price": "£4.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 445,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4c5cbf94dfb593fd0e50de98cf77a53f/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6de61ad4-1d2a-5a96-b50c-99751d443eb5",
+          "name": "Essential Waitrose & Partners British Free Range Semi Skimmed Milk (2.27L)",
+          "description": "N/A",
+          "price": "£2.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 205,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f141b97d143427289758fe9053cf66bf/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3eedbd7e-ef25-5f89-8354-720f1e58c1a4",
+          "name": "Essential Waitrose & Partners Grated British Cheddar Cheese (250g)",
+          "description": "N/A",
+          "price": "£3.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 335,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4639187f2a432ceaaf54c60595e58fd1/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "025d5f77-2280-5b40-b2d3-65883be9276c",
+          "name": "Activia Strawberry, Gut Health Yogurt (4 x 115g)",
+          "description": "N/A",
+          "price": "£3.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 320,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6d36c9bbd319935f11233c285b7310e0/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4fd9e667-6695-5b86-ac1c-d1e22517ccad",
+          "name": "Essential Waitrose & Partners British Free Range Whole Milk (1.13ml)",
+          "description": "N/A",
+          "price": "£1.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 150,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2066c95f02c71bb298cab78df9e52427/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "83944050-3c11-5c14-a808-cea26c1fe188",
+          "name": "Waitrose & Partners Grated Mozzarella (250g)",
+          "description": "N/A",
+          "price": "£3.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 335,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/16715238ce53a0731fa77d1a1b7b1513/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "44858c4f-8cc7-5d85-aa69-cfe577d2745c",
+          "name": "FAGE Total 5% Fat Natural Greek Recipe Strained Yoghurt (450g)",
+          "description": "N/A",
+          "price": "£4.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 445,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f9e2acbb733b7fd199ee61121e239f7e/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

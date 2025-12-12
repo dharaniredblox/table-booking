@@ -1,0 +1,545 @@
+{
+  "source": "UberEats",
+  "postalCode": "BT1_5GS",
+  "timestamp": "2025-09-15T09:57:14.344Z",
+  "count": 71,
+  "data": [
+    {
+      "name": "Sainsbury's Supermarket",
+      "rating": "4.1",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-supermarket-west-belfast/53QDIz5fXDOT17FQghpUYQ"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.5",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-shankill/-FeUNGlyV_2tG98v2QpfQw"
+    },
+    {
+      "name": "Peppercorn Cafe",
+      "rating": "4.4",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/peppercorn-cafe/KBTuBwHCTfWkSad6Bs4RJw"
+    },
+    {
+      "name": "Lava  House",
+      "rating": "4.6",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/lava-house/T7ASFEFHRiKIY7GLHGcx-g"
+    },
+    {
+      "name": "Black Sheep Coffee",
+      "rating": "4.3",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/black-sheep-coffee-chichester-st/ZJZz-dHrXjKMkaj2rgCaqg"
+    },
+    {
+      "name": "KFC Belfast",
+      "rating": "4.0",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-belfast-donegall-place/lFJQOgAFTY-s4839m6d6cA"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.4",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-shankill-road/MbTxfjQ9UZOAH_CRVyLOBA"
+    },
+    {
+      "name": "Seed",
+      "rating": "3.3",
+      "reviewCount": "73",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/seed-city-centre/s9x7Xvk-WliJJ14xqvRXNw"
+    },
+    {
+      "name": "Bob and Berts",
+      "rating": "4.2",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bob-and-berts-stranmillis/upFvDa7fTXKsXdgpjo1eUA"
+    },
+    {
+      "name": "Doorsteps",
+      "rating": "4.3",
+      "reviewCount": "350+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/doorsteps/m3oOuIoGQeiP6vicYxpC1Q"
+    },
+    {
+      "name": "Mackles Ice Cream",
+      "rating": "4.5",
+      "reviewCount": "350+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/mackles-ice-cream-belfast/GNIJaREzVveiXxp3Rtjapw"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.2",
+      "reviewCount": "31",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/caffe-nero-belfast-fount/AdcS8mhgStGP6M8D941UOQ"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "3.6",
+      "reviewCount": "59",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/pret-a-manger-donegall-square/FJgO4V7HUq-dbsBgfryGGw"
+    },
+    {
+      "name": "Slim Chickens",
+      "rating": "3.5",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/slim-chickens-victoria-sq-belfast/pVdzQ9daXtqQACyzr_EjYA"
+    },
+    {
+      "name": "Starbucks",
+      "rating": "4.3",
+      "reviewCount": "42",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-moneda-house/bojmoJBkWnW7LoblICo2zQ"
+    },
+    {
+      "name": "First Avenue Coffee Co",
+      "rating": "3.3",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/first-avenue-coffee-co-ormeau/OmqJ2_DAWKS2JlZnHtFbZA"
+    },
+    {
+      "name": "Tesco Cafe",
+      "rating": "3.4",
+      "reviewCount": "60",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tesco-cafe-yorkgate-centre-ni/exutWSR9WUyNiAM9Xlccqg"
+    },
+    {
+      "name": "Chubby Cherub Deli",
+      "rating": "4.1",
+      "reviewCount": "32",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chubby-cherub-deli/Gqs6FhfkUByN_0iqeE79-g"
+    },
+    {
+      "name": "Auntie Anne's",
+      "rating": "4.7",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/auntie-annes-belfast/AuTGJ8FmToaYWimnvXPALQ"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.7",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-belfast-donegal-place/hugRi-_3VweT8Vzgp54b5w"
+    },
+    {
+      "name": "Stacks",
+      "rating": "3.7",
+      "reviewCount": "430+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/stacks-burgers-belfast-victoria-square/QeL4MdgmSD6xc8BFQTc2CQ"
+    },
+    {
+      "name": "Simply Fish & Chips",
+      "rating": "4.1",
+      "reviewCount": "470+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/simply-fish-%26-chips/KwLzbDdiSjmaW2JQ6Gvyiw"
+    },
+    {
+      "name": "Woodvale Wines",
+      "rating": "4.7",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/woodvale-wines-belfast/isKKelrgV4SuqDVOWQQJwQ"
+    },
+    {
+      "name": "Bird Box",
+      "rating": "3.8",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/bird-box-belfast-victoria-square/CyrTni8SSHWxJk5L6G6hkw"
+    },
+    {
+      "name": "Frankie & Benny's",
+      "rating": "4.1",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/frankie-%26-bennys-belfast-victoria-square/MYiOwQHAQgq1ki1LYs5L-g"
+    },
+    {
+      "name": "The Chip Co",
+      "rating": "4.0",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-chip-co/VZUEBhtrQ2ig1YwbiwdUew"
+    },
+    {
+      "name": "Greggs",
+      "rating": "4.2",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-belfast-great-victoria-st/1olFTqEUWZSuKOSOsvshtg"
+    },
+    {
+      "name": "Tim Hortons",
+      "rating": "3.9",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tim-hortons-belfast-fountain-street/CJdvcNVSSyGH1JfHOpKEtA"
+    },
+    {
+      "name": "Subway",
+      "rating": "4.1",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/subway-fountain-street/YrDGaXwWSs2Ma4BQcrJ20g"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "4.0",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/popeyes-belfast/NOF_IqRKUKa2HKIkdbsY4A"
+    },
+    {
+      "name": "Zizzi",
+      "rating": "4.0",
+      "reviewCount": "390+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/zizzi-belfast/MHGmr1xbS3qrMI2sK-pceQ"
+    },
+    {
+      "name": "Eatao Castlecourt",
+      "rating": "4.3",
+      "reviewCount": "240+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/eatao-castlecourt/RRwBLl9dXIiRLx9n5PnwWA"
+    },
+    {
+      "name": "Ruchi",
+      "rating": "4.2",
+      "reviewCount": "43",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ruchi/VXkYX22JQYeXnJAT1Pcc8w"
+    },
+    {
+      "name": "Chick N Lick N",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chick-n-lick-n-dublin-road/MswNQvSuTG2wjmVJfUHWUA"
+    },
+    {
+      "name": "Domino's Pizza",
+      "rating": "3.5",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dominos-pizza-belfast-south/cdinMjPzW6yf2uxV6Ssi0w"
+    },
+    {
+      "name": "Pizza Crew",
+      "rating": "4.6",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pizza-crew-antrim-road/3KnYLEq9U-uthLcLTofB-w"
+    },
+    {
+      "name": "McDonald's®",
+      "rating": "3.6",
+      "reviewCount": "6,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mcdonalds-donegall-place/ig3clhFnSUi6HtdHbAouYw"
+    },
+    {
+      "name": "Kebabs Express",
+      "rating": "2.8",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kebabs-express/6rzWo73NQiOTxRT-XWUsGw"
+    },
+    {
+      "name": "Oishi Sushi Boutique",
+      "rating": "4.7",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/oishi-sushi-boutique/8SPfD5xcVyS6B5UcmxDgQA"
+    },
+    {
+      "name": "Mr Chow's",
+      "rating": "2.9",
+      "reviewCount": "76",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mr-chows/n-6N8xKBVCqZg2DrE3gXAQ"
+    },
+    {
+      "name": "OH MY COD",
+      "rating": "4.2",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/oh-my-cod/nJuKKioLVUGR4Ftlx8BOlw"
+    },
+    {
+      "name": "Bankquet",
+      "rating": "3.4",
+      "reviewCount": "68",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bankquet/yKil5NCOXeC2Daha15HHyg"
+    },
+    {
+      "name": "MB Chicken",
+      "rating": "4.3",
+      "reviewCount": "370+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/mb-chicken-belfast/odXGiB03WBGYHKX042iDdQ"
+    },
+    {
+      "name": "Boojum",
+      "rating": "4.3",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/boojum-great-victoria/3KBWnOyxTEy6bj2seYX_qg"
+    },
+    {
+      "name": "Cake Box",
+      "rating": "4.4",
+      "reviewCount": "25",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cake-box-lisburn-road/vIikJQu5WO2DLVEgm4K9mQ"
+    },
+    {
+      "name": "BaoBun",
+      "rating": "4.3",
+      "reviewCount": "360+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/baobun-botanic/tj7STCN1Wje05bYvzs6FVw"
+    },
+    {
+      "name": "Absolutely Chicken",
+      "rating": "4.5",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/absolutely-chicken/IPNriTCxVJ2WkmlE6YUZXg"
+    },
+    {
+      "name": "Fireaway Pizza",
+      "rating": "3.8",
+      "reviewCount": "370+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/fireaway-pizza-lisburn-road/Nw-QzVZnVp69_qEK7I5q4g"
+    },
+    {
+      "name": "Love Pizza",
+      "rating": "4.0",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/love-pizza-ormeau-rd/0qi50CJtQn-1gi6dIzzgQQ"
+    },
+    {
+      "name": "Pizza Hut Delivery",
+      "rating": "3.7",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pizza-hut-delivery-ormeau-road/zN6ctrXvSz2Lno8JZkbzcQ"
+    },
+    {
+      "name": "Pepe's Piri Piri",
+      "rating": "4.4",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pepes-piri-piri-botanic-avenue-belfast/AiqSn-ZJXRKy_L67OGsaGw"
+    },
+    {
+      "name": "Poke Shack",
+      "rating": "4.6",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/poke-shack-belfast/1U4VQga2XCa0mw1NqPfR0w"
+    },
+    {
+      "name": "Kanto Asian Fusion",
+      "rating": "4.2",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kanto-asian-fusion/s3i-W3zhTmuIOQOGaIvx7Q"
+    },
+    {
+      "name": "Volcano Shawarma Ltd",
+      "rating": "3.4",
+      "reviewCount": "71",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/volcano-shawarma-ltd/-Vl87zvZQCyDNVqjok8rIg"
+    },
+    {
+      "name": "YO!",
+      "rating": "3.8",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yo!-belfast-victoria-square/tR18dAj5TQi50BFZusB-sQ"
+    },
+    {
+      "name": "Eco Fresh Salad Bar",
+      "rating": "4.6",
+      "reviewCount": "16",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/eco-fresh-salad-bar/WzUe1FoDUy2ajWSZuL6rrA"
+    },
+    {
+      "name": "Mama's Kitchen",
+      "rating": "4.6",
+      "reviewCount": "150+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mamas-kitchen/Z0GteYLUTueg5UyZbXBqbg"
+    },
+    {
+      "name": "Frango",
+      "rating": "4.4",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/frango/TNQwCZa1WICjOjokj5vzqQ"
+    },
+    {
+      "name": "Chopstix Noodle Bar",
+      "rating": "3.8",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chopstix-noodle-bar-donegall/X5ggH9IfQ9GwcPDaov8B1Q"
+    },
+    {
+      "name": "Bites Of India",
+      "rating": "4.2",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/bites-of-india/Tf0x_5vUTf2Wrck1l2vtVQ"
+    },
+    {
+      "name": "Hey Boba",
+      "rating": "4.8",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/hey-boba-botanic/NO2Gu29vT1CeJ0mEd8r5aA"
+    },
+    {
+      "name": "Pizza Punks",
+      "rating": "3.9",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/pizza-punks-belfast/lNdgnPjDV5a-zre94sK8Ow"
+    },
+    {
+      "name": "Chick'n Go Belfast",
+      "rating": "4.2",
+      "reviewCount": "22",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chickn-go-belfast/8Arlj_mSVTiOkLS75nDbLg"
+    },
+    {
+      "name": "Trap Kebabs",
+      "rating": "4.1",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/trap-kebabs/T6hcywXqSDea12u0rcYbnw"
+    },
+    {
+      "name": "Tortilla Burritos",
+      "rating": "4.5",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/tortilla-burritos-belfast/ZEFqIYAjWmG0ffA4vHJ1sQ"
+    },
+    {
+      "name": "The Pizza Co",
+      "rating": "4.1",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-pizza-co/a3cSopXVSsOOxSyp7SDEhA"
+    },
+    {
+      "name": "Newton Brunch Bar",
+      "rating": "4.6",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/newton-brunch-bar/o6F-Dr9hV7aPYv6NwHVXOA"
+    },
+    {
+      "name": "Cafe Melrose",
+      "rating": "4.4",
+      "reviewCount": "26",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-melrose/j2SMR6sLWIS6YwzHwfZbIA"
+    },
+    {
+      "name": "Grazia Pizza & Kebab House",
+      "rating": "3.7",
+      "reviewCount": "72",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/grazia-pizza-%26-kebab-house/j2-5C7hhRd2jeso61WM0Bg"
+    },
+    {
+      "name": "Centra Great Victoria Street",
+      "rating": "4.4",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/centra-great-victoria-street/MIRnKbsbS9SYSPlI8f9Q5Q"
+    },
+    {
+      "name": "Treat Street",
+      "rating": "4.4",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/treat-street/A3e6m9G6Q5mb2D-Z9fNeVQ"
+    }
+  ]
+}

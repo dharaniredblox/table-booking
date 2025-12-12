@@ -1,0 +1,970 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/jessies-cafe/h66cvDpLWDOCRtU9JUkWpA",
+  "name": "Jessie’s Cafe",
+  "servesCuisine": [
+    "Breakfast and Brunch",
+    "Sandwich",
+    "English",
+    "Wraps"
+  ],
+  "priceRange": "₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/e529bcc6dd3e4631e2a73778088ccd9a/bb3c0a72d9475b425c5ee9e6ea716d2f.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/e529bcc6dd3e4631e2a73778088ccd9a/1130cd428ee928d351d26efda1178b20.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/e529bcc6dd3e4631e2a73778088ccd9a/db9ac6e65b00f2558664e469940eca31.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/e529bcc6dd3e4631e2a73778088ccd9a/c86a2d4dc3dc568dc3ddf7b096104ac3.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/e529bcc6dd3e4631e2a73778088ccd9a/36251f0b543c447bdd4e9925b1861023.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/e529bcc6dd3e4631e2a73778088ccd9a/1da9a9e826d15157cea1c5bb8696f248.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/jessies-cafe/h66cvDpLWDOCRtU9JUkWpA?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "EMEA",
+    "postalCode": "BS4 2HQ",
+    "addressCountry": "GB",
+    "streetAddress": "249 Redcatch Rd"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.434571,
+    "longitude": -2.5781019
+  },
+  "telephone": "+441173292970",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.6,
+    "reviewCount": "500"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "7:45",
+      "closes": "13:30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "8:0",
+      "closes": "12:0"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "name": "Breakfast",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Large Breakfast",
+            "description": "2 bacons, 2 sausages, 2 eggs, mushrooms, black pudding, beans, tomatoes, fried potato or 2x hash browns and a slice of toast.\nWe don’t swap sorry",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wester Breakfast",
+            "description": "3 bacons, 3 sausages, 3 eggs, mushrooms, black pudding, beans, tomatoes, fried potato or 3 hash browns and a slice of toast.\nWe don’t swap sorry",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Medium Breakfast",
+            "description": "2 bacons, 2 sausages, 1 egg, beans or tomatoes, mushrooms or black pudding and a slice of toast.\n\nWe don’t swap sorry",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Small Breakfast",
+            "description": "1 bacon, 1 sausage, 1 egg, beans or tomatoes and a slice of toast.\n\nWe don’t swap sorry",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.90",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sandwiches",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Bacon &amp; Sausage Sandwich",
+            "description": "Have in a baguette or doorstep bread.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sausage &amp;  Egg Sandwich",
+            "description": "Have in a baguette or doorstep bread.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon, Sausage &amp; Egg Sandwich",
+            "description": "Have in a baguette or doorstep bread.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon &amp; Egg Sandwich",
+            "description": "Have in a baguette or doorstep bread.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Breakfast sandwich",
+            "description": "2 bacon,2  sausage, egg, and mushrooms served in a choice of bread or baguette",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon Sandwich",
+            "description": "Have in a baguette thin Bread or doorstep bread.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon &amp; Fried Potato or Hash Brown sandwich",
+            "description": "Crispy bacon with fried potatoe or hash browns served in your choice of thin cut bread, doorstep or baguette",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sausage Sandwich",
+            "description": "sausages  in your choice of baguette or doorstep bread.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon &amp; Mushroom Sandwich",
+            "description": "Have in a baguette or doorstep bread.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Egg &amp; Mushroom Sandwich",
+            "description": "Have in a baguette or doorstep bread.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Egg Sandwich",
+            "description": "Have in a baguette or doorstep bread.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "BLT",
+            "description": "Crisp bacon, fresh lettuce, and juicy tomato in your choice of baguette or doorstep bread, served with mayo.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon, egg &amp; mushroom sandwich",
+            "description": "3 baco, 1 egg &amp; mushrooms in a choice of bread or baguette",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.10",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cold Sandwiches",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Cheese Sandwich",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ham Sandwich",
+            "description": "Thinly sliced ham served on bread.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tuna Sandwich",
+            "description": "Fresh tuna served on bread.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.80",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Meals",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Bacon Cheeseburger &amp; Chips",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sausage, Egg &amp; Chips",
+            "description": "Classic combo of 2 sausage, 2 egg, and chips",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Burger &amp; Chips",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheeseburger &amp; Chips",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Beef Burger &amp; Chips",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon, Egg and Chips",
+            "description": "2 bacon, 2 eggs &amp;chips",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ham, Egg &amp; Chips",
+            "description": "Classic ham with two eggs and crispy chips",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Meals on Toasts",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Beans on toast",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Scrambled Egg on toast",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese on toast",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tomatoes",
+            "description": "Fresh tomatoes served on toast.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fried Eggs on toast",
+            "description": "Two fried eggs served on toasted",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Extras &amp; Sides",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Brown Bread Toast",
+            "description": "Comes in 4 oz tubs",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fried potato",
+            "description": "Crispy fried potato, perfect as a side or snack",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hash Brown",
+            "description": "Comes in 4 oz tubs",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sausage",
+            "description": "Comes in 4 oz tubs",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mushrooms",
+            "description": "Comes in 4 oz tubs",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Doorstep Toast",
+            "description": "Comes in 4 oz tubs",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Toast",
+            "description": "Comes in 4 oz tubs",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon",
+            "description": "Comes in 4 oz tubs",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Plum Tomatoes",
+            "description": "Comes in 4 oz tubs",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Egg",
+            "description": "Comes in 4 oz tubs",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Beans",
+            "description": "Comes in 4 oz tubs",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese",
+            "description": "Comes in 4 oz tubs",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chips",
+            "description": "Crispy chips, perfect as a side or a quick bite",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheesy chips",
+            "description": "Crisp chips smothered in melted cheese.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fried onions",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coleslaw",
+            "description": "Home made coleslaw",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bread &amp; butter",
+            "description": "Butter served with freshly baked bread.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Raw onion",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Half of portion of chips",
+            "description": "Crispy potato chips, perfect as a side or snack.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Omelettes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Cheese Omelette",
+            "description": "Comes with chips or salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese &amp; Ham Omelette",
+            "description": "Comes with chips or salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Special omelette",
+            "description": "Special omelette with ham, mushrooms, onions, tomatoes, bacon, and cheese. Served with chips or salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Plain Omelette",
+            "description": "Fluffy 3-egg omelette served with your choice of crispy chips or fresh salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese &amp; Onion Omelette",
+            "description": "Comes with chips or salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.20",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Jacket Potatoes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Cheese &amp; Beans Jacket Potato",
+            "description": "Butter-topped potato with cheese, beans &amp; choice of side salad",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tuna &amp; Cheese Jacket Potato",
+            "description": "Tuna and cheese-filled potato, with a choice of side salad",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese Jacket Potato",
+            "description": "Comes with butter and choice of  side salad",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese &amp; Bacon Jacket Potato",
+            "description": "Loaded with cheese and bacon, served with butter and choice of side salad",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.80",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Wraps",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Breakfast Wrap",
+            "description": "breakfast wrap with 2 sausage, 2 bacon, egg, and mushrooms for a delicious start to your day.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Wrap",
+            "description": "Tender chicken wrapped in a soft tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon &amp; Fried Potato wrap",
+            "description": "Crispy bacon and fried potato in a wrap.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "BBQ Chicken with Bacon Wrap",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Peri Peri Chicken Wrap",
+            "description": "Tender chicken wrapped in a zesty peri peri sauce.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.40",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Kids Menu",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Cheesy Chips",
+            "description": "Crunchy chips smothered in melted cheese.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sausage, Hash Brown, Beans &amp; Toast",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Sausage, Chips &amp; Beans",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Nuggets, Chips &amp; Beans",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Hot Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Tea",
+            "description": "With or without milk.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coffee",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Americano",
+            "description": "Rich and smooth espresso-style coffee.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cold Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Coca-Cola Original",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fanta Orange",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca-Cola Zero",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Diet Coke",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Rio Tropical",
+            "description": "Fruity and refreshing tropical drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Apple Juice (200 ml)",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fanta Fruit Twist",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fanta Lemon",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ribena Carton",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bottled Water",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fanta pineapple &amp; grapefruit",
+            "description": "Fruity blend of pineapple and grapefruit flavours.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,908 @@
+{
+  "restaurant_id": "gopuffgroceriesbristol-BS20RL-51",
+  "source_id": "8c287503-ad87-5aaa-a915-537af43c6722",
+  "restaurant_url": "https://www.ubereats.com/store/gopuff-groceries-bristol/jCh1A62HWqqpFVN69DxnIg",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:22:10.016Z",
+  "restaurant": {
+    "name": "Gopuff Groceries (Bristol)",
+    "slug": "gopuff-groceries-bristol",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441172338616",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "Unit 3 Barton Manor, Bristol, EMEA BS2 0RL",
+    "streetAddress": "Unit 3 Barton Manor",
+    "addressCity": "bristol-eng",
+    "neighborhood": "temple-bristol-eng",
+    "addressRegion": "EMEA",
+    "postalCode": "BS2 0RL",
+    "addressCountry": "GB",
+    "latitude": 51.45404136188362,
+    "longitude": -2.5768208434584086,
+    "geohash": "gcnhtq",
+    "etaRange": "170–190 Min",
+    "ratingAvg": 4.6,
+    "totalReviews": "3000+",
+    "workingHours": "Open 24 Hours",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Everyday Essentials",
+      "Snacks",
+      "Store",
+      "with",
+      "Convenience",
+      "Alcohol",
+      "Beauty Supply",
+      "Retail",
+      "Pet Supplies",
+      "Specialty",
+      "Electronics"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Every Day",
+      "hours": [
+        {
+          "open": "00:00",
+          "close": "23:59",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Best sellers",
+      "items": [
+        {
+          "id": "94a0b0cb-84db-5501-a99c-d6d80f1fc082",
+          "name": "Morrisons The Greengrocer's on Market Street Ripe & Ready Bananas (5 pack)",
+          "description": "N/A",
+          "price": "£1.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 115,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c68fce9ad9b043ca623a73a4369819e9/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c4ed5d54-63ba-5388-90c9-96dd63e9a73e",
+          "name": "Morrisons British Whole Milk (2.27L)",
+          "description": "N/A",
+          "price": "£1.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 190,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a75f5c10ef9f0bb04bbbd4c327c74fa6/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fe3b24f1-a1ca-58f1-9353-47d4cd26ce38",
+          "name": "Morrisons Classic White, Oh So Soft Toilet Tissue (4 pack)",
+          "description": "N/A",
+          "price": "£2.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 235,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8b5a167fa4bd3b399b8166915d9d662a/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "11cd5f6f-781a-55fe-b63d-982e5f0a6d81",
+          "name": "Stella Artois Lager, Belgium Premium Beer (4 x 568ml)",
+          "description": "N/A",
+          "price": "£8.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 890,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bbe0f2445b5e123d2cd86fdeb389917e/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9bbb881b-d17f-5373-85a2-4599ab590340",
+          "name": "Pepsi Max Cola, No Sugar Soft Drink (2L)",
+          "description": "N/A",
+          "price": "£2.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 255,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/76491538a9e11d928ac9fe6d82a8f7d4/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "49b71d62-a027-5c10-8a68-1c51fb411145",
+          "name": "Coca-Cola Original Taste Soft Drink (1.75L)",
+          "description": "N/A",
+          "price": "£4.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 400,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/afa8857b6be5cd9fb923bdf5948abfb6/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "99caf6ae-8b9d-5d67-a8a5-f2dc2e72e8dd",
+          "name": "Highland Spring Still Spring Water (6 x 1.5L)",
+          "description": "N/A",
+          "price": "£5.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 590,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f0ccb131fcb07aae6df385087e307d32/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b298d23f-4290-5835-999c-4085dd0672fe",
+          "name": "Ice Club Classic Ice Cubes (1.8kg)",
+          "description": "N/A",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7006cf3b4db0a8ad0f9fd4ca055e53a1/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4c162939-e8d9-51bf-8f52-04beb95d4657",
+          "name": "Cucumber, 1pcs",
+          "description": "N/A",
+          "price": "£1.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 115,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a4941e05cff70288b8090e35292fde04/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a5b8e4b6-e5e1-57ca-a064-40c46d11f2db",
+          "name": "Ben & Jerry's Vanilla, Cookie Dough Ice Cream (465ml)",
+          "description": "N/A",
+          "price": "£6.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 675,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a92858b5ab7932c8189b2100fa2bfbc0/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fd0ec085-85d8-5b1c-861c-f9844bd32d55",
+          "name": "Stella Artois Belgium Premium Lager Beer (10 x 440ml)",
+          "description": "N/A",
+          "price": "£16.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1690,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/89f1b1cd7d13241d07f89d5872164cd4/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6705420c-f07c-5628-b627-f792a15de1c1",
+          "name": "Morrisons Large, Free Range Eggs (12 pack)",
+          "description": "N/A",
+          "price": "£3.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 360,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0fb4491de103829a6536bb03dc06888b/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f3bba466-3df5-5041-b006-c64e4891f492",
+          "name": "BuzzBallz Strawberry, Rita Cocktails (200ml)",
+          "description": "N/A",
+          "price": "£5.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 500,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/83de07520667c6050eabebd19b0e6fa3/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e2571e12-24bc-5578-8632-c22887d632af",
+          "name": "Morrisons Chicken Breast Fillet (330g)",
+          "description": "N/A",
+          "price": "£3.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/277478384b164ca48b8f708db23ad112/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "97987105-4330-544f-8ce7-903581116e53",
+          "name": "Morrisons Red Grapes, 400g",
+          "description": "N/A",
+          "price": "£2.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 275,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b6d2a39173d45be74572fad3a686451c/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Fruit & Veg",
+      "items": [
+        {
+          "id": "a0845341-3b36-521e-8054-e5e531251224",
+          "name": "Organic Fairtrade Bananas, 800g",
+          "description": "N/A",
+          "price": "£3.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 370,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ef83b2cd6ddabae3dee1bdc1d19e7c7c/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "58e738a7-7be5-5333-bfd6-1551efd3966e",
+          "name": "Spring Onions, 1bunch",
+          "description": "N/A",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1cbe487b4b66c12601c6012d86b25d19/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a10d4076-fc32-5884-989c-396539a1e8ba",
+          "name": "Wholegood Garlic, 2pcs",
+          "description": "N/A",
+          "price": "£1.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 125,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b93cdca29de621be58cedd28ab7b1ff9/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1383a217-bc9c-5ab1-8564-c911e98fa911",
+          "name": "Wholegood Blueberries, 125g",
+          "description": "N/A",
+          "price": "£2.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 235,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/23f01c21538390df4499a2bc93caa423/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4c162939-e8d9-51bf-8f52-04beb95d4657",
+          "name": "Cucumber, 1pcs",
+          "description": "N/A",
+          "price": "£1.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 115,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a4941e05cff70288b8090e35292fde04/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5b40bfbc-5fc0-5e8e-9794-b1cf300b1801",
+          "name": "Wholegood Ginger, 125g",
+          "description": "N/A",
+          "price": "£1.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 190,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d49b8a5e1c735be4e51e9b39b8bf0a2f/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e327f123-5b70-5a52-86bc-54c13e9d4ff7",
+          "name": "Black Figs, 4pcs",
+          "description": "N/A",
+          "price": "£3.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 335,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b2543504fb7673459702ef880b94ef4e/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "684300c9-1061-5496-8443-4717494be461",
+          "name": "Wholegood Brown Onions, 3pcs",
+          "description": "N/A",
+          "price": "£1.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 140,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/df64ee2dd33fe02e704d3b44326e86c8/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "75dccd91-0033-5e67-87d4-f3b5c24eaa43",
+          "name": "Wholegood Mixed Chillies, 40g",
+          "description": "N/A",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/402b696838617e69121bedcb79221d66/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9e45ab89-da7c-5f3c-a48e-b13a0c14ab09",
+          "name": "Morrisons Sweetclem Easy Peelers, 600g",
+          "description": "N/A",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cf83eb40f21db2383b156c51cf597d3b/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "99b24475-02d9-5c69-9db8-bfa80dea6204",
+          "name": "Morrisons Salad Tomatoes, 6pcs",
+          "description": "N/A",
+          "price": "£1.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 140,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7cd67b27e33fc8150414998bef1b3d1e/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c674cd14-7147-5b68-b7aa-74cb3d22794e",
+          "name": "Wholegood Coriander, 30g",
+          "description": "N/A",
+          "price": "£1.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 125,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/08838e7ad3134bc981c9193ef3530aa7/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1d926ffb-80d0-5e91-a0fe-95e8fe169a6e",
+          "name": "Morrisons Blackberries, 150g",
+          "description": "N/A",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5450a5ace63c821882e9abae8e7ec8c2/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fbffb272-8145-5cc1-b8d8-3b741b104e97",
+          "name": "Wholegood Mint, 30g",
+          "description": "N/A",
+          "price": "£1.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 125,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0f4566df4f508c156bf5c057fb2ab4f7/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "26fe6964-cde0-51a5-b629-4f56ae05bd31",
+          "name": "Wholegood Red Onions, 600g",
+          "description": "N/A",
+          "price": "£1.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 125,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ac8f0d7319f828c86eda0d258f284ae5/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Bakery",
+      "items": [
+        {
+          "id": "215879e0-1e6d-5c94-81a2-f8b5591e787d",
+          "name": "Jason's The Great White Straight Up Sourdough (450g)",
+          "description": "N/A",
+          "price": "£2.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 275,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/38e5c2a6811670b67e5567949f011993/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7af5db71-2cfe-5d86-8c99-bf3beb23dc51",
+          "name": "Warburtons Crumpets (6 pack)",
+          "description": "N/A",
+          "price": "£1.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 120,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/df043880031229239a434081a3713295/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "39d3aa49-7fa9-5016-9010-576a7f256956",
+          "name": "St. Pierre Chocolate Filled Crêpes (6 pack)",
+          "description": "N/A",
+          "price": "£2.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 280,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bc89012601b5d031cc7bacba39eb0146/2ecda260bcb4a75235533df4a61ef085.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6f4d80d0-f1b6-5b0c-9c8e-fdbb33322f13",
+          "name": "Warburtons Toastie White, 800g",
+          "description": "N/A",
+          "price": "£1.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 185,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/50634ef833991ca7efa0bf60f248c443/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d14851b5-f320-58e2-90c4-a1fbc4e26f64",
+          "name": "New York Bakery Co. The Original Bagels (5 pack)",
+          "description": "N/A",
+          "price": "£2.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 245,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3d293ad75642a6ee5c2a74bd6cff6883/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8b58126f-9efa-5f39-88de-18fb4b654ff0",
+          "name": "Pågen Gifflar Cinnamon Rolls (12 pack)",
+          "description": "N/A",
+          "price": "£2.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 280,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/411045d6392eadf4b4a5e55b24c85454/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1ebc2412-f940-55ca-9766-cfebd24b32b9",
+          "name": "Warburtons Toastie White, 400g",
+          "description": "N/A",
+          "price": "£1.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 125,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f449239d73150aaf7ee1f8a810d2f16d/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "979ea068-d227-58d5-96cd-ce59bd447987",
+          "name": "Warburtons Soft & Sliced White Rolls (6 pack)",
+          "description": "N/A",
+          "price": "£1.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 160,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/20f7964ca20f6a31a44ee8ad5de04c70/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "51fda6a6-a010-5e3e-8f04-de796569f2f3",
+          "name": "Morrisons Cake Shop on Market Street Cream Chocolate Eclairs (4 pack)",
+          "description": "N/A",
+          "price": "£2.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 280,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/91c8fd8bb089f932fd415550d961c554/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1a396429-0a92-5fbd-bb4d-3202a4628c31",
+          "name": "Morrisons White Toastie, 800g",
+          "description": "N/A",
+          "price": "£1.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 115,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/630b8e80380067410047d9a8875ef972/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3ad6c284-5d00-579b-8efb-9174f82e9ebc",
+          "name": "Morrisons Soft White Rolls, 6pcs",
+          "description": "N/A",
+          "price": "£1.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 130,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1e2967dcdda78be12d5b5cdaec69a8f5/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d6c63a6c-4e16-55d8-983c-fbfd1f6ec2bd",
+          "name": "St. Pierre Pains Au Chocolat (6 pack)",
+          "description": "N/A",
+          "price": "£2.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 295,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a6ba86f281b7875786dad67ebffe39c8/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b2d81515-bb95-53a7-8576-d1a79b06be64",
+          "name": "Morrisons Tiger Thick Sliced Bloomer, 800g",
+          "description": "N/A",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/64ce9c40c4a1c18fa7df85b4921118b9/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "47768a7b-e50c-5332-b10b-30e0353d0b6c",
+          "name": "Warburtons Delicious Breakfast Muffins (4 pack)",
+          "description": "N/A",
+          "price": "£1.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 185,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7f07021f6790d512d8f5c1321f074fd1/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "57340979-b979-514b-9e19-94daa21219dc",
+          "name": "Mrs Crimbles Gluten Free 4 Big Bakewell Slices, 200g",
+          "description": "N/A",
+          "price": "£2.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 245,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/92bd49e8c2e6733c1ae10e4934f9b182/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Confectionary",
+      "items": [
+        {
+          "id": "668583fe-36db-54c4-b953-56a482729069",
+          "name": "Fox's Vanilla, Favourites Crunch Creams Golden Cookies (200g)",
+          "description": "N/A",
+          "price": "£1.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6eaafb182311ef0eac4c8fc77659ddfc/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "27df025d-b1ab-5cd4-b3f4-df203013feca",
+          "name": "Shades by Niko Straight Up Strawberry, Flavour Sweets (150g)",
+          "description": "N/A",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/888f5f3834a1f157eaab54f145606e67/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fbc79d8f-18cb-5ba8-90a9-bf0fdd3b4bf5",
+          "name": "Milky Way Magic Stars Milk Chocolate Bites (100g)",
+          "description": "N/A",
+          "price": "£3.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 310,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0ea527236e251ccc637fb379e9cc7f84/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6bf0c78a-515a-5872-ae54-dce98e5953bf",
+          "name": "Extra Peppermint, Sugarfree Chewing Gum (46 pack)",
+          "description": "N/A",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cdde2e78b95863ddb079e94c812d13f7/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c7ff1c6a-b4ce-5e04-bfeb-3cd4cfa42079",
+          "name": "Cadbury Heroes Chocolate (290g)",
+          "description": "N/A",
+          "price": "£7.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 770,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/67a0c6302d14623606cda23f7352445b/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fc8145e7-2670-5b47-96ab-fcbe474bbc9e",
+          "name": "Tunnock's Milk Chocolate Tea Cakes (6 x 24g)",
+          "description": "N/A",
+          "price": "£1.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5593012f25f5c65a43d9616880afb620/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "054b9743-7931-531a-b1e6-352b172c1c97",
+          "name": "Vimto Bon Bons, 140g",
+          "description": "N/A",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b8ce7c513c867a8ee76930740dc0c13e/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "51fb6c7b-016e-5464-a879-56f48e31d972",
+          "name": "Cadbury Dairy Milk Buttons Chocolate (85g)",
+          "description": "N/A",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d084505c485e6eda9a727e78a323bc8c/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f49e1261-923a-5b68-ab42-69113384b418",
+          "name": "Tic Tac Lime&Orange, Mint Sweets (49g)",
+          "description": "N/A",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6fc77eecb5bd7fa829bce2a3fd0d1b9f/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "072d9f73-c00f-5cd1-82eb-95f8ff6cd31f",
+          "name": "Cadbury Milk, Chocolate Box (360g)",
+          "description": "N/A",
+          "price": "£9.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 900,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/05ff7c0ef1642144a8821558b811c1b9/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1a5e5df1-0bfe-56f7-88d2-0e85a2883bd4",
+          "name": "Shades by Niko The Originals (150g)",
+          "description": "N/A",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c440dbc8db68cadd4042ff21946f703d/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "49cef190-337a-5179-b7a5-52795a0462da",
+          "name": "Maltesers Teasers Chocolate (100g)",
+          "description": "N/A",
+          "price": "£2.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 270,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d0eb5bfa3b3dec4b80b1c618060f16b8/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5a4cdfa5-3bfc-5a55-92ac-35a18c1ccd10",
+          "name": "Extra Spearmint, Wrigley's Sugarfree Chewing Gum (46 pack)",
+          "description": "N/A",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ec7aac3c55ee4d7eaa089508e342ff2c/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a2f4a31a-8886-50d7-9681-2de3fb5673c6",
+          "name": "Cadbury Dairy Milk Advent Calendar, 90g",
+          "description": "N/A",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e9839d6643a8f577f07f5edb2355c121/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "42ec642b-25f9-507c-b06b-b96f77584dbd",
+          "name": "Jammie Dodgers Raspberry, Minis Biscuits (6 x 20g)",
+          "description": "N/A",
+          "price": "£1.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b9c55a207a535c37d55ec0a1e5a91812/2ecda260bcb4a75235533df4a61ef085.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Snacks",
+      "items": [
+        {
+          "id": "37ebdfa7-4efd-5428-a997-aa6a931df6af",
+          "name": "Ritz Bakery the Original Cracker (150g)",
+          "description": "N/A",
+          "price": "£1.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e4d629322711306c9f12945e50865696/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6be73b3e-14ca-5099-b0c5-b4852b46e809",
+          "name": "Butterkist Sweet & Salty Popcorn (100g)",
+          "description": "N/A",
+          "price": "£3.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 320,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/480388ae72706c03bb477af0b5f9fca0/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a78e8044-9b42-54e5-94ca-653d0130f7c2",
+          "name": "Peperami The Original Sausage (5 x 20g)",
+          "description": "N/A",
+          "price": "£4.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 425,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/716905c14ba356698517b2132b718cc2/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f290f7f5-9169-5005-948e-a7f182ea1f8e",
+          "name": "Cofresh Chilli-Lime, Corn Crackers (60g)",
+          "description": "N/A",
+          "price": "£1.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 170,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9008f44b33abed1fe759a6a6fcc9c86a/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "abbcea56-2381-5b0b-8dcd-d089b113e246",
+          "name": "Sunbites Sweet Chilli Multigrain Snacks, 6 x 25g",
+          "description": "N/A",
+          "price": "£3.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 355,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/39a821b03696381b591c7b6775eec8b7/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b5c07e9f-80de-5fb9-a59f-2ea7270b3d03",
+          "name": "Ritz Cheese, Crackers (140g)",
+          "description": "N/A",
+          "price": "£1.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a14dd0045b0862a0d7fa928112c0f5a3/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "efbf8c10-929e-5edc-8d02-4fbabf09b281",
+          "name": "Butterkist Cinema Sweet Popcorn (100g)",
+          "description": "N/A",
+          "price": "£3.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 320,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5db7d95abdb89a5ab9cc82e9717ad50a/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "84310965-d982-50e5-b874-42306112bf14",
+          "name": "Sesame Snaps Chikki (4 x 30g)",
+          "description": "N/A",
+          "price": "£1.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 175,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/78c9bb583a4ab7c550ced8e45c4f2c64/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c13d9899-8e4c-5d20-b69c-fa8837d4652c",
+          "name": "Walker's Cheese-Onion, Potato Chips (6 x 25g)",
+          "description": "N/A",
+          "price": "£2.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 270,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/05bb1f3a88db7974aa8a1f367546f74c/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a1f2e984-0734-5bd3-92f5-038904733a60",
+          "name": "Serious Pig Snacking Pickles (40g)",
+          "description": "N/A",
+          "price": "£2.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 245,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cd1d686aebdf9e4c1e11353486982e44/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c3c78864-255a-5997-bcc9-f2fb9b53d759",
+          "name": "Snack A Jacks Cheeky Chocolate Chip, Crispy Rice and Corn Cakes (180g)",
+          "description": "N/A",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/796f02f5f1c3e4e51f1d5878a5759af9/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2880c2f6-6fb9-5b29-8d0b-8d3348b5d442",
+          "name": "Penn State Sour Cream & Chive Pretzels, 175g",
+          "description": "N/A",
+          "price": "£2.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 260,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c21d6596cd2ebc07adaef8d6c8486c80/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "411f7d93-b10d-5f3d-816b-b74f0fdd73bc",
+          "name": "Kellogg's Coco Pops Snack Bar, 4 x 20g",
+          "description": "N/A",
+          "price": "£1.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 180,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1de7d090f88a6484838059d6b6a4156e/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6bb71eda-08ea-5cf6-b47f-6af9655966b6",
+          "name": "Fridge Raiders Roast Chicken Bites, 60g",
+          "description": "N/A",
+          "price": "£1.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 170,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ff22688b179895456cd284dd4f4695c9/f9586c36ab7db84d09b777cee8c829b1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3471a943-69e0-502f-92d4-afdeddf55713",
+          "name": "Eat Real Sour Cream-Chive, Quinoa Chips (90g)",
+          "description": "N/A",
+          "price": "£3.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 310,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7333edae43278c1983f9b1b605376f5e/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

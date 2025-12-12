@@ -1,0 +1,1722 @@
+{
+  "restaurant_id": "crispydosabristol-BS12DD-51",
+  "source_id": "854a89ad-5d8a-541a-b6bf-a20f43596f7a",
+  "restaurant_url": "https://www.ubereats.com/store/crispy-dosa-bristol/hUqJrV2KVBq2v6IPQ1lveg",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:46:01.007Z",
+  "restaurant": {
+    "name": "Crispy Dosa (Bristol)",
+    "slug": "crispy-dosa-bristol",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+447407170025",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "9 Union St, Bristol, EMEA BS1 2DD",
+    "streetAddress": "9 Union St",
+    "addressCity": "bristol-eng",
+    "neighborhood": "broadmead-bristol-eng",
+    "addressRegion": "EMEA",
+    "postalCode": "BS1 2DD",
+    "addressCountry": "GB",
+    "latitude": 51.4559347,
+    "longitude": -2.590922,
+    "geohash": "gcnhtp",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 4.3,
+    "totalReviews": "600+",
+    "workingHours": "Open until 2:30 AM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Pure Veg",
+      "Noodles",
+      "Coffee and Tea",
+      "Desserts",
+      "North Indian",
+      "Asian",
+      "Snacks",
+      "Juice and Smoothies",
+      "Desserts",
+      "South Indian",
+      "Vegetarian",
+      "Vegan",
+      "Vegan Friendly",
+      "Vegetarian Friendly",
+      "Indian",
+      "Indian Curry",
+      "Soup"
+    ],
+    "priceBucket": "₹₹"
+  },
+  "openingHours": [
+    {
+      "day": "Sunday",
+      "hours": [
+        {
+          "open": "11:30",
+          "close": "22:00",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Monday - Friday",
+      "hours": [
+        {
+          "open": "10:00",
+          "close": "22:00",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "hours": [
+        {
+          "open": "11:30",
+          "close": "22:00",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Soup Bowls",
+      "items": [
+        {
+          "id": "00bb0f54-5e04-4865-b7e3-bebb2e1d6f9c",
+          "name": "Chennai Special Rasam Soup Bowl",
+          "description": "Tamarind and tomato based thin clear soup.",
+          "price": "£6.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 649,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "43bd1eee-fd08-42e6-aa4a-3bcc9d468b67",
+          "name": "Lentil Soup (Sambar) Bowl",
+          "description": "Lentil, onion, tomato and vegetable based aromatic soup.",
+          "price": "£6.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 649,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1d9b369b-f741-4a3d-b7c5-02adba2bfd0e",
+          "name": "Sweet Corn Soup Bowl",
+          "description": "Sweet corn kernels and corn flour based thick soup.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Snacks",
+      "items": [
+        {
+          "id": "4f21aeee-f182-40ba-98a1-ab1e2ce5bbd9",
+          "name": "Snack Platter Combo",
+          "description": "2 pieces veg samosa, 2 pieces Punjabi samosa and 2 pieces masala vada. Contains gluten.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "241e64ea-7279-4d0f-bf27-be4f69bd9073",
+          "name": "Mix-Bhajiya Platter",
+          "description": "2 onion, 2 potato, 2 large chillies and batter fried veggies. Served with chutney. Contains gluten.",
+          "price": "£11.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1149,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "31cb2234-2caa-4d32-bf52-89e2d04cf084",
+          "name": "Masala Vada (3 Pieces)",
+          "description": "Spiced crunchy fritters made with chana dal. Served with chutney.",
+          "price": "£6.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 649,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "181f4f99-72d7-4b74-ac0f-8ad2d5f0e880",
+          "name": "Masala Papad (2 Pieces)",
+          "description": "Papad is topped with a spicy and tangy mixture of onions, tomatoes, green chillies, cilantro, salt, chaat masala powder, red chilli powder and lime juice.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Kids Starters",
+      "items": [
+        {
+          "id": "a5085212-40ae-41c6-b24e-084e6a7153bf",
+          "name": "Bowl of Chips (French Fries)",
+          "description": "Crisp and golden French fries served hot.",
+          "price": "£5.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 549,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Kids Main",
+      "items": [
+        {
+          "id": "66789166-b936-4e44-84a6-de1daae8e815",
+          "name": "Chocolate Dosa",
+          "description": "Hazelnut based Nutella evenly spread on dosa. Contains gluten, nuts and dairy.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9eb4fcd7-ab73-4398-b0da-7e5ce701aee1",
+          "name": "Cheese and Sweet Corn Dosa",
+          "description": "Sweet corn spread on dosa and sprinkled with cheese. Contains gluten and dairy.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "85bc47f8-a071-46a2-8418-730403f9c1f8",
+          "name": "Cone Shaped Ghee Dosa",
+          "description": "Dosa cooked with ghee and rolled in the shape of cone. Contains gluten and dairy.",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "91046b3a-c622-44ac-a544-6b0fd265806a",
+          "name": "Mild Pizza Uthappam (4 Nos)",
+          "description": "Thick rice and lentil mini pancake topped with onion, tomato, mixed bell pepper, sweet corn and cheese. Contains gluten and dairy.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6a84f6c0-57b7-476b-8c8c-dd069d93b5e0",
+          "name": "Mini Idly (14 Nos)",
+          "description": "Steamed mini rice cakes. Served with sambar and chutney garnished with ghee and chopped cilantro. Contains dairy.",
+          "price": "£6.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 649,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "82fe74fa-23a3-4456-93b1-db1a59d58208",
+          "name": "Mild Veg Noodles",
+          "description": "Contains gluten.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Chef Recommended Starters",
+      "items": [
+        {
+          "id": "71c5b568-d97c-46fe-8cfc-67bab1f956fb",
+          "name": "Paneer Manchurian",
+          "description": "Fried crispy paneer cubes coated with spicy tangy sauce. Contains gluten and dairy.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "51676681-ef0e-438c-a795-503fc976e740",
+          "name": "Veg Manchurian",
+          "description": "Batter fried mix vegetable balls tossed with oriental style sauce. Contains gluten.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9338a3fd-89f5-4057-a2aa-ead091301a87",
+          "name": "Mushroom Manchurian",
+          "description": "Batter fried mushroom tossed with oriental style sauce. Contains gluten.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "daa83849-053b-4cbe-9099-b2b908fdb348",
+          "name": "Baby Corn Manchurian",
+          "description": "Batter coated baby corn stir fried in a spicy sweet and umami Indo Chinese sauce. Contains gluten.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a7ce92f0-ddeb-476e-90eb-d26fe78a8574",
+          "name": "Chilli Mushroom",
+          "description": "Fried mushroom tossed with onions, green chillies, green chilli paste and scallions.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ed237078-7f9c-41d3-9a2b-831ffe3c549d",
+          "name": "Tandoori Paneer Tikka (6 Pieces)",
+          "description": "Pieces of Indian cottage cheese marinated in traditional spices overnight it is then grilled in a tandoori oven. Contains dairy.",
+          "price": "£12.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1249,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Starters",
+      "items": [
+        {
+          "id": "a8c70580-ca9f-4a2d-8d53-21ec51ee2a89",
+          "name": "Chilli Paneer",
+          "description": "Cottage cheese cubes tossed with oriental style sauce and garnished with scallions. Contains dairy.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/91cd42b34051fc2a9e0d34e769f4a006/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "38c61104-807d-408a-ac4f-41a00d8710c9",
+          "name": "Paneer 65",
+          "description": "Cottage cheese cube batter fried and tossed with dry spiced like pakora. Contains gluten and dairy.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "774358d2-34b5-4c59-bf87-ae121a343579",
+          "name": "Guntur Paneer",
+          "description": "Cottage cheese cubes tossed with spiciest oriental style sauce. Garnished with chillies and scallions. Contains dairy.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "af5df561-46d4-475b-bfd7-b444e5d67501",
+          "name": "Gobi Manchurian",
+          "description": "Batter fried cauliflower florets tossed with oriental style sauce. Contains gluten.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4575fcc9-0d99-49bf-9ac1-7efca460532b",
+          "name": "Gobi 65",
+          "description": "Batter fried cauliflower florets tossed with dry spices like pakora. Contains gluten.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2edf3527-d6a8-4772-9722-7769e64f7ef1",
+          "name": "Chilli Idly",
+          "description": "Steamed rice cakes fingers tossed with oriental sauce.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Any Timers",
+      "items": [
+        {
+          "id": "8d53e152-8e49-4900-8b1c-d870506180dd",
+          "name": "Idly (3 Nos)",
+          "description": "All time favourite steamed rice cakes. Served with sambar and chutney.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b6dbedca45a5bed4c362743a1a023ced/f47cec1eac1d3b43eccf2318d065819a.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6a84f6c0-57b7-476b-8c8c-dd069d93b5e0",
+          "name": "Mini Idly (14 Nos)",
+          "description": "Steamed mini rice cakes. Served with sambar and chutney garnished with ghee and chopped cilantro. Contains dairy.",
+          "price": "£6.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 649,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1e814f32-3355-4605-b24d-d1c55d2a4e0e",
+          "name": "Medu Vada (2 Nos)",
+          "description": "Doughnut shaped deep fried crispy batter of urad dal.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7fa3767a-d1db-4bf5-8291-4e4726f56ecb",
+          "name": "Idly Dipped in Sambar",
+          "description": "Sambar idly 2 nos.",
+          "price": "£7.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 749,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "89502fbc-c903-40bc-a428-1938bc1da680",
+          "name": "Vada Dipped in Sambar",
+          "description": "Sambar vada 2 nos.",
+          "price": "£7.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 749,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "68e4fff2-f421-4d87-89d2-78a335b1f525",
+          "name": "Vada Dipped in Rasam",
+          "description": "Rasam vada 2 nos.",
+          "price": "£7.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 749,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a977d8a1-828c-4525-8882-7b4e6b4d20a4",
+          "name": "Parotta Kurma (2 Nos)",
+          "description": "Chennai style layered refined flour bread cooked in griddle. Served with mix vegetable gravy. Contains dairy, nuts and gluten.",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ed50f9a8-c7b9-4a8a-ab70-4fef3f4cbac0",
+          "name": "Choley Bhatura (2 Nos)",
+          "description": "Deep fried Indian bread. Served with spiced chickpea gravy. Contains gluten.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7a554f5e-b037-43e5-8cb9-1a31826a1494",
+          "name": "Poori Kurma (2 Nos)",
+          "description": "Fried fluffy whole wheat bread. Served with mix vegetable gravy. Contains gluten and nuts.",
+          "price": "£7.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 749,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "112a1133-7430-48cc-a85c-b39f89c1b099",
+          "name": "Poori Masala (2 Nos)",
+          "description": "Fried fluffy whole wheat bread. Served with potato masala. Contains gluten.",
+          "price": "£7.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 749,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bd1cc195-ad7c-4848-984d-996806d463cb",
+          "name": "Ghee Podi Idly",
+          "description": "Rice cake cut into small pieces and tossed with ghee and spicy lentil powder. Contains sesame and dairy.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "25b924c6-9cb4-4473-bb72-0554884ac4f7",
+          "name": "Mini Idly Dipped in sambar",
+          "description": "14 pieces of Mini idly dipped in sambar",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Dosas Corner",
+      "items": [
+        {
+          "id": "d233f6d5-c247-4f9a-9b0e-791f1ef25c11",
+          "name": "Masala Dosa",
+          "description": "Potato mixture stuffed on dosa. Contains gluten.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1dd7ef73aee4b000966165f4133e857a/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "cb1b931e-99e1-4a78-9aeb-0e1bd27e2027",
+          "name": "Ghee Paper Roast Dosa",
+          "description": "Most crispiest dosa on earth cooked with ghee. Contains dairy and gluten.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2648a4c38376726bb5df1c37597c8311/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "80e82af7-899a-4658-adcf-17858362e7ce",
+          "name": "Plain Dosa",
+          "description": "Crispy crepe made with rice and urad dal batter. Contains gluten.",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1cf2578e-b51c-4f19-9e8a-b67c425f4bee",
+          "name": "Cheese Dosa",
+          "description": "Grated cheese sprinkled dosa. Contains gluten and dairy.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "306088de-d186-47b6-a083-43809ea00237",
+          "name": "Paper Roast Dosa",
+          "description": "Most crispiest dosa on earth. Contains gluten.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "86192f11-2056-46bb-b25d-f5f1501e39fd",
+          "name": "Ghee Podi Dosa",
+          "description": "Ghee spread on rice crepe and sprinkled with spicy lentil powder. Contains gluten, dairy and sesame.",
+          "price": "£12.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1299,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "72a836a7-9d4f-4a2b-af9e-6d0fd01cd0f2",
+          "name": "Ghee Podi Masala Dosa",
+          "description": "Ghee spread on rice crepe, sprinkled with spicy lentil powder and stuffed with potato masala. Contains dairy, sesame and gluten.",
+          "price": "£13.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1e35f8d6-a785-4ec0-b741-49303d420f9e",
+          "name": "Plain Rava Dosa",
+          "description": "A special dosa made out of semolina, refined flour, rice flour and spices. Contains gluten.",
+          "price": "£11.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1149,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "07b8a266-f455-4865-be84-1c0fce1df920",
+          "name": "Rava Masala Dosa",
+          "description": "Rava dosa stuffed with potato masala. Contains gluten.",
+          "price": "£12.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1299,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f7eaf80a-a0c9-49eb-82b5-12f895a24c60",
+          "name": "Onion Rava Dosa",
+          "description": "Chopped onion sprinkled on rava dosa. Contains gluten.",
+          "price": "£12.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1249,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3d911b33-07da-4bc6-b374-320e6d23a3ff",
+          "name": "Onion Rava Masala Dosa",
+          "description": "Chopped onion sprinkled on rava dosa and stuffed with potato masala. Contains gluten.",
+          "price": "£13.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ef041ca0-62ba-4e07-8350-c79d8195d2dd",
+          "name": "Onion Dosa",
+          "description": "Crispy crepe made with rice and urad dal batter and onion topped Up on the top. Contains gluten.",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fac57512-cfb4-4441-9a40-a4c424d4fdba",
+          "name": "Podi Dosa",
+          "description": "Crispy crepe made with rice and urad dal batter gun powder (idly podi ) sprinkled in top of the dosa. Contains gluten.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3698f41e-5d48-46e0-9f64-0ef1f09c6468",
+          "name": "Cheese podi Dosa",
+          "description": "Crispy crepe made with rice and urad dal batter gun powder ( idly podi ) and cheese sprinkled on top of the dosa . Contains gluten.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Special Dosas",
+      "items": [
+        {
+          "id": "e73cc8ba-9172-4356-a9b9-d35d3e6f29ee",
+          "name": "Nilgiri Masala Dosa",
+          "description": "Special mint coriander and green chilli chutney evenly applied on dosa and stuffed with mashed potato masala. Contains gluten.",
+          "price": "£12.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1249,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a236d1e2-3200-41bc-ab7c-8ee55a0225f0",
+          "name": "Chettinad Masala Dosa",
+          "description": "Assorted vegetables cooked with chettinad bright flavour spices evenly spread on masala dosa. Contains nuts, dairy and gluten.",
+          "price": "£14.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1449,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9d1446c4-65c5-4a64-8cea-ca01eade1aa9",
+          "name": "Cheese Masala Dosa",
+          "description": "Grated cheese evenly spread and stuffed with spiced potato masala. Contains nuts, dairy and gluten.",
+          "price": "£11.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1149,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "77d858f3-42a5-4fb3-9cda-19d90e5023f3",
+          "name": "Mysore Masala Dosa",
+          "description": "Spicy chilli garlic red chutney evenly spread and stuffed with mashed potato masala. Contains gluten.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c420be22-320a-447e-ae20-dcc7d958556e",
+          "name": "Paneer Masala Dosa",
+          "description": "Cottage cheese fried with onion tomato and spices stuffed evenly on dosa. Contains gluten and dairy.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Chef Recommended Dosas",
+      "items": [
+        {
+          "id": "ef520972-0438-4a8b-88a2-e2effeaf3fab",
+          "name": "Gobi Manchurian Dosa",
+          "description": "Stuffed with batter fried cauliflower florets tossed with oriental sauce and cut into rectangle shape pieces. Contains gluten.",
+          "price": "£14.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/38fd3186d8329fbe55d8db10f0d9802a/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "623fe1af-caf6-4fd2-a48b-6254418bb1cc",
+          "name": "Paneer Manchurian Dosa",
+          "description": "Stuffed with cottage cheese cubes tossed with oriental style sauce and cut into rectangle pieces. Sprinkled with coriander. Contains gluten and dairy.",
+          "price": "£14.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1449,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c2639ffe-ac9b-43fd-bc1a-1b4c238e5201",
+          "name": "Veg Manchurian Dosa",
+          "description": "Stuffed with batter fried mix vegetable balls tossed with oriental style sauce and cut into rectangle pieces. Sprinkled with coriander. Contains gluten.",
+          "price": "£14.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1449,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "39cd808a-ddf3-46a0-af0a-143c5ed0664e",
+          "name": "Mushroom Manchurian Dosa",
+          "description": "Stuffed with batter fried mushroom tossed with oriental style sauce and cut into rectangle shape. Sprinkled with coriander. Contains gluten.",
+          "price": "£14.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1449,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4d166174-0c18-4221-9ee6-ccb3e274d0a2",
+          "name": "Schezwan Noodles Dosa",
+          "description": "Dosa stuffed with schezwan noodles. Contains gluten.",
+          "price": "£14.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1449,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "655fe343-4be7-4b86-9eab-7e7aa84bddcf",
+          "name": "Popeye Palak Dosa",
+          "description": "Spinach curry finely spread on the dosa. Contains gluten.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Uttapams",
+      "items": [
+        {
+          "id": "9c61c339-7d78-466a-ac0f-e7025f1286e4",
+          "name": "Plain Uttapam",
+          "description": "Thick rice and lentil pancake. Contains gluten.",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e9c26ccd-cc4f-4dd5-aac6-d63473615ed8",
+          "name": "Kal Dosa with Kurma Uttapam",
+          "description": "Thick rice and lentil pancake. Served with mix veg curry or chana masala. Contains gluten and dairy.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d36e8de6-f991-4916-9410-1370986119d3",
+          "name": "Kal Dosa with Chana Uttapam",
+          "description": "Thick rice and lentil pancake. Served with mix veg curry or chana masala. Contains gluten and dairy.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f65ed3cf-eff5-4655-8e3f-a8929b7ab754",
+          "name": "Onion Chilli Uttapam",
+          "description": "Thick rice and lentil pancake topped with onion and chilli. Contains gluten.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fca31144-6cce-4934-b45f-1a0a981d55f8",
+          "name": "Mix Veg Uttapam",
+          "description": "Thick rice and lentil pancake topped with onion, chilli, tomato and mixed bell peppers. Contains gluten.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1d90861b-a260-4939-824c-6265972ddf41",
+          "name": "Pizza Uttapam",
+          "description": "Thick rice and lentil pancake topped with onion, tomato, mixed bell pepper, sweet corn and cheese. Contains gluten and dairy.",
+          "price": "£12.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1249,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1f49bb8b-7afe-4c01-86df-2ae47334f85f",
+          "name": "Panchavarna Uttapam (5 Minis)",
+          "description": "Mini onion chilli uthappam, mix veg uttapam, pizza uthappam, ghee podi uthappam and nilgiri uthappam. Contains gluten and dairy.",
+          "price": "£14.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1499,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Lunch Specials",
+      "items": [
+        {
+          "id": "5efec4f8-81de-402d-b9d9-9eba27016c5d",
+          "name": "Bombay Thali",
+          "description": "Chana masala, dal, paneer butter masala, paneer 65 5 pieces, rice, bread, sweet and salad. Contains nuts, dairy and gluten.",
+          "price": "£14.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c857297d8e6ee02185c1e25363a90743/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5cc7b1c4-a36d-4bb2-bfc6-c0a8683db476",
+          "name": "Madras Thali",
+          "description": "Sweet, chapathi kurma, steamed rice, sambar, rasam, poriyal, kuzhambu, curd, appalam and pickle. Contains nuts, dairy and gluten.",
+          "price": "£14.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1499,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "10c8216c-34b5-4a24-83f7-d619733aab92",
+          "name": "Veg Biryani",
+          "description": "Aromatic basmati rice cooked with seasonal vegetables and spices. Contains dairy.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1477d80f-c804-4efc-8e87-b60b49ad4c38",
+          "name": "Sambar Rice with Papad",
+          "description": "Rice cooked with lentil broth and mix vegetables. Served with papad. Contains dairy.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4877b1c0-79ac-42c0-9d6e-6dc27b7fe93b",
+          "name": "Curd Rice",
+          "description": "Mashed rice mixed with cream tempered yogurt and milk. Contains dairy.",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "dd733a9c-3c32-43b0-a305-ee3c7d14fc21",
+          "name": "Quick Lunch Combo",
+          "description": "Rice dish, mini masala dosa, bread and curry. Contains gluten and nuts.",
+          "price": "£11.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1149,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "293e4d50-2245-4250-886f-85860596cc33",
+          "name": "Jeera Rice",
+          "description": "Fragrant seasoned rice tempered with cumin seeds and ghee. Contains dairy.",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Tandoori Breads",
+      "items": [
+        {
+          "id": "d3a97965-23c2-4a8e-9f98-0eef387494e5",
+          "name": "Roti",
+          "description": "Contains gluten.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/daa45f1d6001f0bb78771cdc54e4a581/f47cec1eac1d3b43eccf2318d065819a.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e08f7ff1-2d69-48fe-93ea-9ab04544c4a6",
+          "name": "Naan Bread",
+          "description": "Contains gluten.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fe1a373c-ccef-408d-a118-a881785bc0d1",
+          "name": "Butter Naan Bread",
+          "description": "Contains gluten and dairy.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b9d5fb19-67a0-4ddb-a126-1bec3b23fa8c",
+          "name": "Chilli Garlic Naan",
+          "description": "Contains gluten and dairy.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fafaabef-4aec-42a1-b4b8-38b2d5daf393",
+          "name": "Bullet Naan",
+          "description": "Contains gluten and dairy.",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "681f4529-6db5-4c44-b983-66edcd78ff4e",
+          "name": "Butter Roti",
+          "description": "Contains gluten and dairy.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9edca62c-0388-46a0-8982-ebbb7761da54",
+          "name": "Garlic Naan",
+          "description": "Contains gluten and dairy.",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Breads",
+      "items": [
+        {
+          "id": "d4753155-4573-4671-ab59-981869696abb",
+          "name": "Chapati",
+          "description": "Contains gluten.",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b4d9a488-a2f3-4804-a757-4d3ca0456929",
+          "name": "Poori",
+          "description": "Contains gluten.",
+          "price": "£1.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 199,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2bd8da7d-083a-4bff-8ccb-bcfd843f6af0",
+          "name": "Parota",
+          "description": "Contains gluten.",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1759ab52-2fe4-4fc8-a1d2-f2f295b20c9e",
+          "name": "Bhature",
+          "description": "Contains gluten.",
+          "price": "£2.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 249,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Curries",
+      "items": [
+        {
+          "id": "bd926654-f2be-4535-a3ee-03cfaf386563",
+          "name": "Paneer Tikka Masala",
+          "description": "Marinated cubes of cottage cheese tandoori cooked and soaked in spiced gravy. Contains dairy.",
+          "price": "£13.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0d751427-3eec-4cee-b14d-0d5ef49c66c5",
+          "name": "Paneer Butter Masala",
+          "description": "Cubes of cottage cheese cooked in rich cream and aromatic gravy. Contains nuts and dairy.",
+          "price": "£13.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9789668c-dc07-4198-945d-2b166617664f",
+          "name": "Palak Paneer",
+          "description": "Cubes of cottage cheese cooked in pure spicy spinach curry. Contains dairy.",
+          "price": "£13.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "172dd146-c1ff-4d59-9a0c-736e352d2d60",
+          "name": "Mix Veg Kurma",
+          "description": "Assorted veg curry with cashew, tomato and coconut base. Contains dairy and nuts.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e719db3d-b1ab-4d0d-8d22-02dddd578587",
+          "name": "Chana Masala",
+          "description": "Chick peas cooked in onion, tomato base and tempered with spices.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1752582b-c0c9-4ace-8c8a-27b8ed6a3ad1",
+          "name": "Dal Tadka",
+          "description": "Boiled lentil tempered with Indian spices.",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2d2bd44f-94ad-4332-b2d6-fb6ec9f73fe1",
+          "name": "Paneer Bhurji",
+          "description": "Scrambled Indian cottage cheese with onion, tomato and spices. Contains dairy.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f502bd5d-1611-4103-93a3-7aa2a937096b",
+          "name": "Paneer Jalfrezi",
+          "description": "Cottage cheese along with the vegetables are well coated with the thick and spicy gravy. Contains dairy.",
+          "price": "£13.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5185b7eb-cd59-4a02-8f8c-76bc996e79d8",
+          "name": "Kadai Paneer Punjabi",
+          "description": "Cottage cheese made with kadai masala, bell peppers, tomatoes and kasuri methi. Contains dairy.",
+          "price": "£13.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8e7153ad-216d-4c03-beb6-e28dff468041",
+          "name": "Aloo Gobi",
+          "description": "A dry Indian dish made with potatoes, cauliflower and spices.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7bdc5c5b-aab9-4182-a5ec-f1ca7386af93",
+          "name": "Veg Kolhapuri",
+          "description": "Spicy mixed vegetable curry.",
+          "price": "£13.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1349,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Wok Specials",
+      "items": [
+        {
+          "id": "aca422b9-0ce7-4dc7-b85b-669499d53922",
+          "name": "Veg Noodles",
+          "description": "Contains gluten.",
+          "price": "£10.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1049,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "26c99e93-7604-4ca8-bc30-ca352407b9a1",
+          "name": "Hakka Noodles",
+          "description": "Contains gluten.",
+          "price": "£11.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1149,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c42e5492-9cfb-44fd-b7de-7ea47b53ecbd",
+          "name": "Szechuan Noodles",
+          "description": "Contains gluten.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "11f4f708-82c3-486b-931b-cd9915d97a32",
+          "name": "Veg Fried Rice",
+          "description": "Mixed vegetables cooked with rice.",
+          "price": "£10.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1099,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d6551ee8-2b8d-4719-bdf9-ded3408cbced",
+          "name": "Szechwan Fried Rice",
+          "description": "Spicy Szechwan-style rice dish with a blend of flavours.",
+          "price": "£11.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1149,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Extras",
+      "items": [
+        {
+          "id": "a5a5ddc4-6e2c-4b8b-9630-264e2e202670",
+          "name": "Plain Rice",
+          "description": "Steaming hot, fluffy rice served on its own.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "78834a24-3cda-4310-a4c5-eef10f119595",
+          "name": "Yogurt",
+          "description": "Contains dairy.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "972f3c85-174d-4226-b57d-eee041207c73",
+          "name": "Raitha",
+          "description": "Contains dairy.",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6d7c9f79-0845-45b3-a60d-93369b0139e4",
+          "name": "Green Salad",
+          "description": "Fresh mixed greens.",
+          "price": "£5.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 549,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Ice Cream and Kulfis",
+      "items": [
+        {
+          "id": "a0f4bdb9-47e3-4ad3-8438-a19a29634ab6",
+          "name": "Malai Kulfi",
+          "description": "Contains nuts and dairy.",
+          "price": "£5.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 549,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "325a7ec4-f30a-41a9-b07a-f56627b2c66f",
+          "name": "Matka Kulfi",
+          "description": "Contains nuts and dairy.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Desserts",
+      "items": [
+        {
+          "id": "a0752059-a8a8-499f-a006-79f21e19b3be",
+          "name": "Gulab Jamun (2 Pieces)",
+          "description": "Contains gluten, nuts and dairy.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b6754724-8db5-44f0-b5a3-f0ec3b667fc1",
+          "name": "Gajar Halwa",
+          "description": "Contains nuts and dairy.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "cd3b9cd4-c437-4654-a0c3-9932d24e449a",
+          "name": "Badam Halwa",
+          "description": "Contains nuts and dairy.",
+          "price": "£5.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 549,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9a0de5e2-302a-440b-b7fe-97f0a305a071",
+          "name": "Sweet Pan",
+          "description": "Contains nuts.",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Chats Corner",
+      "items": [
+        {
+          "id": "ebd4e960-2498-4b1d-abb4-61666431ad56",
+          "name": "Bhel Poori",
+          "description": "Crunchy puffed rice snack flavoured with spices and chutneys.",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1ea9c507-ea6a-4ae9-a5a6-c4c9c9dd7b6f",
+          "name": "Pani Poori",
+          "description": "Crunchy, flavorful street food snack filled with spices and chutneys.",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "16e04f6a-bd91-484b-b8e0-6773606af08e",
+          "name": "Dahi Poori",
+          "description": "N/A",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1d70afa5-68ac-494e-98be-d009e62233a9",
+          "name": "Aloo Papdi Chaat",
+          "description": "Crisp fried flour bread served with spicy potatoes and tangy chutney.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f2c9cc52-eeb1-4847-b34a-2cd1d85a8289",
+          "name": "Samosa Chaat",
+          "description": "N/A",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3629f2ae-d558-40a3-9c7a-a15beb4e69a2",
+          "name": "Aloo Tikki with Chana Masala",
+          "description": "Crispy potato patties served with a rich, spicy chickpea curry.",
+          "price": "£9.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 949,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "30f6d218-83e1-4ae1-90bb-11120e77302a",
+          "name": "Pav Bhaji",
+          "description": "Spicy street food favourite made with mixed vegetables and served with soft bread.",
+          "price": "£9.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 999,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Hot Drinks",
+      "items": [
+        {
+          "id": "7351dc96-88d8-49f3-8f90-e07fc54243ac",
+          "name": "Madras Filter Coffee",
+          "description": "Contains dairy.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "72359546-3d46-4a04-942d-fa6fff46a8fe",
+          "name": "Masala Tea",
+          "description": "Contains dairy.",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "785878d2-0901-473a-9264-843dd0d6ed33",
+          "name": "Hot Chocolate",
+          "description": "Contains dairy.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Fresh Fruit Juices",
+      "items": [
+        {
+          "id": "161d6463-0f97-431d-82d3-0daac2583a68",
+          "name": "Badam Milk",
+          "description": "Almond-flavoured milk drink.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a590227c-f8cd-40c1-b9ba-3701575dcfa5",
+          "name": "Falooda",
+          "description": "Cold dessert drink made with vermicelli noodles, milk, and sugar.",
+          "price": "£7.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 749,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8f380c6f-36b3-4819-86ce-a05333aa8787",
+          "name": "Water Melon Juice",
+          "description": "Refreshing and hydrating juice made from watermelon.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "37c6fa7c-bf95-43f0-a148-b7e1785ef1d8",
+          "name": "Grape Juice",
+          "description": "Freshly squeezed juice made from grapes.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b0b2d78d-cf4a-43a8-8700-350382420a30",
+          "name": "Lime Juice",
+          "description": "Freshly squeezed juice made from limes.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Water",
+      "items": [
+        {
+          "id": "b911b23f-ab45-485a-985e-845bda0d097c",
+          "name": "Still Water",
+          "description": "300 ml Glass Bottle",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5cd4662b-ff01-49b1-a00b-bc9a6a6cc597",
+          "name": "Sparkling Water",
+          "description": "300 ml glass bottle",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Lassi and Milkshakes",
+      "items": [
+        {
+          "id": "aa5500a8-3d19-406a-90fc-77c7711d181a",
+          "name": "Sweet Lassi",
+          "description": "Contains dairy.",
+          "price": "£5.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 549,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b3599a1a-6238-4278-9ad8-a4111fb66938",
+          "name": "Salt Lassi",
+          "description": "Contains dairy.",
+          "price": "£5.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 549,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "942cc64b-ba48-4945-bc1c-eb4327610518",
+          "name": "Mango Lassi",
+          "description": "Contains dairy.",
+          "price": "£5.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 549,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "886f73b3-3e10-4423-83b9-398f5f71fd7a",
+          "name": "Buttermilk",
+          "description": "Contains dairy.",
+          "price": "£5.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 549,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "785a4e25-35c5-4ea5-aee8-dde14b085532",
+          "name": "Rose Milk",
+          "description": "Contains dairy.",
+          "price": "£5.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 549,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f4380528-c7b6-4678-b355-c0ce6bfc19e0",
+          "name": "Milkshakes",
+          "description": "Chocolate, vanilla or strawberry. Contains dairy.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "da73b133-e997-4c6a-a60d-043135d2b58e",
+          "name": "Special Milkshakes",
+          "description": "Oreo or Ferrero Rocher. Contains nuts and dairy.",
+          "price": "£6.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 699,
+          "imageUrl": null,
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    }
+  ]
+}

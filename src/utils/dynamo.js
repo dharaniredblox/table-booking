@@ -1,172 +1,119 @@
-// src/utils/dynamo.js
 import { DynamoDBClient } from "@aws-sdk/client-dynamodb";
 import {
   DynamoDBDocumentClient,
-  ScanCommand,
-  PutCommand,
-  UpdateCommand,
   GetCommand,
+  PutCommand,
+  ScanCommand,
+  UpdateCommand,
 } from "@aws-sdk/lib-dynamodb";
 import dotenv from "dotenv";
 import path from "path";
 import { fileURLToPath } from "url";
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 dotenv.config({ path: path.resolve(__dirname, "../../.env") });
 
-export const TABLE_NAME = process.env.DYNAMO_TABLE_NAME || "";
-export const BOOKING_TABLE_NAME = process.env.DYNAMO_BOOKING_TABLE_NAME || "";
+export const TABLE_NAME = process.env.DYNAMO_TABLE_NAME;
 
-if (!process.env.AWS_REGION) {
-  console.error("❌ AWS_REGION missing in .env");
-}
+// ---------- New Table for Table Booking URLs ----------
+export const BOOKING_TABLE_NAME = process.env.DYNAMO_BOOKING_TABLE_NAME;
 
-// Create a DynamoDB v3 client; credentials are picked up automatically from env/instance role
+
 const client = new DynamoDBClient({
   region: process.env.AWS_REGION || "eu-west-2",
+  credentials:
+    process.env.AWS_ACCESS_KEY_ID && process.env.AWS_SECRET_ACCESS_KEY
+      ? {
+          accessKeyId: process.env.AWS_ACCESS_KEY_ID,
+          secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY,
+        }
+      : undefined,
 });
 
 export const docClient = DynamoDBDocumentClient.from(client);
 
-/**
- * Scan the booking table and return all items (paginated).
- * @param {string} bookingTableName
- * @param {number} [limitPerScan]
- * @returns {Promise<Array>}
- */
-
-
-// ---------- UPSERT FUNCTION ----------
-export async function upsertRestaurant(restaurantDoc) {
-  const { restaurant_id } = restaurantDoc;
-  if (!restaurant_id) {
-    console.error("⚠️ Missing restaurant_id");
-    return;
+// ---------- Upsert ----------
+export async function upsertRestaurant(item, retries = 3) {
+  if (!item || !item.restaurant_id) throw new Error("Missing restaurant_id");
+  while (retries > 0) {
+    try {
+      await docClient.send(new PutCommand({ TableName: TABLE_NAME, Item: item }));
+      console.log(`✅ Upserted ${item.restaurant_name || item.restaurant_id}`);
+      return;
+    } catch (err) {
+      retries--;
+      console.error(`❌ DynamoDB error: ${err.message}. Retries left: ${retries}`);
+      if (retries > 0) await new Promise((res) => setTimeout(res, 3000));
+    }
   }
+}
+
+// ---------- Scan ----------
+export async function getAllRestaurants(limit = 1000) {
+  const scanParams = { TableName: TABLE_NAME, Limit: limit };
+  let items = [];
+  let lastKey;
+  do {
+    if (lastKey) scanParams.ExclusiveStartKey = lastKey;
+    const res = await docClient.send(new ScanCommand(scanParams));
+    items = items.concat(res.Items || []);
+    lastKey = res.LastEvaluatedKey;
+  } while (lastKey && items.length < limit);
+  return items.slice(0, limit);
+}
+
+// ---------- Update Scrape Status ----------
+export async function updateRestaurantStatus(restaurant_id, status) {
+  if (!restaurant_id) throw new Error("Missing restaurant_id for status update");
 
   try {
-    // Get existing record if any
-    const existing = await docClient.send(
-      new GetCommand({
+    await docClient.send(
+      new UpdateCommand({
         TableName: TABLE_NAME,
         Key: { restaurant_id },
+        UpdateExpression:
+          "SET ubereats_scraped_at = :scrapedAt, ubereats_scraping_status = :status",
+        ExpressionAttributeValues: {
+          ":scrapedAt": new Date().toISOString(),
+          ":status": status,
+        },
       })
     );
-
-    const oldData = existing.Item || {};
-
-    // ✅ Merge old + new data dynamically
-    const mergedDoc = {
-      ...oldData,
-      ...restaurantDoc,
-      updated_at: new Date().toISOString(),
-    };
-
-    // ✅ Save merged data (upsert)
-    await docClient.send(
-      new PutCommand({
-        TableName: TABLE_NAME,
-        Item: mergedDoc,
-      })
-    );
-
-    console.log(`✅ Upserted restaurant: ${restaurant_id}`);
+    console.log(`✅ Updated status for ${restaurant_id}: ${status}`);
   } catch (err) {
-    console.error(`❌ Failed to upsert restaurant: ${restaurant_id}`, err);
-  }
-}
-
-// ---------- FETCH ALL ----------
-export async function getAllRestaurants(limit) {
-
-  try {
-    const result = await docClient.send(
-      new ScanCommand({ TableName: TABLE_NAME, Limit: limit })
-    );
-    return result.Items || [];
-  } catch (err) {
-    console.error("❌ DynamoDB scan error:", err.message);
-    return [];
+    console.error(`⚠️ Failed to update status for ${restaurant_id}: ${err.message}`);
   }
 }
 
 
-export async function getAllBookingItems(bookingTableName = BOOKING_TABLE_NAME, limitPerScan = 100) {
-  if (!bookingTableName) throw new Error("Missing booking table name");
-  const items = [];
-  let ExclusiveStartKey = undefined;
+// ---------- New Table for Table Booking URLs ----------
 
-  try {
-    do {
-      const res = await docClient.send(
-        new ScanCommand({
-          TableName: bookingTableName,
-          Limit: limitPerScan,
-          ExclusiveStartKey,
-        })
-      );
-      if (res.Items) items.push(...res.Items);
-      ExclusiveStartKey = res.LastEvaluatedKey;
-    } while (ExclusiveStartKey);
 
-     console.log(`📦 Loaded ${items.length} booking items`);
-  } catch (err) {
-    console.error("❌ Error scanning booking table:", err.message);
-  }
 
-  return items;
-}
-
-/**
- * Generic scan for an arbitrary table using params
- */
-export async function scanDynamoTable(params) {
-  const items = [];
-  let lastEvaluatedKey;
-  try {
-    do {
-      const data = await docClient.send(
-        new ScanCommand({
-          ...params,
-          ExclusiveStartKey: lastEvaluatedKey,
-        })
-      );
-      if (data.Items) items.push(...data.Items);
-      lastEvaluatedKey = data.LastEvaluatedKey;
-    } while (lastEvaluatedKey);
-  } catch (err) {
-    console.error("❌ scanDynamoTable error:", err.message);
-  }
-  return items;
-}
-
-/**
- * Upsert a booking URL item into booking table
- */
 
 // export async function upsertTableBooking(item) {
+//   // console.log("BOOKING_TABLE_NAME......",BOOKING_TABLE_NAME);
+  
 //   const restaurant_id = item.restaurant_id || item.restaurantId;
+//   // console.log("restaurant_id",restaurant_id);
+  
 //   if (!restaurant_id) throw new Error("Missing restaurant_id for table booking upsert");
 
-//   try {
-//     await docClient.send(
-//       new PutCommand({
-//         TableName: BOOKING_TABLE_NAME,
-//         Item: { ...item, restaurant_id ,
-//         },
-//       })
-//     );
-//     console.log(`✅ Upserted Booking URL for ${restaurant_id}`);
-//   } catch (err) {
-//     console.error(`❌ upsertTableBooking failed for ${restaurant_id}:`, err.message);
-//     throw err;
-//   }
+//   await docClient.send(
+//     new PutCommand({
+//       TableName: BOOKING_TABLE_NAME,
+//       Item: { ...item, restaurant_id },
+//     })
+//   );
+//   console.log(`✅ Upserted Booking URL for ${restaurant_id}`);
 // }
 
 /**
  * Upsert a booking URL item into booking table (Opentable)
  * - Merge if item exists, else insert new
  */
+
 export async function upsertTableBooking(item) {
   const restaurant_id = item.restaurant_id || item.restaurantId;
   if (!restaurant_id) throw new Error("Missing restaurant_id for table booking upsert");
@@ -185,8 +132,7 @@ export async function upsertTableBooking(item) {
       const mergedItem = {
         ...existing.Item,
         ...item,
-        restaurant_id,
-        opentable_updated_at: new Date().toISOString(),
+        quandoo_updated_at: new Date().toISOString(),
       };
 
       await docClient.send(
@@ -201,7 +147,7 @@ export async function upsertTableBooking(item) {
       await docClient.send(
         new PutCommand({
           TableName: BOOKING_TABLE_NAME,
-          Item: { ...item, restaurant_id,opentable_updated_at: new Date().toISOString() },
+          Item: { ...item, restaurant_id,quandoo_updated_at: new Date().toISOString() },
         })
       );
       console.log(`✅ Inserted new Opentable restaurant: ${restaurant_id}`);
@@ -215,6 +161,7 @@ export async function upsertTableBooking(item) {
 /**
  * Update scrape status (booking table) for a restaurant_id
  */
+
 export async function updateScrapeStatus(restaurant_id, status) {
   if (!restaurant_id) throw new Error("Missing restaurant_id for status update");
 
@@ -223,39 +170,35 @@ export async function updateScrapeStatus(restaurant_id, status) {
       new UpdateCommand({
         TableName: process.env.DYNAMO_BOOKING_TABLE_NAME,
         Key: { restaurant_id },
-         UpdateExpression: "SET opentable_status = :status, opentable_scraped_at = :scrapedAt",
+        UpdateExpression: "SET quandoo_status = :status, quandoo_scraped_at = :scrapedAt",
         // ExpressionAttributeNames: { "#st": "status" },
         ExpressionAttributeValues: {
           ":status": status,
           ":scrapedAt": new Date().toISOString(),
         },
-        ConditionExpression: "attribute_exists(restaurant_id)", // ✅ prevents overwriting new
       })
     );
     console.log(`✅ Updated status for ${restaurant_id}: ${status}`);
   } catch (err) {
-    if (err.name === "ConditionalCheckFailedException") {
-      console.warn(
-        `⚠️ Skipped status update — item not found for ${restaurant_id}`
-      );
-    } else {
-      console.error(
-        `⚠️ Failed to update status for ${restaurant_id}: ${err.message}`
-      );
-    }
+    console.error(`⚠️ Failed to update status for ${restaurant_id}: ${err.message}`);
   }
 }
 
 
-/**
- * Small helper: get a single item by key (optional)
- */
-export async function getItemByKey(tableName, key) {
-  try {
-    const res = await docClient.send(new GetCommand({ TableName: tableName, Key: key }));
-    return res.Item || null;
-  } catch (err) {
-    console.error("❌ getItemByKey error:", err.message);
-    return null;
-  }
+export async function scanDynamoTable(params) {
+  const items = [];
+  let lastEvaluatedKey;
+  do {
+    const data = await client.send(
+      new ScanCommand({
+        ...params,
+        ExclusiveStartKey: lastEvaluatedKey,
+      })
+    );
+    if (data.Items) items.push(...data.Items);
+    lastEvaluatedKey = data.LastEvaluatedKey;
+  } while (lastEvaluatedKey);
+  return items;
 }
+
+

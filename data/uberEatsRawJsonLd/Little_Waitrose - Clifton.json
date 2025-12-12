@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/little-waitrose-clifton/oO3O2IyAX8iGZ-uz2LOTVA",
+  "name": "Little Waitrose - Clifton",
+  "servesCuisine": [
+    "Grocery",
+    "Alcohol",
+    "Everyday Essentials",
+    "Snacks",
+    "Convenience",
+    "Specialty Foods",
+    "Beauty Supply",
+    "Pet Supplies",
+    "Electronics",
+    "Personal Care",
+    "Pharmacy"
+  ],
+  "priceRange": "₹₹₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/2ba91d1d296fccdbef603f374b470fc7/19ec62ba51fde35ba0aff5b84321c5af.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/2ba91d1d296fccdbef603f374b470fc7/c67d558c633281f9c71fc6a90ef470ae.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/2ba91d1d296fccdbef603f374b470fc7/8681e511c0910e0052cb155c50f01f89.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/2ba91d1d296fccdbef603f374b470fc7/6ea4f72e303000fbf403bbb36f971f85.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/2ba91d1d296fccdbef603f374b470fc7/4bee0baf259f2b3c95aacdebea87e950.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/2ba91d1d296fccdbef603f374b470fc7/5283d81c664b43c5f57a3a186d273063.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/little-waitrose-clifton/oO3O2IyAX8iGZ-uz2LOTVA?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "EMEA",
+    "postalCode": "BS8 1QS",
+    "addressCountry": "GB",
+    "streetAddress": "85 Queens Road"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.4570144,
+    "longitude": -2.6082372
+  },
+  "telephone": "+441179300434",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.6,
+    "reviewCount": "3000"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "7:0",
+      "closes": "22:30"
+    }
+  ],
+  "hasMenu": null
+}

@@ -1,0 +1,634 @@
+{
+  "restaurant_id": "sandwichsandwichbaldwinst-BS11QQ-51",
+  "source_id": "9d345329-a964-4ba9-b5ae-f716a1cbb6b7",
+  "restaurant_url": "https://www.ubereats.com/store/sandwich-sandwich-baldwin-st/nTRTKalkS6m1rvcWocu2tw",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:09:58.152Z",
+  "restaurant": {
+    "name": "Sandwich Sandwich - Baldwin St",
+    "slug": "sandwich-sandwich-baldwin-st",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441179292330",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "48-52 Baldwin St, Bristol, South West, South West BS1 1QQ",
+    "streetAddress": "48-52 Baldwin St",
+    "addressCity": "bristol-eng",
+    "neighborhood": "old-city-bristol-eng",
+    "addressRegion": "South West",
+    "postalCode": "BS1 1QQ",
+    "addressCountry": "GB",
+    "latitude": 51.4534738,
+    "longitude": -2.5930418,
+    "geohash": "gcnhsy",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 4.6,
+    "totalReviews": "8000+",
+    "workingHours": "Open until 7:30 PM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Sandwich",
+      "Sandwiches",
+      "Breakfast and Brunch",
+      "Exclusive to Eats"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Sunday",
+      "hours": [
+        {
+          "open": "09:00",
+          "close": "16:00",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Monday - Friday",
+      "hours": [
+        {
+          "open": "08:00",
+          "close": "15:00",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "hours": [
+        {
+          "open": "08:00",
+          "close": "17:00",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "MAKE A MEAL OF IT?",
+      "items": [
+        {
+          "id": "c534bbf9-cf26-527f-9e73-9685bd67892c",
+          "name": "MAKE A MEAL OF CHICKEN KYIV UBER",
+          "description": "Chicken Kyiv Meal Deal",
+          "price": "£13.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1345,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/30ce1ff190aedab265826cae14daa776/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fe7d2421-1d30-5d04-b971-d8ce70d554e8",
+          "name": "MAKE A MEAL OF CORONATION CHICKEN UBER",
+          "description": "Coronation Chicken Meal Deal",
+          "price": "£13.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1325,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4ea3a33e1a560fbfd2e86b8a5e818067/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "aba0960a-ea53-5d9a-a540-e3c700a4912e",
+          "name": "MAKE A MEAL OF EGG MAYO UBER",
+          "description": "Egg Mayo Meal Deal",
+          "price": "£13.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1325,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a10a467b5f0257a6a2edd2457dcce245/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a7722087-5e42-5305-ab9b-6b00d3313cc3",
+          "name": "MAKE A MEAL OF FALAFEL (VE) UBER",
+          "description": "Falafel (VE) Meal Deal",
+          "price": "£13.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1325,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/004e97c7432a8df36f121256e3bf30c6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6059e6db-0135-5418-a136-19fc4c855f7b",
+          "name": "MAKE A MEAL OF HOT CRISPY CHICKEN UBER",
+          "description": "Hot Crispy Chicken Meal Deal",
+          "price": "£14.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1445,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fcf7e7d724bf71411a807fd72a4817cd/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b91bffab-4a9f-5a3e-9f6c-864d8222f1b6",
+          "name": "MAKE A MEAL OF ITALIAN CHICKEN UBER",
+          "description": "Italian Chicken Meal Deal",
+          "price": "£13.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1325,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/90776ea408fe25e2e568a909e12d8d7b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c5fb5a4b-cc3c-5825-a911-89ab4b739882",
+          "name": "MAKE A MEAL OF JERK CHICKEN FLATBREAD UBER",
+          "description": "Jerk Chicken Flatbread Meal Deal",
+          "price": "£14.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1445,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/27e8a8e7b728881fef6387c1799d5737/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "eefc62b9-eae2-5260-b290-440b09538eb9",
+          "name": "MAKE A MEAL OF JERK CHICKEN UBER",
+          "description": "Jerk Chicken Meal Deal",
+          "price": "£13.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1325,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a3e23fa1aed19c922e1a696b357e12de/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fab5252f-b383-5ccd-843a-25ae1a1d5fcd",
+          "name": "MAKE A MEAL OF ROAST BEEF UBER",
+          "description": "Roast Beef Meal Deal",
+          "price": "£14.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1495,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/917e5e0191593ee16976608b6001699c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "10a7ef10-b5e5-5b98-82a6-d34c6ce8dc7a",
+          "name": "MAKE A MEAL OF SANDWICH SANDWICH CLUB UBER",
+          "description": "Sandwich Sandwich Club Meal Deal",
+          "price": "£14.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1495,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6826f69e3544bcd70aba8386ef5444da/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5ea9abf1-b952-53c3-a1ea-ca888659e6d1",
+          "name": "MAKE A MEAL OF SOUTHERN FRIED CHICKEN UBER",
+          "description": "Southern Fried Chicken Meal Deal",
+          "price": "£13.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1325,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ddcc327d3b4f3059757ee9922fadd520/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9a33f7a5-80dd-5bd0-9e6c-2ae8f722e37e",
+          "name": "MAKE A MEAL OF SPANISH CHICKEN UBER",
+          "description": "Spanish Chicken Meal Deal",
+          "price": "£13.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1325,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e4e3783a8c9288c3d5e2acfa1ff3ff22/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3d800f8c-951e-5549-a6d9-8cc5caa5e25c",
+          "name": "MAKE A MEAL OF TANDOORI CHICKEN UBER",
+          "description": "Tandoori Chicken Meal Deal",
+          "price": "£13.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1325,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/be9241da4c18dca91d1c41e678793609/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7cab2c02-aa71-57b7-8434-166686c38308",
+          "name": "MAKE A MEAL OF TUNA CRUNCH UBER",
+          "description": "Tuna Crunch Meal Deal",
+          "price": "£12.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/830c5cfc8a377055402b5bfa7d666e70/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "HOUSE CLASSICS",
+      "items": [
+        {
+          "id": "b3aa75d5-9164-5800-89c8-34f5eb725467",
+          "name": "ROAST BEEF",
+          "description": "Overnight Roasted Sirloin of Beef, Caramelised Red Onion Chutney,\nHorseradish Mayo, Rocket, Tomato & Red Onion.\n\nPlease note we are unable to guarantee that our food is allergen free due to the risk of cross-contact.",
+          "price": "£13.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1325,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dc8571ddfd044333d577bdad912a5d97/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1c9f94a4-8f66-50e5-9581-750ad0ac1a32",
+          "name": "SANDWICH SANDWICH CLUB",
+          "description": "Tender Roast Chicken Breast & Thick-Cut Back Bacon, Crowned with a Rich Soft-Boiled Egg Mayo. Finished with Crisp Cucumber, Ripe Tomato, and Peppery Rocket. Served on your choice of White, Granary or Gluten Free Bread.\n\nPlease note we are unable to guarantee that our food is allergen free due to the risk of cross-contact.",
+          "price": "£11.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/89a308dd5187770de683d6e26a147b2b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6b116b9c-0496-5292-bc15-06ad442055a9",
+          "name": "CHICKEN KYIV",
+          "description": "Chicken Kyiv, Breaded Chicken, Pulled Bacon, Garlic, Parmesan, Herby Soft Cheese, Caramelised Red Onions, Cucumber & Iceberg Lettuce.\n\nPlease note we are unable to guarantee that our food is allergen free due to the risk of cross-contact.",
+          "price": "£10.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1095,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c2520ed6f96825b6251b46657c7ce4ea/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b83eaaff-a0eb-5c2b-975b-df3149f92268",
+          "name": "SOUTHERN FRIED CHICKEN",
+          "description": "Sliced Southern Fried Chicken, House Coleslaw, Iceberg Lettuce, Cucumber, Red Onion & Spicy Creole Sauce.\n\nPlease note we are unable to guarantee that our food is allergen free due to the risk of cross-contact.",
+          "price": "£9.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 995,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/58cc8f0e0b6b8c2ff8111984ea6ffdf6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "863333cf-cc37-5294-8150-3a5b6d02df04",
+          "name": "TANDOORI CHICKEN",
+          "description": "Tandoori Chicken, Cucumber, Raisins, Iceberg Lettuce, Mint Yoghurt & Mango Chutney.\n\nPlease note that due to the nature of our production, we cannot guarantee the absence of cross-contamination with allergens.",
+          "price": "£10.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1075,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1cb93c54421de103c47ae4e2d83ef113/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "65b4a8be-4fce-5719-aecc-8238a272d932",
+          "name": "CORONATION CHICKEN",
+          "description": "Coronation Chicken, Mild Curried Mayo, Raisins, Fresh Cucumber, Iceberg Lettuce, Mango Chutney & Mint Yoghurt.\n\nPlease note we are unable to guarantee that our food is allergen free due to the risk of cross-contact.",
+          "price": "£10.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1075,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e41736445de335dd000b9b609439cffc/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e93072ae-f04e-5767-8be2-d41fc33eba25",
+          "name": "SPANISH CHICKEN",
+          "description": "Sliced Roast Chicken, Chorizo, Chorizo Oil & Paprika Soft Cheese, Spinach, Chimichurri Mayo, Cucumber, Tomato.\n\nPlease note we are unable to guarantee that our food is allergen free due to the risk of cross-contact.",
+          "price": "£10.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1075,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/635bcac2cd810df6dd335d45c5c0103a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f37dca54-9c30-5599-a482-c1a5c3efa331",
+          "name": "ITALIAN CHICKEN",
+          "description": "Sliced Roast Chicken, Salami, Pesto Soft Cheese, Chilli, Garlic + Parsley Mayonnaise, Tomato & Spinach.\n\nPlease note we are unable to guarantee that our food is allergen free due to the risk of cross-contact.",
+          "price": "£10.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1075,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/af56739b5238075e1117edfca8677e47/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f55fab39-203c-5e21-a617-ef3357167eaa",
+          "name": "EGG MAYO",
+          "description": "Free Range Egg Mayonnaise, Crushed Free Range Eggs, Mayonnaise, Vine Tomato & Rocket.\n\nPlease note we are unable to guarantee that our food is allergen free due to the risk of cross-contact.",
+          "price": "£10.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1075,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c01b2682e18417848268faac73c9309a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "44d4aea0-bcc4-5979-8e99-7afd9bdc195d",
+          "name": "TUNA CRUNCH",
+          "description": "Tuna, Sliced Peppers, Celery, Cucumber, Iceberg Lettuce, Red Onion & Mayonnaise.\n\nPlease note that due to the nature of our production, we cannot guarantee the absence of cross-contamination with allergens.",
+          "price": "£9.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 975,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/22cebcd9c3141b3a6bad889e346e8cd6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f0e6a192-4cc4-52ad-b62f-349de0a9f97b",
+          "name": "FALAFEL (VE)",
+          "description": "Homemade Falafel, Creamy Hummus, Spiced Tomato Chutney, Cucumber, Rocket, Tomato & Red Onion (VE).\n\nPlease note that due to the nature of our production, we cannot guarantee the absence of cross-contamination with allergens.",
+          "price": "£10.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1075,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/53afbb3c3b5125971ad37482098c27a6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "865b35d0-187d-5cb0-83a9-cebe16101ef7",
+          "name": "JERK CHICKEN *currently not halal",
+          "description": "Jerk Marinated Chicken, Creamy Coleslaw, Spicy Mayo, Jalapeños, Gherkins, Spinach & Tomato.\n\nPlease note we are unable to guarantee that our food is allergen free due to the risk of cross-contact.",
+          "price": "£10.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1075,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5ade112a26e0e8aa0c828a2428a8bc79/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "HOT FOOD",
+      "items": [
+        {
+          "id": "748ebf63-3934-5043-8474-095ad51ff629",
+          "name": "HOT CRISPY CHICKEN",
+          "description": "Crispy Fillet of Southern Fried Chicken, Hash Browns, Onion Rings, Iceberg Lettuce & House Creole Sauce.",
+          "price": "£11.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e295e7dcabeb43162685dfca115e530d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e750eaed-9ec3-5ffd-a6e5-b7318790c77b",
+          "name": "POSH FISH & CHIPS",
+          "description": "Crispy Battered Cod, Crushed Minty Peas, Hash Browns & Tartar Sauce.",
+          "price": "£11.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/17114ba1037e3cea5afd1d225e20e480/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "edd0eb46-72db-5765-b866-863fdb431124",
+          "name": "JERK CHICKEN FLATBREAD *currently not halal",
+          "description": "Spicy Jerk Chicken, Sauteed Onions, Cheddar Cheese, Jalepenos & House Creole Sauce.\n\nAll Served With Spinach & Crunchy House Salad.",
+          "price": "£11.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c9dc369b5c3f8716f2b06a44961a377b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "SAVOURIES",
+      "items": [
+        {
+          "id": "beadbf1a-e08c-5dc3-a8e8-0e2fad3ddd8f",
+          "name": "SOFT BOILED SCOTCH EGG",
+          "description": "Award-winning Whole Scotch Egg made with Cumberland Sausage and our Secret Crumb.",
+          "price": "£5.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 595,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a98aff1b7620325d5eba6aa7bef3cdab/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "SWEETS",
+      "items": [
+        {
+          "id": "515d0049-be9b-5b73-aa96-1aa249139009",
+          "name": "OREO CHEESECAKE",
+          "description": "Oreo Cheesecake",
+          "price": "£6.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 655,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5c1be00dd82d8cb7637ca2be81c197be/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "51a91797-d7e7-59cb-a418-2a6f70bcdfa3",
+          "name": "BISCOFF CHEESECAKE",
+          "description": "Biscoff Cheesecake",
+          "price": "£6.55",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 655,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8457541ccf915d23e7467b6e3e5e7725/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "41b956cc-e37d-59ba-8e82-e43781fa492a",
+          "name": "FUDGY CHOCOLATE BROWNIE",
+          "description": "N/A",
+          "price": "£5.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 540,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ddbc246ac220460a11b56c089e765d75/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "CRISPS",
+      "items": [
+        {
+          "id": "d7354346-5d09-53c0-85d7-d8b0c7095be0",
+          "name": "SEA SALT",
+          "description": "REAL CRISPS - SEA SALT - 35G (GF,VEGE)",
+          "price": "£1.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 165,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/04b28fccbcf100d3da0595bc8ea6be2e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4e5284ee-a808-5d10-96ea-4129407c99b8",
+          "name": "SEA SALT & CIDER VINEGAR",
+          "description": "REAL CRISPS - SALT & VINEGAR - 35G (GF,VEGE)",
+          "price": "£1.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 165,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/df79af4f4e06efc3fa2b7513a61f8e41/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "dfb128a0-203b-5efa-8a52-e708fb57c981",
+          "name": "STRONG CHEESE & ONION",
+          "description": "REAL CRISPS - STONG CHEESE & ONION - 35G (GF,VEGE)",
+          "price": "£1.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 165,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/256d40aa65d278e6cc880f4498568070/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c2e8662d-e9d7-5a03-9853-fc11944cc58a",
+          "name": "SWEET CHILLI",
+          "description": "REAL CRISPS - SWEET CHILLI - 35G (GF,VEGE)",
+          "price": "£1.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 145,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/94704bc85f0205b4722f40f955f3f472/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bca14a09-35b9-53ae-b4dc-5fd97175b221",
+          "name": "HAM & MUSTARD",
+          "description": "REAL CRISPS - HAM & MUSTARD - 35G",
+          "price": "£1.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 165,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/21bb8dc8e273abe7003e754c7eb4aafd/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "64c93266-5891-5649-a899-24f1664b9562",
+          "name": "ROAST OX",
+          "description": "REAL CRISPS - ROAST OX - 35G (GF,VEGE)",
+          "price": "£1.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 165,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4b6932cffae9549a29e89865aeb6c78e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "DRINKS",
+      "items": [
+        {
+          "id": "09a5caeb-9eab-5f36-84af-a6204193e5a6",
+          "name": "SAN PELLEGRINO - MELOGRANO & ARANCIA",
+          "description": "330ML",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/196a2817869399f8727f320326a7a938/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1e3bfe5e-9de2-50b6-8c95-61e8180a129e",
+          "name": "SAN PELLEGRINO - POMPELMO",
+          "description": "330ML",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0c1cb0ec0f2dea65d9282c1c666c8d91/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ac965339-f45e-5beb-bfae-edbe7187e4ff",
+          "name": "SAN PELLEGRINO - LEMON",
+          "description": "N/A",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f19ed54b96e338d3cdea416a4849cd4b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9763a02c-80f0-5f2a-b72c-c5e4f371d15f",
+          "name": "SAN PELLIGRINO ARANCIATA",
+          "description": "330ML",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/77ffb46442610e84963f90fec804bca2/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b4491d23-e462-5f8b-bad6-67e0c1f8d320",
+          "name": "SAN PELLEGRINO - BLOOD ORANGE",
+          "description": "N/A",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0934c152c67ebee320c4bb4650eab32f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "86c92f3c-b0c9-51bb-a4ab-2f340dc4416c",
+          "name": "DIET COKE",
+          "description": "330ML",
+          "price": "£1.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c8df6a0bb08147408854fcdf64ff5321/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7bb4b59b-3500-5d64-acfa-9fc97f448087",
+          "name": "COKE ZERO",
+          "description": "330ML",
+          "price": "£1.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f6a6230bad24f44be2ea0f64393f0542/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a44cdb76-d630-556e-8715-cd481086703c",
+          "name": "OASIS - CITRUS PUNCH",
+          "description": "N/A",
+          "price": "£2.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 235,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fe6173a2ca09876b5658ef7d7e86b4f9/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "239ee776-b468-52da-9f39-d7ee2d02a4c0",
+          "name": "DR PEPPER ZERO",
+          "description": "N/A",
+          "price": "£1.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 195,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/87f83f046be20b83912adf2581a246bd/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "source": "UberEats",
+  "postalCode": "RG1_1TT",
+  "timestamp": "2025-09-15T09:57:29.988Z",
+  "count": 75,
+  "data": [
+    {
+      "name": "Greggs",
+      "rating": "4.2",
+      "reviewCount": "54",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-reading-15-broad-st-mall/9l53r0yZUFilzRTANVrgEQ"
+    },
+    {
+      "name": "Waitrose & Partners",
+      "rating": "4.6",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/waitrose-%26-partners-caversham/_olEUnppW-OVWfnri0CgvQ"
+    },
+    {
+      "name": "Jollibee",
+      "rating": "4.2",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/jollibee-reading/2ng64pluSqqy6sqsEY5cqg"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "3.8",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/popeyes-reading/RU_EX3fUVtCBFJ8bjzH4yw"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.3",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-reading-2/A0xas_7bVfqGToh9WTTiwQ"
+    },
+    {
+      "name": "Burger King",
+      "rating": "4.3",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burger-king-reading-broad-street-mall-sc/RkBvLp5dR7CGfZF4YuPKIQ"
+    },
+    {
+      "name": "ASDA",
+      "rating": "4.1",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/asda-tilehurst/3rDjaYL_SXyVNmRDlRFuJQ"
+    },
+    {
+      "name": "Wendy's",
+      "rating": "4.1",
+      "reviewCount": "6,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wendys-reading/_U_5CiTBSPeomkF3_p84Gg"
+    },
+    {
+      "name": "Chaiiwala",
+      "rating": "4.2",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/chaiiwala-reading/kLhckO_dQK6hidwZbHn_hQ"
+    },
+    {
+      "name": "Taco Bell",
+      "rating": "4.0",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/taco-bell-reading/Z7fWQaW7S9Smr_XLStfItQ"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "4.3",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-reading/VF7aEKDzXjSeYExGbPZidg"
+    },
+    {
+      "name": "Starbucks ®",
+      "rating": "4.3",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-king-street/e1AxXJhqTx6wWiCdzmyZtQ"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.4",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/pret-a-manger-thames-tower/qX4ouP6xRpCeO_1v9UB2Bw"
+    },
+    {
+      "name": "Biryanish",
+      "rating": "4.0",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/biryanish/ybIh7N3xSbGk2ybRLDPG7g"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.7",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-reading-oracle-ctr/vynqwflrXmWkkPcJ2-4TSA"
+    },
+    {
+      "name": "Muffin Break",
+      "rating": "4.4",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/muffin-break-reading/V6FStxgsUpSvA4R3izqA5g"
+    },
+    {
+      "name": "Auntie Anne's",
+      "rating": "4.5",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/auntie-annes-reading/HxnQVMfJR623FzaegWnIEA"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.1",
+      "reviewCount": "350+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/caffe-nero-reading-apex-plaza/qD-JET0YRLGIKJn3FB7A9g"
+    },
+    {
+      "name": "Wenzels the Bakers",
+      "rating": "4.1",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wenzels-the-bakers-reading-broadstreet/TfqVaIO_W1K1YeavicSAWw"
+    },
+    {
+      "name": "RIZOUQ",
+      "rating": "4.0",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/rizouq/w6tKYv6dT9eM25SiW7KJQA"
+    },
+    {
+      "name": "The Grove Cafe",
+      "rating": "4.2",
+      "reviewCount": "290+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-grove-cafe/rPDj8cM6XRmRGCMu_4Ti8g"
+    },
+    {
+      "name": "The World Turned Upside Down",
+      "rating": "4.4",
+      "reviewCount": "380+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-world-turned-upside-down-stonehouse-berkshire-basingstoke-road/BX5OlnAsSXqZu6XKqOATyg"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.3",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-berkeley/EMjRXvslUWmm4rOwxULqlA"
+    },
+    {
+      "name": "The Avenue Deli",
+      "rating": "4.6",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-avenue-deli/ixBWC_txUOmHJpzGzYkeDg"
+    },
+    {
+      "name": "MADRAS FLAVOURS PURE INDIAN VEGETARIAN RESTAURANT",
+      "rating": "4.3",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/madras-flavours-pure-indian-vegetarian-restaurant/EnPFpFdeTbuUQsbIoEmeng"
+    },
+    {
+      "name": "Chopstix Noodle Bar",
+      "rating": "3.9",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/chopstix-noodle-bar-reading/9KU5zV3lT2aqh-k3Y1Y_EQ"
+    },
+    {
+      "name": "The Good Brothers",
+      "rating": "3.8",
+      "reviewCount": "19",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-good-brothers/l6H53Yr-T2eICBrwc6ifUw"
+    },
+    {
+      "name": "Pret a Manger",
+      "rating": "4.5",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/pret-a-manger-shinfield/Z1h7zgHZUI-ZRv8VdgrWMA"
+    },
+    {
+      "name": "Tasty Greek Souvlaki",
+      "rating": "4.7",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tasty-greek-souvlaki/cbVPZPpqR9OK-Zee4vbXYg"
+    },
+    {
+      "name": "Tariq Halal Reading",
+      "rating": "4.3",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/tariq-halal-reading/F4XXFfKDXRWFv7G7Q5NSxA"
+    },
+    {
+      "name": "Roosters Piri Piri",
+      "rating": "4.3",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/roosters-piri-piri-reading-west-st/3YnhfP9jQG2zw-fp_mlZjw"
+    },
+    {
+      "name": "Bodrum Corner Cafe",
+      "rating": "4.0",
+      "reviewCount": "16",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bodrum-corner-cafe/sQjH9VxcUXGB1pyCFlrctQ"
+    },
+    {
+      "name": "Boost Juice Bar",
+      "rating": "4.5",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/boost-juice-bar-unit-20-the-oracle/GGbGwBhQTDmYhZQuiwGWiw"
+    },
+    {
+      "name": "Spicy CHULLA Punjabi Restaurant",
+      "rating": "4.2",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/spicy-chulla-punjabi-restaurant/Z26QZaltTGKPXkLC-t6rpQ"
+    },
+    {
+      "name": "Bubbleology",
+      "rating": "4.3",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bubbleology-reading/itD6x0TEXgu8x5ZP5o00Iw"
+    },
+    {
+      "name": "Crispy Dosa",
+      "rating": "4.1",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/crispy-dosa-reading/o3Z1czaQT_O_s6uxqnBDyA"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts & Coffee",
+      "rating": "4.7",
+      "reviewCount": "59",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-doughnuts-%26-coffee-reading-station/Of_JxT96UoK3Z57cLmKrGA"
+    },
+    {
+      "name": "Slamburger Reading",
+      "rating": "4.3",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/slamburger-reading/wsUbmrHMVmWvWXUC1GJPkA"
+    },
+    {
+      "name": "Bracknell Burger Van",
+      "rating": "4.6",
+      "reviewCount": "97",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bracknell-burger-van/M7QLUZ0mVwCyXl_my0WS9A"
+    },
+    {
+      "name": "Chaaye Paani",
+      "rating": "4.4",
+      "reviewCount": "95",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chaaye-paani-reading/filA0E6aXKK8GX5gN6jVXQ"
+    },
+    {
+      "name": "bp M&S Food Tilehurst",
+      "rating": "4.4",
+      "reviewCount": "20",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/bp-m%26s-food-tilehurst/evCmFon6U5-3p-XYEpFMVA"
+    },
+    {
+      "name": "Coffee #1",
+      "rating": "4.6",
+      "reviewCount": "54",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/coffee-1-woodley/xPw2pgEkX0eX7_rj7KEN-Q"
+    },
+    {
+      "name": "Your Local Convenience Store",
+      "rating": "4.5",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/your-local-convenience-store/f_NPAYqNRgSU1H8i5QhhvQ"
+    },
+    {
+      "name": "Switch Cafe Tilehurst Reading",
+      "rating": "4.0",
+      "reviewCount": "27",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £35)"
+      ],
+      "url": "https://www.ubereats.com/store/switch-cafe-tilehurst-reading/vRKUpYSQW_u6mD2WwP82kw"
+    },
+    {
+      "name": "Your Co-Op Food",
+      "rating": "4.8",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/your-co-op-food-earley/dmz-vyNOXWOhDWLVj64QiA"
+    },
+    {
+      "name": "Carluccio's Reading",
+      "rating": "4.3",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/carluccios-reading/WrOLO0HOQmqCZpDSEiXjNQ"
+    },
+    {
+      "name": "Meat Wala",
+      "rating": "4.8",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/meat-wala-halal-butcher/eWIp8MonW9CkvcCKqNvr2A"
+    },
+    {
+      "name": "One Stop Theale",
+      "rating": "4.6",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-theale/omXp6AoqWA2F4Spy9Wv2_Q"
+    },
+    {
+      "name": "Majestic Wine",
+      "rating": "In-store prices",
+      "reviewCount": "",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/majestic-wine-reading/Tw34z_ZmWbazEUs_lSkhBg"
+    },
+    {
+      "name": "itsu [sushi, noodles & rice'bowls]",
+      "rating": "4.7",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/itsu-sushi-noodles-%26-ricebowls-reading/eF0DEUgyROe2W-d6Ivfl-Q"
+    },
+    {
+      "name": "MON CHÉRI",
+      "rating": "4.5",
+      "reviewCount": "35",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mon-cheri/e2d5n-N2RtG4_aD6yK3jVw"
+    },
+    {
+      "name": "Cafe Express",
+      "rating": "4.2",
+      "reviewCount": "340+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-express/-FJ1hlV7UriRd0-ck1mnBA"
+    },
+    {
+      "name": "Woodley Cafe",
+      "rating": "4.0",
+      "reviewCount": "14",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/woodley-cafe/TRKpL5LiXl6qU8tajtTJqw"
+    },
+    {
+      "name": "Salt and Smash",
+      "rating": "4.5",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/salt-and-smash/qDHG3nQOX2qCWSnHVcJUEQ"
+    },
+    {
+      "name": "Dailyz",
+      "rating": "4.4",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dailyz/Xc_WyKS6SbWzVcuiN19qmg"
+    },
+    {
+      "name": "KingKebab",
+      "rating": "3.9",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "10% off (Spend £35)"
+      ],
+      "url": "https://www.ubereats.com/store/kingkebab-bracknell-leisure-centre/4xRPD1mtSqOplBg1h72TYw"
+    },
+    {
+      "name": "Treatz",
+      "rating": "4.1",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/treatz-reading/tExzUM0BTfu_BMZEMSYqWQ"
+    },
+    {
+      "name": "Bubble CiTea",
+      "rating": "4.4",
+      "reviewCount": "65",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bubble-citea-reading/E2y55sYTV0OO2PW4TNDBGQ"
+    },
+    {
+      "name": "Southern Co-Op Binfield",
+      "rating": "4.1",
+      "reviewCount": "73",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/southern-co-op-binfield/26NI9zK0V6Oh-qw4A5B98A"
+    },
+    {
+      "name": "Shop'N Drive",
+      "rating": "4.2",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shopn-drive-reading/D7aEIuljRJmo9-5UmClBFg"
+    },
+    {
+      "name": "Morrisons Daily Reading",
+      "rating": "4.7",
+      "reviewCount": "7",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/morrisons-daily-reading/O7fyJiaJXx6TABzDLDoydQ"
+    },
+    {
+      "name": "Panku",
+      "rating": "3.3",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/panku-lower-earley-asda/ZOWfFhK4Wa2SL83PM_E3Ow"
+    },
+    {
+      "name": "One Stop Stores Spencers Wood",
+      "rating": "4.3",
+      "reviewCount": "57",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-stores-spencers-wood/VbVyfaU8XsSM88W00X9p-Q"
+    },
+    {
+      "name": "Herbies Pizza",
+      "rating": "4.5",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/herbies-pizza-13b-the-parade-silverdale-rd/cHNqqxhFRu6Szl95CXl2hw"
+    },
+    {
+      "name": "Reading Local Ltd",
+      "rating": "4.6",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/reading-local-ltd/Zgm6EeyfWVqP2tY04m5Wsw"
+    },
+    {
+      "name": "Grilko",
+      "rating": "3.7",
+      "reviewCount": "16",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/grilko/mtsyh6vrUcSAYV1X3waWuQ"
+    },
+    {
+      "name": "Shell Fairfield",
+      "rating": "3.7",
+      "reviewCount": "28",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shell-fairfield/wv524BIOWbitlUYjLgok2g"
+    },
+    {
+      "name": "Cake Inn",
+      "rating": "4.6",
+      "reviewCount": "15",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cake-inn/UVY9BhOaX7Oz7w8E1c3NkQ"
+    },
+    {
+      "name": "Co-Op Franchise Charvil",
+      "rating": "4.1",
+      "reviewCount": "69",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/co-op-franchise-charvil/e_ZCo1QSR0W5rje9O1CQAw"
+    },
+    {
+      "name": "Boozify",
+      "rating": "3.8",
+      "reviewCount": "64",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/boozify-basingstoke/nA5BMutOSLa3uQb_fQzpwQ"
+    },
+    {
+      "name": "McDonald's®",
+      "rating": "4.0",
+      "reviewCount": "5,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mcdonalds-friar-street-reading/fH96pjEGRCql-YjMEvtj5g"
+    },
+    {
+      "name": "Pierre's Baguettes",
+      "rating": "4.7",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pierres-baguettes/XYXFuo3TWV2zMfr7M8QjlQ"
+    },
+    {
+      "name": "DeNata",
+      "rating": "4.8",
+      "reviewCount": "4",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/denata/NwFZRx6SQoind2MmI3RTYQ"
+    },
+    {
+      "name": "Richfields Deli & Grill",
+      "rating": "4.3",
+      "reviewCount": "85",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/richfields-deli-%26-grill/tlzReC3YSpypNwTkLykEow"
+    },
+    {
+      "name": "Morrisons",
+      "rating": "3.8",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-reading/JgpmmGGJXsynoyN-WGsdgQ"
+    }
+  ]
+}

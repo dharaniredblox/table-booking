@@ -1,0 +1,915 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/chaiiwala-bristol/Z-tlhijKVKyvx7nl4YhiDQ",
+  "name": "Chaiiwala (Bristol)",
+  "servesCuisine": [
+    "Indian",
+    "Vegetarian",
+    "Asian",
+    "Halal",
+    "Breakfast and Brunch",
+    "Paratha",
+    "Group Friendly"
+  ],
+  "priceRange": "₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/591ef7f4a5c03da1563714270c0997b5/dfe73df3a8123af1971eabf3eeff9ac1.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/591ef7f4a5c03da1563714270c0997b5/63d18745892c100be9e4ef3c560c9204.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/591ef7f4a5c03da1563714270c0997b5/20fa9288fdc01be28055baedd768dc37.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/591ef7f4a5c03da1563714270c0997b5/b15c9ad51e970f3ee593eca3d03cee54.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/591ef7f4a5c03da1563714270c0997b5/492abbfd79da0fd117a23fd2a6cf3df9.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/591ef7f4a5c03da1563714270c0997b5/db809eadd12d21eb61044e0f3bf7c9b7.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/chaiiwala-bristol/Z-tlhijKVKyvx7nl4YhiDQ?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet",
+      "http://purl.org/goodrelations/v1#DeliveryModePickUp"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "EMEA",
+    "postalCode": "BS5 6NR",
+    "addressCountry": "GB",
+    "streetAddress": "442 Stapleton Road"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.4701364,
+    "longitude": -2.5644588
+  },
+  "telephone": "+441173690786",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.4,
+    "reviewCount": "2000"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "9:0",
+      "closes": "0:30"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "name": "Chaiiwala Favourites",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "A. Desi Breakfast",
+            "description": "masala omelette with masala beans, daal or chana 2x classic rotis / parathas / toast &amp; karak chaii/ karak coffee",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "B. Karak Chaii",
+            "description": "Our world famous traditional chaii (tea) freshly brewed with our very own aromatic spices and creamy milk",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "C. Butter Chicken Bombay Bowl",
+            "description": "Succulent masala butter chicken, served with steamed basmati rice or freshly fried chips.  Accompanied by a savory chickpea and potato salad a refreshing traditional house slaw, finished off with a classic chutney",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "D. Mixed Kebab Naan",
+            "description": "Lamb keema,chicken tikka, chicken sheekh kebabs, with fresh onions and drizzled with a yogurt &amp; mint chutney",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "E. Spiced Chicken Sausage &amp; Egg Wrap",
+            "description": "Spiced chicken sausage and masala omelette wrapped in a classic roti, bursting with flavour and high in protein",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "G. Chicken Tikka Melt Toastie",
+            "description": "A unique twist on a classic comfort food favourite.  Tender chicken tikka, melted cheese and a touch of mayo, creating a irresistible grilled cheese experience",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.85",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "All Day Breakfast",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Halwa Puri",
+            "description": "Traditional breakfast that features semolina pudding (halwa), served with two fried bread puffs (puri)",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Aloo Paratha",
+            "description": "Signature paratha filled with spiced potato, served with yoghurt and mint chutney",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "English-ish Breakfast",
+            "description": "Masala omelette with masala beans, 2 lamb bacon rashers, 2 chicken sausages, 2 hash browns &amp; 2 slices of toast",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Desi Breakfast",
+            "description": "masala omelette with masala beans, daal or chana 2x classic rotis / parathas / toast &amp; karak chaii/ karak coffee",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Omelette Wrap",
+            "description": "Masala omelette wrapped in classic roti, bursting with flavour and high in protein",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lamb Bacon &amp; Egg Wrap",
+            "description": "Lamb bacon and masala omelette wrapped in a classic roti bursting with flavour and high in protein",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Spiced Chicken Sausage &amp; Egg Wrap",
+            "description": "Spiced chicken sausage and masala omelette wrapped in a classic roti, bursting with flavour and high in protein",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.20",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Wala Wraps",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Tikka Wala Wrap",
+            "description": "Chicken tikka wrapped in a pillowy naan, with fresh onions, tomatoes and drizzled with a yogurt &amp; mint chutney",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Kebab Wala Wrap",
+            "description": "Chicken sheekh kebabs wrapped in a pillowy naan, with fresh onions and drizzled with a yogurt &amp; mint chutney",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mixed Kebab Naan",
+            "description": "Lamb keema,chicken tikka, chicken sheekh kebabs, with fresh onions and drizzled with a yogurt &amp; mint chutney",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bombay Twister",
+            "description": "Hoy and spicy chicken tenders, with a blend of cheese sauce, drizzled with ketchup and mayo all wrapped up in a soft fluffy naan",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Bombay Toasties",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Bombay Sandwich",
+            "description": "A street food classic, toasted bread slices filled with aloo (potatoes), infused with classic spices and finished with a classic green chutney",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Butter Chicken &amp; Slaw Toastie",
+            "description": "A mixture of butter chicken and house slaw.  Toasted between 2 slices of bread",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese &amp; Masala Beans Toastie",
+            "description": "A classic mixture of melted cheese and masala beans toasted between 2 slices of bread",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Tikka Melt Toastie",
+            "description": "A unique twist on a classic comfort food favourite.  Tender chicken tikka, melted cheese and a touch of mayo, creating a irresistible grilled cheese experience",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.85",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Kids",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Nuggets &amp; Chips",
+            "description": "Chicken nuggets served with chips and drink",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.45",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Street Food",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Masala Chips",
+            "description": "Freshly fried chips smothered in a sweet and spicy tomato sauce garnished with spring onions, best served with cheese",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.55",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Butter Chicken Roll",
+            "description": "Succulent shredded masala butter chicken in a classic roti",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Karachi Bun Kebab",
+            "description": "street-famous burger made with minced lamb patty topped with spicy egg and onions, and a tamarind and mango chutney",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Aloo Tikki Burger",
+            "description": "Crispy spiced potato croquette sandwiched in a bun with onions, tomatoes, house slaw &amp; tamarind chutney",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kebab Roll",
+            "description": "Chicken sheekh with mint yoghurt sauce topped with fresh onions, wrapped in a paratha",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Plain Chips",
+            "description": "Freshly fried chips",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Samosa Chaat",
+            "description": "Ultimate roadside snack - boxed off - with samosas, chickpeas, onions and tomatoes with tamarind chutney and yoghurt",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.15",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pani Puri Poppers",
+            "description": "Call it Pani Puri or Gol Gappe - they taste amazing either way - served with chana mix and tamarind pani",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.15",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Loaded Chips",
+            "description": "Freshly fried chips with chicken tikka or veg kebab chunks, tomatoes, onions, green chillies, cheese, a special blend of sauces and our gunpowder spice mix",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Poppadom Nachos",
+            "description": "Crispy poppadoms piled high with a tangy tomato curry sauce, melted cheese and a vibrant mix of onions, tomatoes and jalapenos.  A unique twist on a classic favourite",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vada Pav",
+            "description": "Authentic taste of Mumbai, crispy potato fritter, seasoned with gunpowder spice blend, nestled in a soft bun with tangy green chutney",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.45",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Bombay Bowls",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Butter Chicken Bombay Bowl",
+            "description": "Succulent masala butter chicken, served with steamed basmati rice or freshly fried chips.  Accompanied by a savory chickpea and potato salad a refreshing traditional house slaw, finished off with a classic chutney",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chana Masala Bombay Bowl",
+            "description": "Lahori style chana masala, served with steamed basmati rice or freshly fried chips.  Accompanied by a savory chickpea and potato salad a refreshing traditional house slaw, finished off with a classic chutney",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Autumn Promo",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Iced Chocolate Cloud",
+            "description": "A velvety smooth cold chocolate, covered with cream and crowned with a cotton candy dome",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "French Toast",
+            "description": "A crunchy toast bake with a molten chocolate centre, served with fresh strawberries and a scoop of ice cream",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.70",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Grab &amp; Go",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Punjabi Samosa",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Aloo Tikki Individual",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Triple Belgian Choc Cookie",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.15",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese &amp; Jalapeno Pasty",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Sausage Roll",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken &amp; Sweetcorn Pasty",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chilli Lemon Corn Nuts",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bombay Mix",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tandoori Peanuts",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Desserts",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Nutella Wrap",
+            "description": "Famous hazlenut chocolate spread over a delicious paratha",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.55",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gulab Jamun",
+            "description": "fried dough balls soaked in a sweet sugar syrup",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sugared Donuts",
+            "description": "10 freshly fried donuts generously sprinkled with sugar",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Loaded Donuts",
+            "description": "10 freshly fried donuts smoothered with milk or white chocolate with a choice of toppings",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Dream Cake",
+            "description": "Layers of rich chocolate cake and smooth ganache, a chocolate lover's dream",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.15",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Rocky Road Cheesecake",
+            "description": "Rich, decadent layers of chocolate and vanilla cheesecake, topped with brownie cubes and finished with a crunchy brownie base",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.15",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Hot Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Karak Chaii",
+            "description": "Our world famous traditional chaii (tea) freshly brewed with our very own aromatic spices and creamy milk",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pink Chaii",
+            "description": "creamy milky pink tea with vanilla and aromatic spices",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chaii Latte",
+            "description": "a milky aromatic velvety tea",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Garam Chocolate",
+            "description": "smooth hot chocolate Chaiiwala style",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Karak Coffee",
+            "description": "A rich and creamy milky brewed coffee with a touch of sweetness and a hint of karak magic",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Karak Chaii (No added Sugar)",
+            "description": "Our world famous traditional chaii (tea) freshly brewed with our very own aromatic spices and creamy milk.  No sugar",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cold Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Falooda Mango Milkshake",
+            "description": "mango milkshake with ice cream topped with nuts, almonds and pistachios",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Karak Coffee",
+            "description": "milky coffee with ice and caramel",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Karak Chaii",
+            "description": "strong brewed tea with ice and caramel",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pink Chaii Frappe",
+            "description": "pink chaii blended with ice",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Falooda Rose Milkshake",
+            "description": "rose milkshake with ice cream topped with nuts, almonds and pistachios",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Limbu Pani Lemonade",
+            "description": "Tangy &amp; refreshing zesty thirst-quenching still lemon drink",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Karak Coffee Frappe",
+            "description": "karak coffee blended with ice",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Karak Chaii Frappe",
+            "description": "karak chaii blended with ice",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Pink Chaii",
+            "description": "pink chaii with ice and vanilla",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Bottled Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Simply Fruity Orange",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Simply Fruity Blackcurrant",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Zanti Cola",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Water Glass Bottle",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.30",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sides",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Classic Paratha",
+            "description": "layered puffy flatbread",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Classic Roti",
+            "description": "round flatbread",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cream Cheese Paratha",
+            "description": "Signature paratha with cream cheese",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.55",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Grilled Cheese Naan",
+            "description": "The desi take on the classic grilled cheese. Spice it up with green chillies and onions",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.55",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "ICE CREAM",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Pistachio Fix Ice Cream",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.55",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

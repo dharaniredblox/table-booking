@@ -1,0 +1,1802 @@
+{
+  "restaurant_id": "subwaybroadquay-BS14-51",
+  "source_id": "f3f275cd-da7d-4e9d-9f74-44cf3481a946",
+  "restaurant_url": "https://www.ubereats.com/store/subway-broad-quay/8_J1zdp9Tp2fdETPNIGpRg",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:22:42.385Z",
+  "restaurant": {
+    "name": "Subway (Broad Quay)",
+    "slug": "subway-broad-quay",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441179297389",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "Broad Quay, Bristol, Bristol BS1 4",
+    "streetAddress": "BROAD QUAY",
+    "addressCity": "bristol-eng",
+    "neighborhood": "west-end-bristol-eng",
+    "addressRegion": "Bristol",
+    "postalCode": "BS1 4",
+    "addressCountry": "GB",
+    "latitude": 51.4522993,
+    "longitude": -2.5967819,
+    "geohash": "gcnhsy",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 3.9,
+    "totalReviews": "2000+",
+    "workingHours": "Open until 3:59 AM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Sandwich",
+      "Breakfast and Brunch",
+      "Salads",
+      "Healthy"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Sunday",
+      "hours": [
+        {
+          "open": "00:00",
+          "close": "23:59",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Monday - Thursday",
+      "hours": [
+        {
+          "open": "07:00",
+          "close": "23:59",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Friday - Saturday",
+      "hours": [
+        {
+          "open": "00:00",
+          "close": "23:59",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Meal Deals",
+      "items": [
+        {
+          "id": "40d1a44b-2bf6-5676-9d74-10e6372b4764",
+          "name": "6 inch Meal Deal",
+          "description": "6 inch Meal Deal",
+          "price": "£7.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 729,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5a69a80dd51c70a16f31bc5a24ebddf9/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "777d8202-3edb-5a9d-9ff2-7a56ed26ba2f",
+          "name": "Footlong Meal Deal",
+          "description": "Footlong Meal Deal",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/97ab33056a7fa82a615cf713c391250f/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "739f7609-0080-5452-9331-5215dc59c70c",
+          "name": "Wrap Meal Deal",
+          "description": "Wrap Meal Deal",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d038f0138f87d3a15cf235e4c2f877e8/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c8dadafb-666e-5320-a849-bf4f2af850a4",
+          "name": "Salad Meal Deal",
+          "description": "Salad Meal Deal",
+          "price": "£8.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 899,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/24ff596b27c2d9c5eb7b6cf5186b57ca/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2a6b1ec5-2848-5c46-9d38-43f7475dc9d2",
+          "name": "Jacket Potato Meal Deal",
+          "description": "Jacket Potato Meal Deal",
+          "price": "£7.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 799,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2669decbb7440663e076af260e79c3f0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "75cfaa23-5842-5dbd-aee9-e5b9df6b5373",
+          "name": "6 inch Meal Deal for 2",
+          "description": "6 inch Meal Deal for 2",
+          "price": "£16.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1699,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8461bbacea550d0083232ff91f1befd0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2137970a-09a7-5ce1-aaae-fa089e38469a",
+          "name": "Footlong Meal Deal for 2",
+          "description": "Footlong Meal Deal for 2",
+          "price": "£21.09",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2109,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/223ea65e2d0bebda1f080e4028c0ece4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "What's New?",
+      "items": [
+        {
+          "id": "38779e80-3b87-56cf-8883-16d2b255246b",
+          "name": "NEW Baked Beans & Cheese Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese, baked beans and all the fresh salad and sauces you like.",
+          "price": "£7.52",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 752,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/027d40caaadcce4f51ad017337e7577d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d0eac6dc-bfe0-5f8a-a32c-2aa336fd5764",
+          "name": "NEW Tuna Mayo & Cheese Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese, tuna with lite mayo and all the fresh salad and sauces you like.",
+          "price": "£9.21",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 921,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a9d14cc06b06ef632bcbf6bcae167c60/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ad898223-3714-5065-acb3-41c52d6b6d44",
+          "name": "NEW Taco Beef & Cheese Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese, taco beef and all the fresh salad and sauces you like.",
+          "price": "£8.04",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 804,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4b7883e8c5c49420f24cdeaabe2e38ae/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d09dbba9-3cca-5c2d-aecf-b5c5331f943f",
+          "name": "NEW Chicken Tikka & Cheese Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese, chicken tikka and all the fresh salad and sauces you like.",
+          "price": "£9.21",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 921,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/62f4375c7a0b4e48e03ae8c2d9ec600f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e9dd1793-f8e4-5a28-9741-788d6bc9d50d",
+          "name": "NEW Big Breakwich Jacket Potato",
+          "description": "Big Breakwich Jacket Potato. Comes with butter, a double portion of cheese, lincolnshire sausage patty, poached egg, hash browns, streaky bacon, and ketchup.",
+          "price": "£10.38",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1038,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6042843cab8d08f2ee5aa2a60a0cc195/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "22d1152e-c5ec-5b30-bfcb-d840944da0ae",
+          "name": "NEW Plant Patty & Cheese Jacket Potato (VE)",
+          "description": "Create your own Jacket Potato. With a double portion of vegan cheese, a vegan patty and all the fresh salad and sauces you like. (VE) Suitable for vegan diet.",
+          "price": "£10.12",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1012,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4fa86a3a495a146574d57c8acb7e0010/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "0c46ffae-89ab-58a0-bfc1-2404557987c5",
+          "name": "NEW Doritos® Nachos",
+          "description": "Doritos® Lightly Salted, Chilli Heatwave or Tangy Cheese nachos, with salsa and melted mozzarella & cheddar cheese",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/418c1d4d695c83e004f36656d83dec73/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6f10fad7-1218-5eac-81f0-08c686249841",
+          "name": "NEW Doritos® Sharer Nachos",
+          "description": "Sharer portion of Doritos® Lightly Salted, Chilli Heatwave or Tangy Cheese Nachos, with salsa and melted mozzarella & cheddar cheese",
+          "price": "£6.48",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 648,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/71f06d131423bc16b7374bf29a2644a0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Specials",
+      "items": [
+        {
+          "id": "af7c9f40-08c7-511e-aa0a-f7c3a8e1656a",
+          "name": "Notorious B.M.T.®",
+          "description": "Ham‡, pepperoni, salami, American-style cheese, lettuce, tomatoes, cucumbers, red onions, chipotle Southwest sauce. ⧧Formed Meat",
+          "price": "£9.08",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 908,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e9982b9f41bb40495cd6621a7f7ff91b/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9340728e-b463-5ccb-8831-e3d93d9137f3",
+          "name": "Honey Mustard BBQ",
+          "description": "Rotisserie-Style Chicken, Streaky Bacon, American Cheese, Lettuce, Tomato, Cucumber, Peppers, Onions, BBQ Sauce, Honey Mustard Sauce",
+          "price": "£8.82",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 882,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aed7c858b4bf2cdfb79ccbf58535f164/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "949734f9-0911-544e-9508-3b520b367a37",
+          "name": "Big Bombay",
+          "description": "Chicken tikka, double American-style cheese, red onions, lettuce, peppers, sweet onion and garlic & herb sauces.",
+          "price": "£9.08",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 908,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7585642e0ddea0e1e51855b38634d278/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "11aec889-9aaa-55f4-957e-198ee810afc8",
+          "name": "Tex Mexan",
+          "description": "Chicken breast, grated mozzarella & cheddar, Doritos®, tomato salsa, sweetcorn, peppers, x-spicy chipotle Southwest sauce.",
+          "price": "£8.04",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 804,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bdc90e9005052f745715129323d80859/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5403f938-2f46-5e5e-92ce-482780379a8c",
+          "name": "Legendary Teriyaki",
+          "description": "Chicken breast, American-style cheese, lettuce, cucumbers, peppers, crispy onions, sweet onion and teriyaki sauces.",
+          "price": "£9.08",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 908,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/90a5c1bedfb6ec66341db8501cd9dcf0/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "cecbccd1-0bb0-55e6-aac5-90d0fbc192b5",
+          "name": "The Baller",
+          "description": "Pork & beef meatballs, pepperoni, American-style cheese, crispy onions, peppers, marinara sauce.",
+          "price": "£9.08",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 908,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/272527536eae653d8ae3704ad5dfd53d/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "43fdec42-86d0-5ac6-82e8-b9a02930aeaf",
+          "name": "Big Breakwich",
+          "description": "Streaky bacon, Lincolnshire sausage patty, American-style cheese, hash browns, poached eggs, ketchup.",
+          "price": "£8.82",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 882,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/900bf7858ffa4ecbfcdab577e0f76ebe/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "df735a28-6b03-5190-8954-8e2b61589cc7",
+          "name": "Mexicana Beef Crunch",
+          "description": "Taco Beef, American Cheese, Lightly Salted Doritos®, Smashed Avocado, Lettuce, Tomatoes, Peppers, Onions, Jalapeños, Chipotle Southwest Sauce.",
+          "price": "£7.91",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 791,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9b31d1842523655cb3977b640869b87f/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Classics",
+      "items": [
+        {
+          "id": "503e91b0-c3fc-5674-a772-a87ec8677d6d",
+          "name": "Classic B.M.T.®",
+          "description": "Previously known as Deli Meats. Create your own Classic B.M.T.® Sub. Filled with pepperoni, salami and ham⧧ and all the fresh salad and sauces you like. ⧧Formed Meat",
+          "price": "£7.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 765,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/05e8a62aafdb611c0eae8dd67252e26e/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e34eaa97-c2db-5d88-948f-2feb07fd10f8",
+          "name": "Ham",
+          "description": "Create your own Ham‡ Sub. With all the fresh salad and sauces you like. ⧧Formed Meat",
+          "price": "£6.61",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 661,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/673dbfe18f9ec1a57958ceec88ec99e4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "273adfb5-a69a-5963-8637-b96af7d48461",
+          "name": "Spicy Italian",
+          "description": "Create your own Spicy Italian Sub. With Salami, Pepperoni, Cheese and all the fresh salad and sauces you like.",
+          "price": "£7.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 765,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/65f3d53dbd569a03f3cb68bc44076d4b/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f07f0877-a8d1-53fc-bc85-cd55697932cb",
+          "name": "Turkey Breast",
+          "description": "Create your own Turkey Breast‡ Sub. With all the fresh salad and sauces you like. ⧧Formed Meat",
+          "price": "£6.61",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 661,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/944dc3f63adcb118dd5ebf9667a9cf99/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "782593bf-fbe7-51b3-b28b-fb8f52c17154",
+          "name": "Turkey & Ham",
+          "description": "Create your own Turkey & Ham Sub. With Turkey, Ham‡, Cheese and all the fresh salad and sauces you like. ‡Formed meat.",
+          "price": "£7.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 765,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a1eebcb9111bc7e9841f1795a10346d8/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5bb2de32-0b78-5e21-9a5d-b26630cd38d4",
+          "name": "Chicken Breast",
+          "description": "Create your own Roast Chicken Breast Sub. With all the fresh salad and sauces you like.",
+          "price": "£7.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 765,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/36e9a5c84af2214ffe1921ac231c3a79/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "dd06154d-85c6-5c01-80a1-b2dea3617504",
+          "name": "Rotisserie-Style Chicken",
+          "description": "Create your own Rotisserie-Style Chicken Sub. With all the fresh salad and sauces you like",
+          "price": "£7.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 765,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7aa54734de54b065676d42ec03be1548/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1561518d-2bc0-5a34-8632-4f144ada664c",
+          "name": "Chicken Tikka",
+          "description": "Create your own Chicken Tikka Sub. With all the fresh salad and sauces you like.",
+          "price": "£7.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 765,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/62845fbf0a5eeb55ac2b0b0b69455dfd/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f9c3f3f9-f299-5e92-a3e1-35dc90042c80",
+          "name": "Tuna Mayo",
+          "description": "Create your own Tuna with lite mayo Sub. With all the fresh salad and sauces you like.",
+          "price": "£7.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 765,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ab8d0c4de9e6d0283b8cce0c9a4cd211/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7737413e-1389-5dbd-9300-bd5da7a6c72c",
+          "name": "Taco Beef",
+          "description": "Create your own Taco Beef sub. With all the fresh salad and sauces you like.",
+          "price": "£6.61",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 661,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/810758aefdeb67ce9a54c59c36ba20a0/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6f565b72-92e1-5a96-82be-211258b4f4f9",
+          "name": "Meatball Marinara",
+          "description": "Create your own Meatball Marinara Sub. With all the fresh salad and sauces you like.",
+          "price": "£7.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 765,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9bd2eb29a90110699cb08ea883343342/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "dd7bbd51-f8d4-5209-923c-98b881fdca1f",
+          "name": "Veggie Delite®",
+          "description": "Create your own Veggie Delite® Sub. With all the fresh salad and sauces you like. (V) Suitable for vegetarian diet.",
+          "price": "£6.61",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 661,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ca7afc5cc9eec944a1f27a92e8c3a341/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c4ff7a27-26a2-5048-b081-580095eab46b",
+          "name": "Cheese & Guacamole",
+          "description": "Create your own Cheese & Guacamole Sub. With Cheese, Smashed Avocado and your choice of all the fresh salad and sauce you like.",
+          "price": "£7.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 700,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6fd06dc11898bdee86d48c822b15c644/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3c6d0957-c44c-5ac6-b491-289532bb8ce6",
+          "name": "Plant Patty (VE)",
+          "description": "Create your own Plant Patty Sub. With all the fresh salad and sauces you like. (VE) Suitable for vegan diet.",
+          "price": "£8.56",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 856,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ea4d7f9c87fff853cc7fdec7c1a69ff0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "NEW - Special Jacket Potatoes",
+      "items": [
+        {
+          "id": "dd3107ce-a60b-5258-997f-b39c1e241b70",
+          "name": "NEW Tex Mexan Jacket Potato",
+          "description": "Tex Mexan Jacket Potato. Comes with butter, a double portion of cheese, chicken breast, salsa, peppers, sweetcorn, x-spicy chipotle southwest sauce, Doritos® lightly salted nachos.",
+          "price": "£9.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 960,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/23e92319a3ffec5a9287f30ff17d23d5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e9dd1793-f8e4-5a28-9741-788d6bc9d50d",
+          "name": "NEW Big Breakwich Jacket Potato",
+          "description": "Big Breakwich Jacket Potato. Comes with butter, a double portion of cheese, lincolnshire sausage patty, poached egg, hash browns, streaky bacon, and ketchup.",
+          "price": "£10.38",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1038,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6042843cab8d08f2ee5aa2a60a0cc195/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d6c64b4d-3bb2-5d47-a46b-5d66c5b2a1d2",
+          "name": "NEW Mexicana Beef Crunch Jacket Potato",
+          "description": "Mexicana Beef Crunch Jacket Potato. Comes with butter, a double portion of cheese, taco beef, guacamole, lettuce, tomatoes, peppers, onions, jalapeños, chipotle southwest sauce, and Doritos® lightly salted nachos.",
+          "price": "£9.47",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 947,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/714c2a25b6419aca1d53d1b58b8de57c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "NEW - Classic Jacket Potatoes",
+      "items": [
+        {
+          "id": "38779e80-3b87-56cf-8883-16d2b255246b",
+          "name": "NEW Baked Beans & Cheese Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese, baked beans and all the fresh salad and sauces you like.",
+          "price": "£7.52",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 752,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/027d40caaadcce4f51ad017337e7577d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d0eac6dc-bfe0-5f8a-a32c-2aa336fd5764",
+          "name": "NEW Tuna Mayo & Cheese Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese, tuna with lite mayo and all the fresh salad and sauces you like.",
+          "price": "£9.21",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 921,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a9d14cc06b06ef632bcbf6bcae167c60/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ad898223-3714-5065-acb3-41c52d6b6d44",
+          "name": "NEW Taco Beef & Cheese Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese, taco beef and all the fresh salad and sauces you like.",
+          "price": "£8.04",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 804,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4b7883e8c5c49420f24cdeaabe2e38ae/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "26af9232-9a44-57f6-8c0c-4947645283fa",
+          "name": "NEW Classic B.M.T.® Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese, pepperoni, salami, ham⧧ and all the fresh salad and sauces you like. ⧧Formed meat",
+          "price": "£9.21",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 921,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3e005be1372297db7e581cfb05a02433/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "edb9ed04-54d2-5fe1-926f-cbc8057f331f",
+          "name": "NEW Spicy Italian & Cheese Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese, pepperoni, salami and all the fresh salad and sauces you like.",
+          "price": "£9.21",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 921,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/77644ddcec7d19a422aa594e335a2e63/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "40b4bbc4-0ca7-5e22-afbc-dbb0b4466aaa",
+          "name": "NEW Ham & Cheese Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese, Ham‡. and all the fresh salad and sauces you like. ‡Formed Meat.",
+          "price": "£8.04",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 804,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a5ac950266055086c9d6bc5c919948e1/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5e04f87c-0991-5396-a587-dcf742a5e85d",
+          "name": "NEW Turkey Breast & Cheese Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese, turkey breast‡. and all the fresh salad and sauces you like. ‡Formed meat.",
+          "price": "£8.04",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 804,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b712cf332a5ca7a6c8f397f57f7cae5e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1a04a420-fbe5-5f8d-8a16-b7c922ad2670",
+          "name": "NEW Ham, Turkey Breast & Cheese Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese, turkey breast⧧, ham⧧ and all the fresh salad and sauces you like. ⧧Formed meat",
+          "price": "£9.21",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 921,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8ddd871f989d0ed591947195edd1a1ac/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "24be0250-be17-551a-a66a-d9a97012dd66",
+          "name": "NEW Chicken Breast & Cheese Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese, roast chicken breast and all the fresh salad and sauces you like.",
+          "price": "£9.21",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 921,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/09f49951cb3a86baf5e3008802b114c2/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d09dbba9-3cca-5c2d-aecf-b5c5331f943f",
+          "name": "NEW Chicken Tikka & Cheese Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese, chicken tikka and all the fresh salad and sauces you like.",
+          "price": "£9.21",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 921,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/62f4375c7a0b4e48e03ae8c2d9ec600f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fc2893d1-f49a-52ec-9906-63f85304e511",
+          "name": "NEW Meatball Mariana & Cheese Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese, meatballs in mariana sauce and all the fresh salad and sauces you like.",
+          "price": "£9.21",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 921,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5e78540f93830266bb75205afee0d050/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a3b977ed-10b0-5954-a686-4bdea5a0fa3b",
+          "name": "NEW Veggie Delite® Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese and all the fresh salad and sauces you like.",
+          "price": "£8.04",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 804,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9ab44fd8311012ffa03e8045c492b2ea/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "22d1152e-c5ec-5b30-bfcb-d840944da0ae",
+          "name": "NEW Plant Patty & Cheese Jacket Potato (VE)",
+          "description": "Create your own Jacket Potato. With a double portion of vegan cheese, a vegan patty and all the fresh salad and sauces you like. (VE) Suitable for vegan diet.",
+          "price": "£10.12",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1012,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4fa86a3a495a146574d57c8acb7e0010/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c720f6c1-e4d9-549f-b9aa-af0cf5ab5e9f",
+          "name": "NEW Guacamole & Cheese Jacket Potato",
+          "description": "Create your own Jacket Potato. With butter, a double portion of cheese, smashed avocado and all the fresh salad and sauces you like.",
+          "price": "£8.56",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 856,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/af08e409ca125951dbbacb6eec3c13bc/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Toasties",
+      "items": [
+        {
+          "id": "a422a3be-3b62-52db-b667-9c84578fbb21",
+          "name": "Honey Mustard Deli Toastie",
+          "description": "Turkey, Ham, American Cheese, Peppers, Onions, Honey Mustard Sauce. Served on pressed Italian White or Wholegrain Bread.",
+          "price": "£7.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 765,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3e2bdf51c7b0e3f2e7905cd25659f066/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3a344285-4a24-534b-9e4f-1934f4fb2630",
+          "name": "Stacked Bacon & Cheese Toastie",
+          "description": "Streaky bacon, American-style cheese, red onions, ketchup. Served on pressed Italian white or wholegrain bread.",
+          "price": "£7.91",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 791,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/736d3589b5327baeb2eefe28b78034cb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fac19827-8bcc-50f2-87c0-3c85dc7781e4",
+          "name": "Big Cheese Steak Toastie",
+          "description": "Philly steak, American-style cheese, peppers, red onion, chipotle southwest sauce. Served on pressed Italian white or wholegrain bread.",
+          "price": "£7.88",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 788,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/901c253aab9cba7fc7361cc9938dc01d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b36694f6-bf94-52c3-b427-4cf7798526f1",
+          "name": "BBQ Chicken & Bacon Toastie",
+          "description": "Rotisserie-style chicken, streaky bacon, American–style cheese, red peppers, red onions, BBQ sauce. Served on pressed Italian white or wholegrain bread.",
+          "price": "£9.86",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 986,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9dbd4cc2c7cca3bb588a78b5bac60794/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Wraps",
+      "items": [
+        {
+          "id": "8e66ff9d-ba48-5fb3-a513-6e1daf84f342",
+          "name": "Classic B.M.T.®",
+          "description": "Previously known as Deli Meats. Create your own Classic B.M.T.® wrap. Filled with pepperoni, salami and ham⧧ and all the fresh salad and sauces you like. ⧧Formed Meat",
+          "price": "£8.56",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 856,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2c60a33e4ae9eb7b2fbd7cd8c4e8b8c7/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "134a8d20-dbe1-5afd-aa09-e2653eea8617",
+          "name": "Ham",
+          "description": "Create your own Ham⧧ wrap. With all the fresh salad and sauces you like. ⧧Formed Meat",
+          "price": "£7.39",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 739,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b56c7fbe2195c59bb4de3855203428ff/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "054b7e9d-54dc-5a6d-a781-b333447b9364",
+          "name": "Spicy Italian",
+          "description": "Create your own Spicy Italian Wrap. With Salami, Pepperoni, Cheese and all the fresh salad and sauces you like.",
+          "price": "£8.56",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 856,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8cd71e0213da160e46813b45646c3993/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e2e1f4b3-3eeb-5068-a7ff-9c0bcc3a91a3",
+          "name": "Turkey Breast",
+          "description": "Create your own Turkey Breast⧧ wrap. With all the fresh salad and sauces you like. ⧧Formed Meat",
+          "price": "£7.39",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 739,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/64989ff2f0bb27e1be2d041a4c118e1f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "02bfc4b3-745a-5d80-a83b-3d3963d20472",
+          "name": "Turkey & Ham",
+          "description": "Create your own Turkey & Ham Wrap. With Turkey, Ham‡, Cheese and all the fresh salad and sauces you like. ‡Formed meat.",
+          "price": "£8.56",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 856,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0fd5bc8515d0c210725f9fc98e33fc03/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ab5a3096-a75c-5e8b-962b-337aab623277",
+          "name": "Chicken Breast",
+          "description": "Create your own Roast Chicken Breast wrap. With all the fresh salad and sauces you like.",
+          "price": "£8.56",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 856,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b095ddb3ebc099b8fd95063782125da4/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e84b028b-5941-50b4-97a9-ecc778c3324a",
+          "name": "Chicken Tikka",
+          "description": "Create your own Chicken Tikka wrap. With all the fresh salad and sauces you like.",
+          "price": "£8.56",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 856,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fc041fc5b5dfdc8b3deb0c60cb88189e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c16e1e1f-8071-5679-9fba-01b23bb558f8",
+          "name": "Tuna Mayo",
+          "description": "Create your own Tuna with lite mayo wrap. With all the fresh salad and sauces you like.",
+          "price": "£8.56",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 856,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c5b5b2f883317ed2334fb4fb7dc5527a/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "83f6fa33-194e-5ad6-9887-c6721bf0c68d",
+          "name": "Taco Beef",
+          "description": "Create your own Taco Beef wrap. With all the fresh salad and sauces you like.",
+          "price": "£5.44",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 544,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d3a6597dac20a521e7c299636e2426c8/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "577d5e05-83a9-5a77-be2f-23df0a1dfd9c",
+          "name": "Meatball Marinara",
+          "description": "Create your own Meatball Marinara wrap. With all the fresh salad and sauces you like.",
+          "price": "£8.56",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 856,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/73a62427d0a2853f8fc7fb6201ea6cb1/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1699d5c3-0d37-5fc3-826a-c4d19dad5bff",
+          "name": "Toasted Big Breakwich",
+          "description": "Big Breakwich wrap with streaky bacon, Lincolnshire sausage patty, American-style cheese, hash browns, poached eggs, ketchup. WRAP IS PREPARED TOASTED",
+          "price": "£9.86",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 986,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3d9c6c6cb6833a162f3f08dc3489189e/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "293f8cea-2de3-5eff-b4f5-faf86a216d65",
+          "name": "Veggie Delite®",
+          "description": "Create your own Veggie Delite® wrap. With all the fresh salad and sauces you like. (V) Suitable for vegetarian diet.",
+          "price": "£7.39",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 739,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d35078a25efbfb9129d8d6a0ad96a606/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3530b785-fa68-5c80-8415-469092868115",
+          "name": "Cheese & Guacamole",
+          "description": "Create your own Cheese & Guacamole Wrap. With Cheese, Smashed Avocado and your choice of all the fresh salad and sauce you like.",
+          "price": "£7.91",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 791,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c76e30598a63ca387954eb3fbb5e044a/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "77666e3a-1984-53b7-a752-d46b13e508d8",
+          "name": "Plant Patty (VE)",
+          "description": "Create your own Plant Patty wrap. With all the fresh salad and sauces you like. (VE) Suitable for vegan diet.",
+          "price": "£9.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 960,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/190a9d35de67ee914ec9fa2891625809/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Salads",
+      "items": [
+        {
+          "id": "7b21a547-11b8-522a-a8ab-c9c350b2ccec",
+          "name": "Classic B.M.T.®",
+          "description": "Previously known as Deli Meats. Create your own Classic B.M.T.® salad. Filled with pepperoni, salami and ham⧧ and all the fresh salad and sauces you like. ⧧Formed Meat",
+          "price": "£9.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 960,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1432b75f53ca7049b5a88e398e1d1c7f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "606dca55-be4c-5907-a861-1a333cb4d87e",
+          "name": "Ham",
+          "description": "Create your own Ham⧧ salad. With all the fresh salad and sauces you like. ⧧Formed Meat",
+          "price": "£8.43",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 843,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/70d658b53fd11c098168d290df9f0763/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e69bd71a-bc61-500a-a9d8-e52e57ca895f",
+          "name": "Spicy Italian",
+          "description": "Create your own Spicy Italian Salad. With Salami, Pepperoni, Cheese and all the fresh salad and sauces you like.",
+          "price": "£9.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 960,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8bc41071042132362ccd0ab5c20857ca/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8b5a74ac-12fe-5b30-89d1-34c470e1b87a",
+          "name": "Turkey Breast",
+          "description": "Create your own Turkey Breast⧧ salad. With all the fresh salad and sauces you like. ⧧Formed Meat",
+          "price": "£8.43",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 843,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/35fee6f1e6aff988292971d05968980d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c2d214ec-6c77-5dcb-8ee6-ebf6920b9049",
+          "name": "Turkey & Ham",
+          "description": "Create your own Turkey & Ham Salad. With Turkey, Ham‡, Cheese and all the fresh salad and sauces you like. ‡Formed meat.",
+          "price": "£9.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 960,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/924c53f85f93c388a8593d3b27a24877/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "471a4630-d7f3-538c-8af7-4ab4f62ebfd8",
+          "name": "Chicken Breast",
+          "description": "Create your own Roast Chicken Breast salad. With all the fresh salad and sauces you like.",
+          "price": "£9.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 960,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/da67a25b386aee6e91daaf56cea8813c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5dfc8c1f-fc78-587b-955f-f77d67128f90",
+          "name": "Chicken Tikka",
+          "description": "Create your own Chicken Tikka salad. With all the fresh salad and sauces you like.",
+          "price": "£9.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 960,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1d128bb50b65a48a16ac1a56b0020efb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a4d3a7b8-5209-56c0-bc17-a3e86f223fd0",
+          "name": "Tuna Mayo",
+          "description": "Create your own Tuna with lite mayo salad. With all the fresh salad and sauces you like.",
+          "price": "£9.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 960,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d40380ccfca49ffd6c8b2f9eee515e5c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f8c9b173-ca66-544e-b9dc-48533c9fd847",
+          "name": "Taco Beef",
+          "description": "Create your own Taco Beef salad. With all the fresh salad and sauces you like.",
+          "price": "£6.22",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 622,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/68a29358c3caefac60280ccde205d099/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b606acdf-e15f-51e9-aaa3-0f2961f1b1e4",
+          "name": "Meatball Marinara",
+          "description": "Create your own Meatball Marinara salad. With all the fresh salad and sauces you like.",
+          "price": "£9.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 960,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c9416a8575832978d57ab3aa3f49e0ff/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3731ace8-6704-534b-83b1-80812bf142c5",
+          "name": "Veggie Delite®",
+          "description": "Create your own Veggie Delite® salad. With all the fresh salad and sauces you like. (V) Suitable for vegetarian diet.",
+          "price": "£8.56",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 856,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9921040230a60db13b7a22a7aea0fc99/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "31772981-bb1d-5202-a55c-f6f1063fc240",
+          "name": "Cheese & Guacamole",
+          "description": "Create your own Cheese & Guacamole Salad. With Cheese, Smashed Avocado and your choice of all the fresh salad and sauce you like.",
+          "price": "£8.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 895,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d689bae41267e9e578a923b05827f68c/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "58639a67-3191-50f4-8e44-8d61c8180480",
+          "name": "Plant Patty (VE)",
+          "description": "Create your own Plant Patty salad. With all the fresh salad and sauces you like. (VE) Suitable for vegan diet.",
+          "price": "£10.38",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1038,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4213a8eb645a569426651118d5e8ddf5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "All-Day Breakfast",
+      "items": [
+        {
+          "id": "c5286a47-e95a-5008-86ab-d187dfa4dea7",
+          "name": "Hash Browns - 9 pieces",
+          "description": "Golden and crispy hash browns with a sauce of your choice.",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/68e2815effb101f7c9d49df06b802ce3/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fb35e139-e2d9-5951-afc7-bcd0a3e0e134",
+          "name": "Hash Browns - 6 pieces",
+          "description": "Golden and crispy hash browns with a sauce of your choice.",
+          "price": "£2.32",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 232,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cb742b6938173a49657b6310fd158872/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "43fdec42-86d0-5ac6-82e8-b9a02930aeaf",
+          "name": "Big Breakwich",
+          "description": "Streaky bacon, Lincolnshire sausage patty, American-style cheese, hash browns, poached eggs, ketchup.",
+          "price": "£8.82",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 882,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/900bf7858ffa4ecbfcdab577e0f76ebe/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3a344285-4a24-534b-9e4f-1934f4fb2630",
+          "name": "Stacked Bacon & Cheese Toastie",
+          "description": "Streaky bacon, American-style cheese, red onions, ketchup. Served on pressed Italian white or wholegrain bread.",
+          "price": "£7.91",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 791,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/736d3589b5327baeb2eefe28b78034cb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6533987f-c2c9-5f72-ae1e-090ea251c820",
+          "name": "Veggie Breakwich",
+          "description": "Poached eggs, American-style cheese, hash browns, ketchup.",
+          "price": "£6.35",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 635,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0d4ac7b61faa9b3f206acfbfddc948d4/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8ed23a55-7747-5b58-a027-b101d364e1cc",
+          "name": "Bacon & Sausage",
+          "description": "Streaky bacon, Lincolnshire sausage, American-style cheese, ketchup.",
+          "price": "£5.44",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 544,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ecad7057987d439bad6e917dbc10103c/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "60c0efca-2f86-55d9-8ff4-5ac7f358835a",
+          "name": "Poached Egg & Guacamole",
+          "description": "Create your own Poached Egg & Guacamole Sub. With Poached Egg, American-style Cheese, Smashed Avocado and your choice of sauce",
+          "price": "£4.66",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 466,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/066dc1e5465014b51fc8aea20bc4d09f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "65824c30-8e38-5711-bb22-8d1fc5344ddd",
+          "name": "Costa Latte 250ml",
+          "description": "Costa Latte 250ml",
+          "price": "£3.36",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 336,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/99751d0ec3ed2709a4984fe1adc7ffc9/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Footlong Sidekicks",
+      "items": [
+        {
+          "id": "5f3936bc-d35a-58e8-82c8-7ace3076e17f",
+          "name": "Taco Beef Footlong Dipper",
+          "description": "American-style Cheese, Taco Beef, and your choice of sauce",
+          "price": "£2.97",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 297,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b6ac87f54d03ff58445ed471cb64c75b/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4eb10bbc-73b8-51be-9e73-ea8d4e11f239",
+          "name": "Footlong Cookie",
+          "description": "Chocolate chip cookie",
+          "price": "£6.09",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 609,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a9180d4d567fa879ce43b38a5bd95a67/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "88cecace-bb94-5c5a-b7f1-ba36b8c8530c",
+          "name": "Footlong Churro",
+          "description": "Served with Caramel sauce",
+          "price": "£4.27",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 427,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/314eaf68ec5cfa238c729e428b64f3e7/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "bf262146-28b3-512e-a824-26d741a91f44",
+          "name": "Pepperoni & Cheese Footlong Dipper",
+          "description": "Pepperoni, American-style cheese and choice of sauce",
+          "price": "£2.97",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 297,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/868019007a05102e6e8426b6238d6de5/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "17309642-41f6-54df-bdc1-7ba3502fb669",
+          "name": "Triple Cheese Footlong Dipper",
+          "description": "Shredded mozzarella & cheddar, American-style cheese and choice of sauce",
+          "price": "£2.97",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 297,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/53c9c83f6ad5ed69485e6f7a5a416282/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Sides",
+      "items": [
+        {
+          "id": "fb35e139-e2d9-5951-afc7-bcd0a3e0e134",
+          "name": "Hash Browns - 6 pieces",
+          "description": "Golden and crispy hash browns with a sauce of your choice.",
+          "price": "£2.32",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 232,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cb742b6938173a49657b6310fd158872/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c5286a47-e95a-5008-86ab-d187dfa4dea7",
+          "name": "Hash Browns - 9 pieces",
+          "description": "Golden and crispy hash browns with a sauce of your choice.",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/68e2815effb101f7c9d49df06b802ce3/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c3d20f62-ef53-5c9f-8789-23e89dc4489c",
+          "name": "Meatballs",
+          "description": "Our iconic beef and pork meatballs topped with melted mozzarella and cheddar cheese, covered in our signature marinara sauce.",
+          "price": "£3.36",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 336,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/52972799cfc42e9a55c5f68faddd8365/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6170147d-88b4-5cb0-813c-fc43705999ef",
+          "name": "Nacho Chicken Bites - 6 pieces",
+          "description": "Crushed-tortilla coated chicken, served with a dip of your choice.",
+          "price": "£4.27",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 427,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/21aa9d0424b1285959fd9e91f0808221/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "1b106ebf-1f4f-5df2-8fc9-2f4217308a95",
+          "name": "Margherita Slice (V)",
+          "description": "Half a toasted 6-inch Sub, topped with our signature marinara sauce and melted mozzarella and cheddar cheese. (V) Suitable for vegetarian diet",
+          "price": "£2.32",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 232,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4fff39e0671730521a3249f0461797e5/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "03188f3e-e7eb-52a3-886b-57f3e195cccf",
+          "name": "Pepperoni Slice",
+          "description": "Half a toasted 6-inch Sub, topped with our signature marinara sauce, melted mozzarella and cheddar, and pepperoni.",
+          "price": "£2.58",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 258,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a25dd944f33583992be9d482ac0ee795/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a32a7ba8-6c20-552e-87d0-af843face200",
+          "name": "Cheesy Garlic Slice (V)",
+          "description": "Half a toasted 6-inch Sub loaded with melted cheddar and mozzarella with a garlic infused olive oil.",
+          "price": "£1.54",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 154,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a183a2d5092bbd6d81e7e34bb59ff5ec/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6f10fad7-1218-5eac-81f0-08c686249841",
+          "name": "NEW Doritos® Sharer Nachos",
+          "description": "Sharer portion of Doritos® Lightly Salted, Chilli Heatwave or Tangy Cheese Nachos, with salsa and melted mozzarella & cheddar cheese",
+          "price": "£6.48",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 648,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/71f06d131423bc16b7374bf29a2644a0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ade92188-09b3-5fbc-9dfd-bf95c38134cb",
+          "name": "Nacho Chicken Bites - 9 pieces",
+          "description": "Crushed-tortilla coated chicken, served with a dip of your choice.",
+          "price": "£5.83",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 583,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/327dcca4b3f5df77435f2cb20b90d742/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "425aea56-be41-5d1b-bf17-b4326eab228b",
+          "name": "Side Salad",
+          "description": "A light and refreshing side salad of lettuce, tomatoes, cucumbers, peppers and onions.",
+          "price": "£2.58",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 258,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5259519aa4e0eab17abe14928f5e0fa9/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0c46ffae-89ab-58a0-bfc1-2404557987c5",
+          "name": "NEW Doritos® Nachos",
+          "description": "Doritos® Lightly Salted, Chilli Heatwave or Tangy Cheese nachos, with salsa and melted mozzarella & cheddar cheese",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/418c1d4d695c83e004f36656d83dec73/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5f3936bc-d35a-58e8-82c8-7ace3076e17f",
+          "name": "Taco Beef Footlong Dipper",
+          "description": "American-style Cheese, Taco Beef, and your choice of sauce",
+          "price": "£2.97",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 297,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b6ac87f54d03ff58445ed471cb64c75b/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "bf262146-28b3-512e-a824-26d741a91f44",
+          "name": "Pepperoni & Cheese Footlong Dipper",
+          "description": "Pepperoni, American-style cheese and choice of sauce",
+          "price": "£2.97",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 297,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/868019007a05102e6e8426b6238d6de5/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "17309642-41f6-54df-bdc1-7ba3502fb669",
+          "name": "Triple Cheese Footlong Dipper",
+          "description": "Shredded mozzarella & cheddar, American-style cheese and choice of sauce",
+          "price": "£2.97",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 297,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/53c9c83f6ad5ed69485e6f7a5a416282/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4d691087-845b-51e0-a7cc-33b1d05a9d99",
+          "name": "Waffle Fries - regular",
+          "description": "Lightly seasoned criss-cut potatoes, with your choice of signature dip",
+          "price": "£2.71",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 271,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2cffd13bd6714ad3eb15941be6633987/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b71b6554-dc04-5e59-9cba-094ea044c2cd",
+          "name": "Waffle Fries - large",
+          "description": "Lightly seasoned criss-cut potatoes, with your choice of signature dip",
+          "price": "£4.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 440,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ea1f9e6909826d1cbd55aba1b5a18991/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "045c354e-8742-5958-9f1e-60dd6527e00a",
+          "name": "Chipotle Cheesy Bites - 5 pieces",
+          "description": "Mozzarella Cheesy Bite with chipotle breadcrumbs coating.",
+          "price": "£3.36",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 336,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f34ea4fd91c87bc06aae4e753b45d87d/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "31a80f23-7655-52e8-bd9f-5aa380be7a75",
+          "name": "Chipotle Cheesy Bites - 12 pieces",
+          "description": "Mozzarella Cheesy Bite with chipotle breadcrumbs coating.",
+          "price": "£6.74",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 674,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/37c86ebb001d445e6161baedc915c6cc/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e0f47f47-6ab3-541d-821a-b95b5b5d0036",
+          "name": "Footlong Cheesy Garlic Slice (V)",
+          "description": "Shredded Mozzarella & Cheddar Cheese, Garlic Oil. Suitable for vegetarians.",
+          "price": "£2.84",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 284,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bb571b78828b4eed0e02c4c828725c99/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "46bbb675-d389-511c-be78-bff7a2276bf7",
+          "name": "Footlong Margherita Slice (V)",
+          "description": "Shredded Mozzarella & Cheddar Cheese, Marinara Sauce. Suitable for vegetarians.",
+          "price": "£4.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 440,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/53afebdf16f078f51baad20a8d211ba4/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d93f2a12-5260-50e0-80b6-2963047bd2f0",
+          "name": "Footlong Pepperoni Slice",
+          "description": "Shredded Mozzarella & Cheddar Cheese, Pepperoni, Marinara Sauce.",
+          "price": "£5.05",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 505,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c0cc03e3697af3ab272e87bc5eb9a183/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "48319397-18d3-5f0e-9add-c20fde166ce1",
+          "name": "DORITOS® Chilli Heatwave",
+          "description": "DORITOS® Chilli Heatwave",
+          "price": "£1.67",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 167,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/87215ea41fa414258ea3e443c0647bf5/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "abb4e5ec-ffc4-53b4-8974-3723cc924b82",
+          "name": "DORITOS® Tangy Cheese",
+          "description": "DORITOS® Tangy Cheese",
+          "price": "£1.67",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 167,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/312bdcfe23daba877d0dc476f66e7cff/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "43854ac3-1ccf-54f4-af50-77b28a5ad4c9",
+          "name": "Quavers Cheese",
+          "description": "Quavers Cheese",
+          "price": "£1.67",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 167,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d92fbd0c305c76ead6461f0cf3b29137/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0786da83-a061-5589-8962-22c1f3e688a3",
+          "name": "Walkers Cheese & Onion",
+          "description": "Walkers Cheese & Onion",
+          "price": "£1.67",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 167,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/49692d765c4d3f14ad66e5d923297a1e/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7c2f05c0-65f3-5208-b537-72d7f40c8ed7",
+          "name": "Walkers Ready Salted",
+          "description": "Walkers Ready Salted",
+          "price": "£1.67",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 167,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/33e6f98a93b0938bf7049f7b9b3a6107/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7b17e951-0ef1-5daf-b4e2-f6addcf3f4bb",
+          "name": "Walkers Salt & Vinegar",
+          "description": "Walkers Salt & Vinegar",
+          "price": "£1.67",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 167,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/84d163a3df0416aa27be882360bc6193/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ef8be90d-7226-5a3d-afe5-a66e3db8290a",
+          "name": "Dips",
+          "description": "N/A",
+          "price": "£0.76",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 76,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a8b6da69ce6f217e436aa4601967410d/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Cookies & Treats",
+      "items": [
+        {
+          "id": "4eb10bbc-73b8-51be-9e73-ea8d4e11f239",
+          "name": "Footlong Cookie",
+          "description": "Chocolate chip cookie",
+          "price": "£6.09",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 609,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a9180d4d567fa879ce43b38a5bd95a67/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "88cecace-bb94-5c5a-b7f1-ba36b8c8530c",
+          "name": "Footlong Churro",
+          "description": "Served with Caramel sauce",
+          "price": "£4.27",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 427,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/314eaf68ec5cfa238c729e428b64f3e7/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7e5545d9-bbd0-5d9a-8e62-fc74a50ad932",
+          "name": "Double Chocolate Cookie (Ve)",
+          "description": "Double chocolate cookie. (Ve) Suitable for vegan diet.",
+          "price": "£1.02",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 102,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2246358f9873b4e9faf1567693f82be8/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2c0bb3b8-8a5f-56d6-98e4-2ad0bec369f0",
+          "name": "Chocolate Chunk Cookie",
+          "description": "Cookie with chocolate chunks",
+          "price": "£2.84",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 284,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/23d02f5ae3df5e1d6183db27ddccd2ff/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ac15d291-da74-565d-a545-65d5da8f9a24",
+          "name": "Rainbow Chocolate Chip Cookie",
+          "description": "Cookie with chocolate chips and coloured sweet candies",
+          "price": "£1.54",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 154,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bf949295ea8a689c3aeaa2f53e9f4899/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fb1d475e-74bc-58bc-92f6-48fc425b8864",
+          "name": "3x Double Chocolate Cookies - (Ve)",
+          "description": "3 double chocolate cookies. (Ve) Suitable for vegan diet.",
+          "price": "£2.84",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 284,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f62d4b48d1a0ca25d1bab7ecc45e56c0/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f00fcf71-80eb-5158-995f-97ac180d5022",
+          "name": "3x Chocolate Chunk Cookies",
+          "description": "3 cookies with chocolate chunks",
+          "price": "£2.84",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 284,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1fbb72505d395ba0d82c1f8722ab8689/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d0e85d63-d947-5b47-bac8-80f3c9a2b4de",
+          "name": "3x  Rainbow Chocolate Chip Cookies",
+          "description": "3 cookies with chocolate chips and coloured sweet candies",
+          "price": "£2.84",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 284,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2bbb1455780fa741f5521f9f3dd9109f/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "91a7ef69-024c-5a42-b1ed-3a9ee2a4c7dc",
+          "name": "12 Cookies",
+          "description": "3 x Double Chocolate (V), 3 x Chocolate Chunk, 3 x Rainbow Candy Chip, 3 x White Chocolate & Macadamia Nut",
+          "price": "£7.13",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 713,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/70ed38fb05464c6201ff138cb57a6752/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f054006f-7ec9-5395-a089-fa1c78474fcf",
+          "name": "Bear Yoyo",
+          "description": "Pure fruit roll ups, made from whole fresh fruit and veg, with no added sugar or concentrates.",
+          "price": "£1.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 115,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/db5711554e66f359f368a04b4d84c623/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1c62831c-7eec-5773-8e45-2ad4fc36c79d",
+          "name": "Ben & Jerry's Cookie Dough Ice Cream (465ml)",
+          "description": "Vanilla ice cream packed with delicious chocolate chip cookie dough.",
+          "price": "£7.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 765,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/eb3830c1d2b101f928c8f40a74ff1b14/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d12b3d86-f346-5a42-84f6-baaf5810c855",
+          "name": "Ben & Jerrys Cookie Dough 100ml",
+          "description": "Vanilla ice cream with chunks of Chocolate Chip Cookie Dough",
+          "price": "£2.97",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 297,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/36ae51a36fc2849059a3de4b7f063c5b/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a4bab21c-a8d0-5b12-b928-998a2d24b9c4",
+          "name": "Ben & Jerrys Caramel Chew Chew 100ml",
+          "description": "Caramel Ice Cream with a Caramel Swirl and Chocolate Covered Caramel Chunks",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8f1961de5662dbc578783d45b1619853/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "90014d14-bc2a-5b26-ac6a-1b6cee7c6777",
+          "name": "Oreo® Muffin",
+          "description": "Muffin with Oreo® filling, topped with Oreo® biscuit crumbs.",
+          "price": "£2.71",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 271,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2b33118d51ec8dca12cea143a00e53ef/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Drinks",
+      "items": [
+        {
+          "id": "e2849c36-acc6-5659-9e70-66eb9a401bfc",
+          "name": "Princes Gate Still Water 500ml",
+          "description": "Princes Gate Still Water 500ml",
+          "price": "£2.97",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 297,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/72e7ecb989f3797e66e7f16a7bc1bae8/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "58510d84-b9f7-53e4-8a5b-a2556a05641a",
+          "name": "Robinsons Fruit Shoot Apple & Blackcurrent 200ml",
+          "description": "Robinsons Fruit Shoot Apple & Blackcurrent 200ml",
+          "price": "£2.58",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 258,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/184559bd92b977a98b57cd6886f06f72/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fee14c0e-3d9f-5f95-96a7-5c9ca373d932",
+          "name": "Coca-Cola Original 500ml",
+          "description": "Coca-Cola Original 500ml",
+          "price": "£3.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 375,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bdcffd901311f215cbeacf73ec788d0a/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e67f4dcb-8007-5e03-b5a4-91ff75173eea",
+          "name": "Coca-Cola Zero 500ml",
+          "description": "Coca-Cola Zero 500ml",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a881849e7915d87afb9596f378a23058/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b863eb81-720e-5f5e-9d5c-b0a6d2dc651a",
+          "name": "Coke Zero 1.25L",
+          "description": "Coke Zero 1.25L",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/34dd520f4d105f3c78b12d1171dca638/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "65824c30-8e38-5711-bb22-8d1fc5344ddd",
+          "name": "Costa Latte 250ml",
+          "description": "Costa Latte 250ml",
+          "price": "£3.36",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 336,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/99751d0ec3ed2709a4984fe1adc7ffc9/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "59d90d88-59f1-55d7-a562-81a1d8868ace",
+          "name": "Dr Pepper 500ml",
+          "description": "Dr Pepper 500ml",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d01fc7091b50d0d8253fbe06f7dbeaf8/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "493c3cd3-4768-54c9-a8cd-bf1ab0535a8e",
+          "name": "Fanta Orange 1.25L",
+          "description": "Fanta Orange 1.25L",
+          "price": "£5.18",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 518,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/70a037b1cab70302ee186d90797d41d8/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "beddc0f5-62c2-5dfa-bfdd-5497fef6e86c",
+          "name": "Fanta Orange 500ml",
+          "description": "Fanta Orange 500ml",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ccff78da559563d033c55281ceee6920/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7ac1a739-8a46-5c41-a174-f28855976928",
+          "name": "Oasis Summer Fruits 500ml",
+          "description": "Oasis Summer Fruits 500ml",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f6de49e6a71cbdfc8de6c4087284a25b/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c4574c09-d092-55ac-a81d-cc14fb56f35a",
+          "name": "Sprite Zero 500ml",
+          "description": "Sprite Zero 500ml",
+          "price": "£3.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 349,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/38e5fa2c23ee6510c8c2e2324ba71275/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

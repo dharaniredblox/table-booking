@@ -1,0 +1,683 @@
+{
+  "source": "UberEats",
+  "postalCode": "SN1_1DQ",
+  "timestamp": "2025-09-15T09:57:32.349Z",
+  "count": 83,
+  "data": [
+    {
+      "name": "McDonald's®",
+      "rating": "3.7",
+      "reviewCount": "5,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mcdonalds-great-western-way/J_F8gjalR9O0BjNteqyB-A"
+    },
+    {
+      "name": "Greggs",
+      "rating": "4.1",
+      "reviewCount": "61",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-swindon-21-the-parade-sc/tPWjlyS-WL6QOheQ6y2Vsg"
+    },
+    {
+      "name": "Sainsbury's Supermarket",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-supermarket-bridgemead/e5KEf0_MVc6lOYqoD0F1Qg"
+    },
+    {
+      "name": "Subway",
+      "rating": "3.4",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/subway-the-crossing/C77Sj8LvRrmMbxYyUMH1rQ"
+    },
+    {
+      "name": "Slim Chickens",
+      "rating": "4.1",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/slim-chickens-swindon/box-IC00VXWVmOCGuzUDeQ"
+    },
+    {
+      "name": "ASDA",
+      "rating": "4.1",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/asda-swindon/sEjLzXCLQ42CwBussuxARA"
+    },
+    {
+      "name": "KFC Swindon FC Great Western",
+      "rating": "4.1",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-swindon-fc-great-western/gosQ5UyKTJisUU38amiwwg"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.6",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-swindon-highdown-way/kMfBZ29gVpiqLrvX5FhYGQ"
+    },
+    {
+      "name": "Waitrose & Partners",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/waitrose-%26-partners-swindon/bfUxg4gkVsuwjSKuKROEGw"
+    },
+    {
+      "name": "Taco Bell",
+      "rating": "3.7",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/taco-bell-swindon/ds-YcA_jX7uY425B-5osAw"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.5",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-swindon/2tdSHXnXVSmZiUO_9I1umg"
+    },
+    {
+      "name": "One Stop Lawn",
+      "rating": "4.3",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-lawn/zi-EIsrDVkW64i6mKBAlIg"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "4.3",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-swindon-designer-outlet/y4_6FYtLXwKnKk7LCPP09g"
+    },
+    {
+      "name": "Starbucks ®",
+      "rating": "4.0",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-great-western/R4aO52ksQL2rxWgTXKgpQQ"
+    },
+    {
+      "name": "Morrisons Daily",
+      "rating": "4.0",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-daily-swindon-old-town-victoria-road/ZGUNmucrQeuKRQdeTH2qyQ"
+    },
+    {
+      "name": "Chopstix Noodle Bar",
+      "rating": "3.9",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/chopstix-noodle-bar-swindon/G2LMc12iSRG8pFos_DSddw"
+    },
+    {
+      "name": "Cafe Aroma",
+      "rating": "4.4",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-aroma/SXrFVTfzTiSeEUT7dY9SYw"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.6",
+      "reviewCount": "98",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-dorcan-way/BVhN_ltfUGui9nn99G7alw"
+    },
+    {
+      "name": "Burger King",
+      "rating": "4.4",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/burger-king-cirencester/9W4HOsdAQv6mM6AgBpf4uA"
+    },
+    {
+      "name": "Tesco Cafe",
+      "rating": "3.8",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tesco-cafe-swindon/-fWd9Ek_V-qOcW9twsVO6Q"
+    },
+    {
+      "name": "Morrisons Cafe",
+      "rating": "3.1",
+      "reviewCount": "32",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-cafe-dorcan-way/DxlVo140XvyZlAXahk77Bg"
+    },
+    {
+      "name": "Sainsbury's Local",
+      "rating": "4.7",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-local-swindon-tadpole-garden-village/6Pm54aegVh68z5YxZciwqA"
+    },
+    {
+      "name": "Masala Bazaar",
+      "rating": "3.9",
+      "reviewCount": "49",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/masala-bazaar-swindon/H-a30lbgXnOo86QAkAGOPQ"
+    },
+    {
+      "name": "Coffee #1",
+      "rating": "4.1",
+      "reviewCount": "58",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/coffee-1-swindon/X-I4OD1jVmm1pLUqKGU3Pg"
+    },
+    {
+      "name": "Wrights",
+      "rating": "1.4",
+      "reviewCount": "15",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wrights-penhill/2e8a1BIGW9O2j3Ko7KtBtA"
+    },
+    {
+      "name": "Harvester",
+      "rating": "4.1",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/harvester-swindon/ZnQvJH5qTlW9dC8jxSissw"
+    },
+    {
+      "name": "Your Co-op Food",
+      "rating": "4.7",
+      "reviewCount": "49",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/your-co-op-food-groundwell-road/dv0VPtcqXoyU9raBI6EeZg"
+    },
+    {
+      "name": "YO! sushi counter",
+      "rating": "3.4",
+      "reviewCount": "66",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yo!-sushi-counter-swindon-tesco/QH2xwNCUWDSHynz2-S2CDw"
+    },
+    {
+      "name": "Bubbleology",
+      "rating": "4.0",
+      "reviewCount": "69",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bubbleology-swindon/BO6y92cPXFm2blD6V7mhVw"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.4",
+      "reviewCount": "43",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-swindon-greenbridge-rp/NKr_9TwgWpyLMT0PrQtdrw"
+    },
+    {
+      "name": "Panku Sushi Counter",
+      "rating": "4.0",
+      "reviewCount": "34",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/panku-sushi-counter-swindon-west-asda/I1ktib5CWoW_AHApvN603g"
+    },
+    {
+      "name": "Tealith Bubble Tea",
+      "rating": "4.6",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tealith-bubble-tea-swindon/wCmYiIPCUHCLHqKv0KCh-Q"
+    },
+    {
+      "name": "WOPSTA Noodle & Pasta Bar",
+      "rating": "3.9",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wopsta-noodle-%26-pasta-bar/51HHoFT_Qy2j2OtJRkWW1w"
+    },
+    {
+      "name": "Londis",
+      "rating": "4.3",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/londis-fleming-way/83k-QRVySxSENlQ5VTAHGw"
+    },
+    {
+      "name": "Broccoli Pizza & Pasta",
+      "rating": "4.1",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/broccoli-pizza-%26-pasta/Rx_IgE2fRlmcSUjj_L5Dpg"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts & Coffee",
+      "rating": "4.6",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-doughnuts-%26-coffee-swindon/4YO3Q7JSQWCgs2jq2Nc1Og"
+    },
+    {
+      "name": "Anand Sweets",
+      "rating": "4.4",
+      "reviewCount": "60",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/anand-sweets/fQ-DolPjUuqieuTHs32qdQ"
+    },
+    {
+      "name": "Harper's Weighbridge",
+      "rating": "3.7",
+      "reviewCount": "61",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 25% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/harpers-weighbridge/b5t3QIPjWOeLt5qdOUREJw"
+    },
+    {
+      "name": "The Blunsdon Arms",
+      "rating": "4.2",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-blunsdon-arms-ember-inns/pHkMLWmdVECcoT9QZv6Csg"
+    },
+    {
+      "name": "Portugal and Brazil Foods",
+      "rating": "4.7",
+      "reviewCount": "320+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/portugal-and-brazil-foods/EtIgFkxaT9aMXQRTEfeHWQ"
+    },
+    {
+      "name": "Farmhouse Inns",
+      "rating": "3.4",
+      "reviewCount": "68",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/farmhouse-inns-robins-farm-swindon/ZEncRDomVhyC4xbYXwXI5w"
+    },
+    {
+      "name": "El Mexicana",
+      "rating": "3.8",
+      "reviewCount": "400+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/el-mexicana-swindon/XTgyJ86tRg-2Hp-MDaWsKA"
+    },
+    {
+      "name": "Londis Lydiard Fields",
+      "rating": "2.8",
+      "reviewCount": "27",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/londis-lydiard-fields/-V3s9fG3UxK8psl-5WR1wQ"
+    },
+    {
+      "name": "Costa Coffee",
+      "rating": "4.3",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/costa-coffee-swindon-station/4W-P0f0mUqKiYiNw84Jmyw"
+    },
+    {
+      "name": "Sobe Burgers",
+      "rating": "3.9",
+      "reviewCount": "150+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sobe-burgers-upper-stratton/LcY_2WCIUXmkOk_QKsBlNg"
+    },
+    {
+      "name": "Sulaymani Restaurant",
+      "rating": "4.2",
+      "reviewCount": "12",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £35)"
+      ],
+      "url": "https://www.ubereats.com/store/sulaymani-restaurant/ViXG9PVOVxOwzJX7XNficg"
+    },
+    {
+      "name": "Wanna Smash?",
+      "rating": "4.2",
+      "reviewCount": "19",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/wanna-smash-swindon/qhEJCYrmU9yIrh7d_ry5cQ"
+    },
+    {
+      "name": "Dotty's Old Town Café",
+      "rating": "4.5",
+      "reviewCount": "65",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dottys-old-town-cafe/JdmTPBfFTyqvSeIkfuzW_g"
+    },
+    {
+      "name": "The Fox & Hounds",
+      "rating": "4.3",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-fox-%26-hounds/k3HMEyE4SUynpTvmNj-pew"
+    },
+    {
+      "name": "Dawat Biryani",
+      "rating": "4.0",
+      "reviewCount": "16",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dawat-biryani-regent-street-sn1/6Tay1MH3U0aKscHX1YxQOw"
+    },
+    {
+      "name": "PizzaExpress Pizza & Pasta",
+      "rating": "4.0",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pizzaexpress-pizza-%26-pasta-swindon-designer-outlet/4ip8UqthR4mXle5QhzQVbw"
+    },
+    {
+      "name": "Sushi Now",
+      "rating": "3.8",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sushi-now/Xf9BE19DVwy_lMsK_SOw8Q"
+    },
+    {
+      "name": "Chaat Cafe",
+      "rating": "4.1",
+      "reviewCount": "290+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £30)"
+      ],
+      "url": "https://www.ubereats.com/store/chaat-cafe/xromiJugXriecHkQHVBWMw"
+    },
+    {
+      "name": "Gurkha Swindon",
+      "rating": "4.2",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/gurkha-swindon/U2laYXa7WVG2IA-OtJBYOA"
+    },
+    {
+      "name": "Pizza Hut Restaurants",
+      "rating": "3.6",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pizza-hut-restaurants-swindon-greenbridge/hnn6YR_KSRSJcgpbIqgX4A"
+    },
+    {
+      "name": "Toby Carvery",
+      "rating": "3.9",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/toby-carvery-friary/Hz3t_UVoU3qelpTCo8KjuQ"
+    },
+    {
+      "name": "Ridge Bar And Grill",
+      "rating": "4.5",
+      "reviewCount": "150+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ridge-bar-and-grill/xIaS_PXMXOi7xNr7i_hycw"
+    },
+    {
+      "name": "Little Dessert Shop",
+      "rating": "4.0",
+      "reviewCount": "420+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/little-dessert-shop-swindon/LVHnE_CpXDKf4llduhT2nw"
+    },
+    {
+      "name": "Slutty Buns",
+      "rating": "4.0",
+      "reviewCount": "24",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/slutty-buns-swindon/kOKLx6A4WaWEfdTeK5_8Bw"
+    },
+    {
+      "name": "Kaspa's Desserts",
+      "rating": "3.7",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kaspas-desserts-swindon/PA_NDNDOTCK2-cmKdjkRHA"
+    },
+    {
+      "name": "Sin City Burgers",
+      "rating": "3.8",
+      "reviewCount": "210+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 15% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/sin-city-burgers-high-st-swindon/UUkI5YgTXom31dvYHSniyw"
+    },
+    {
+      "name": "Pizza GoGo",
+      "rating": "4.1",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pizza-gogo-swindon/FG4jsqH5XBKxHodLi616ew"
+    },
+    {
+      "name": "Pepe's Piri Piri",
+      "rating": "4.2",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pepes-piri-piri-swindon/lu-Nk2qIQEW0RmrE97oXUg"
+    },
+    {
+      "name": "Caprinos Pizza",
+      "rating": "4.0",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/caprinos-pizza-swindon/0rH1QDGkW1-1aH-iUQL_pg"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "rating": "4.3",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/papa-johns-pizza-136-victoria-road/pnVLp9yyQQG_5-tEoJcb4g"
+    },
+    {
+      "name": "Pizza Hut Delivery",
+      "rating": "4.0",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pizza-hut-delivery-swindon/gGjsiQ3-RJi5FKJsjLwIaQ"
+    },
+    {
+      "name": "Punjabi Food Junction",
+      "rating": "4.0",
+      "reviewCount": "15",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/punjabi-food-junction/3eCX2Pm1S_GLufPB7K7t0g"
+    },
+    {
+      "name": "Burger Now",
+      "rating": "4.6",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/burger-now/GxeGlbgLWaGNaSxicwkE3Q"
+    },
+    {
+      "name": "Mr Cod",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mr-cod/ry5Va04fT4KJ4cAX6Pe07g"
+    },
+    {
+      "name": "Fireaway Pizza",
+      "rating": "4.2",
+      "reviewCount": "320+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/fireaway-pizza-swindon/GztWVdXXWZWxWVeUsbSQZQ"
+    },
+    {
+      "name": "PiriCo",
+      "rating": "3.8",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pirico/MUrLmmiiRZayjmjgr7zHZA"
+    },
+    {
+      "name": "The Bap",
+      "rating": "4.6",
+      "reviewCount": "410+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-bap/oe8G6V7gWDqzhEr8n0nf5w"
+    },
+    {
+      "name": "Athenian",
+      "rating": "3.9",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/athenian-pita-gyros-%26-wraps-swindon/jEPufhiZUcSfcRU7rROZoA"
+    },
+    {
+      "name": "Indian Royal Kitchen",
+      "rating": "4.2",
+      "reviewCount": "29",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 25% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/indian-royal-kitchen-regent-street-sn1/aubRvhzvXQCAj0dRjEGdSQ"
+    },
+    {
+      "name": "Britz Fish and Chips",
+      "rating": "4.4",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/britz-fish-and-chips/eRwYBpo8QfCnQhpdqAUi_w"
+    },
+    {
+      "name": "Don Churro Swindon",
+      "rating": "4.1",
+      "reviewCount": "22",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/don-churro-swindon/ASOAnlqhTWKf-xxxOQ4jFg"
+    },
+    {
+      "name": "Shell",
+      "rating": "4.6",
+      "reviewCount": "80",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shell-mead-way/ka6NRfdmX0WsByjKgbW5eQ"
+    },
+    {
+      "name": "WeeBuzz",
+      "rating": "4.5",
+      "reviewCount": "25",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/weebuzz/8r8mX-QwRcOgZhjJj8vX2Q"
+    },
+    {
+      "name": "Nemrut Turkish Restaurant",
+      "rating": "3.3",
+      "reviewCount": "40",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/nemrut-turkish-restaurant-swindon/k29YO8oyU36S7DZKNcM9zw"
+    },
+    {
+      "name": "Dessert4you",
+      "rating": "3.5",
+      "reviewCount": "87",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dessert4you/2nRoQiAuQj6Ompkyot9rBg"
+    },
+    {
+      "name": "Chennai Dosa",
+      "rating": "3.7",
+      "reviewCount": "37",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chennai-dosa/qW7zZcAJWh2LpAe3S6hjEQ"
+    },
+    {
+      "name": "Morrisons",
+      "rating": "4.5",
+      "reviewCount": "350+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-swindon/oqrCuNBzWaKYL4IxurXPcA"
+    },
+    {
+      "name": "Auntie Anne's",
+      "rating": "5.0",
+      "reviewCount": "2",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/auntie-annes-swindon/0wuEmupgXTehSyuMCcoyMg"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/co-op-bristol-coronation-road/WoJmbrJZX4SyR--rPqeHdA",
+  "name": "Co-op (Bristol - Coronation Road)",
+  "servesCuisine": [
+    "Supermarket",
+    "Grocery",
+    "Alcohol",
+    "Convenience",
+    "Everyday Essentials",
+    "Snacks",
+    "Specialty Foods",
+    "Beauty Supply",
+    "Pharmacy",
+    "Personal Care"
+  ],
+  "priceRange": "₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/121ae404edd2457c733abc6d56017579/19ec62ba51fde35ba0aff5b84321c5af.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/121ae404edd2457c733abc6d56017579/c67d558c633281f9c71fc6a90ef470ae.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/121ae404edd2457c733abc6d56017579/8681e511c0910e0052cb155c50f01f89.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/121ae404edd2457c733abc6d56017579/6ea4f72e303000fbf403bbb36f971f85.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/121ae404edd2457c733abc6d56017579/4bee0baf259f2b3c95aacdebea87e950.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/121ae404edd2457c733abc6d56017579/5283d81c664b43c5f57a3a186d273063.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/co-op-bristol-coronation-road/WoJmbrJZX4SyR--rPqeHdA?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "EMEA",
+    "postalCode": "BS3 1RF",
+    "addressCountry": "GB",
+    "streetAddress": "171-179 Coronation Road"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.4458616,
+    "longitude": -2.6102054
+  },
+  "telephone": "+441179632675",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.7,
+    "reviewCount": "900"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "7:30",
+      "closes": "21:44"
+    }
+  ],
+  "hasMenu": null
+}

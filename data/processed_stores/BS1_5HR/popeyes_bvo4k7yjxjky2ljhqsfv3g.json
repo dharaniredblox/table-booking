@@ -1,0 +1,2347 @@
+{
+  "restaurant_id": "popeyesbristolavonmeads-BS20SP-51",
+  "source_id": "06fa3893-b623-5c92-98d8-b2614127d5de",
+  "restaurant_url": "https://www.ubereats.com/store/popeyes-bristol-avonmeads/Bvo4k7YjXJKY2LJhQSfV3g",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:21:05.857Z",
+  "restaurant": {
+    "name": "Popeyes (Bristol Avonmeads)",
+    "slug": "popeyes-bristol-avonmeads",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+447581202912",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "Avonmeads, Retail Park, St Philips Causeway, Bristol, Bs2 0sp, EMEA BS2 0SP",
+    "streetAddress": "Avonmeads, Retail Park, St Philips Causeway",
+    "addressCity": "bristol-eng",
+    "neighborhood": "barton-hill-bristol-eng",
+    "addressRegion": "EMEA",
+    "postalCode": "BS2 0SP",
+    "addressCountry": "GB",
+    "latitude": 51.4479443,
+    "longitude": -2.5611659,
+    "geohash": "gcnhtt",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 3.9,
+    "totalReviews": "1000+",
+    "workingHours": "Open until 2:30 AM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Chicken",
+      "Sandwich",
+      "American"
+    ],
+    "priceBucket": "₹"
+  },
+  "openingHours": [
+    {
+      "day": "Every Day",
+      "hours": [
+        {
+          "open": "08:00",
+          "close": "10:00",
+          "section": "Popeyes Louisiana Chicken"
+        },
+        {
+          "open": "10:00",
+          "close": "22:00",
+          "section": "Popeyes Louisiana Chicken"
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Bundles",
+      "items": [
+        {
+          "id": "a468dab2-076b-59df-8587-40dc57f2e3e8",
+          "name": "Chicken Sandwich Meal",
+          "description": "One Sandwich, One Regular Side, One Drink and One Dip",
+          "price": "£11.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1149,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/838c54d15a55fff0783e67438ea00eb0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "66fe31f3-3ec9-50a9-ae9b-02ef0a86b41d",
+          "name": "Sharer Meal for 2",
+          "description": "2 Classic chicken sandwiches, 2 regular fries & 8 hot wings",
+          "price": "£25.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/51644dc29450365adc7bb3c33a4bf4c1/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d9634ddd-7231-5c5d-a6b1-8503dce33813",
+          "name": "Boneless Bundle",
+          "description": "Share the love with 5 Chicken Tenders, 8 Boneless, 2 regular fries, plus 2 drinks and 2 dips of your choice.",
+          "price": "£21.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/17746aa76105f89e3d8021d505b53f22/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d1c67f9c-80ed-5159-b0fd-c460e348a119",
+          "name": "Squad Bundle",
+          "description": "Feed the whole squad with 4 Chicken Sandwiches, 12 Hot Chicken Wings, and 8 Shatter Crunchin' Tenders. Like things hot? Go spicy",
+          "price": "£44.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 4499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3d83d2e3b31b238b7e4ee829d97554f3/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a270db16-dcfa-5dc1-8784-d525e987c583",
+          "name": "Family Sharer Bundle",
+          "description": "Feed the fam with 12 Boneless Wings, 8 Chicken Tenders, 4 regular fries and 4 dips of your choice",
+          "price": "£29.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 2999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/782ab9196f14d0752cacc5a97eeb83bb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "86d15263-b92d-5558-bb24-b4b277dfb47c",
+          "name": "Saucin' Wings Platter",
+          "description": "Get Saucy with 12 Boneless and 12 Hot Chicken Wings. Choose from our BBQ, Buffalo and Garlic Parm Saucin' flavours.",
+          "price": "£19.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1999,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/24e7773268ff43ad1204797cd5c5afc2/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "World Famous Sandwiches",
+      "items": [
+        {
+          "id": "ef0b513b-b69e-5a46-893c-2356bc437dcb",
+          "name": "Hot Honey Sandwich",
+          "description": "Hand breaded & battered chicken fillet in a brioche bun with cheddar cheese, fresh pickles and drizzled with our stickin' n spicin' Hot Honey.",
+          "price": "£8.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 849,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/73bdda3013ff57f206a0b409681f2801/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a448dc5f-7980-57d9-87cc-0d825c6fbf0f",
+          "name": "Classic Superstack",
+          "description": "Hand breaded & battered chicken fillet in a brioche bun with a crispy Hash Brown, cheddar cheese, creamy mayo and fresh pickles. A whooole lotta Sandwich.",
+          "price": "£8.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 879,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/304b6a7476d3ae1de1891a8ae5de14d1/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "53c927b4-c17f-54b0-8241-70ca8e4417ad",
+          "name": "Spicy Superstack 🔥",
+          "description": "Hand breaded & battered chicken fillet in a brioche bun with a crispy Hash Brown, cheddar cheese, spicy mayo and fresh pickles. A whooole lotta Sandwich.",
+          "price": "£8.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 879,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b29606238090c0d275dfee9776e16397/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "cd949b71-38ad-5eca-9a79-cf4e3540ea94",
+          "name": "Louisiana BBQ",
+          "description": "Hand breaded & battered chicken fillet in a brioche bun with smoked cheese, fresh pickles, Bold BBQ sauce and mayo.",
+          "price": "£8.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 879,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ea8a789fcca2a46bf8efada3646f18fe/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "09e0f991-1822-502e-af48-0a48defbb7a6",
+          "name": "Classic Deluxe Chicken Sandwich",
+          "description": "Fried chicken breast, cheddar cheese, lettuce, tomato, fresh pickles & creamy mayo in a soft brioche bun",
+          "price": "£8.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 879,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7293cb6e18e13cdf9a86c786d7b47dcb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6ba52cfe-2a13-5b45-b71e-8d3a1c8dad07",
+          "name": "Spicy Deluxe Chicken Sandwich 🔥",
+          "description": "Fried chicken breast, cheddar cheese, lettuce, tomato, fresh pickles & creamy mayo in a soft brioche bun",
+          "price": "£8.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 879,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1b9f0ac85b074e4ae0865174684926b5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c9ed448c-969b-56c7-bebe-9fcba8e87f19",
+          "name": "The Popeyes Chicken Sandwich",
+          "description": "An icon never tasted so good. Hand breaded & battered chicken breast, fresh pickles & creamy mayo in a soft brioche bun.",
+          "price": "£7.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 779,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2e420a6a08fdc7056fb29b5775deb4eb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4fc0a9bb-5173-5e32-991f-94d89393f61e",
+          "name": "The Popeyes Spicy Chicken Sandwich 🔥",
+          "description": "The icon bringin' the heat. Hand breaded & battered chicken breast, fresh pickles and spicy mayo in a soft brioche bun.",
+          "price": "£7.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 779,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/32bdc6c84d8c1e18ec145e5a29018e4d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9047e237-c98f-5b56-825d-09aaeeb6c142",
+          "name": "Creole Red Bean Sandwich (VG)",
+          "description": "One for the veggies. 100% plant-based red bean patty, lettuce, tomato, fresh pickles and vegan mayo in a soft  bun.",
+          "price": "£8.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 829,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d92f925543d8fbf1f4b8a84b4ced8113/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ac5b17fe-035d-5e17-aa69-b6156aa026ef",
+          "name": "Classic Double Stack Chicken Sandwich",
+          "description": "The iconic Chicken Sandwich levelled up. 2 Hand breaded & battered chicken breast, fresh pickles and classic mayo in a soft brioche bun.",
+          "price": "£9.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 979,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/799fdab541554c27b16f31999593e4de/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "39088c11-b189-50e9-a3fd-188b38eaad9b",
+          "name": "Spicy Double Stack Chicken Sandwich🔥",
+          "description": "We're feelin' the heat with 2 hand breaded & battered chicken breast, fresh pickles & spicy mayo in a soft brioche bun.",
+          "price": "£9.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 979,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2d56cf46596c7541e6bed4ddfcf7e8ff/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Big Box Meals",
+      "items": [
+        {
+          "id": "109b93ea-a898-5a9f-9244-96e170ed8c7f",
+          "name": "Large Boneless BIG Box",
+          "description": "3 Tenders, 3 Boneless, large Fries and regular Side",
+          "price": "£13.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3cbfde5480e43faf5b29d874d4d8fffb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a360314c-60e9-5a5f-bfc8-df0c40a2ec13",
+          "name": "Boneless BIG Box",
+          "description": "3 Shatter Crunchin' Tenders, 3 Boneless, regular Fries and regular Side",
+          "price": "£12.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3cbfde5480e43faf5b29d874d4d8fffb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2cfe9a51-9073-5e52-be63-93efa09ce02d",
+          "name": "Large Hot Honey BIG Box Meal",
+          "description": "Hot Honey Sandwich with a choice of 2 Tenders, 3 Hot Wings, or 4 Boneless. Served with large Fries and regular side.",
+          "price": "£15.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1529,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/153ed5484ffb8d2a02d75821accaa54b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9e8a81e3-cec7-5657-ba2b-c5f4db4ea197",
+          "name": "Regular Hot Honey BIG Box Meal",
+          "description": "Hot Honey Sandwich with a choice of 2 Tenders, 3 Hot Wings, or 4 Boneless. Served with regular Fries and regular side.",
+          "price": "£14.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1429,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/153ed5484ffb8d2a02d75821accaa54b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "49fa8714-0aa9-5656-901e-7d6ec7c5c4bd",
+          "name": "Large Classic Superstack BIG Box Meal",
+          "description": "Classic Superstack Sandwich with a choice of 2 Tenders, 3 Hot Wings or 4 Boneless. Served with large fries, regular side",
+          "price": "£15.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1529,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d3937bd8b5e9514fb6f52222383454ac/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b949f829-3f05-57ce-9354-0e41fff1899b",
+          "name": "Regular Classic Superstack BIG Box Meal",
+          "description": "Classic Superstack Sandwich with a choice of 2 Shatter Crunchin' Tenders, 3 Hot Wings or 4 Boneless. Served with regular fries, regular side",
+          "price": "£14.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1429,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d3937bd8b5e9514fb6f52222383454ac/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a22b4723-5ade-5348-9978-350d826f593b",
+          "name": "Large Spicy Superstack BIG Box Meal",
+          "description": "Spicy Superstack Sandwich with a choice of 2 Tenders, 3 Hot Wings or 4 Boneless. Served with large fries, regular side",
+          "price": "£15.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1529,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/be09e0a0f019c159b2b3c667acaa66f5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "14cdf0af-1f1e-5e3b-8db7-4addb8e640a2",
+          "name": "Regular Spicy Superstack BIG Box Meal",
+          "description": "Spicy Superstack Sandwich with a choice of 2 Shatter Crunchin' Tenders, 3 Hot Wings or 4 Boneless. Served with regular fries, regular side",
+          "price": "£14.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1429,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/be09e0a0f019c159b2b3c667acaa66f5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c1bd8326-831e-5ab7-8345-13f31bde216b",
+          "name": "Large Louisiana BBQ BIG Box Meal",
+          "description": "Louisiana BBQ Chicken Sandwich with a choice of 2 Tenders, 3 Hot Wings or 4 Boneless. Served with large Fries, regular side",
+          "price": "£15.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1529,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bd61e5f134bcd658e91127cc1a80c0ac/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8344115e-27e3-50c9-a577-53d61a673989",
+          "name": "Regular Louisiana BBQ BIG Box Meal",
+          "description": "Louisiana BBQ Chicken Sandwich with a choice of 2 Shatter Crunchin' Tenders, 3 Hot Wings or 4 Boneless. Served with regular Fries, regular side",
+          "price": "£14.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1429,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bd61e5f134bcd658e91127cc1a80c0ac/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "0d4753bd-55b7-5302-9ca7-61ed19772226",
+          "name": "Large Chicken Sandwich BIG Box Meal",
+          "description": "Our iconic Chicken Sandwich, with a choice of 2 Tenders or 3 Hot Wings. Served with large Fries, regular Side",
+          "price": "£14.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1429,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6f6dccc1ba6413744775d816736dbd88/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c956361d-a12c-5714-835e-5d9d5801af8b",
+          "name": "Regular Chicken Sandwich BIG Box Meal",
+          "description": "Our iconic Chicken Sandwich, with a choice of 2 Tenders or 3 Hot Wings. Served with regular Fries, regular side",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6f6dccc1ba6413744775d816736dbd88/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "10d75834-7da4-5b4c-9727-d9cede2c870c",
+          "name": "Large Spicy Chicken Sandwich BIG Box Meal",
+          "description": "Bring the heat with our Spicy Chicken Sandwich with a choice of 2 Tenders, 3 Hot Wings or 4 Boneless. Served with large Fries, regular Side",
+          "price": "£14.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1429,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8adcdefb2b9dfb3c786190537fbeda61/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "19a76293-b81e-5c27-a1de-49f53da14c78",
+          "name": "Regular Spicy Chicken Sandwich BIG Box Meal",
+          "description": "Bring the heat with our Spicy Chicken Sandwich with a choice of 2 Shatter Crunchin' Tenders, 3 Hot Wings or 4 Boneless. Served with regular Fries, regular Side",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8adcdefb2b9dfb3c786190537fbeda61/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ca2ee1da-6e65-5910-a44f-854a350637be",
+          "name": "Large Deluxe Chicken Sandwich BIG Box Meal",
+          "description": "Feelin' extra? Go Deluxe. Deluxe Chicken Sandwich with a choice of 2 Tenders, 3 Hot Wings or 4 Boneless. Served with large Fries, regular Side",
+          "price": "£15.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1529,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/85b9ca18f35ec34c56b6f41ef6765f12/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4df70e64-7536-59bf-adbf-13d4b5d0bea0",
+          "name": "Regular Deluxe Chicken Sandwich BIG Box Meal",
+          "description": "Feelin' extra? Go Deluxe. Deluxe Chicken Sandwich with a choice of 2 Shatter Crunchin' Tenders, 3 Hot Wings or 4 Boneless. Served with regular Fries, regular Side",
+          "price": "£14.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1429,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/85b9ca18f35ec34c56b6f41ef6765f12/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "421a3748-fa43-553b-91a5-898bdcde5bb4",
+          "name": "Large Spicy Deluxe  Chicken Sandwich BIG Box Meal",
+          "description": "Feel the heat with the Spicy Deluxe Chicken Sandwich with a choice of 2 Tenders, 3 Hot Wings or 4 Boneless. Served with large Fries, regular Side",
+          "price": "£15.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1529,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6b2ce157671dee2b8b83af8cb12f0661/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "cc10f392-2d91-5011-b149-619a0b2bbda0",
+          "name": "Regular Spicy Deluxe Chicken Sandwich BIG Box Meal",
+          "description": "Feel the heat with the Spicy Deluxe Chicken Sandwich with a chouce of 2 Shatter Crunchin' Tenders, 3 Hot Wings or 4 Boneless. Served with regular Fries, regular Side",
+          "price": "£14.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1429,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6b2ce157671dee2b8b83af8cb12f0661/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2a3581fc-e95b-599c-b6ed-673982675a64",
+          "name": "Large Combo BIG Box",
+          "description": "3 Chicken Tenders and 3 Spicy Hot Wings with large Fries, regular Side",
+          "price": "£14.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1429,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/beaabe17ca32a1c66d6be68ba665326f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fc00fb4f-c08d-52e9-8c7f-d09d8371dc1f",
+          "name": "Regular Combo BIG Box",
+          "description": "3 Shatter Crunchin' Chicken Tenders and 3 Spicy Hot Wings with regular Fries, regular Side",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/beaabe17ca32a1c66d6be68ba665326f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Box Meals",
+      "items": [
+        {
+          "id": "30304cc8-09d1-51b2-9382-d1ac3820ce77",
+          "name": "Large Boneless Box",
+          "description": "3 Tenders, 3 Boneless and large Fries.",
+          "price": "£12.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e9398a4af933b1d9fe737057673ff067/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d1b4dbda-7cc7-5e79-9059-c45f248ecc0b",
+          "name": "Boneless Box",
+          "description": "3 Shatter Crunchin' Tenders, 3 Boneless and regular Fries.",
+          "price": "£11.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1199,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e9398a4af933b1d9fe737057673ff067/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d1ff2cec-004d-5597-b53e-aace24ca49c4",
+          "name": "Large Hot Honey Box Meal",
+          "description": "Hot Honey Sandwich with a choice of 2 Tenders, 3 Hot Wings, or 4 Boneless. Served with large Fries.",
+          "price": "£14.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1429,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5235e3a7e9379b8e6ba753d56c005088/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "bd452591-a5dd-59b4-b30f-d7f28e33504d",
+          "name": "Regular Hot Honey Box Meal",
+          "description": "Hot Honey Sandwich with a choice of 2 Tenders, 3 Hot Wings, or 4 Boneless. Served with regular Fries.",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5235e3a7e9379b8e6ba753d56c005088/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "32394e2e-f4b6-53d6-822a-592237dcff31",
+          "name": "Large Classic Superstack Box Meal",
+          "description": "Classic Superstack Sandwich with a choice of 2 Tenders, 3 Hot Wings or 4 Boneless. Served with large fries.",
+          "price": "£14.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1429,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7baf619a6322d96308ede3faeb9601dc/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "309bebc2-1c19-557b-ab41-91eae75ea1fd",
+          "name": "Regular Classic Superstack Box Meal",
+          "description": "Classic Superstack Sandwich with a choice of 2 Shatter Crunchin' Tenders, 3 Hot Wings or 4 Boneless. Served with regular fries.",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7baf619a6322d96308ede3faeb9601dc/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d3323b7b-682d-51f0-96e3-67149e69c277",
+          "name": "Large Spicy Superstack Box Meal 🔥",
+          "description": "Spicy Superstack Sandwich with a choice of 2 Tenders, 3 Hot Wings or 4 Boneless. Served with large fries.",
+          "price": "£14.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1429,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8a54ff73db74af64400b928d51e3ebb0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7beed30c-2015-5fd4-8774-883700790bb2",
+          "name": "Spicy Superstack Box Meal🔥",
+          "description": "Spicy Superstack Sandwich with a choice of 2 Shatter Crunchin' Tenders, 3 Hot Wings or 4 Boneless. Served with regular fries.",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8a54ff73db74af64400b928d51e3ebb0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4322a183-ffbd-5597-b751-65e04585c8c5",
+          "name": "Large Louisiana BBQ Box Meal",
+          "description": "Louisiana BBQ Chicken Sandwich with a choice of 2 Tenders, 3 Hot Wings or 4 Boneless. Served with large Fries.",
+          "price": "£14.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1429,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/12b64027ec108da5e6ee62f4b4834058/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e7f8ed0b-f485-5662-a294-784898b258b0",
+          "name": "Regular Louisiana BBQ Box Meal",
+          "description": "Louisiana BBQ Chicken Sandwich with a choice of 2 Shatter Crunchin' Tenders, 3 Hot Wings or 4 Boneless. Served with regular Fries.",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/12b64027ec108da5e6ee62f4b4834058/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "79ab3b87-fb19-5b55-8aaf-be323ddf8869",
+          "name": "Large Chicken Sandwich Box Meal",
+          "description": "Our iconic Chicken Sandwich with a choice of 2 Tenders, 3 Hot Wings or 4 Boneless. Served with large Fries.",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/15318d1453de046e1a3e3b15c5f10c82/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7abb2688-a4cc-5db1-addc-244b4e5c86a5",
+          "name": "Regular Chicken Sandwich Box Meal",
+          "description": "Our iconic Chicken Sandwich with a choice of 2 Shatter Crunchin' Tenders, 3 Hot Wings or 4 Boneless. Served with regular Fries.",
+          "price": "£12.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1229,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/15318d1453de046e1a3e3b15c5f10c82/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "7ab30547-09bd-5a77-9001-f24b7fde022f",
+          "name": "Spicy Chicken Sandwich Box Meal🔥",
+          "description": "Bring the heat with our Spicy Chicken Sandwich with a choice of 2 Shatter Crunchin' Tenders, 3 Hot Wings or 4 Boneless. Served with regular Fries.",
+          "price": "£12.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1229,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1fdf68d607aada910e965086220e6f0c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5db11880-be7f-5962-8934-f602bec96748",
+          "name": "Large Deluxe Chicken Sandwich Box Meal",
+          "description": "Feelin' extra? Go Deluxe. Deluxe Chicken Sandwich with a choice of 2 Tenders, 3 Hot Wings or 4 Boneless. Served with large Fries.",
+          "price": "£14.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1429,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/73757115bd6fcce25e5b2021e21b4609/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "002dfb06-b37f-570b-9503-de119a80501a",
+          "name": "Regular Deluxe Chicken Sandwich Box Meal",
+          "description": "Feelin' extra? Go Deluxe. Deluxe Chicken Sandwich with a choice of 2 Shatter Crunchin' Tenders, 3 Hot Wings or 4 Boneless. Served with regular Fries.",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/73757115bd6fcce25e5b2021e21b4609/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f86420dd-fa80-5400-bae3-dccadd9c7c30",
+          "name": "Large Spicy Deluxe Chicken Sandwich Box Meal🔥",
+          "description": "Feel the heat with the Spicy Deluxe Chicken Sandwich with a choice of 2 Tenders, 3 Hot Wings or 4 Boneless. Served with large Fries.",
+          "price": "£14.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1429,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b616be3456b7f34d58e245351f9804ec/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "efed27e4-f594-5a61-81bc-b48f7c2f9f26",
+          "name": "Spicy Deluxe Chicken Sandwich Box Meal🔥",
+          "description": "Feel the heat with the Spicy Deluxe Chicken Sandwich with a chouce of 2 Shatter Crunchin' Tenders, 3 Hot Wings or 4 Boneless. Served with regular Fries.",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b616be3456b7f34d58e245351f9804ec/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "04e2f144-ce4e-55a5-97b5-a5e7ee9a04a0",
+          "name": "Large Combo Box Meal",
+          "description": "3 Chicken Tenders and 3 Spicy Hot Wings with large Fries.",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f7f0ef43429a7311d06e6b08562c6b39/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6218f403-2770-54b3-8b68-e66d6099cd49",
+          "name": "Regular Combo Box Meal",
+          "description": "3 Shatter Crunchin' Chicken Tenders and 3 Spicy Hot Wings with regular Fries.",
+          "price": "£12.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1229,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f7f0ef43429a7311d06e6b08562c6b39/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Chicken Tenders",
+      "items": [
+        {
+          "id": "6ea3507f-332e-571e-826f-be4908112c40",
+          "name": "2 Classic Tenders",
+          "description": "2 Shatter crunchin' chicken fillets.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1b45dc725875e9b58684e45b2b0fe3a8/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1b10f237-54bf-5860-9b85-2b5dd906069b",
+          "name": "3 Classic Chicken Tenders",
+          "description": "3 Shatter crunchin' chicken fillets & a dip of your choice for that extra New Orleans flavour.",
+          "price": "£6.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 629,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3a0bb3ea7befdeaa2cc7a43b8570dd04/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "74461ebd-e36d-5ba8-8cff-b243fa4781f8",
+          "name": "3 Spicy Chicken Tenders 🔥",
+          "description": "3 Spicy shatter crunchin' chicken fillets & a dip of your choice",
+          "price": "£6.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 629,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3a0bb3ea7befdeaa2cc7a43b8570dd04/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b96636b6-988d-51b4-848a-11780ae76638",
+          "name": "5 Classic Chicken Tenders",
+          "description": "5 Shatter crunchin' chicken fillets & a dip of your choice",
+          "price": "£8.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 879,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/eda2cdd4e6895d81b2e62e0cedd9b45e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4f9565c5-8fba-5af8-9ac0-778ff5c865ec",
+          "name": "5 Spicy Chicken Tenders 🔥",
+          "description": "5 Spicy shatter crunchin' chicken fillets & a dip of your choice.",
+          "price": "£8.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 879,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/eda2cdd4e6895d81b2e62e0cedd9b45e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "499f8651-ece8-5986-a130-dd4e191bd00c",
+          "name": "8 Classic Chicken Tenders",
+          "description": "8 Shatter crunchin' chicken fillets & two dips of your choice.",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6a8b6ed3c73592b494db67244a452eb8/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "5317fe93-7e8c-5a34-970a-44140fba4238",
+          "name": "8 Spicy Chicken Tenders 🔥",
+          "description": "8 Spicy shatter crunchin' chicken fillets & two dips of your choice.",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6a8b6ed3c73592b494db67244a452eb8/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Saucin' Wings",
+      "items": [
+        {
+          "id": "0150321d-50d8-5a02-99be-aa3367c6dc33",
+          "name": "6 Hot Honey Wings",
+          "description": "6 Saucin' Hot Chicken Saucin' Wings drizzled with Hot Honey.",
+          "price": "£7.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 779,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/792673875d8596a2565c2c6d60bc47eb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ce65b297-841c-56bc-8743-a79ecbc796a4",
+          "name": "6 BBQ Wings",
+          "description": "6 Saucin' hot Chicken pieces drizzled with Bold BBQ sauce.",
+          "price": "£7.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 779,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d949f691e7465a869a5d544091fe1c9a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "88a4738b-e8a9-5218-b4b0-1a14ab459c6c",
+          "name": "6 Buffalo Wings🔥",
+          "description": "6 Saucin' hot Chicken pieces drizzled with Buffalo sauce.",
+          "price": "£7.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 779,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3ccef97323cf6c4e35d35eed8b20d7c3/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a9a60fce-a8a5-57d5-ba99-e26eb979105a",
+          "name": "6 Garlic Parm Wings",
+          "description": "6 Saucin' hot Chicken pieces drizzled with Garlic Parm.",
+          "price": "£7.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 779,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a45893329495cb52691d20d014226afa/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8be1643c-afe5-5262-96d7-d7b718857a67",
+          "name": "8 Hot Honey Wings",
+          "description": "8 Saucin' Hot Chicken Saucin' Wings drizzled with Hot Honey.",
+          "price": "£9.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 979,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bdd3680d3b22d3be72338b9e4f980780/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "32e216ed-d6d5-5a3e-b055-759d9c655891",
+          "name": "8 BBQ Wings",
+          "description": "8 Saucin' hot Chicken pieces drizzled with Bold BBQ sauce.",
+          "price": "£9.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 979,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/21ad9242a0ad0addf4df49502117adf6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "304b1885-8e80-5a95-a6f1-5542149d042f",
+          "name": "8 Buffalo Wings🔥",
+          "description": "8 Saucin' hot Chicken pieces drizzled with Buffalo sauce.",
+          "price": "£9.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 979,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b266c817d99f525c89c9d1519624187c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "bbcd075c-f64d-5e64-8a4b-68779712d4e4",
+          "name": "8 Garlic Parm Wings",
+          "description": "8 Saucin' hot Chicken pieces drizzled with Garlic Parm.",
+          "price": "£9.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 979,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/84612ff8e7f1a06b9f2de5d9dcab3dc8/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b44d11e0-66a1-5185-8e54-5d24c25fc476",
+          "name": "12 Hot Honey Wings",
+          "description": "12 Saucin' Hot Chicken Saucin' Wings drizzled with Hot Honey.",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bf945c0545c91285775f093c8bce8f3d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ff6f92cd-11dd-5a41-acee-4753fd68450b",
+          "name": "12 BBQ Wings",
+          "description": "12 Saucin' hot Chicken pieces drizzled with Bold BBQ sauce.",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d762bab4ffbfda00d4ee7ccea87e7eb2/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6c947234-b567-5161-83fb-989f3cdd6147",
+          "name": "12 Buffalo Wings🔥",
+          "description": "12 Saucin' hot Chicken pieces drizzled with Buffalo sauce.",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/844847639a71998b10ab226552dea23d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fca06a25-1dea-5ad0-adfc-b01f6245c0d8",
+          "name": "12 Garlic Parm Wings",
+          "description": "12 Saucin' hot Chicken pieces drizzled with Garlic Parm.",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b69364cd058d0bdf2702340a7dd9aee1/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Hot Chicken Wings🔥",
+      "items": [
+        {
+          "id": "6d977da8-39fc-52d7-86fd-a2feaf69e410",
+          "name": "3 Hot Wings 🔥",
+          "description": "3 Hot Wings",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b7f087f65e9f0107e166d48425cd2bb2/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "340eeda2-3fa7-5523-a829-e1a587ed921c",
+          "name": "6 Hot Wings 🔥",
+          "description": "6 Spicy shatter crunchin' chicken Hot Wings",
+          "price": "£6.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 679,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/494803b61ada5a57792732eec17e0948/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "bf1fccd9-5d3e-59d5-a364-2ececa5d5d3b",
+          "name": "8 Hot Wings 🔥",
+          "description": "8 Spicy shatter crunchin' chicken Hot Wings",
+          "price": "£8.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 879,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/538768bfd728ef1c007fe8dbf641e0cb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "09b4c91c-354f-52d2-9476-235c13a17b9b",
+          "name": "12 Hot Wings 🔥",
+          "description": "12 Spicy shatter crunchin' chicken Hot Wings",
+          "price": "£12.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1229,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/75232f4091eaf7410157362a7dcd908e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Signature Louisiana Chicken Wraps",
+      "items": [
+        {
+          "id": "85d58c1b-0a14-5132-b516-3525419aeab9",
+          "name": "Classic Wrap",
+          "description": "2 Shatter crunchin' chicken tenders, lettuce, tomato, creamy mayo, soft toasted tortilla wrap.",
+          "price": "£6.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 629,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1fe1b7815a2993705376982b133d5fc5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b8788f1f-a715-5d9f-bd03-748eac0cfab8",
+          "name": "Spicy Wrap 🔥",
+          "description": "2 Shatter crunchin' chicken tenders, lettuce, tomato, spicy mayo in a soft toasted tortilla wrap.",
+          "price": "£6.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 629,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/84210662d932c2326532a01f7345ab34/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "e1a2a1c7-2ace-5f65-9af6-5fbb4ecd1bac",
+          "name": "Louisiana BBQ Wrap",
+          "description": "2 Shatter crunchin' chicken tenders, Bold BBQ sauce, lettuce and smoked cheese in a soft tortilla wrap. Sticky, smoky, sweet.",
+          "price": "£7.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 729,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/166d781eae0b469ffea5ebefba283ffd/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Boneless Saucin'",
+      "items": [
+        {
+          "id": "d42936b7-8253-5ac3-b691-8e2eea2b8f94",
+          "name": "6 Boneless Hot Honey",
+          "description": "6 Saucin' Boneless chicken pieces drizzled with Hot Honey",
+          "price": "£7.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 729,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1450112f8b1c4b4d69bdb9a7a73c1a04/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "db802abe-073b-585b-9b24-19b782d1ef37",
+          "name": "6 Boneless BBQ",
+          "description": "6 Saucin' Boneless Chicken pieces drizzled with Bold BBQ sauce.",
+          "price": "£7.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 729,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8f3a8faecb709feb6feb253b08c236fa/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "0a8c69e4-7190-5a8d-a2ed-091db24b6cbe",
+          "name": "6 Boneless Buffalo🔥",
+          "description": "6 Saucin' Boneless chicken pieces drizzled with Buffalo sauce.",
+          "price": "£7.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 729,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/733f5503dfe03cf836d18c3f7b929e70/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "926582e1-948a-5b79-9d8a-71fc4754d7a2",
+          "name": "6 Boneless Garlic Parm",
+          "description": "6 Saucin' Boneless Chicken pieces drizzled with Garlic Parm.",
+          "price": "£7.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 729,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cf13624bf8f81175e2d34b4aba251a4f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "05ff7962-1821-55cf-a9b2-5f8e455b95b9",
+          "name": "8 Boneless Hot Honey",
+          "description": "8 Saucin' Boneless chicken pieces drizzled with Hot Honey",
+          "price": "£9.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 929,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2fe295b6c9d0a6124ab630af1d993b99/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "dc1decaa-55f3-56f8-9719-96625a920e52",
+          "name": "8 Boneless BBQ",
+          "description": "8 Saucin' Boneless Chicken pieces drizzled with Bold BBQ sauce.",
+          "price": "£9.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 929,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9bdc6ef6c2e409939a4335e25046ea99/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c1f258e8-e8b0-57fe-9ced-e7cddffdb65f",
+          "name": "8 Boneless Buffalo🔥",
+          "description": "8 Saucin' Boneless Chicken pieces drizzled with Buffalo sauce.",
+          "price": "£9.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 929,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1ffb79101afbd08838a03262e70a9a39/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6752f0ef-3ada-594b-9c88-5a43b5503dd8",
+          "name": "8 Boneless Garlic Parm",
+          "description": "8 Saucin' Boneless Chicken pieces drizzled with Garlic Parm.",
+          "price": "£9.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 929,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/75a4574d8eca214d958db4b83111ed30/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "39b06b86-8e54-5951-bd32-0a8d78e38288",
+          "name": "12 Boneless Hot Honey",
+          "description": "12 Saucin' Boneless chicken pieces drizzled with Hot Honey",
+          "price": "£12.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1279,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cf44dd6eb7d73fed130c9c9be32b88b9/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "8e3c9b99-ac42-509e-a073-ef808d1ed49d",
+          "name": "12 Boneless BBQ",
+          "description": "12 Saucin' Boneless Chicken pieces drizzled with Bold BBQ sauce.",
+          "price": "£12.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1279,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b679b0f62932169b2ba254b79c2e4c5f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d38939a8-000d-597b-b129-ac55c125c9e6",
+          "name": "12 Boneless Buffalo🔥",
+          "description": "12 Saucin' Boneless Chicken pieces drizzled with Buffalo sauce.",
+          "price": "£12.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1279,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9c43f52c2b3b98596b3053ab91ed8c50/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "bb158703-63e6-543f-b06d-dcac9e496d38",
+          "name": "12 Boneless Garlic Parm",
+          "description": "12 Saucin' Boneless Chicken pieces drizzled with Garlic Parm.",
+          "price": "£12.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1279,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/da5f634810fa10564e7f1f552cafc708/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Boneless",
+      "items": [
+        {
+          "id": "6193a675-6ff4-52bb-bcab-997b90c60104",
+          "name": "6 Boneless",
+          "description": "6 Shatter Crunchin' Saucin' Boneless Chicken pieces.",
+          "price": "£6.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 629,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/27706b3c1b72e526dfc1dbaa521a5202/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6a153e7f-fce3-5c00-8565-052ac5e79fd8",
+          "name": "8 Boneless",
+          "description": "8 Shatter Crunchin' Saucin' Boneless Chicken pieces.",
+          "price": "£8.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 829,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9b8debd19432ec1915dd97edf0679de0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "cd8b8b4c-c431-5cbb-addf-2bbec8b7e347",
+          "name": "12 Boneless",
+          "description": "12 Shatter Crunchin' Saucin' Boneless Chicken pieces.",
+          "price": "£11.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1179,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/697d75171ec137c72483cc324a9f2596/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Signature Louisiana Chicken",
+      "items": [
+        {
+          "id": "31548b9e-8a41-5fb9-9cf3-453b155f580d",
+          "name": "2 Piece Signature Louisiana Chicken Classic",
+          "description": "2 Piece Signature Louisiana Chicken Classic",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7844b1fd62c251b95f763f085afa8f54/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c8f9bb82-9046-5d52-90ad-00c58c475eaf",
+          "name": "3 Piece Signature Louisiana Chicken Classic",
+          "description": "3 piece classic signature Louisiana chicken.",
+          "price": "£7.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 749,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d612f66aa0364dbc752003af290a893e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "569a2f80-7943-551b-bebe-3f37cf6d5f88",
+          "name": "6 Piece Signature Louisiana Chicken Classic",
+          "description": "6 piece classic signature Louisiana chicken.",
+          "price": "£13.29",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1329,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7182f276142ae8f56815be51c77a5c61/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Kids Meals",
+      "items": [
+        {
+          "id": "80dc4455-d316-5746-8901-4a3d1ffa8fa4",
+          "name": "Sandwich Poppy Meal with Ketchup",
+          "description": "A kids version of our iconic Chicken Sandwich. Choose from kids Fries or Kids salad and a kids drink.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/755147ba649e622bd6dfc60e2055c16b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "64f53831-edb0-54fb-8743-206517f6ff14",
+          "name": "Sandwich Poppy Meal with Mayo",
+          "description": "A kids version of our iconic Chicken Sandwich. Choose from kids Fries or Kids salad and a kids drink.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/755147ba649e622bd6dfc60e2055c16b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "df3185eb-f64e-5320-806e-41b0187165e8",
+          "name": "Sandwich Poppy Meal Plain",
+          "description": "A kids version of our iconic Chicken Sandwich. Choose from kids Fries or Kids salad and a kids drink.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/755147ba649e622bd6dfc60e2055c16b/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3529e26d-9fe5-5e9d-979c-f730c694ee40",
+          "name": "Wrap Poppy Meal",
+          "description": "1 chicken tender, lettuce, creamy mayo in a soft toasted tortilla wrap. Choose from kids Fries or Kids salad and a kids drink.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4115fa4da6771549c612664ab3046c34/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "714a63d9-e52a-55f4-89f6-3a2057d4aa1b",
+          "name": "Tenders Poppy Meal",
+          "description": "2 Hand breaded & battered chicken fillets. Choose from kids Fries or Kids salad and a kids drink.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b7bd54abb0490fa0dc41456ac90698cb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a70f9321-f694-5313-badc-eee938c9ca27",
+          "name": "Nuggets Poppy Meal",
+          "description": "4 Shatter Crunchin' Chicken Nuggets. Choose from kids Fries or Kids salad and a kids drink.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b0d546c1f01c57fe3c0832dc3376739d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f1c8d84a-9dfc-502b-8a96-73e3fc51c631",
+          "name": "Mac & Cheese Poppy Meal",
+          "description": "Mac & Cheese with a choice of kids Fries or Kids salad and a kids drink.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/adb98e7cf02a59efb4a62bce996ef1cb/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Something on the side",
+      "items": [
+        {
+          "id": "bd28a46a-9127-579b-9bc6-0ba9a7b13a7a",
+          "name": "Regular Fries",
+          "description": "Our classic signature fries.",
+          "price": "£2.59",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 259,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5d26d5e431c75767fe2f825721cd7423/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ed4e5c75-0c9c-570f-9c09-fbe91d1ce8fd",
+          "name": "Large Fries",
+          "description": "A larger portion of our signature French fries.",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9305f4ca021651424cd180f263fecee1/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "43972d90-fd65-547a-b528-15aaa42f5b91",
+          "name": "Regular Cajun Fries",
+          "description": "Our signature fries sprinkled with Cajun heat.",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9601eb23f2528b1a16bcad734639e6ff/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1574f1d2-deab-5725-b07b-499a70837c5e",
+          "name": "Large Cajun Fries",
+          "description": "Go big or go home. A large portion of our signature fries.",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9601eb23f2528b1a16bcad734639e6ff/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2340ae69-3f15-54a8-95d6-3f6c8c4aaede",
+          "name": "Original Popeyes Biscuit",
+          "description": "A savoury Buttermilk Biscuit. Time to settle the debate - is it a biscuit or a scone? Bringing the US Southern classic to the UK, it wouldn't be a Popeyes menu without it.",
+          "price": "£1.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 100,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d5538f354fba708ab11ee5716d7458a2/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "181ccc06-1b37-5b92-afaa-ad4b28faa547",
+          "name": "Biscuit & Hot Honey",
+          "description": "Buttermilk biscuit served with Hot Honey.",
+          "price": "£1.89",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 189,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a92591cb0a5966fdadac7831655c272d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4b20f9d4-a9e8-533a-a2d3-464a575f44c1",
+          "name": "Original Popeyes Biscuit & Honey",
+          "description": "Buttermilk biscuit with honey on the side.",
+          "price": "£1.89",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 189,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6af54c433bfc9cd9b17c694fa42eae32/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "47808c9f-fa6d-5a7e-b90d-a797b44684e1",
+          "name": "Cajun Gravy",
+          "description": "Like your gravy with a sprinkle of New Orleans spirit? Welcome Cajun Gravy.",
+          "price": "£1.89",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 189,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6b7d20f57516f04e7bf443ab31ea5d3c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8a0fda64-d7dd-561a-b640-5748b2fced91",
+          "name": "Smoky Beans",
+          "description": "Beans in a smoky tomato sauce",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/407261dfd10563a59176ffed63f727a5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4d48018d-5eef-5997-a7a9-cc8e38e40c57",
+          "name": "Original Biscuit & Cajun Gravy",
+          "description": "A savoury Buttermilk Biscuit served with our Cajun Gravy. A New Orleans take on a classic British combo.",
+          "price": "£2.89",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 289,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c78320392f44369ee1325907c54612c6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a9c7e06d-ca7a-519b-977c-d746b28328fb",
+          "name": "Mac & Cheese",
+          "description": "Allow us to introduce the Mac & Cheese.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/405ede8429bf79adf9ecc1a13c4e0d1c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "19f89966-5303-5a5b-9aef-f59931b1f3d0",
+          "name": "Mash & Cajun Gravy",
+          "description": "Mash 🤝 Cajun Gravy. Name a better duo, we'll wait.",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3e7376dcfb32a6ab5f35903e7756cde0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Dips",
+      "items": [
+        {
+          "id": "0e0ac07e-a103-53e2-9f5e-37db2839143f",
+          "name": "Kickback Dip",
+          "description": "Creamy sauce with a tangy kick & smoky flavours",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0e6b2ea8b5a1b1f7e61f7870979511f7/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "31b6edb2-a1ba-5660-9ce0-9770a2f7825e",
+          "name": "Ranch",
+          "description": "Iconic ranch style dressing.",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7a8688b30c7df76c18d787744901c19d/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "53cc8c16-1767-588e-af64-b01f9cccd90c",
+          "name": "Garlic Mayo Dip",
+          "description": "Garlic Mayonnaise.",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/acb752841de133aa565d060740c6eae1/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "68af0481-d03a-5d7f-bb5c-a28bad4be8d3",
+          "name": "Bold BBQ Dip",
+          "description": "Sweet and tangy BBQ sauce.",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6a7f094380cbaaa9dc5128e2b3801e13/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "73e7f770-46fe-5700-bffd-b558a7f5df7c",
+          "name": "Louisiana Hot 🌶️🌶️🌶️",
+          "description": "Packed with heat and bold flavours.",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f20c37df8cf778551e63bcc72cd38010/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5b369ad1-a8f8-5a1f-aa09-9baefb3a5e4c",
+          "name": "Buffalo 🌶️",
+          "description": "Tinglin', spicin' Buffalo",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f21e19933ce1eea7aea9eea2739cd1a5/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d0b3e93f-4894-53a4-9a04-167fedb4a059",
+          "name": "Mango Habanero 🌶️🌶️",
+          "description": "A taste of exotic fruity pepper and heat from the combination of mangos and habanero chili peppers.",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7a69498d5d90041ac9fbce1bd078d694/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6fd2bc8f-c8bf-5404-bbb1-f57dad361097",
+          "name": "Classic Mayo Dip",
+          "description": "Popeyes signature mayonnaise",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4b4ffb43be9c643e8b045a201bccc0be/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1a802149-4cd3-51de-a093-0b3f4256f1e0",
+          "name": "Hot Honey 🌶️",
+          "description": "Sweet bold flavour with a hint of spice. Inspired by Megan’s sassy personality.",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/da22aecf4a959c9acc95ddcec78037dd/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "47808c9f-fa6d-5a7e-b90d-a797b44684e1",
+          "name": "Cajun Gravy",
+          "description": "Like your gravy with a sprinkle of New Orleans spirit? Welcome Cajun Gravy.",
+          "price": "£1.89",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 189,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6b7d20f57516f04e7bf443ab31ea5d3c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Shakes",
+      "items": [
+        {
+          "id": "0b979c0f-7cb5-5dfd-a1a3-fce22fc9c403",
+          "name": "Strawberry Cheesecake Milkshake",
+          "description": "Fruity hand-spun strawberry milkshake topped with biscuit pieces and a swirl of strawberry sauce",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/14d6a97a23ab290ee8a6115b41a96be0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "56bc5e41-25fa-59ac-b779-723e12a62714",
+          "name": "Made with Oreo Milkshake",
+          "description": "Hand Spun chocolate milkshake topped with chocolate sauce and Oreo biscuit.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c5062544f408fd2ec9f79a018fe068db/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6356551a-b926-5a8e-80d8-854b642e8eb9",
+          "name": "Biscoff Milkshake",
+          "description": "Hand-spun Biscoff milkshake topped with Biscoff biscuit.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a8ada1a8a2302eaf20b3ccc8ea7ea882/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f11a61cf-faa4-5c44-821b-758f3a40e787",
+          "name": "Chocolate Milkshake",
+          "description": "Can't say no to a hand-spun chocolate shake.",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3f13d9c10f0d53f681a7011d82156dc4/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "dc5473e8-11c5-5e50-ab0f-193818617543",
+          "name": "Strawberry Milkshake",
+          "description": "Fruity hand-spun strawberry milkshake.",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dd183143e8066f9fff8cf40001fa3c51/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "3d776bf1-6c1d-5184-88d8-318e2cc67bdd",
+          "name": "Vanilla Milkshake",
+          "description": "Hand Spun vanilla milkshake.",
+          "price": "£4.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 450,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8a321465ca2d0a34ea10ae57cadba51d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e71d9a2d-e48e-5ae8-bbf9-3ade81faced0",
+          "name": "Large Biscoff Milkshake",
+          "description": "Large Biscoff Milkshake",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1f83d1672ff435cfc90854386444d51f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c140192d-ee03-5552-aa8f-d9ae4708bc25",
+          "name": "Large Oreo Milkshake",
+          "description": "Large Oreo Milkshake",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c5062544f408fd2ec9f79a018fe068db/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1724811a-8408-5478-b8a1-02836ccedf3f",
+          "name": "Large Strawberry Cheesecake Milkshake",
+          "description": "Large Strawberry Cheesecake Milkshake",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/14d6a97a23ab290ee8a6115b41a96be0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "42928f21-54d2-50f4-8d81-9787a2d6ab6b",
+          "name": "Large Chocolate Milkshake",
+          "description": "Large Chocolate Milkshake",
+          "price": "£5.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 550,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1d381410608fcb7d08384dc73ba3df48/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1c3044f7-6d6a-518b-81f1-5c462daba327",
+          "name": "Large Vanilla Milkshake",
+          "description": "Large Vanilla Milkshake",
+          "price": "£5.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 550,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/efcfd182fc172826b874e8bd23e2acc9/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "060aae8f-afeb-5f64-9a6c-fe50e6ec3838",
+          "name": "Large Strawberry Milkshake",
+          "description": "Large Strawberry Milkshake",
+          "price": "£5.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 550,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/000dc8a816d10d5ff68a4e825ce17799/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Drinks",
+      "items": [
+        {
+          "id": "72204004-e63d-5265-abda-b8b760e7c44b",
+          "name": "One Natural Spring Water",
+          "description": "One Natural Spring Water",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bc39d12b91ec40819370fb4cd8d6654d/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e5e49716-ffdc-5d0f-9b3c-7ab761c2965f",
+          "name": "Coca-Cola Zero Sugar 500ml",
+          "description": "Coca-Cola Zero Sugar 500ml",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b45b54f6ef6c7ea70cb1b602a49f1fa1/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c7322124-d562-5a27-b59b-494e141f5dd6",
+          "name": "Diet Coke 500ml",
+          "description": "Diet Coke 500ml",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8f3f2219fb61cd43da1989eb8ff09cb6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c715fae4-a080-5bd5-81cf-c8489f88e03d",
+          "name": "Dr Pepper 500ml",
+          "description": "Dr Pepper 500ml",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4c45519482bce5fa7b8c2a69fd8cb6f5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f024f690-5113-5030-8563-3ff6b9c85fc8",
+          "name": "Fanta Orange 500ml",
+          "description": "Fanta Orange 500ml",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/415f8fb758eb252a143cc437e06a706e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "32c24609-c347-5060-b846-3357af1f00f9",
+          "name": "Coca-Cola Classic 500ml",
+          "description": "N/A",
+          "price": "£2.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 279,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/02b9662780b6163005ea7e342f7f0d38/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fa03c4b5-bd9b-5f8a-9046-297ae737712a",
+          "name": "Oasis Summer Fruits",
+          "description": "N/A",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/443eb7c629e975a1f64d79acfc7cc87f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8bdcfc4e-dd49-5699-875d-b4b5d8ea54bc",
+          "name": "Sprite 500ml",
+          "description": "Sprite 500ml",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0d0cfe7eb9fd49f081c2540512411507/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6402725e-3c18-5fa9-af42-4e0fc65c438a",
+          "name": "Fruit Shoot Orange",
+          "description": "Fruit Shoot Orange",
+          "price": "£1.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 170,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/29547f0762e0a988ac316db2eece770d/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f17854c4-b15c-5fac-a70f-52b1de2ac90c",
+          "name": "Fruit Shoot Apple & Blackcurrant",
+          "description": "Fruit Shoot Apple & Blackcurrant",
+          "price": "£1.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 170,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/93e86efbc6179d97dab75bd9fbf0e189/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Popeyes Whipz 🍦",
+      "items": [
+        {
+          "id": "6e4bf845-fb9c-5bd5-acb9-f9c99529f54c",
+          "name": "Popeyes Whipz - M&M",
+          "description": "Our classic Popeyes vanilla sundae topped with chocolate sauce and M&M pieces.",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7920e584a7ff48a9e9b0f85a7aa1c7ff/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "16226346-2e74-5677-801f-d64b38117218",
+          "name": "Strawberry Cheesecake Whipz",
+          "description": "Our classic Popeyes vanilla sundae topped with strawberry sauce and biscuit pieces.",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1c33da957690c48481af6b0e2adcba67/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d87d766d-ca37-59c2-b793-b9047645c2e1",
+          "name": "Made with Oreo Whipz",
+          "description": "Our classic swirled vanilla ice cream topped with chocolate sauce and Oreo pieces",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7c4a6a286e7432226febc899df537736/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fe78a177-9af0-5abe-87a5-6d800d385362",
+          "name": "Biscoff Whipz",
+          "description": "Our classic swirled vanilla ice cream topped with Biscoff sauce and pieces",
+          "price": "£3.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 350,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ffb35c5fc96870d106dd86d2127cf5e5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1092fdfa-355a-55e1-9f3a-8f3781583324",
+          "name": "Chocolate Whipz",
+          "description": "Our classic swirled chocolate ice cream",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c18f57097d245a88403016bdc2c2e960/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4593af70-fd19-5e85-9280-460361bf6e5f",
+          "name": "Vanilla Whipz",
+          "description": "Our classic swirled vanilla ice cream",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5323c2f2afdec362bf2c9e404b7e6cde/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Breakfast Rolls",
+      "items": [
+        {
+          "id": "abe1695c-1cfa-59f9-97c4-2e910ba01565",
+          "name": "Big Cajun Roll",
+          "description": "Big Cajun Roll here to spice up your mornin'. Sausage patty, Cajun Hash Brown, egg, smoked streaky bacon and American cheese in a soft brioche bun with Cajun Ketchup.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a83fec745a003a7cde338c5d64f2a3e8/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4e679bbe-65ec-5b7d-a2ea-2903ce0fe8ab",
+          "name": "Big Breakfast Roll with Brown Sauce",
+          "description": "Start your day the Popeyes way. Sausage patty, egg, streaky bacon, Brown Sauce and American cheese in a brioche bun.",
+          "price": "£5.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 549,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f2c5fb577294311b13d800b45d4a9bcf/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fd94b926-4ecf-58ec-82a3-1cc0262630a5",
+          "name": "Big Breakfast Roll with Ketchup",
+          "description": "Start your day the Popeyes way. Sausage patty, egg, streaky bacon, Ketchup and American cheese in a brioche bun.",
+          "price": "£5.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 549,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/45f31983bcbcf9df4ab1c3208f766ecc/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d21b45ca-0b94-5619-9b1e-c5ebba917780",
+          "name": "Big Breakfast Roll - Cajun Ketchup",
+          "description": "Start your day the Popeyes way. Sausage patty, egg, streaky bacon, Cajun Ketchup and American cheese in a brioche bun.",
+          "price": "£5.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 549,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f2c5fb577294311b13d800b45d4a9bcf/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "bf91cc18-b7d7-5443-8b59-bdcd87b10966",
+          "name": "Bacon Roll with Brown Sauce",
+          "description": "Wake up and smell the bacon...Back bacon rashers and Brown Sauce in a soft brioche bun.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/976b937b9d834e23843742287694e663/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "473ef5a6-c18b-5386-a363-50b6cf0d551f",
+          "name": "Bacon Roll with Ketchup",
+          "description": "Wake up and smell the bacon...Back bacon rashers and Ketchup in a soft brioche bun.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0d5fa70a82af0b686ab46f02e4c8d07c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "f76ab453-9a1b-5103-802d-945bb03bc3c8",
+          "name": "Bacon Roll with Cajun Ketchup",
+          "description": "Wake up and smell the bacon...Back bacon rashers and Cajun Ketchup in a soft brioche bun.",
+          "price": "£3.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 399,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0d5fa70a82af0b686ab46f02e4c8d07c/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Muffins",
+      "items": [
+        {
+          "id": "9ce3f3ab-69c4-5368-b579-745e00f6bfce",
+          "name": "Double Bacon, Egg & Cheese Muffin",
+          "description": "Double bacon, double vibes. Double streaky bacon, egg and American cheese in an English muffin.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a6495e10f6a3911b8205f94db09fb999/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "aeb1da98-f049-5a35-bb52-e064f91a5cb3",
+          "name": "Double Sausage, Egg & Cheese Muffin",
+          "description": "Go big or go back to bed. 2 sausage patties, egg, & American cheese in an English muffin.",
+          "price": "£4.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 499,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2134cf11313be590e9424713aef5da96/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c95eb1c4-059f-5b4f-acef-0a91b616ea9e",
+          "name": "Egg & Cheese Muffin",
+          "description": "Egg and American cheese in a toasted English muffin.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6614edfac60138889f0471ca48700177/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "fe983e6c-0801-5baa-adb8-87deaa2da868",
+          "name": "Bacon, Egg & Cheese Muffin",
+          "description": "Smoked streaky bacon, egg and American cheese in an English muffin.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/87f95876c2739aefbb82912218e7806a/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d17fda45-584b-5cae-b9cc-bfe98595e69b",
+          "name": "Sausage, Egg & Cheese Muffin",
+          "description": "Sausage patty, egg and American Cheese in an English muffin.",
+          "price": "£4.49",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 449,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aaa062fb4060c8bf5e2ed2b5a9203df9/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Breakfast Wraps",
+      "items": [
+        {
+          "id": "d7ed5a66-95fe-5255-bd82-5cde3074e80e",
+          "name": "Big Brekkie Wrap with HP Sauce",
+          "description": "Sausage patty, 2 eggs, streaky bacon, American cheese, HP Sauce and a Hash Brown in a soft tortilla wrap. It's always yes when Hash Browns are involved.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d0bd87dca0ed51f68b38e101025dcba0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c62dbcf8-556a-5334-81c7-ecfa7c52674e",
+          "name": "Big Brekkie Wrap with Heinz Ketchup",
+          "description": "Sausage patty, 2 eggs, streaky bacon, American cheese, Heinz Ketchup and a Hash Brown in a soft tortilla wrap. It's always yes when Hash Browns are involved.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d0bd87dca0ed51f68b38e101025dcba0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a90926d5-7b35-5119-9ea6-73c932c45c57",
+          "name": "Big Cajun Wrap",
+          "description": "New Orleans in a wrap? Say no more. Sausage patty, Cajun Hash Brown, 2 eggs, streaky bacon, American cheese and a swirl of Cajun Ketchup in a soft tortilla wrap.",
+          "price": "£5.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 599,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d0bd87dca0ed51f68b38e101025dcba0/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Sides",
+      "items": [
+        {
+          "id": "473c5368-1ed9-5a82-9312-95061f6e24c2",
+          "name": "Hash Brown",
+          "description": "N/A",
+          "price": "£1.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 179,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6a1e199d90cfe291ba8b4367df5b9d31/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "a2297825-df5d-5539-af89-cdfe060e149b",
+          "name": "Cajun Hash Brown",
+          "description": "Nothing says mornin' y'all like a Cajun Hash Brown.",
+          "price": "£1.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 179,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/77fab15dfc90ee35fd2992bf5223ad6f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Sweets",
+      "items": [
+        {
+          "id": "4b20f9d4-a9e8-533a-a2d3-464a575f44c1",
+          "name": "Original Popeyes Biscuit & Honey",
+          "description": "Buttermilk biscuit with honey on the side.",
+          "price": "£1.89",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 189,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6af54c433bfc9cd9b17c694fa42eae32/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "629239d8-0598-5f1d-9a6f-15b24a097abc",
+          "name": "Biscuit with Strawberry Jam",
+          "description": "A savoury Buttermilk Biscuit served with a portion of Strawberry Jam. Time to settle the debate - is it a biscuit or a scone? Bringing the US Southern classic to the UK, it wouldn't be a Popeyes menu without it.",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e622bb77535d24c993c9642b077d24ad/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0380ca9f-32a8-53f9-9cbb-f38d0d850aed",
+          "name": "English Muffin with Strawberry Jam",
+          "description": "English Muffin with Strawberry Jam",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3d70e99212658561c803c33b0e4b6953/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Hot Drinks",
+      "items": [
+        {
+          "id": "48207e66-c7d8-58c0-b9a8-bffa843fdaeb",
+          "name": "Tea",
+          "description": "N/A",
+          "price": "£2.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 275,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/52f6c6ea6a280d7e0aa626bdf07fecc3/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "84455353-ce89-5a52-b92f-b25b15643cdd",
+          "name": "Black Americano",
+          "description": "N/A",
+          "price": "£2.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 275,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aceddf1c3e693232c6498783bfa758c1/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Drinks",
+      "items": [
+        {
+          "id": "8bdcfc4e-dd49-5699-875d-b4b5d8ea54bc",
+          "name": "Sprite 500ml",
+          "description": "Sprite 500ml",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0d0cfe7eb9fd49f081c2540512411507/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "4b2b008a-6524-5ba4-9eb1-32fe1e3c1f58",
+          "name": "Tropicana Orange Juice",
+          "description": "Tropicana Orange Juice",
+          "price": "£2.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 275,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b8015de7afd6d42be5bf6cbd4de2917e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "72204004-e63d-5265-abda-b8b760e7c44b",
+          "name": "One Natural Spring Water",
+          "description": "One Natural Spring Water",
+          "price": "£2.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 225,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bc39d12b91ec40819370fb4cd8d6654d/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "fa03c4b5-bd9b-5f8a-9046-297ae737712a",
+          "name": "Oasis Summer Fruits",
+          "description": "N/A",
+          "price": "£2.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 299,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/443eb7c629e975a1f64d79acfc7cc87f/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "32c24609-c347-5060-b846-3357af1f00f9",
+          "name": "Coca-Cola Classic 500ml",
+          "description": "N/A",
+          "price": "£2.79",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 279,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/02b9662780b6163005ea7e342f7f0d38/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c7322124-d562-5a27-b59b-494e141f5dd6",
+          "name": "Diet Coke 500ml",
+          "description": "Diet Coke 500ml",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8f3f2219fb61cd43da1989eb8ff09cb6/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "e5e49716-ffdc-5d0f-9b3c-7ab761c2965f",
+          "name": "Coca-Cola Zero Sugar 500ml",
+          "description": "Coca-Cola Zero Sugar 500ml",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b45b54f6ef6c7ea70cb1b602a49f1fa1/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f024f690-5113-5030-8563-3ff6b9c85fc8",
+          "name": "Fanta Orange 500ml",
+          "description": "Fanta Orange 500ml",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/415f8fb758eb252a143cc437e06a706e/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "c715fae4-a080-5bd5-81cf-c8489f88e03d",
+          "name": "Dr Pepper 500ml",
+          "description": "Dr Pepper 500ml",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4c45519482bce5fa7b8c2a69fd8cb6f5/c67fc65e9b4e16a553eb7574fba090f1.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Dips",
+      "items": [
+        {
+          "id": "0e0ac07e-a103-53e2-9f5e-37db2839143f",
+          "name": "Kickback Dip",
+          "description": "Creamy sauce with a tangy kick & smoky flavours",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0e6b2ea8b5a1b1f7e61f7870979511f7/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "31b6edb2-a1ba-5660-9ce0-9770a2f7825e",
+          "name": "Ranch",
+          "description": "Iconic ranch style dressing.",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7a8688b30c7df76c18d787744901c19d/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "53cc8c16-1767-588e-af64-b01f9cccd90c",
+          "name": "Garlic Mayo Dip",
+          "description": "Garlic Mayonnaise.",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/acb752841de133aa565d060740c6eae1/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "68af0481-d03a-5d7f-bb5c-a28bad4be8d3",
+          "name": "Bold BBQ Dip",
+          "description": "Sweet and tangy BBQ sauce.",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6a7f094380cbaaa9dc5128e2b3801e13/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "73e7f770-46fe-5700-bffd-b558a7f5df7c",
+          "name": "Louisiana Hot 🌶️🌶️🌶️",
+          "description": "Packed with heat and bold flavours.",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f20c37df8cf778551e63bcc72cd38010/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "5b369ad1-a8f8-5a1f-aa09-9baefb3a5e4c",
+          "name": "Buffalo 🌶️",
+          "description": "Tinglin', spicin' Buffalo",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f21e19933ce1eea7aea9eea2739cd1a5/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "d0b3e93f-4894-53a4-9a04-167fedb4a059",
+          "name": "Mango Habanero 🌶️🌶️",
+          "description": "A taste of exotic fruity pepper and heat from the combination of mangos and habanero chili peppers.",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7a69498d5d90041ac9fbce1bd078d694/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6fd2bc8f-c8bf-5404-bbb1-f57dad361097",
+          "name": "Classic Mayo Dip",
+          "description": "Popeyes signature mayonnaise",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4b4ffb43be9c643e8b045a201bccc0be/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "1a802149-4cd3-51de-a093-0b3f4256f1e0",
+          "name": "Hot Honey 🌶️",
+          "description": "Sweet bold flavour with a hint of spice. Inspired by Megan’s sassy personality.",
+          "price": "£0.99",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 99,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/da22aecf4a959c9acc95ddcec78037dd/0fb376d1da56c05644450062d25c5c84.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

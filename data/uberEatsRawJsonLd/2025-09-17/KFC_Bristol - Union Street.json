@@ -1,0 +1,1336 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/kfc-bristol-union-street/-EJLZFGIQW2ktgIxX54cqw",
+  "name": "KFC Bristol - Union Street",
+  "servesCuisine": [
+    "Fried Chicken",
+    "American",
+    "Fast Food",
+    "Chicken",
+    "Halal",
+    "Group Friendly"
+  ],
+  "priceRange": "₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/52c01ea876e611b8bd85323903dca9f3/19ec62ba51fde35ba0aff5b84321c5af.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/52c01ea876e611b8bd85323903dca9f3/c67d558c633281f9c71fc6a90ef470ae.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/52c01ea876e611b8bd85323903dca9f3/8681e511c0910e0052cb155c50f01f89.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/52c01ea876e611b8bd85323903dca9f3/6ea4f72e303000fbf403bbb36f971f85.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/52c01ea876e611b8bd85323903dca9f3/4bee0baf259f2b3c95aacdebea87e950.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/52c01ea876e611b8bd85323903dca9f3/5283d81c664b43c5f57a3a186d273063.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/kfc-bristol-union-street/-EJLZFGIQW2ktgIxX54cqw?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "Bristol",
+    "postalCode": "BS1 2",
+    "addressCountry": "GB",
+    "streetAddress": "15-29 Union Street, Ground and 1st floor units"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.4564673,
+    "longitude": -2.5912024
+  },
+  "telephone": "+441179544695",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.4,
+    "reviewCount": "15000"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "opens": "9:30",
+      "closes": "15:0"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "opens": "15:0",
+      "closes": "22:45"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "9:30",
+      "closes": "15:0"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "15:0",
+      "closes": "22:50"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "name": "Lunch",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Boneless Banquet",
+            "description": "3 Mini Fillets, small Popcorn chicken, regular Signature fries &amp; your choice of side. Plus one Original Dip &amp; a drink. Dippin' delicious.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Boneless Meal: 4 pc",
+            "description": "4 Mini Fillets, an Original Dip, regular Signature fries &amp; a drink. Nothing beats the Original.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Trilogy Box Meal",
+            "description": "Fiery Zinger Burger, Mini Fillet, small Popcorn chicken, regular Signature fries &amp; your choice of side. Plus 1 Original Dip &amp; a drink. The triple whammy. The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Popcorn Chicken Meal",
+            "description": "Large portion of Popcorn chicken with regular Signature fries &amp; a drink. Get poppin’.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fillet Burger Meal",
+            "description": "Original Recipe Fillet Burger made with chicken breast. With regular Signature fries &amp; a drink. You can’t go wrong.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Zinger Burger Meal 🔥",
+            "description": "Zinger Burger made with chicken breast. Plus regular Signature fries &amp; a drink. The meal with a kick.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Twister Wrap Meal",
+            "description": "An Original Recipe fillet with crunchy pickled slaw and your choice of sauce, wrapped in a lightly toasted tortilla. Served with regular Signature fries &amp; a drink. The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "What's New",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Dirty Dipping Feast: 10 pc",
+            "description": "10 Mini Fillets, 2 regular Signature fries and 2 of our NEW Dirty Loaded Fries, 2 Large sides, plus your choice of 2 Original Dips &amp; a large bottle of drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "35.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dirty Louisiana Box Meal",
+            "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun. Served alongside 1 Mini Fillet, regular Signature Fries, your choice of side &amp; a drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dirty Louisiana Burger Meal",
+            "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun.  Served with Signature Fries and your choice of drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dirty Dipping Feast: 14 pc",
+            "description": "14 Mini Fillets, 2 regular Signature fries and 2 of our NEW Dirty Loaded Fries, 2 Large sides, plus your choice of 2 Original Dips &amp; a large bottle of drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "39.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dirty Louisiana Burger",
+            "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun.  It’s our dirtiest burger yet.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dirty Loaded Fries",
+            "description": "Our Signature Fries topped with Popcorn Chicken, and smothered with Zinger Ranch dressing, Smokey BBQ Sauce &amp; Original Ranch dressing.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Zinger Drip Wings 🔥",
+            "description": "3 legendary Hot Wings covered in new spicy Zinger sauce. The wings you know and love, now hotter, saucier, and even more irresistible.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Double Bucket Deal",
+            "description": "Save over 30% off the Double Bucket Deal. This finger-lickin' bundle includes 6 pieces of Original Recipe Chicken, and 6 Mini Fillets for just £20!",
+            "offers": {
+              "@type": "Offer",
+              "price": "20.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sharing Buckets",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Dirty Dipping Feast: 10 pc",
+            "description": "10 Mini Fillets, 2 regular Signature fries and 2 of our NEW Dirty Loaded Fries, 2 Large sides, plus your choice of 2 Original Dips &amp; a large bottle of drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "35.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dirty Dipping Feast: 14 pc",
+            "description": "14 Mini Fillets, 2 regular Signature fries and 2 of our NEW Dirty Loaded Fries, 2 Large sides, plus your choice of 2 Original Dips &amp; a large bottle of drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "39.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Boneless Bargain Bucket: 6 pc",
+            "description": "6 of our succulent Mini Fillets with 4 regular Signature Fries. Serious bang for your buck.",
+            "offers": {
+              "@type": "Offer",
+              "price": "19.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bargain Bucket: 6 pc",
+            "description": "6 pieces of our famous Original Recipe chicken with 4 regular Signature fries. Serious bang for your buck.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "19.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Boneless Bargain Bucket: 10 pc",
+            "description": "10 of our succulent Mini Fillets with 4 regular Signature fries. Serious bang for your buck.",
+            "offers": {
+              "@type": "Offer",
+              "price": "25.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bargain Bucket: 10 pc",
+            "description": "10 pieces of our famous Original Recipe chicken with 4 regular Signature fries. Serious bang for your buck.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "25.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Boneless Bargain Bucket: 14 pc",
+            "description": "14 of our succulent Mini Fillets with 4 regular Signature fries. Serious bang for your buck.",
+            "offers": {
+              "@type": "Offer",
+              "price": "31.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bargain Bucket: 14 pc",
+            "description": "14 pieces of our famous Original Recipe chicken with 4 regular Signature fries. Serious bang for your buck.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "31.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Boneless Family Feast: 6 pc",
+            "description": "6 of our succulent Mini Fillets, 4 regular Signature fries, 2 large sides &amp; a large bottle of drink. A boneless delight for all the flock.",
+            "offers": {
+              "@type": "Offer",
+              "price": "24.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Family Feast: 6 pc",
+            "description": "6 pieces of our famous Original Recipe chicken, 4 regular Signature fries, 2 large sides &amp; a large bottle of drink. One for all the flock.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "24.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Boneless Family Feast: 10 pc",
+            "description": "10 of our succulent Mini Fillets, 4 regular Signature fries, 2 large sides &amp; a large bottle of drink. A boneless delight for all the flock.",
+            "offers": {
+              "@type": "Offer",
+              "price": "30.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Family Feast: 10 pc",
+            "description": "10 pieces of our famous Original Recipe chicken, 4 regular Signature fries, 2 large sides &amp; a large bottle of drink. One for all the flock.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "30.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wicked Variety Bucket: 6 pc",
+            "description": "6 pieces of Original Recipe chicken, 8 Hot Wings, 4 Mini Fillets &amp; 4 regular Signature fries. A fiery one for all the flock.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "25.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wicked Variety Bucket: 10 pc",
+            "description": "10 pieces of Original Recipe chicken, 8 Hot Wings, 4 Mini Fillets &amp; 4 regular Signature fries. A fiery one for all the flock.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "31.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dipping Boneless Feast: 10 pc",
+            "description": "10 of our succulent Mini Fillets, large Popcorn Chicken, 4 regular Signature fries &amp; 2 large sides. Plus 2 Dips of your choice &amp; a large bottle of drink. Dippin' delicious",
+            "offers": {
+              "@type": "Offer",
+              "price": "32.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dipping Boneless Feast: 14 pc",
+            "description": "14 of our succulent Mini Fillets, large Popcorn Chicken, 4 regular Signature fries &amp; 2 large sides. Plus 2 Dips of your choice &amp; a large bottle of drink. Dippin' delicious.",
+            "offers": {
+              "@type": "Offer",
+              "price": "36.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Party Bucket",
+            "description": "10 pieces of Original Recipe chicken, 10 Mini Fillets, 8 Hot Wings, large Popcorn chicken, 6 regular Signature fries &amp; 2 large sides. Plus a large bottle of drink. The ultimate finger lickin’ feast.",
+            "offers": {
+              "@type": "Offer",
+              "price": "40.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Double Bucket Deal",
+            "description": "Save over 30% off the Double Bucket Deal. This finger-lickin' bundle includes 6 pieces of Original Recipe Chicken, and 6 Mini Fillets for just £20!",
+            "offers": {
+              "@type": "Offer",
+              "price": "20.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Box Meals",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Dirty Louisiana Box Meal",
+            "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun. Served alongside 1 Mini Fillet, regular Signature Fries, your choice of side &amp; a drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Boneless Banquet",
+            "description": "3 Mini Fillets, small Popcorn chicken, regular Signature fries &amp; your choice of side. Plus one Original Dip &amp; a drink. Dippin' delicious.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Trilogy Box Meal",
+            "description": "Fiery Zinger Burger, Mini Fillet, small Popcorn chicken, regular Signature fries &amp; your choice of side. Plus 1 Original Dip &amp; a drink. The triple whammy. The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "BBQ Fillet Tower Box Meal",
+            "description": "Original Recipe Fillet Burger topped with crispy hash brown, cheese, and smoky BBQ sauce. Plus, regular Signature fries, your choice of chicken, side &amp; a drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fillet Tower Box Meal",
+            "description": "Original Recipe Fillet Burger topped with crispy hash brown, cheese, and Ketchup. Plus, regular Signature fries, your choice of chicken, side &amp; a drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fillet Box Meal",
+            "description": "Our Fillet Burger with regular Signature fries. Plus, your choice of chicken, side &amp; a drink. An Original favourite.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Zinger Box Meal",
+            "description": "Zinger Burger with regular Signature fries. Plus, your choice of chicken, side &amp; a drink. Put a zing in your step!",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Zinger Supercharger Tower Box Meal",
+            "description": "A fiery Zinger Fillet Burger topped with a hash brown, cheese &amp; spicy Supercharger sauce. With regular Signature fries, plus your choice of chicken, side &amp; a drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "13.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Twister Wrap Box Meal with 1 Mini Fillet",
+            "description": "An Original Recipe fillet with crunchy pickled slaw and your choice of sauce, wrapped in a lightly toasted tortilla plus a boneless Mini Fillet strip, regular Signature fries, your choice of side &amp; a drink.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Burgers",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Dirty Louisiana Burger Meal",
+            "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun.  Served with Signature Fries and your choice of drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dirty Louisiana Burger",
+            "description": "An Original Recipe fillet topped with cheese, a crispy hash brown, lettuce, gherkins, and a trio of sauces: spicy Supercharger, smokey BBQ and black pepper mayo , all sandwiched in a bar-marked bun.  It’s our dirtiest burger yet.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Zinger Supercharger Tower Burger Meal 🔥",
+            "description": "A fiery Zinger Fillet Burger topped with hash brown, cheese &amp; spicy Supercharger sauce. With regular Signature fries &amp; a drink. You can’t go wrong.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fillet Tower Burger Meal",
+            "description": "Our Original Recipe Fillet Burger topped with a crispy hash brown, cheese, &amp; Ketchup, plus regular Signature fries &amp; a drink. You can’t go wrong.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fillet Burger Meal",
+            "description": "Original Recipe Fillet Burger made with chicken breast. With regular Signature fries &amp; a drink. You can’t go wrong.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Zinger Burger Meal 🔥",
+            "description": "Zinger Burger made with chicken breast. Plus regular Signature fries &amp; a drink. The meal with a kick.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Zinger Stacker Meal 🔥",
+            "description": "2 Zinger Fillets topped with 2 slices of cheese, Supercharger &amp; sweet chilli sauce. Plus regular Signature fries &amp; a drink. The meal with double the kick.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "BBQ Fillet Tower Burger",
+            "description": "Original Recipe Fillet Burger topped with crispy hashbrown, cheese and smoky BBQ sauce. The Godfather of all burgers.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Zinger Supercharger Tower Burger 🔥",
+            "description": "A fiery Zinger Fillet Burger topped with hash brown, cheese &amp; spicy Supercharger sauce. The fiery Godfather of all burgers.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fillet Tower Burger",
+            "description": "Original Recipe Fillet Burger topped with crispy hashbrown, cheese and Ketchup. The Godfather of all burgers.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fillet Burger",
+            "description": "Original Recipe Fillet Burger. You can't go wrong.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Zinger Burger 🔥",
+            "description": "Spicy Zinger Fillet Burger. Packs a zingy punch.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Zinger Stacker 🔥",
+            "description": "Double the kick with 2 spicy Zinger Fillets. If you know, you know.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Buckets For One",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Mighty Bucket For One Meal",
+            "description": "2 pieces of Original Recipe chicken, 2 Mini Fillets &amp; 2 fiery Hot Wings. Regular Signature fries &amp; a drink. Go mighty!The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Boneless Meal: 4 pc",
+            "description": "4 Mini Fillets, an Original Dip, regular Signature fries &amp; a drink. Nothing beats the Original.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Boneless Meal: 3 pc",
+            "description": "3 Mini Fillets, an Original Dip, regular Signature fries &amp; a drink. Nothing beats the Original.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Colonel's Meal: 3 pc",
+            "description": "3 pieces of Original Recipe chicken, regular Signature fries &amp; a drink. Dine like the Colonel himself.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Colonel's Meal: 2 pc",
+            "description": "2 pieces of Original Recipe chicken, regular Signature fries &amp; a drink. Dine like the Colonel himself.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Popcorn Chicken Meal",
+            "description": "Large portion of Popcorn chicken with regular Signature fries &amp; a drink. Get poppin’.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Popcorn Chicken Meal",
+            "description": "Popcorn chicken with regular Signature fries &amp; a drink. Get poppin’. The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hot Wings Meal: 10 pc 🔥",
+            "description": "10 Hot Wings, regular Signature fries &amp; a drink. The only way to wing it.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hot Wings Meal: 6 pc 🔥",
+            "description": "6 Hot Wings, regular Signature fries &amp; a drink. The only way to wing it.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Vegan 🌱",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Vegan Burger 🌱",
+            "description": "Quorn fillet coated in our famous 11 herbs &amp; spices in a sesame bun with lettuce &amp; vegan mayo. 11 herbs &amp; spices, zero chicken.Finger lickin' vegan until you add non-vegan stuff, obviously.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegan Burger with a Drink 🌱",
+            "description": "Quorn fillet coated in our famous 11 herbs &amp; spices in a sesame bun with lettuce &amp; vegan mayo, &amp; a drink. 11 herbs &amp; spices, zero chicken.Finger lickin' vegan until you add non-vegan stuff, obviously.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Twister Wraps",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Twister Wrap",
+            "description": "An Original Recipe fillet with crunchy pickled slaw and your choice of sauce, wrapped in a lightly toasted tortilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Twister Wrap Meal",
+            "description": "An Original Recipe fillet with crunchy pickled slaw and your choice of sauce, wrapped in a lightly toasted tortilla. Served with regular Signature fries &amp; a drink. The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Twister Wrap Box Meal with 1 Mini Fillet",
+            "description": "An Original Recipe fillet with crunchy pickled slaw and your choice of sauce, wrapped in a lightly toasted tortilla plus a boneless Mini Fillet strip, regular Signature fries, your choice of side &amp; a drink.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "12.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Rice Bowls",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Original Ranch Rice Bowl",
+            "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with an Original Recipe Fillet and our new Original ranch dressing.All for under 600 calories.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Original Ranch Rice Bowl &amp; Drink",
+            "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with an Original Recipe Fillet and our new Original ranch dressing. Plus a drink. All for under 600 calories.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Original Ranch Fillet Rice Bowl with Extra Fillet",
+            "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with two Original fillet and our new Original ranch dressing.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Original Ranch Rice Bowl with Extra Fillet &amp; Drink",
+            "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with two Original fillet and our new Original ranch dressing. Plus a drink.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Zinger Ranch Rice Bowl 🔥",
+            "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with a Zinger Fillet and our new Zinger Ranch dressing. All for under 600 calories.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Zinger Ranch Rice Bowl &amp; Drink 🔥",
+            "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with a Zinger Fillet and our new Zinger Ranch dressing. Plus a drink.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Zinger Ranch Rice Bowl with Extra Zinger Fillet🔥",
+            "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with two Zinger fillet and our new Zinger ranch dressing.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Zinger Ranch Rice Bowl with Extra Zinger Fillet &amp; Drink 🔥",
+            "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with two Zinger fillet and our new Zinger ranch dressing. Plus a drink.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Original Ranch Veggie Rice Bowl",
+            "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with our new Original ranch dressing and served with a corn cobette.  All for under 600 calories.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Original Ranch Veggie Rice Bowl &amp; Drink",
+            "description": "Cajun dirty rice with roasted sweet potato, pickled slaw, charred corn in a blackened Cajun rub and mixed leaf salad. All topped with our new Original ranch dressing and served with a corn cobette.  Plus a drink. All for under 600 calories.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Chicken Sides",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Zinger Drip Wings 🔥",
+            "description": "3 legendary Hot Wings covered in new spicy Zinger sauce. The wings you know and love, now hotter, saucier, and even more irresistible.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mini Fillet",
+            "description": "Our Mini Fillet. Nothing beats the Original.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.59",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hot Wings: 2 pc 🔥",
+            "description": "2 Hot Wings. The perfect spicy snack.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Large Popcorn Chicken",
+            "description": "Large portion of our Popcorn chicken pieces. Get poppin’",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Popcorn Chicken",
+            "description": "Regular portion of our Popcorn chicken pieces. Get poppin’",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kansas BBQ Dipped Bites",
+            "description": "4 delicious boneless chicken Bites coated in sweet &amp; smoky Kansas BBQ sauce. The sauciest side in town.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sweet Chilli Dipped Bites",
+            "description": "4 delicious boneless chicken Bites smothered in Sweet Chilli sauce. The sauciest side in town.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mini Fillet Burger",
+            "description": "Our Mini Fillet burger with lettuce &amp; pepper mayo. Ideal for little appetites.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Original Recipe Chicken: 1 pc",
+            "description": "1 piece of our Original Recipe Chicken. Because you can't beat the classics.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.79",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Original Recipe Chicken: 2 pc",
+            "description": "2 pieces of our Original Recipe Chicken. Because you can't beat the classics.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "BBQ Mini Wrap",
+            "description": "Our Mini Fillet with lettuce, cheese &amp; smoky BBQ sauce, wrapped in a soft tortilla. Deliciously smoky.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Flamin' Mini Wrap 🔥",
+            "description": "Our Mini Fillet with lettuce, cheese &amp; our signature Supercharger sauce, wrapped in a soft tortilla. Deliciously spicy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Classic Sides &amp; Dips",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Dirty Loaded Fries",
+            "description": "Our Signature Fries topped with Popcorn Chicken, and smothered with Zinger Ranch dressing, Smokey BBQ Sauce &amp; Original Ranch dressing.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Signature Fries",
+            "description": "We’ve seasoned the King of all sides.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.19",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Gravy",
+            "description": "A regular portion of our famous gravy. Undeniably delicious.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Beans",
+            "description": "Regular baked beans with a dash of Kentucky BBQ sauce. The family favourite.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Coleslaw",
+            "description": "Freshly prepared with just the right amount of zesty crunch.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Creamy Mash",
+            "description": "A regular portion of our delicious creamy mash, made with real potato.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Cajun Rice",
+            "description": "A regular portion of Cajun dirty rice with roasted sweet potato.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Side Salad",
+            "description": "Mixed leaf salad, charred corn in a blackened cajun rub, topped with Original Ranch Dressing.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Supercharger Dip",
+            "description": "Supercharger, our infamous spicy mayo.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sweet Chilli Dip",
+            "description": "Our Sweet Chilli dip is the perfect mix of sweet &amp; spicy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Real Tomato Dip",
+            "description": "There’s nothing better than our Real Tomato dip. A classic.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Smoky BBQ Dip",
+            "description": "You can’t go wrong with our popular smoky BBQ dip.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Garlic Buttermilk Mayo Dip",
+            "description": "Enjoy our Garlic Buttermilk Mayo dip any way you please – dip it, spread it, dunk it.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.60",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cookies",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Chip Cookie",
+            "description": "One classic chocolate chip cookie. A tasty treat.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.69",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Chocolate Cookie",
+            "description": "One white chocolate chip cookie. A tasty treat.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.69",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "4 Cookies",
+            "description": "A multi pack of 4 chocolate cookies. A tasty treat to share. (Selection may vary depending on availability).",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Pepsi MAX Can",
+            "description": "MAXIMUM TASTE, NO SUGAR. A bold and refreshing fizzy drink. Delivered chilled.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tango Can",
+            "description": "Unleash refreshment with Tango’s big, bold Orange flavour, no sugar, and low calorie carbonated soft drink. Delivered chilled.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Still Water 500ml",
+            "description": "Crisp refreshing taste. Delivered chilled.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pepsi MAX 1.5 L Bottle",
+            "description": "MAXIMUM TASTE, NO SUGAR. A bold and refreshing fizzy drink. Delivered chilled.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Diet Pepsi 1.5 L Bottle",
+            "description": "Light, crisp taste, Diet Pepsi gives you all the refreshment with no sugar and no calories. A bold and robust fizzy drink. Delivered chilled.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tango 1.5 L Bottle",
+            "description": "Unleash refreshment with Tango’s big, bold Orange flavour. Delivered chilled.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Kids' Boxes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Kids' Box: Kids' Burger",
+            "description": "Our Kids' Burger with regular side, regular drink, plus a kids treat. Small in size, big on flavour.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids' Box: Mini Fillet &amp; Dip",
+            "description": "A Mini Fillet with a Real Tomato dip, regular drink, plus a kids treat. Small in size, big on flavour.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids' Box: Popcorn Chicken",
+            "description": "Our Popcorn chicken pieces with regular side, regular drink, plus a kids treat. Small in size, big on flavour.The calorie information for this meal does not include the selectable items below.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

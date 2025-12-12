@@ -1,0 +1,740 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/the-bagel-place-bristol/Weq73f_DVtCDm5-hnI8RFA",
+  "name": "The Bagel Place (Bristol)",
+  "servesCuisine": [
+    "Breakfast and Brunch",
+    "American",
+    "Sandwiches",
+    "Coffee and Tea",
+    "Vegan",
+    "Vegetarian",
+    "Gluten Free"
+  ],
+  "priceRange": "",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/27522fb48131341630a4307c87efc220/8b3912aeb4ddaf35be933b04d2d337ad.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/27522fb48131341630a4307c87efc220/f8403c421bef668ad381b5e82e546060.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/27522fb48131341630a4307c87efc220/7a19de2b442cf39b430becc5fea2ef06.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/27522fb48131341630a4307c87efc220/a35eeeca6698a2d3899f60d36c88ed97.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/27522fb48131341630a4307c87efc220/c4114ef7f0cc2f8ee04dbb216969493e.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/27522fb48131341630a4307c87efc220/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/the-bagel-place-bristol/Weq73f_DVtCDm5-hnI8RFA?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet",
+      "http://purl.org/goodrelations/v1#DeliveryModePickUp"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "EMEA",
+    "postalCode": "BS1 5PF",
+    "addressCountry": "GB",
+    "streetAddress": "79 Park Street"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.4553821,
+    "longitude": -2.6037493
+  },
+  "telephone": "+441179857826",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.3,
+    "reviewCount": "700"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "7:15",
+      "closes": "17:0"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "8:15",
+      "closes": "17:0"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "7:15",
+      "closes": "18:0"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "name": "Meal Deals",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Lunch Deal For 1",
+            "description": "Meal deal for one person, including a selection of items.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lunch Deal For 2",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "21.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lunch Deal for 4",
+            "description": "Meal for four people, perfect for sharing with friends or family.",
+            "offers": {
+              "@type": "Offer",
+              "price": "41.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lunch Deal For 8",
+            "description": "Meal deal for 8 people, perfect for groups and gatherings.",
+            "offers": {
+              "@type": "Offer",
+              "price": "79.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "All Day Breakfasts",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Big Breakfast",
+            "description": "Sausages, bacon, egg and hash browns - all in a freshly baked buttered bagel of your choice, with your choice of sauce!",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Build Your Own Breakfast Bagel",
+            "description": "Your choice of breakfast items in a freshly baked buttered bagel of your choice!",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Big Veggie Breakfast",
+            "description": "Vegan sausages, egg and hash browns - all in a freshly baked buttered bagel of your choice, with your choice of sauce!",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Salmon &amp; Egg",
+            "description": "Smoked salmon &amp; fried eggs in a freshly baked buttered bagel, with your choice of sauce.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Home-Baked Classics",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Bacon and Brie",
+            "description": "Hot bacon, melted brie, and caramelised onion, on a freshly baked bagel of your choice",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza Bagel",
+            "description": "Tomato sauce, melted cheddar, chicken, bacon, garnished with parsley - all on a freshly baked buttered bagel of your choice!",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Avocado Toast (Vegan)",
+            "description": "Mashed guacamole, red onion, tomato, salad leaves and olive oil, on a freshly baked bagel of your choice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Spring Salmon",
+            "description": "Smoked salmon, cream cheese, capers, red onion, and lemon, on a freshly baked bagel of your choice",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Deli Meats",
+            "description": "Pastrami, chicken, pepperoni, ham, and melted cheddar on a freshly baked bagel of your choice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Halloumi (Veggie)",
+            "description": "Halloumi, tzatziki &amp; roasted veg - on a freshly baked bagel of your choice",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chilli Chicken Melt",
+            "description": "Chicken, sweet chilli sauce, and melted cheese, on a freshly baked bagel of your choice",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bagel Burger",
+            "description": "Beef burger in a freshly baked bagel of your choice, with lettuce, onions and tomatoes and your choice of toppings!",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Home-Baked Bagel Sandwiches",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Mayo &amp; Bacon",
+            "description": "Served in a freshly baked bagel of your choice, with butter, tomato, onion and salad leaves",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pastrami &amp; Mustard",
+            "description": "Served in a freshly baked bagel of your choice, with butter, tomato, onion and salad leaves",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Smoked Salmon &amp; Guac",
+            "description": "Served in a freshly baked bagel of your choice, with butter, tomato, onion and salad leaves",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "BLT &amp; Mayo",
+            "description": "Served in a freshly baked bagel of your choice, with butter, tomato, onion and salad leaves",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Halloumi &amp; Chilli Jam",
+            "description": "Served in a freshly baked bagel of your choice, with butter, tomato, onion and salad leaves",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ham, Cheese &amp; Caramelised Onion",
+            "description": "Served in a freshly baked bagel of your choice, with butter, tomato, onion and salad leaves",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Home-Baked Light Bites",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Nutella",
+            "description": "Freshly baked bagel of your choice, loaded with butter and Nutella.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.29",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cream Cheese",
+            "description": "Freshly baked bagel of your choice loaded with cream cheese.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Melted Cheese",
+            "description": "Freshly baked bagel of your choice, with melted cheddar - yum.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Simply Butter",
+            "description": "Freshly baked bagel of your choice, slathered in butter.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sweet Treats",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Chip Cookie",
+            "description": "Baked right here in-store.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Triple Chocolate Cookie",
+            "description": "Baked right here in-store.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Chocolate Cookie",
+            "description": "Baked right here in-store.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cookie Sandwich",
+            "description": "Homemade cookie sandwich with cream cheese frosting",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Crisps",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Real' Sea Salt &amp; Vinegar Crisps (35g)",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Real' Roast Ox Crisps (35g)",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Real' Sweet Chilli Crisps (35g)",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Real' Sea Salt Crisps (35g)",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Real' Strong Cheese &amp; Onion Crisps (35g)",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Real Fruit Smoothies",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Strawberry &amp; Banana Smoothie",
+            "description": "Real strawberries &amp; banana slices, blended with orange and apple juice",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mango &amp; Pineapple Smoothie",
+            "description": "Real mango &amp; pineapple pieces - blended with orange and apple juice",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Blueberry Thrill Smoothie",
+            "description": "Blueberries, raspberries &amp; banana - blended with orange and apple juice",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "PROTEIN Blueberry Thrill Smoothie",
+            "description": "Blueberries, raspberries &amp; banana - with Optimum Nutrition Vanilla Whey Protein (20g total) - blended with orange and apple juice",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "PROTEIN Mango &amp; Pineapple Smoothie",
+            "description": "Real Mango and Pineapple pieces - with Optimum Nutrition Vanilla Whey Protein (20g total) - blended with orange and apple juice",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "PROTEIN Strawberry &amp; Banana Smoothie",
+            "description": "Real strawberries and banana slices - with Optimum Nutrition Vanilla Whey Protein (20g total) - blended with orange and apple juice",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Barista-Made Hot Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Iced Latte",
+            "description": "Lovingly made by our trained baristas from milk, ice, and a double espresso",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Latte",
+            "description": "Lovingly made by our trained baristas from ground-to-order beans and freshly steamed milk",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chai Latte",
+            "description": "Lovingly made by our trained baristas using top quality chai powder and freshly steamed milk.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cappuccino",
+            "description": "Lovingly made by our trained baristas from ground-to-order beans and freshly steamed milk",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Flat White",
+            "description": "Lovingly made by our trained baristas from ground-to-order beans and freshly steamed milk",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Americano",
+            "description": "Lovingly made by our trained baristas from ground-to-order beans",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.69",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hot Chocolate",
+            "description": "Lovingly made by our trained baristas from premium chocolate powder and freshly steamed milk",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mocha",
+            "description": "Lovingly made by our trained baristas from ground-to-order beans",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Breakfast Tea",
+            "description": "Clipper organic, fairtrade breakfast tea",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Americano",
+            "description": "Lovingly made by our trained baristas from ice, water, and espresso",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.69",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Soft Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Pepsi Max 330ml",
+            "description": "In a glass bottle",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "San Pellegrino Orange (330ml)",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "San Pellegrino Lemon (330ml)",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Volvic Water (500ml)",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "San Pellegrino Pomegranate &amp; Orange (330ml)",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "JuiceBurst Orange (400ml)",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "JuiceBurst Apple (500ml)",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lipton Ice Tea Peach (500ml)",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pepsi 330ml",
+            "description": "In a glass bottle",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.99",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

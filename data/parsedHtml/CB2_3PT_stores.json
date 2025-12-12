@@ -1,0 +1,683 @@
+{
+  "source": "UberEats",
+  "postalCode": "CB2_3PT",
+  "timestamp": "2025-09-15T09:57:14.570Z",
+  "count": 85,
+  "data": [
+    {
+      "name": "Greggs",
+      "rating": "4.1",
+      "reviewCount": "340+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-cambridge-station-square/jEGH2n42WJOhpeeheLWviQ"
+    },
+    {
+      "name": "Little Waitrose",
+      "rating": "4.7",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/little-waitrose-cambridge-fitzroy-street/JEo3Ot_BXQG4n_RDVk-pAQ"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "4.2",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/popeyes-cambridge/NMT5dFNOV9WiiMQhTM9GrA"
+    },
+    {
+      "name": "Sainsbury's Local",
+      "rating": "4.6",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-local-cambridge-st-andrews-street/TCjuk-KKU5Whb1rgSQxwag"
+    },
+    {
+      "name": "KFC",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-cambridge-st-andrews-street/4T5CtN5lXs2F3hAZYtI3bw"
+    },
+    {
+      "name": "Slim Chickens",
+      "rating": "4.2",
+      "reviewCount": "440+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/slim-chickens-cambridge/Beh1wbzwXZWKGy2uztrvWg"
+    },
+    {
+      "name": "Taco Bell",
+      "rating": "4.2",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/taco-bell-cambridge/n_AvBxaCXXi03NKZ_nOLKg"
+    },
+    {
+      "name": "One Stop Carlton Terrace",
+      "rating": "4.5",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-carlton-terrace/wkXpLdqYWOSLpjh5FTcEeQ"
+    },
+    {
+      "name": "Deluna cafe",
+      "rating": "4.3",
+      "reviewCount": "290+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/deluna-cafe/tP-cFxJzQOaexOTtBm_zqA"
+    },
+    {
+      "name": "Café 24",
+      "rating": "4.8",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-24/SdhyfwERRwaSNjPn9EweOw"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "4.3",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-cambridge-market-street/FWwnZaSNUBish_NhNJnWlw"
+    },
+    {
+      "name": "Iceland",
+      "rating": "3.9",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-histon-rd/P8KigHgCWqKFPkyPE_PzPQ"
+    },
+    {
+      "name": "Cafe 121",
+      "rating": "4.8",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-121/cfqi98-fSb6Nubbi2BzCzQ"
+    },
+    {
+      "name": "Chaiiology Cambridge",
+      "rating": "3.9",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chaiiology-cambridge/sVsqP5eKWbqVXrY3GFKEzA"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.5",
+      "reviewCount": "310+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pret-a-manger-cambridge-market-street/z1397pH_VLeXI-lcwjsoZw"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.5",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/caffe-nero-cambridge-kings-parade/VE5DDIG6QFKLRqQjxHb31A"
+    },
+    {
+      "name": "GDK",
+      "rating": "4.2",
+      "reviewCount": "260+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/gdk-cambridge-services/Mhsz7GfpWfW_49N_w8zftA"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.7",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-cambridge-petty-cury/PCY-1WEBUEOjPgy8nO90rg"
+    },
+    {
+      "name": "Gopuff Groceries",
+      "rating": "4.7",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/gopuff-groceries-cambridge/2Wrc3duhWt-oqfBLeY4Z3w"
+    },
+    {
+      "name": "Harpur's Cafe",
+      "rating": "4.9",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/harpurs-cafe/0CmcZ3VDVUq0GIAHz_VE0A"
+    },
+    {
+      "name": "YO! sushi counter",
+      "rating": "3.9",
+      "reviewCount": "46",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yo!-sushi-counter-cambridge-newmarket-tesco/iZm8DiZSWtKdAXdDdATYJA"
+    },
+    {
+      "name": "CB4 Cafe",
+      "rating": "4.8",
+      "reviewCount": "16",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cb4-cafe/8zapZcsgW9iROw-oUw0u5w"
+    },
+    {
+      "name": "Crepeaffaire",
+      "rating": "4.4",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/crepeaffaire-cambridge/lngbv3XzQTenzkV6NB_HfQ"
+    },
+    {
+      "name": "Fitzbillies",
+      "rating": "4.3",
+      "reviewCount": "22",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/fitzbillies/6m6o9rnjUE2N4IBnPoO6OQ"
+    },
+    {
+      "name": "Bloom Juice Co",
+      "rating": "3.8",
+      "reviewCount": "47",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/bloom-juice-co-grand-arcade/0LwyzzUrS2CenPTm-JWCbg"
+    },
+    {
+      "name": "Heavenly Desserts",
+      "rating": "4.0",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/heavenly-desserts-cambridge/8mLGwb0qWpqqfFKrs8p2_A"
+    },
+    {
+      "name": "Cake Box",
+      "rating": "3.8",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cake-box-cambridge/js1cFJY1XvOwjmoxjHPpYg"
+    },
+    {
+      "name": "Noshe Afghan Cuisine",
+      "rating": "4.0",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/noshe-afghan-cuisine/zeBX4gGzXta_HBf8nFQk7A"
+    },
+    {
+      "name": "Crosstown Doughnuts",
+      "rating": "4.3",
+      "reviewCount": "37",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/crosstown-doughnuts-cambridge/auZHLAWtXf6StAjj2VBXtA"
+    },
+    {
+      "name": "Carlos BBQ",
+      "rating": "3.9",
+      "reviewCount": "240+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/carlos-bbq/a5No2L5BTLKFunF2r6fbRA"
+    },
+    {
+      "name": "Wasabi",
+      "rating": "4.5",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/wasabi-petty-cury/YqyK71TZRxKmBgCHkF_THQ"
+    },
+    {
+      "name": "T4 Bubble Tea",
+      "rating": "4.8",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/t4-bubble-tea-cambridge/3sxL190CXHavYoakWMA-Qg"
+    },
+    {
+      "name": "Amorino",
+      "rating": "4.4",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/amorino-cambridge/OyizMWJNWpGrN1hlN9RPUw"
+    },
+    {
+      "name": "Brunch Base",
+      "rating": "4.1",
+      "reviewCount": "19",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brunch-base/ON_q_AugV9ys5fhxl-0cjw"
+    },
+    {
+      "name": "Knoops",
+      "rating": "4.3",
+      "reviewCount": "12",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/knoops-cambridge-msc/T1IwcHSuUUOMoUf6nBzzJQ"
+    },
+    {
+      "name": "Bird Box",
+      "rating": "4.0",
+      "reviewCount": "45",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/bird-box-cambridge-leisure/WWFZ8rxjWEm9pDVOq3Dolg"
+    },
+    {
+      "name": "Cafe Bread & Butter",
+      "rating": "4.7",
+      "reviewCount": "97",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-bread-%26-butter/XXh6uXHnQrm_bV1y1IRTvA"
+    },
+    {
+      "name": "Majestic Wine",
+      "rating": "4.9",
+      "reviewCount": "29",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/majestic-wine-cambridge/_7OBaYClUma86XS7BpbofA"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts & Coffee",
+      "rating": "4.7",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-doughnuts-%26-coffee-cambridge/jb-AlDc-QYauYCOtm0L2Cg"
+    },
+    {
+      "name": "Londis",
+      "rating": "4.6",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/londis-cambridge/n_NZOJUsThew2YOGYOk4mg"
+    },
+    {
+      "name": "Shell",
+      "rating": "4.2",
+      "reviewCount": "28",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shell-newnham/4jj2w4nJX4uHhrmM-EPbIA"
+    },
+    {
+      "name": "Bella Italia Pizza & Pasta",
+      "rating": "4.3",
+      "reviewCount": "400+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bella-italia-pizza-%26-pasta-cambridge-leisure/6LvRsDRKRveZ4-nO7KzIbg"
+    },
+    {
+      "name": "Thrive Cambridge Cafe",
+      "rating": "5.0",
+      "reviewCount": "10",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/thrive-cambridge-cafe/dA-zVhgBWuqoD_RcA6CWdA"
+    },
+    {
+      "name": "Botany Foodie",
+      "rating": "4.5",
+      "reviewCount": "52",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/botany-foodie/4PjM5bpDXv6Dnjg1AB8viA"
+    },
+    {
+      "name": "itsu [sushi, noodles & rice'bowls]",
+      "rating": "4.5",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/itsu-sushi-noodles-%26-ricebowls-cambridge/YXZc19XaTDmGiLbNeoJk4g"
+    },
+    {
+      "name": "El Mexicana",
+      "rating": "4.4",
+      "reviewCount": "26",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/el-mexicana-cambridge-services-extra/VAztCTqvWRCE10PYatB71g"
+    },
+    {
+      "name": "Lokum",
+      "rating": "3.9",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/lokum/7024d_JJTaubhzo2Aw_rIg"
+    },
+    {
+      "name": "Chicken Rush",
+      "rating": "4.3",
+      "reviewCount": "420+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chicken-rush/erXxEpTNQwWuG4kT118gng"
+    },
+    {
+      "name": "Pizza Hut Delivery",
+      "rating": "4.0",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pizza-hut-delivery-cambridge-north/hLbRB4QLRVOXcoIEozXAZg"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "rating": "4.1",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/papa-johns-pizza-cambridge/2aXaHQs8Usy56LkQCuzSjA"
+    },
+    {
+      "name": "Spring Restaurant",
+      "rating": "4.6",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/spring-restaurant/31pX6pGCU4mTsRWDclA4kw"
+    },
+    {
+      "name": "BANGTAN",
+      "rating": "4.5",
+      "reviewCount": "63",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bangtan-korean-fried-chicken-cambridge/LHElobCrUY2DxCr_ylsE3A"
+    },
+    {
+      "name": "King’s Dough- Italian Panini",
+      "rating": "4.9",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kings-dough-italian-panini/6QeXchbMS7uqs_U44RcPnA"
+    },
+    {
+      "name": "Fishnchickn Cambridge",
+      "rating": "4.5",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £30)"
+      ],
+      "url": "https://www.ubereats.com/store/fishnchickn-cambridge/L9qnL8VeUBiiZ-5mBhmzLQ"
+    },
+    {
+      "name": "Tortilla Burritos",
+      "rating": "4.5",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/tortilla-burritos-cambridge/HPKoA6MSXVOTGD6XzS4qsg"
+    },
+    {
+      "name": "PizzaExpress Pizza & Pasta",
+      "rating": "4.1",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pizzaexpress-pizza-%26-pasta-cambridge-regent-street/thWJh1_UWWSN4AKnuYnEmw"
+    },
+    {
+      "name": "Xing Fu Tang",
+      "rating": "4.6",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/xing-fu-tang/STdYP9I9U-eQBlmWSKVW-w"
+    },
+    {
+      "name": "SWAAD CAMBRIDGE",
+      "rating": "4.4",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/swaad-cambridge/F5s2zvTAWbOhr9DAueuJuQ"
+    },
+    {
+      "name": "Hungrill",
+      "rating": "4.8",
+      "reviewCount": "460+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/hungrill/vMxDSr5rU1SWwcZb8ubtbQ"
+    },
+    {
+      "name": "Pepe's Piri Piri",
+      "rating": "4.4",
+      "reviewCount": "7,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pepes-piri-piri-cambridge/aTkUXvL3RSqWC-eVtj52WA"
+    },
+    {
+      "name": "The Grill Peri Peri",
+      "rating": "4.5",
+      "reviewCount": "480+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-grill-peri-peri/ElFotycaWe2B82LSDnj8nA"
+    },
+    {
+      "name": "黑芙蕾 剑桥店 Hefaure Soufflé and Bubble Tea Cambridge",
+      "rating": "4.7",
+      "reviewCount": "150+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/黑芙蕾-剑桥店-hefaure-souffle-and-bubble-tea-cambridge/LWUoBvkYVP-M1ry1j0m2uw"
+    },
+    {
+      "name": "TZATZIKI",
+      "rating": "4.7",
+      "reviewCount": "6,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tzatziki/-8t0hMrMRXaNk10-8Jmx6w"
+    },
+    {
+      "name": "Domino's Pizza",
+      "rating": "3.6",
+      "reviewCount": "240+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dominos-pizza-cambridge-central/6KLxaJSfWI2w4rdmCdZpoQ"
+    },
+    {
+      "name": "Urban Chai",
+      "rating": "4.5",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/urban-chai/jbJysgkOWAGEiYNvAILp0A"
+    },
+    {
+      "name": "Smokeworks",
+      "rating": "4.1",
+      "reviewCount": "490+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/smokeworks-free-school-lane/ci2mMIvPVsOsStk2tRQFAA"
+    },
+    {
+      "name": "Chinese Canteen",
+      "rating": "4.4",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chinese-canteen/aDj3fmn0QXeTDpvlax_Nbg"
+    },
+    {
+      "name": "Kineya Cambridge",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kineya-cambridge/tbLQD9HRVLqpT7MYOT8Pnw"
+    },
+    {
+      "name": "Mr Wang Hot Pot 王贵仁砂锅麻辣烫",
+      "rating": "4.4",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mr-wang-hot-pot-王贵仁砂锅麻辣烫/eemn0ji9WfWfV1YUf7KKlg"
+    },
+    {
+      "name": "Sojuu",
+      "rating": "3.9",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sojuu/lAsrGhGYXHePB3L5VNtugg"
+    },
+    {
+      "name": "Honest Burgers",
+      "rating": "4.4",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "30% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/honest-burgers-cambridge/z9kLCN6iXmyXZ-99dyvZTQ"
+    },
+    {
+      "name": "Franco Manca Sourdough Pizza",
+      "rating": "4.2",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/franco-manca-sourdough-pizza-cambridge/5y8TuueMR56B2UWlY0BUAA"
+    },
+    {
+      "name": "SoBe Burger",
+      "rating": "4.1",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/sobe-burger-cambridge/lTGvkyk4UHKFfmvI5BPnZQ"
+    },
+    {
+      "name": "McDonald's®",
+      "rating": "4.3",
+      "reviewCount": "15,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mcdonalds-rose-crescent/tRDDgzoaSBek0X7BWKp25w"
+    },
+    {
+      "name": "Moana Poké Bowls",
+      "rating": "4.5",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/moana-poke-bowls/I2lklxTNQ521zOm5oifqpQ"
+    },
+    {
+      "name": "Smashburger",
+      "rating": "4.4",
+      "reviewCount": "420+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/smashburger-cambridge/QvPopLNdWNK7Nmn4LrnclA"
+    },
+    {
+      "name": "Chicken Cottage",
+      "rating": "4.3",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chicken-cottage-cambridge/XscgzeRdQOCIXHMOu3U8KA"
+    },
+    {
+      "name": "Ichiban Don",
+      "rating": "3.3",
+      "reviewCount": "18",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ichiban-don-cambridge/-ZQqtrykUm6Z9Dxweh3NFw"
+    },
+    {
+      "name": "Cambridgeshire Open",
+      "rating": "1.5",
+      "reviewCount": "59",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/cambridgeshire-open/4j1f-zC-XhWFHpdS2wOhhQ"
+    },
+    {
+      "name": "Munchies Cambridgeshire",
+      "rating": "1.0",
+      "reviewCount": "14",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/munchies-cambridgeshire/xYRXUqmdWyKzm93LZZXbLw"
+    },
+    {
+      "name": "Novi",
+      "rating": "4.2",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/novi/AP_O0tWHWBuHwlq83oe3fQ"
+    },
+    {
+      "name": "Signorelli's Deli",
+      "rating": "4.7",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/signorellis-deli/bAFQf8XwTKOzRAH0pQK17w"
+    },
+    {
+      "name": "Midan World Foods",
+      "rating": "4.3",
+      "reviewCount": "39",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/midan-world-foods/UafDHeYuU1uaDqUUSTlpWA"
+    },
+    {
+      "name": "ASDA",
+      "rating": "4.1",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/asda-cambridge/7XHPPiM5TumwHkdDdd4FNg"
+    },
+    {
+      "name": "Carluccio's Cambridge",
+      "rating": "3.8",
+      "reviewCount": "53",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/carluccios-cambridge/LdQD-l2QSqyfy-BJvCbS0A"
+    }
+  ]
+}

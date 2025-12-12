@@ -1,0 +1,646 @@
+{
+  "source": "UberEats",
+  "postalCode": "OX1_3AS",
+  "timestamp": "2025-09-15T09:57:27.608Z",
+  "count": 80,
+  "data": [
+    {
+      "name": "McDonald's®",
+      "rating": "3.9",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mcdonalds-oxford-cornmarket/WJsdcf8_XN2KvWkfeXIG9A"
+    },
+    {
+      "name": "Greggs",
+      "rating": "3.8",
+      "reviewCount": "72",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-oxford-59-cornmarket-st/X9QJ1Y-wWTmZGHLYYfityg"
+    },
+    {
+      "name": "Costa Coffee",
+      "rating": "4.1",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/costa-coffee-oxford-queen-street/GRQ2QUrMSXCOfC8x_1azWw"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "4.1",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/popeyes-oxford/OaD8y8riV2Kdmjq_N2o_Bw"
+    },
+    {
+      "name": "Waitrose & Partners",
+      "rating": "4.6",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/waitrose-%26-partners-oxford-botley-road/KhTHtmItU2SZyBvxlPQuqQ"
+    },
+    {
+      "name": "Burger King",
+      "rating": "3.8",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burger-king-oxford-cowley-dt/2wiDzVTnVoGaBE68a5DmgQ"
+    },
+    {
+      "name": "Subway",
+      "rating": "4.0",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/subway-george-st/oE2IUKuxUryWT97GHWWX8A"
+    },
+    {
+      "name": "Sainsbury's Local",
+      "rating": "4.2",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-local-northgate/mjU4uqUNQQCdeZ7xfFhdQg"
+    },
+    {
+      "name": "Starbucks ®",
+      "rating": "3.8",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-oxford-cornmarket/E2CEGsk4WjSJBdygZsdXxw"
+    },
+    {
+      "name": "The Steamhouse",
+      "rating": "3.8",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-steamhouse-oxford/TeuZTCQCWDG9G-k52Fg3yg"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.7",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-oxford-cornmarket-st/WDGb3styUt2N3IfobWGXyw"
+    },
+    {
+      "name": "Black sheep coffee",
+      "rating": "3.8",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/black-sheep-coffee-oxford-high-street/cps5EbPPXEGOOFy3tA343g"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.4",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-oxford-botley/yBWLUjC0XhqBl4IMqdXbWQ"
+    },
+    {
+      "name": "Co-op",
+      "rating": "4.4",
+      "reviewCount": "440+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-cherwell-drive/HVMxH1vtVHuvdofP1Cxaog"
+    },
+    {
+      "name": "Wendy's",
+      "rating": "4.2",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wendys-oxford/GlYjqI74SUGTLArXxYf1Og"
+    },
+    {
+      "name": "CRUMBS SANDWICH BAR",
+      "rating": "4.6",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/crumbs-sandwich-bar/Ix1NOfFBQ8mWPZn1Y_gLGQ"
+    },
+    {
+      "name": "Five Guys",
+      "rating": "4.1",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/five-guys-burgers-fries-%26-shakes-oxford/9drbEUmvXpC5oD0PNKlAjg"
+    },
+    {
+      "name": "Oxford Brunch Bar",
+      "rating": "4.2",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Spend £20, Save £5"
+      ],
+      "url": "https://www.ubereats.com/store/oxford-brunch-bar/2XIU0IxHRyWoNZo_N3rSqQ"
+    },
+    {
+      "name": "Oxford Café and Grill",
+      "rating": "4.5",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/oxford-cafe-and-grill/DkFfzMuNXQi5ClEEBzs6xQ"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.1",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pret-a-manger-oxford-cornmarket-26-27/QJtZ5cZxXpeDQXVI5bRegw"
+    },
+    {
+      "name": "Your Co-op Food",
+      "rating": "4.4",
+      "reviewCount": "58",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/your-co-op-food-little-clarendon/2AYIi0X1Vk2RSDcg9TaNPw"
+    },
+    {
+      "name": "Donburi inn牛津食堂",
+      "rating": "3.9",
+      "reviewCount": "41",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/donburi-inn牛津食堂/-kqWHIAxWdmGcow1w4w3-g"
+    },
+    {
+      "name": "Caffè Nero",
+      "rating": "3.7",
+      "reviewCount": "20",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/caffe-nero-oxford-9-high-st/gpMzTAz4XmSeMOoMrL2vjA"
+    },
+    {
+      "name": "A Taste of China",
+      "rating": "4.0",
+      "reviewCount": "40",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/a-taste-of-china/sfMgHgm5VHu_A1bFi5XStA"
+    },
+    {
+      "name": "Morrisons Daily",
+      "rating": "4.2",
+      "reviewCount": "51",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-daily-botley-elms-parade/5wHyT41NXDuzt0zurQINfw"
+    },
+    {
+      "name": "Londis",
+      "rating": "4.4",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/londis-cherwell-drive/7Qqt9ev0Rp6dZ_m91GrpQA"
+    },
+    {
+      "name": "Panini Grill Cafe",
+      "rating": "4.3",
+      "reviewCount": "97",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/panini-grill-cafe/c6S9SiDwQr-owKB8b4_-yQ"
+    },
+    {
+      "name": "Tesco Cafe",
+      "rating": "3.9",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tesco-cafe-abingdon/lRpjKhY7XXKP_a7Yv-cThg"
+    },
+    {
+      "name": "One Stop Abingdon",
+      "rating": "4.7",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/one-stop-abingdon/vrY4o1AcVLKbfpD_1Ck3EA"
+    },
+    {
+      "name": "Parsons Bakery",
+      "rating": "4.3",
+      "reviewCount": "270+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/parsons-bakery-abingdon/2CWrog8VSxWp4yQg-nk4QA"
+    },
+    {
+      "name": "Turtle Bay",
+      "rating": "4.5",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/turtle-bay-oxford/tJkE8li1TKqyGYlCWm-CcA"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts & Coffee",
+      "rating": "4.7",
+      "reviewCount": "240+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-doughnuts-%26-coffee-oxford-westgate/cJFgL00ESKaSSkWTiFUHyg"
+    },
+    {
+      "name": "Tick Tock Cafe",
+      "rating": "4.8",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/tick-tock-cafe/2cWU4P-ZQzy_yBMHrtUiwA"
+    },
+    {
+      "name": "Sushi Daily",
+      "rating": "4.7",
+      "reviewCount": "12",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sushi-daily-oxford-botley-road/XaYS3TzWUaiTFVU_qAz20g"
+    },
+    {
+      "name": "Sushi Bowl Oxford",
+      "rating": "4.8",
+      "reviewCount": "15",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sushi-bowl-oxford/J525dZC_Xj2bIppYfr86wg"
+    },
+    {
+      "name": "Knoops",
+      "rating": "4.8",
+      "reviewCount": "5",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/knoops-oxford-tso/exOH0rXtVSWI3gmtC9JhYg"
+    },
+    {
+      "name": "Chick Pea",
+      "rating": "4.6",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/chick-pea/BaCZi8vUUoy5GNlHdp3uXw"
+    },
+    {
+      "name": "Boost Juice Bar",
+      "rating": "4.1",
+      "reviewCount": "63",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/boost-juice-bar-queen-street-oxford/Lcpcw_gISDe4yhmo-ez4-A"
+    },
+    {
+      "name": "Rodeo Doughnuts",
+      "rating": "4.5",
+      "reviewCount": "27",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/rodeo-doughnuts-oxford/VseGZt_rVwKAThDk6mA8rQ"
+    },
+    {
+      "name": "Cagneys",
+      "rating": "4.2",
+      "reviewCount": "240+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cagneys/BCZKuQW1Sx6BRGkYhiY7FQ"
+    },
+    {
+      "name": "Costcutter",
+      "rating": "4.6",
+      "reviewCount": "180+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/costcutter-7-9-old-marston-road/IhLkHK9eT8GN9U1EokZrVA"
+    },
+    {
+      "name": "Oxford House Cafe",
+      "rating": "5.0",
+      "reviewCount": "4",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/oxford-house-cafe/KQPnCMe4WliJ2Ry69_zj4w"
+    },
+    {
+      "name": "Crosstown Doughnuts",
+      "rating": "4.7",
+      "reviewCount": "11",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/crosstown-doughnuts-oxford/ONV3_2AoX1iGqPtneYMRuw"
+    },
+    {
+      "name": "itsu [sushi, noodles & rice'bowls]",
+      "rating": "4.4",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/itsu-sushi-noodles-%26-ricebowls-oxford/r1-5TO7hTgSnO353_7_O3A"
+    },
+    {
+      "name": "Falafel Home",
+      "rating": "4.6",
+      "reviewCount": "22",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/falafel-home/FzrOSK-uXAuc-fB-NLzZ_w"
+    },
+    {
+      "name": "Cafe Coco",
+      "rating": "3.0",
+      "reviewCount": "21",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-coco/FJGtYMOmVu2MyJ02FSLZlA"
+    },
+    {
+      "name": "Majestic Wine",
+      "rating": "5.0",
+      "reviewCount": "13",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/majestic-wine-summertown/mQ1aKgonU96CqHY9OcCnXg"
+    },
+    {
+      "name": "Wasabi",
+      "rating": "4.4",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/wasabi-cornmarket-street/T5niNX7ORFyNHoQvtBlq1w"
+    },
+    {
+      "name": "bp M&S Food Woodstock",
+      "rating": "4.4",
+      "reviewCount": "82",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/bp-m%26s-food-woodstock/NxiI5e3aVNqImzsruR1G3g"
+    },
+    {
+      "name": "Za'atar Bake Ltd",
+      "rating": "4.0",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/zaatar-bake-ltd/4yt0em1SWj2q7NFp0g3MKw"
+    },
+    {
+      "name": "Beeyoutiful Cafe",
+      "rating": "4.2",
+      "reviewCount": "50",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/beeyoutiful-cafe/JiX01PaORiifXiPAN6yiDw"
+    },
+    {
+      "name": "Love Desserts",
+      "rating": "3.8",
+      "reviewCount": "160+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/love-desserts/sz133uVjTQSGYA_VUmH1Mg"
+    },
+    {
+      "name": "KFC Oxford",
+      "rating": "4.0",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/kfc-oxford-cornmarket-street/M8Mip9aqQo2bqKffCbmRXA"
+    },
+    {
+      "name": "The Breakfast Club",
+      "rating": "4.0",
+      "reviewCount": "190+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-breakfast-club-oxford/HqPwckxxXGemueCgjjpcAQ"
+    },
+    {
+      "name": "Chaiiwala",
+      "rating": "4.3",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/chaiiwala-oxford/MfS3gD3eXiC4NKRLO8rO3A"
+    },
+    {
+      "name": "Ole & Steen",
+      "rating": "4.5",
+      "reviewCount": "78",
+      "deliveryTime": "",
+      "offers": [
+        "25% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/ole-%26-steen-oxford-westgate/AvoWZaS5VyCbRkvlUpIAwg"
+    },
+    {
+      "name": "Rosa's Thai",
+      "rating": "4.3",
+      "reviewCount": "420+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/rosas-thai-oxford/GWxyvJZKU4y8dwN3JhXlEw"
+    },
+    {
+      "name": "Little Four Seasons",
+      "rating": "4.7",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/little-four-seasons-oxford-文興小廚/EvdbgD2IU7eJrFZFXbKc3g"
+    },
+    {
+      "name": "Gourmet Burger Kitchen GBK",
+      "rating": "4.4",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/gourmet-burger-kitchen-gbk-oxford/3Var-oqNRgOhRsfEf7EdeA"
+    },
+    {
+      "name": "Dosa Park",
+      "rating": "4.1",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dosa-park-park-end-street/A_-g5wDlSUiMJlYlhmdHWg"
+    },
+    {
+      "name": "Pasta Evangelists",
+      "rating": "4.4",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/pasta-evangelists-oxford/JnPdY0NUVTufDMt8yOYWzA"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "rating": "4.0",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/papa-johns-pizza-marston-road/crA9nZVKS-yZ8-0WoFvMJg"
+    },
+    {
+      "name": "Burrito Bandits",
+      "rating": "3.8",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burrito-bandits-mexican-burritos-oxford-castle/ZUjlPb-tXuOOqX7g-4Z0kw"
+    },
+    {
+      "name": "Rios Piri Piri",
+      "rating": "4.2",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/rios-piri-piri/t3PSdBjsSGiecdcWUjylhw"
+    },
+    {
+      "name": "Comptoir Libanais",
+      "rating": "4.3",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/comptoir-libanais-oxford-city/9G0GFb8dQIqqIoXycjVD7A"
+    },
+    {
+      "name": "Shoryu",
+      "rating": "4.5",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/shoryu-the-westgate/1IAhPW9DTG-eiIEl4eFr5Q"
+    },
+    {
+      "name": "Domino's Pizza",
+      "rating": "3.7",
+      "reviewCount": "220+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dominos-pizza-oxford-park-end-street/6cfZDyEsUYOdIpJ1Xky8Hw"
+    },
+    {
+      "name": "Franco Manca Sourdough Pizza",
+      "rating": "4.2",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/franco-manca-sourdough-pizza-oxford/9UcBZ1VVTcSLukW593tObA"
+    },
+    {
+      "name": "Dosa Darlings",
+      "rating": "4.4",
+      "reviewCount": "68",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dosa-darlings/7-ZEJnDCUKOWEEOlwooY-A"
+    },
+    {
+      "name": "Jin Jin Chinese Restaurant 津津有味中餐厅",
+      "rating": "4.5",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/jin-jin-chinese-restaurant-津津有味中餐厅/RcIBcFYSRTOulzX1GlIEcA"
+    },
+    {
+      "name": "The Coconut Tree",
+      "rating": "4.3",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-coconut-tree-oxford/kZEBcIA9RcG4dpyB_bFzVA"
+    },
+    {
+      "name": "Benito's",
+      "rating": "4.1",
+      "reviewCount": "66",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/benitos/r1qNMTldXzCCTB-4eOqCdw"
+    },
+    {
+      "name": "Fernando’s",
+      "rating": "4.2",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/fernandos/qjFSY_fBV3SRA1xORop4XQ"
+    },
+    {
+      "name": "Perio's",
+      "rating": "4.3",
+      "reviewCount": "480+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/perios/50tGLy5oQdyu3ZbGhhmz1Q"
+    },
+    {
+      "name": "Sofi De France",
+      "rating": "4.7",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sofi-de-france-oxford/xz79icE0WcOMQgznqrKDdQ"
+    },
+    {
+      "name": "Opera Cafe",
+      "rating": "4.6",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/opera-cafe/xNf26VZLSJiKRbr42JyB0w"
+    },
+    {
+      "name": "The Shake Lab",
+      "rating": "4.1",
+      "reviewCount": "30",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-shake-lab-oxford/m1MH8C-lT826Y8BCu5LGVQ"
+    },
+    {
+      "name": "Breton Sports Cafe",
+      "rating": "2.8",
+      "reviewCount": "11",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/breton-sports-cafe/tPtoH02GUC2Tn0XsQC_reg"
+    },
+    {
+      "name": "The Spires Cafe",
+      "rating": "3.3",
+      "reviewCount": "24",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-spires-cafe/eFrWE0qjUs-J6vDF3WB-0Q"
+    },
+    {
+      "name": "Khairos Halal Street Food",
+      "rating": "4.4",
+      "reviewCount": "93",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/khairos-halal-street-food/Pv4PXhiJUaS1QfnuMhBdGQ"
+    }
+  ]
+}

@@ -1,0 +1,1350 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/costa-coffee-bristol-cabot-circus/1SQcK3tLUO-4ruxpyqYLRA",
+  "name": "Costa Coffee (Bristol Cabot Circus)",
+  "servesCuisine": [
+    "Coffee and Tea",
+    "Breakfast and Brunch",
+    "Sandwich"
+  ],
+  "priceRange": "₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/f60ae164351afb4b6d2415ed77881dfc/19ec62ba51fde35ba0aff5b84321c5af.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/f60ae164351afb4b6d2415ed77881dfc/c67d558c633281f9c71fc6a90ef470ae.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/f60ae164351afb4b6d2415ed77881dfc/8681e511c0910e0052cb155c50f01f89.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/f60ae164351afb4b6d2415ed77881dfc/6ea4f72e303000fbf403bbb36f971f85.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/f60ae164351afb4b6d2415ed77881dfc/4bee0baf259f2b3c95aacdebea87e950.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/f60ae164351afb4b6d2415ed77881dfc/5283d81c664b43c5f57a3a186d273063.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/costa-coffee-bristol-cabot-circus/1SQcK3tLUO-4ruxpyqYLRA?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "",
+    "postalCode": "BS1 3BQ",
+    "addressCountry": "GB",
+    "streetAddress": "Cabot Circus Shopping Centre, SU65, Block 5"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.458511,
+    "longitude": -2.585339
+  },
+  "telephone": "+441173169733",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.2,
+    "reviewCount": "70"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "8:30",
+      "closes": "17:0"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "7:30",
+      "closes": "19:0"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "8:0",
+      "closes": "19:0"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "name": "Deals",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Refuel Your Day",
+            "description": "Choose 1 item from the required sections below. Subject to availability. Customisations, additions &amp; milk alternatives subject to additional charge(s) shown. Items not listed are excluded. Full T&amp;Cs at Costa.co.uk.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Deals",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Lunch Meal For 1",
+            "description": "11am to 3pm.Choose 1 item from the required sections below. Subject to availability. Customisations, additions &amp; milk alternatives subject to additional charge(s) shown. Items not listed are excluded. Full T&amp;Cs at Costa.co.uk.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lunch Meal For 2",
+            "description": "11am to 3pm.Choose 1 item from the required sections below. Subject to availability. Customisations, additions &amp; milk alternatives subject to additional charge(s) shown. Items not listed are excluded. Full T&amp;Cs at Costa.co.uk.",
+            "offers": {
+              "@type": "Offer",
+              "price": "19.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "What's New",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Maple Hazel Latte",
+            "description": "Your favourite latte layered with roasted hazelnut flavour syrup &amp; luxurious maple sauce   **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk**\nFor full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Maple Hazel Hot Chocolate",
+            "description": "A rich hot chocolate with roasted hazelnut flavour syrup and luxurious maple sauce. **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk**\nFor full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Maple Hazel Frappé",
+            "description": "A delicious Frappé with a luxurious Maple Hazel Flavour Sauce, topped with Light Whip and sprinkled with an autumnal crunchy biscuit topping. **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk** \nFor full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Maple Hazel Iced Latte",
+            "description": "Chilled milk over ice with fresh espresso with roasted hazelnut flavour syrup &amp; luxurious maple sauce, topped with Light Whip and sprinkled with an autumnal crunchy biscuit topping.   **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk**\nFor full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Roast Chicken &amp; Bacon Sandwich",
+            "description": "Roast chicken with chicken gravy mayonnaise and beechwood smoked streaky bacon on malted bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate &amp; Salted Caramel Cake",
+            "description": "Layered chocolate sponge filled with salted caramel and chocolate frostings, topped with dark chocolate shavings, fudge pieces and drizzled with caramel. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gingernut Loaf Cake",
+            "description": "A plant based sticky ginger sponge topped with a sweet ginger frosting and hand finished with crumbled gingernut biscuits. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Ghost Gingerbread Biscuit",
+            "description": "Gingerbread biscuit with fondant icing. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sticky Pecan Mini Loaf",
+            "description": "A caramel cake with pecan nut inclusions, injected with a sticky toffee sauce and topped with icing and praline pecan pieces. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Halloween Chocolate Cornflake Cake",
+            "description": "Chocolate covered cornflakes topped with a white chocolate decoration. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Maple Hazelnut Cookie Sandwich",
+            "description": "A white chocolate cookie sandwich filled with a maple and caramel frosting, finished with icing and roasted hazelnut pieces. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.75",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Pastries, Baps &amp; Breakfast",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Egg &amp; Mushroom Bap",
+            "description": "Free range scrambled egg, roasted mushrooms, spinach and mature Cheddar cheese with hollandaise style sauce in a white roll For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Greek Style Yogurt with Mixed Berry Compote",
+            "description": "Greek Style Yogurt with Mixed Berry Compote and Crunchy Granola For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pain Aux Raisins",
+            "description": "All butter pastry swirled with raisins. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pork Sausage Bap",
+            "description": "Succulent pork sausage in a buttered white roll For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Smoked Bacon Bap",
+            "description": "Beechwood smoked bacon in a buttered white roll For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Croissant (V)",
+            "description": "All butter croissant. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Almond Croissant",
+            "description": "Croissants with an almond filling, topped with almond flakes and icing sugar. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Twist (V)",
+            "description": "A chocolate pastry with a twist. You see what we did there? For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.10",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Main Meals",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Creamy Mac &amp; Cheese (V)",
+            "description": "Cooked pasta with mature cheddar cheese sauce topped with fresh spinach and a parsley crumb. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.15",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hog Roast Toastie",
+            "description": "Hickory pulled pork, spiced apple glaze, caramelised onion chutney, sage &amp; onion stuffing &amp; oak smoked Cheddar in garlic &amp; herb topped bloomer For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Nacho Chilli Cheese &amp; Chicken Toastie",
+            "description": "British roast chicken &amp; chilli Cheese with nacho cheese sauce &amp; jalapeños on tortilla chips &amp; cheese topped bloomer bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cajun Spiced Chicken Pizza Wrap",
+            "description": "Cajun spiced chicken with tomato &amp; oregano sauce, roasted onion and peppers, mozzarella &amp; Cheddar cheese in a barmarked tortilla wrap. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "All Day Breakfast Wrap",
+            "description": "British Beechwood smoked bacon, pork sausage &amp; free range egg with tomato ketchup in a barmarked tortilla wrap For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.85",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ham &amp; Cheese Toastie",
+            "description": "Ham, cheddar cheese and bechamel on toasted bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wiltshire Ham &amp; Mature Cheddar Toastie",
+            "description": "Wiltshire ham and mature cheddar with a hint of mustard on white bread, topped with melted cheese. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mozzarella &amp; Tomato Panini (V)",
+            "description": "Slow roasted tomatoes and basil pesto on a toasted sourdough ciabatta. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tuna Melt Panini",
+            "description": "Tuna, Cheddar cheese and mozzarella in a stone baked sourdough panini For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "BLT Sandwich",
+            "description": "Beechwood smoked bacon with tomato, lettuce &amp; mayo on malted bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Free Range Egg Mayo Sandwich",
+            "description": "Free range egg in a creamy seasoned mayonnaise, on malted bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Prawn Mayo Sandwich",
+            "description": "Prawns with mayonnaise on oatmeal bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese &amp; Tomato Toastie (V)",
+            "description": "The classic combination of cheese and tomato on toasted bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Roast Chicken &amp; Bacon Sandwich",
+            "description": "Roast chicken with chicken gravy mayonnaise and beechwood smoked streaky bacon on malted bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "High Protein Chicken Bites",
+            "description": "Breaded chicken bites with chipotle BBQ sauce. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegan Ham &amp; Cheeze Toastie",
+            "description": "Plant based smoky ham, cheeze and plant based mayonnaise on barmarked white bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken &amp; Bacon Toastie",
+            "description": "British roast chicken &amp; sweetcure bacon with mature Cheddar &amp; mozzarella cheese on cheese topped white bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Brie, Bacon &amp; Chilli Jam Panini",
+            "description": "Brie, beechwood smoked streaky bacon and smoky chilli relish in a seed topped panini For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.05",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Heinz Beanz &amp; Cheese Toastie",
+            "description": "Heinz baked beanz and mature Cheddar cheese in bar marked white bread. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Muffins, Cakes and Bakes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Bakewell Tart (V)",
+            "description": "A butter rich pastry encasing a layer of almond frangipane, Morello cherry jam and sweet, glossy fondant. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Salted Caramel Brownie",
+            "description": "Dark chocolate brownie with salted caramel For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate &amp; Salted Caramel Cake",
+            "description": "Layered chocolate sponge filled with salted caramel and chocolate frostings, topped with dark chocolate shavings, fudge pieces and drizzled with caramel. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Carrot &amp; Walnut Cake",
+            "description": "Carrot and walnut cake topped and filled with layers of soft cream cheese butter icing and decorated with walnut nibs. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Blueberry Muffin",
+            "description": "A blueberry muffin, filled with a blueberry sauce and topped with blueberries For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lemon Muffin (V)",
+            "description": "Lemon muffin with a gooey lemon curd centre. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Millionaire’s Shortbread (V)",
+            "description": "Crisp Scottish shortbread base, topped with a buttery rich caramel and layer of milk chocolate. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Tiffin (V)",
+            "description": "Milk chocolate binding dried fruit and digestive biscuit pieces. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Raspberry &amp; Almond Bake (V)",
+            "description": "Almond rich frangipane topped with shiny raspberry jam. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lemon Curd Tart (V)",
+            "description": "Pastry case filled with lemon curd and a white chocolate and lemon ganache, topped with lemon peel. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gingernut Loaf Cake",
+            "description": "A plant based sticky ginger sponge topped with a sweet ginger frosting and hand finished with crumbled gingernut biscuits. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sticky Pecan Mini Loaf",
+            "description": "A caramel cake with pecan nut inclusions, injected with a sticky toffee sauce and topped with icing and praline pecan pieces. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.60",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Halloween Chocolate Cornflake Cake",
+            "description": "Chocolate covered cornflakes topped with a white chocolate decoration. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Maple Hazelnut Cookie Sandwich",
+            "description": "A white chocolate cookie sandwich filled with a maple and caramel frosting, finished with icing and roasted hazelnut pieces. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Triple Chocolate Muffin",
+            "description": "Chocolate muffin filled with a chocolate sauce and topped with chocolate chunks. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Milk Chocolate Cookie",
+            "description": "Baked Cookie with Milk Chocolate Pieces. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lemon Drizzle Loaf Cake",
+            "description": "Lemon flavoured sponge with lemon curd, topped with a lemon flavoured syrup and glaze For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Biscuits and Snacks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Mini All Butter Shortbreads",
+            "description": "Eight crumbly all butter shortbread bites. Perfect for sharing. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Belgian Chocolate Brownie (Gluten Free)",
+            "description": "Brownie with milk and dark chocolate. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Waffles",
+            "description": "Our waffles are made to an authentic family recipe from the Netherlands and filled with a buttery syrup filling, enriched with natural vanilla. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Balocco Wafers - Cocoa (V)",
+            "description": "Crisp wafer biscuits layered with a sweet and creamy cocoa and hazelnut filling. Made in Italy. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Balocco Wafers - Milk Vanilla (V)",
+            "description": "Crisp wafer biscuits layered with a sweet vanilla crème. Made in Italy. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fruity Flapjack",
+            "description": "Flapjack with dried apricots, cranberries, coconut and sultanas. Mixed with oats and baked until golden. (GF v) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Stem Ginger Biscuits",
+            "description": "Coming all the way from Scotland, our stem ginger biscuits are deliciously sweet and spicy. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fruit &amp; Oat Biscuits",
+            "description": "This classic Scottish combination of raisins and rolled oats is always a winner. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pom-Bear Original Crisps",
+            "description": "Deliciously light and crispy bear-shaped snacks that simply melt in your mouth. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Ghost Gingerbread Biscuit",
+            "description": "Gingerbread biscuit with fondant icing. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Watermelon",
+            "description": "Juicy watermelon chunks. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Iced Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Maple Hazel Iced Latte",
+            "description": "Chilled milk over ice with fresh espresso with roasted hazelnut flavour syrup &amp; luxurious maple sauce, topped with Light Whip and sprinkled with an autumnal crunchy biscuit topping.   **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk**\nFor full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Latte",
+            "description": "Chilled milk over ice, topped with espresso. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coffee Frappé",
+            "description": "Have your coffee fix in the form of a creamy, milky, ice-cold coffee frappé, with a light whip topping. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Strawberry Drizzle Frappe",
+            "description": "A delicious blended drink with strawberry sauce and topped with a light whip. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Fudge Frappé",
+            "description": "Deliciously rich and chocolate-y,  creamy blended drink with a light whip topping. \n\n**ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk** For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Fudge Frappé with Coffee",
+            "description": "Deliciously rich and chocolate-y, this creamy blended drink with added coffee is topped with a light topping.\n\n**ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk** For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Salted Caramel Frappé",
+            "description": "A rich salted caramel frappé, topped with a deliciously light whip topping. \n\n**ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk** For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Salted Caramel Frappé with Coffee",
+            "description": "A rich salted caramel &amp; coffee frappé, topped with a deliciously light whip topping.\n\n **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk** For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tropical Mango Bubble Frappé",
+            "description": "Tropical Frappe; this scrumptious and fun frappe with rich mango flavoured sauce, bursting juicy mango bubbles &amp; a delicious light whip topping, drizzled with rich mango flavoured sauce. WARNING CHOKING HAZARD: Not suitable for children under 3 years For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mango &amp; Passion Fruit Cooler",
+            "description": "Mango and passionfruit puree base, simply blended with ice for a tropical and refreshing drink. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Red Summer Berries",
+            "description": "Summer berries puree base, simply blended with ice for a bright zing-y experience. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Maple Hazel Frappé",
+            "description": "A delicious Frappé with a luxurious Maple Hazel Flavour Sauce, topped with Light Whip and sprinkled with an autumnal crunchy biscuit topping. **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk** \nFor full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Iced Whipped Latte",
+            "description": "A layered iced latte, a rich salted caramel sauce, a layer of your choice milk or dairy alternative and topped with a smooth whipped milky coffee. Stir it to blend the textures and flavours and enjoy this indulgent iced latte. ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Chocolate Iced Whipped Latte",
+            "description": "A layered iced latte, a rich white chocolate sauce, a layer of your choice milk or dairy alternative and topped with a smooth whipped milky coffee. Stir it to blend the textures and flavours and enjoy this indulgent iced latte. ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Flat White",
+            "description": "An intense cortissimo shot, blended with milk,  topped with whipped milk foam   \n\n**ATTENTION: This drink cannot be made dairy free as the whipped layer contains milk.** For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Cappuccino",
+            "description": "A bold and balanced coffee, made with freshly extracted espresso and topped with whipped milk foam. \n\n**ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk** For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Americano (white)",
+            "description": "Espresso coffee served over ice with milk or dairy alternative For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Black Americano",
+            "description": "Classic black coffee served over ice For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Peach Ice Tea",
+            "description": "Sweet yet refreshing, peach iced tea. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.10",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Coffee",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Maple Hazel Latte",
+            "description": "Your favourite latte layered with roasted hazelnut flavour syrup &amp; luxurious maple sauce   **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk**\nFor full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Latte",
+            "description": "Our signature blend espresso with steamed milk for a smooth and creamy coffee. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cappuccino",
+            "description": "Perfectly extracted espresso capped with luxurious frothy milk, finished with a chocolatey dusting. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Flat White",
+            "description": "A short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.45",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Americano",
+            "description": "Espresso combined with hot water for a smooth black coffee For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mocha",
+            "description": "Expertly steamed chocolate milk blended with espresso for a caffeinated chocolate treat. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.80",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Hot Chocolate and More",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Maple Hazel Hot Chocolate",
+            "description": "A rich hot chocolate with roasted hazelnut flavour syrup and luxurious maple sauce. **ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk**\nFor full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Hot Chocolate",
+            "description": "Rich, creamy and silky smooth.  \n\n**ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ingredients containing milk** For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chai Latte",
+            "description": "A warm comforting milky tea with aromatic spices. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.55",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Teas and Infusions",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Citrus Zing with Vitamin C",
+            "description": "Lemon, ginger &amp; green tea with vitamin C served with a lemon slice. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "English Breakfast Tea",
+            "description": "A bold and full bodied tea, full of flavour and perfect for brightening up your day. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Green Tea",
+            "description": "A wonderfully mellow steam dried green tea from Eastern China. So delicious and easy to drink. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mint Tea",
+            "description": "Everything you expect from the ultimate mint experience - glorious peppermint, rounded with vibrant bursts of sweet spearmint. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.35",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Chilled Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Sprite Zero",
+            "description": "Quench your thirst with zero sugar. (500ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Innocent Kids Smoothie",
+            "description": "A blend of whole crushed fruit, pure juices and absolutely nothing else. (150ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca-Cola Original Taste",
+            "description": "Enjoy the great taste of regular Coke. (500ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Diet Coke",
+            "description": "Sugar and calorie-free with a light, refreshing taste. (500ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca-Cola Zero Sugar",
+            "description": "Zero sugar, same great taste as the original. (500ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fanta Orange",
+            "description": "Enjoy the refreshing taste of Fanta. (500ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "SmartWater Still",
+            "description": "Vapour distilled water with added electrolytes to create a clean &amp; crisp taste. (600ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "SmartWater Sparkling",
+            "description": "Vapour distilled water with added electrolytes gently carbonated. (600ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Costa Latte RTD 330ml",
+            "description": "Our slow-roasted Signature Blend coffee is the base for our silky-smooth iced Classic Latte. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Innocent Gut Health Shot",
+            "description": "Bursting with health-boosting ingredients, these Innocent shots are designed to support your immunity &amp; gut health. Each shot is packed with essential vitamins and minerals, including Vitamins A, C, D, and calcium, to keep you feeling your best every day.  For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Innocent Immunity Shot",
+            "description": "Bursting with health-boosting ingredients, these Innocent shots are designed to support your immunity &amp; gut health. Each shot is packed with essential vitamins and minerals, including Vitamins A, C, D, and calcium, to keep you feeling your best every day. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Costa Coffee Caramel Latte Bottle 330ml",
+            "description": "Our Legendary slow-roasted signature blend coffee is the base for our rich, smooth and caramel latte on the go. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Innocent Orange Juice 250ml",
+            "description": "No peel, no bits, just smooth orange juice. (250ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Innocent Apple Juice 250ml",
+            "description": "Sweet, crisp and refreshing apple juice. (250ml) For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sides &amp; Extras",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Heinz Tomato Ketchup Sachets 10ml",
+            "description": "The irresistible rich thick taste of Heinz Tomato Ketchup you know and love, a classic since 1876. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "HP Brown Sauce Sachets 10ml",
+            "description": "HP Sauce, the original brown sauce since 1899. Tangy, full-bodied, and delicious. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bonne Maman Bitter Orange Marmalade 30g",
+            "description": "Orange Marmalade. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bonne Maman Honey 30g",
+            "description": "Honey. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.40",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bonne Maman Strawberry Conserve 30g",
+            "description": "Strawberry Jam. For full allergen and nutrition information, please visit https://www.costa.co.uk/menu.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.40",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

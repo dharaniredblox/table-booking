@@ -1,0 +1,2193 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/store/totterdown-canteen/-sIeGgEpS1yIGdjgJP0xzg",
+  "name": "Totterdown Canteen",
+  "servesCuisine": [
+    "Breakfast and Brunch",
+    "Group Friendly",
+    "Burgers",
+    "Cakes",
+    "Vegan"
+  ],
+  "priceRange": "₹",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/b12e4ddd81ad30d4fc157ab25bdb5cd8/f6deb0afc24fee6f4bd31a35e6bcbd47.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/b12e4ddd81ad30d4fc157ab25bdb5cd8/9b3aae4cf90f897799a5ed357d60e09d.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/b12e4ddd81ad30d4fc157ab25bdb5cd8/fdf52d66534809b650058f41d517d74a.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/b12e4ddd81ad30d4fc157ab25bdb5cd8/8a42ee7a692dfa4155879820804a277f.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/b12e4ddd81ad30d4fc157ab25bdb5cd8/783282f6131ef2258e5bcd87c46aa87e.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/b12e4ddd81ad30d4fc157ab25bdb5cd8/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/store/totterdown-canteen/-sIeGgEpS1yIGdjgJP0xzg?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "English",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet",
+      "http://purl.org/goodrelations/v1#DeliveryModePickUp"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bristol",
+    "addressRegion": "",
+    "postalCode": "BS4 2",
+    "addressCountry": "GB",
+    "streetAddress": "Wells Rd"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.4409349,
+    "longitude": -2.5757364
+  },
+  "telephone": "+441179082124",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.4,
+    "reviewCount": "2000"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "8:30",
+      "closes": "14:30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "7:30",
+      "closes": "14:45"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "7:30",
+      "closes": "14:30"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "name": "Breakfast - (M)(V)(GF)",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Large Breakfast",
+            "description": "Two bacon, two sausages, two free range eggs, Heinz beans, tomatoes, two hashbrowns, mushrooms, black pudding, toast or bread, and butter.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Regular Breakfast",
+            "description": "Two bacon, two sausages, free range egg, Heinz beans, tomatoes, hash brown, mushrooms, toast or bread, and butter.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Small Breakfast",
+            "description": "Bacon, Sausage, Free Range Egg, Heinz Baked Beans or Tomatoes, Hash Brown, Toast or Bread &amp; Butter",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Eggs Benedict",
+            "description": "An english muffin topped with ham, rocket, two free range eggs &amp; hollandaise sauce.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Eggs Royale",
+            "description": "English muffin topped with two free range Poached eggs, Smoked salmon, hollandaise sauce and chives",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegetarian Breakfast (v)",
+            "description": "Two qourn sausages, two free range eggs, heinz beans, grilled tomatoes, two hash browns, mushroom, toast ir bread &amp; butter.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "The “Miners” Benedict",
+            "description": "Two free Range Poached Eggs, Two Black pudding on a toasted English muffin with hollandaise sauce and rocket.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gluten Free Breakfast (GF)",
+            "description": "Please note; All items of our Gluten Free Breakfast are cooked separately, But due to the size and busyness of our kitchen we cannot 100% Guarantee that cross contamination with utensils and other ingredients may occur.\n Two grilled Bacon, Two Eggs, Two Grilled Tomatoes, Heinz Beans, Mushrooms &amp; G/F Free Toast or Bread &amp; Butter with Dairy Free Spread.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mushroom Benedict (v)",
+            "description": "An english muffin topped with mushrooms, rocket, two free range poached eggs &amp; hollandaise sauce.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegan Breakfast (VG)",
+            "description": "Two Qourn vegan sausages, two hash browns, two grilled tomatoes, heinz baked beans, mushrooms, toast or bread &amp; butter with dairy free spread. (Please note where Qourn Sausages available we will substitute with other Vegan Sausages)",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Small Vegetarian  (V) (VG)",
+            "description": "Veggie; 2x Qourn Sausages, Free Range Egg, Hash Brown, Beans or Tomatoes &amp; Toast or Bread &amp; Butter \nMake it Vegan? Click no egg and put Vegan in the comments box. \nVEGAN  1x Qourn Sausage, Beans, Mushrooms,  ½ Grilled Tomato,   Hash Brown, Toast or B&amp;B",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Childrens Breakfast",
+            "description": "Bacon or Sausage, Free Range Egg, Hash Brown &amp; Beans",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Breakfast Panini",
+            "description": "A Toasted Nigella &amp; Poppyseed Panini with Sausage, Bacon, Scrambled Egg. Black Pudding &amp; Cheese",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegetarian Breakfast Panini",
+            "description": "Quorn Sausage Hash Brown, Mushrooms, scrambled Egg, &amp; grated Cheese - Toasted in a nigella &amp; Poppyseed Panini",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Breakfast Extras (M)(V)",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Hash Brown (V)",
+            "description": "1 x Hash Brown",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.65",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mushrooms (V)",
+            "description": "8oz Pot of  Mushrooms",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Beans (V)",
+            "description": "4oz pot of Beans",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.55",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sausage",
+            "description": "1 x Sausage",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon",
+            "description": "1 x Piece of Bacon",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fried Bread",
+            "description": "1x Slice of Fried Bread",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Free Range Fried Egg (V)",
+            "description": "1 x Free Range Fried Egg",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Toast (V)",
+            "description": "1x Slice of White Toast",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Black Pudding",
+            "description": "1 x slice of Black Pudding",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese",
+            "description": "4oz pot of grated cheese",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tinned Tomatoes (V)",
+            "description": "4oz Pot of Tinned Tomatoes",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.55",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Freshly Grilled Tomatoes (V)",
+            "description": "Freshly Grilled Tomatoes",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.55",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Free Range Scrambled Egg (V)",
+            "description": "1 x Free range Scrambled Egg",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Free Range Poached Egg (V)",
+            "description": "1 x Free range Poached egg",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Quorn Sausage (V)",
+            "description": "1 x Qourn Sausage (V)",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Brown Toast",
+            "description": "1x Slice of Brown Toast",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fried Onions (V)",
+            "description": "4oz pot of grilled onions",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Floury Bap",
+            "description": "1 x White Floury Bap",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Smoked Salmon",
+            "description": "1x Slice of Smoked Salmon",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Free Range Fried Egg- Well Done (V)",
+            "description": "! x Free Range Fried Egg - Well Done",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "G/F Toast &amp; Dairy Free Butter",
+            "description": "1x slice of Gluten Free Toast with Dairy Free Butter",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Bread &amp; Butter",
+            "description": "1X Slice of Bread &amp; Butter",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Free Range scrambled Egg with Oatmillk",
+            "description": "1x Free Range Scrambled Egg with Oatmilk",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Brown Bread &amp; Butter (V)",
+            "description": "1x Slice of Brown Bread &amp; Butter",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.90",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "G/F Bread &amp; Dairy Free Butter",
+            "description": "1x Slice of Gluten Free Bread with Dairy Free Butter",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Baps &amp; Sandwiches",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Bacon, Sausage, and Egg S/W",
+            "description": "Two Bacon,Two Sausage, a free range egg on the bread of your choice. We love our eggs so if you order a sandwich we wont cut it to keep the yolk intact",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sausage and Bacon S/W",
+            "description": "Two sausage, two bacon on the bread of your choice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sausage S/W",
+            "description": "Two sausages on the bread  of your choice",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon and Egg S/W",
+            "description": "Two bacon, free range fried egg on the bread of your choice  We love our eggs so if you order a sandwich with a fried egg, we wont cut it to keep the yolk intact.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon S/W",
+            "description": "Three pieces of bacon on the bread of your choice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sausage and Egg S/W",
+            "description": "Two sausages, a free range egg on the bread of your choice. We love our eggs so if you order a sandwich with fried egg we wont cut it to keep the yolk intact.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Club Sandwich with Mayonnaise",
+            "description": "A toasted triple decker sandwich filled with Bacon, Chicken,  Lettuce, tomato and Mayonnaise.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "BLT with Mayonnaise S/W",
+            "description": "Three rashers of bacon laid on a bed of lettuce with tomatoes and mayonnaise on the bread of your choice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.10",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fish Finger S/W",
+            "description": "Four fingers on the bread of your choice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Free Range Fried Egg S/W (v)",
+            "description": "Two free range eggs on the bread of your choice. We love our eggs so if you order a sandwich with fried eggs,  we wont cut it to keep the yolk intact.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Veggie Sausage and Egg (v)",
+            "description": "Two Qourn sausages, topped with a free range egg on the bread of your choice. We love our eggs so if you order a sandwich with a fried egg, we wont cut it to keep the yolk intact,",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Veggie Sausage S/W (v)",
+            "description": "Two qourn sausages on the bread of your choice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegan Sausage Sandwich (VG)",
+            "description": "Two Vegan Qourn  sausages on bread of your choice, using Dairy Free spread. (Please note where Qourn Sausages aren’t available we will substitute with other Vegan Sausages)",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hygiene Info",
+            "description": "Please note we only use Dairy free Vegetable Spread which is suitable for Vegans &amp; Dairy Free intolerances",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Breakfast Wrap",
+            "description": "2 Pork Sausages, 2 Bacon, 2 Hash Browns &amp; a Free  Range  Scrambled  Egg in a flour wrap. Contains Gluten",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Veggie BF Wrap (V)",
+            "description": "2 Quorn sausages, 2 Free Range Scrambled Eggs , 2 Hash Browns &amp; Grilled Tomatoes",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Wraps",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Breakfast Wrap",
+            "description": "2 Pork Sausages, 2 Bacon, 2 Hash Browns &amp; a Free  Range  Scrambled  Egg in a flour wrap. Contains Gluten",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Veggie BF Wrap (V)",
+            "description": "2 Quorn sausages, 2 Free Range Scrambled Eggs , 2 Hash Browns &amp; Grilled Tomatoes",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crispy Chicken Wrap",
+            "description": "Battered Chicken Fillet with Lettuce, Tomatoes, Onion &amp; Mayo  in a flour wrap. Contains Gluten",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cajun Chicken Wrap",
+            "description": "Homemade Cajun Chicken with Lettuce, Tomatoes, Onion &amp; Mayo in Flour Wrap . Contains Gluten",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "On Toast  (M)(V)",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Free Range Scrambled Eggs on Toast (v)",
+            "description": "Two free range eggs, scrambled with your choice of toast.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese on Toast (v)",
+            "description": "Two pieces of your choice of toast topped with cheese",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Free Range Poached Eggs on Toast (v)",
+            "description": "Two free range poached eggs on your choice of toast.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Two Boiled Free Range Eggs and Soldiers (v)",
+            "description": "Two free range boiled eggs with your choice of toast.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Free Range Fried Eggs on Toast (v)",
+            "description": "Two free range fried eggs on your choice of toast.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Heinz Beans on Toast (v)(vg)",
+            "description": "Heinz Baked Beans on toast of your choice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mushrooms on Toast (v)(vg)",
+            "description": "Mushrooms on Toast of your choice",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tomatoes on Toast (v)(vg)",
+            "description": "Tinned Chopped tomatoes on toast of your choosing",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Free Range Scrambled Eggs on Toast with Smoked Salmon",
+            "description": "2x Free Range Scrambled Eggs &amp; 2 slices of Smoked Salmon on toast of your choice",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.80",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Toast with Jam",
+            "description": "Two pieces of your choice of toast with strawberry jam",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Toast with Marmalade",
+            "description": "Two pieces of your choice iof toast topped with marmamlade.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.30",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Toast with Marmite",
+            "description": "Two pieces of your choice of toast topped with marmite",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.30",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sauce Pots",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Heinz Tomato Ketchup",
+            "description": "2oz Sauce Pot",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mayonnaise",
+            "description": "2oz Sauce Pot",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "HP Brown Sauce",
+            "description": "2oz Sauce Pot",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Salad Cream",
+            "description": "2oz Sauce Pot",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Srirachi Chilli Sauce",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "English Mustard",
+            "description": "2oz pot",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "English Mustard",
+            "description": "2oz sauce pot",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Srirachha Hot Chilli Sauce",
+            "description": "2oz Sauce Pot",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Barbeque",
+            "description": "2oz Sauce Pot",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hollandaise Sauce",
+            "description": "4oz Sauce Pot",
+            "offers": {
+              "@type": "Offer",
+              "price": "1.75",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Paninis",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Tuna Mayonnaise, Red Onion &amp; Cheese Panini",
+            "description": "A filled Nigella &amp; Poppyseed Panini, Toasted",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cajun Chicken &amp; Cheese Panini",
+            "description": "A Nigella &amp; Poppyseed toasted panini..",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken, Bacon, Mushroom &amp; Cheese Panini",
+            "description": "A filled Nigella &amp; Poppyseed Panini, Toasted",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ham and Cheese Panini",
+            "description": "A filled Nigella &amp; Poppyseed Panini, Toasted",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese Panini (V)",
+            "description": "A Nigella &amp; Poppyseed toasted panini..",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ham, Cheese and Red Onion Panini",
+            "description": "A filled Nigella &amp; Poppyseed Panini, Toasted",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese and Beans Panini",
+            "description": "A filled Nigella &amp; Poppyseed Panini, Toasted",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon, Mushroom and Cheese Panini",
+            "description": "A filled Nigella &amp; Poppyseed Panini, Toasted",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese and Mushrooms Panini",
+            "description": "A filled Nigella &amp; Poppyseed Panini, Toasted",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese and Red Onions Panini",
+            "description": "A Nigella &amp; Poppyseed toasted panini",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken, Pesto and Cheese Panini",
+            "description": "A filled Nigella &amp; Poppyseed Panini, Toasted",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.25",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese and Tomato Panini",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ham, Cheese and Tomato Panini",
+            "description": "A filled Nigella &amp; Poppyseed Panini, Toasted",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Breakfast Panini",
+            "description": "A Toasted Nigella &amp; Poppyseed Panini with Sausage, Bacon, Scrambled Egg. Black Pudding &amp; Cheese",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Omelettes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Omelette With Filling",
+            "description": "Made with three free range eggs, a your choice of filing with a side salad or beans",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Canteen Special Omelette",
+            "description": "Made with 3x free Range Eggs, Bacon, mushrooms, red onion, peas and tomatoes.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Plain 0melette - No Fill",
+            "description": "Made with three free range eggs, side salad or beans.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Jacket Potatoes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Jacket Potato with Tuna Mayonnaise",
+            "description": "Served with a side salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Jacket Potato with Chilli Con Corne",
+            "description": "Served with a side salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Jacket Potato with Cheese and Bacon",
+            "description": "Served with a side salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Jacket Potato with Chicken Pesto",
+            "description": "Served with a side salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Jacket Potato with Prawn Mayo",
+            "description": "Fluffy baked potato topped with prawn mayonnaise.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Jacket Potato with Chicken Mayonnaise",
+            "description": "Served with a side salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Jacket Potato with Cheese and Beans (V)",
+            "description": "Served with a side salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Jacket Potato with Coleslaw (v)",
+            "description": "Served with a side salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Jacket Potato with Cheese and Mushrooms (V)",
+            "description": "Served with a side salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Jacket Potato with  Butter (V)(VG)",
+            "description": "Served with a side salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Jacket Potato with Chicken Tikka",
+            "description": "Served with a side salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Main Dishes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chip Portion",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Nuggets, Chips and Beans",
+            "description": "7 Chicken nuggets, chips and beans",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Double Sausage, Free Range Egg and Chips",
+            "description": "Two sausages, a free range fried egg and chips.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ham, Free Range Double Egg and Chips",
+            "description": "Ham, a free range fried egg and chips",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tuna and Cheese Pasta",
+            "description": "Tuna and cheese combine in a satisfying pasta dish.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fish &amp; Chips",
+            "description": "Served with Peas or Salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Steak and Ale Pie, Chips &amp; Gravy",
+            "description": "Tender steak and ale filling served with crispy chips and rich gravy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chilli con Carne with Chips",
+            "description": "A mild chilli served with chips",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sausage and Mash with Gravy",
+            "description": "Three sausages, mash and gravy. If you want to change your sausages to Vegetarian then please let us know. Our Gravy is Vegetarian",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bacon, Free Range Double Egg and Chips",
+            "description": "Two Bacon,  two free range fried eggs and chips.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Beef and Vegetable Pie, Chips &amp; Gravy",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Free Range Double Egg and Chips",
+            "description": "Free range double fried egg with chips",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pasty, Chips and Beans",
+            "description": "Cornish Pasty, Chipsand Beans",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tomato and Cheese Pasta",
+            "description": "Fresh pasta tossed with juicy tomatoes and melted cheese.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Pesto Pasta",
+            "description": "Freshly made pasta tossed with chicken and a hint of pesto.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Scampi, Chips, and Peas",
+            "description": "Scampi served with chips Peas or salad",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chilli con Carne with Rice",
+            "description": "A mild chilli served with white rice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Tikka Massala with Rice",
+            "description": "Chicken tikka Massala  served with Rice.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Tikka Massala with Chips",
+            "description": "Chicken Tikka Massala with Chips",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.95",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Burgers",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Beef Burger",
+            "description": "Served with chips, in a floury bap with lettuce, tomato, and red onion.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegan Burger (Vg)",
+            "description": "Served with chips in a floury bap with lettuce, tomato and red onion",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegetarian Burger (V)",
+            "description": "A rustic mix of broad beans, peas, potato &amp; spinach, seasoned with spices &amp; coated in breadcrumbs - Gluten free (although cooked with items that contain Gluten)  . Served with chips, in a floury bap with lettuce, tomato, and red onion.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Burger",
+            "description": "Served with chips, in a floury bap with lettuce, tomato, and red onion.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Homemade Cajun Chicken Breast Burger",
+            "description": "Served with chips, in a floury bap with lettuce, tomato, and red onion.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10.75",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Salads",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Ham Salad",
+            "description": "Served with coleslaw and a boiled egg.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Pesto Salad",
+            "description": "Served with a Boiled Egg and Coleslaw",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Prawn Salad",
+            "description": "Prawn salad served with coleslaw and a boiled egg",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tuna Mayonnaise and Cheese Salad",
+            "description": "Served with coleslaw and boiled egg.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Mayo Salad",
+            "description": "Served with Coleslaw and a Boiled Egg",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken Salad",
+            "description": "Served with coleslaw and a boiled egg.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Homemade Cajun Chicken Breast Salad",
+            "description": "Served with coleslaw and a boiled egg.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Smoked Salmon Salad",
+            "description": "with Chives, Boiled Egg &amp; Coleslaw",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cheese and Onions Salad",
+            "description": "Served with coleslaw and a boiled egg.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Extra Cajun Chicken",
+            "description": "Spicy Cajun-style chicken in a fresh salad.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Childrens Dishes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Kids Tuna Mayo Sandwich",
+            "description": "A half Sandwich",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Ham Sandwich",
+            "description": "A half Sandwich",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Chicken Nuggets Chips &amp; Beans",
+            "description": "4 x Chicken Nuggets, chips &amp; Beans",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Ham, Free Range Egg &amp; Chips",
+            "description": "Ham, topped with a free range egg &amp; chips",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Sausage, Chips &amp; Beans",
+            "description": "1 Sausage with chips &amp; Beans",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Bacon, Free Range Egg &amp; Chips",
+            "description": "1 x Bacon, with a free range egg &amp; Chips",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Bacon Sandwich",
+            "description": "A half Sandwich",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Sausage Sandwich",
+            "description": "A half Sandwich",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Fish Fingers, Chips &amp; Beans",
+            "description": "2x Fish Fingers, Chips &amp; Beans",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Fish Finger Sandwich",
+            "description": "A half Sandwich",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Vegan sausage Sandwich (VG)",
+            "description": "A half Sandwich",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Cheese &amp; Tomato Sandwich (v)",
+            "description": "A half Sandwich",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Free Range Egg on Toast",
+            "description": "1 Toast - 1 Free Range Egg",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Free Range fried Egg Sandwich(v)",
+            "description": "A half Sandwich",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Qourn Sausage Sandwich (V)",
+            "description": "A half Sandwich",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Tuna &amp; Cheese Pasta",
+            "description": "Pasta mixed with tuna &amp; Cheese",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Tomato &amp; Cheese Pasta",
+            "description": "Pasta mixed with tinned tomatoes &amp; Cheese",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Qourn Sausage, Chips &amp; Beans (v)",
+            "description": "1x Qourn Sausage, Chips &amp; beans",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Vegan Sausage, Chips &amp; Beans (VG)",
+            "description": "1x Quorn Vegan Sausage, Chips &amp; Beans (VG)",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Kids Beans on Toast (v)(vg)",
+            "description": "1 Toast - 4oz pot of Beans",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cakes - Bar Cakes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Salted Caramel Brownie",
+            "description": "Contains milk, Wheat &amp; Egg",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.75",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Blueberry Bakewell",
+            "description": "Contains Wheat, Almonds.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.75",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Frappės - Iced Coffees",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Iced Latte with Syrup(s)",
+            "description": "Double shot of freshly ground Wogans Coffee, blended with milk and topped with Squirty Cream or “Cold Foam”",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Frappè",
+            "description": "Iced drink mixed with the Syrup(s) of your choice. \n*Frappès do not contain Coffee.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Lattè",
+            "description": "Double shot of freshly ground Wogans Coffee, blended with milk and topped with Squirty Cream.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Cloudy Lemonade",
+            "description": "A Still cloudy lemonade Iced drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.75",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cold Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Coca-Cola Original Taste 330ml",
+            "description": "\"Coca-Cola Classic is the world's favourite soft drink and has been enjoyed since 1886.\n \n Great Coke taste\n Only natural flavours\n No added preservatives\n Gluten-free, dairy-free and nut-free\n \n Serve ice cold for maximum refreshment.\"",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Capri Sun Orange 330ml Pouch (V)(VF)",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca Cola Zero 330ml Can",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Monster Energy Punch 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca-Cola Original Taste 500ml",
+            "description": "\"Coca-Cola Classic is the world's favourite soft drink and has been enjoyed since 1886.\n \n Great Coke taste\n Only natural flavours\n No added preservatives\n Gluten-free, dairy-free and nut-free\n \n Serve ice cold for maximum refreshment.\"",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Diet Coke 500ml",
+            "description": "\"Love it light? Add some sparkle to your day, minus the calories with Diet Coke\n \n Diet Coke is a sugar free, low calorie soft drink.\n No Sugar\n No Calories\n Gluten-free, dairy-free and nut-free\n Contains vegetables extracts and sweeteners\n \n Serve over ice with a slice of lime.\"",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca-Cola Zero sugar 500ml",
+            "description": "\"Coca-Cola Zero Sugar is the perfect drink for people who want all the taste of Coca‑Cola, without the sugar or calories.\n \n Coca-Cola Zero Sugar is a sugar free, low calorie soft drink with the great taste of original Coca-Cola.\n Zero sugar\n Zero Calories\n Contains vegetable extracts and sweeteners\n Gluten-free, dairy-free and nut-free\n \n Serve ice cold for maximum refreshment.\"",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca Cola Cherry  Zero 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dr Pepper 500ml",
+            "description": "\"What's the Worst that can happen? Dr Pepper's unique, sparkling blend of 23 fruit and spice flavours has been around for well over a century and it's still the same, with that distinctive flavour you just can't quite put your tongue on.\n\nSparkling Fruit Flavour Soft Drink\n\nServe cold for maximum refreshment.\"",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fanta Orange 500ml",
+            "description": "\"Bright, bubbly, instantly refreshing and great tasting. Fanta Orange is made with 100% natural flavours, fruit juice and is caffeine free.\n \n Fanta's cool taste is made with…\n \n Real fruit\n Natural flavours\n No artificial colours\n Sugar and sweeteners\n \n Serve ice cold for maximum refreshment.\"",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fanta Fruit Twist 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fanta Pineapple &amp; Grapefruit (LILT) 500ml",
+            "description": "Fanta- Lilt",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sprite  500ml",
+            "description": "\"Crisp, refreshing, clean-tasting Sprite is Great Britain's leading lemon and lime flavoured soft drink\n \n A clean, crisp, fresh tasting, sparkling lemon &amp; lime flavour drink.\n \n Contains sugar and sweeteners\n Natural flavours\n No artificial colours\n Caffeine-free\n \n Serve ice cold for maximum enjoyment.\"",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Oasis Summer Fruits 500 mL.",
+            "description": "\"Oasis is a great tasting refreshing still drink with big, colourful flavours and an attitude that see's the funny side of things\n \n Still Summer Fruit Juice Drink\n Contains sugars and sweeteners\n Natural Flavours\n \n Serve cold for maximum refreshment.\"",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Oasis Citrus Punch 500 mL.",
+            "description": "\"Oasis is a great tasting refreshing still drink with big, colourful flavours and an attitude that see's the funny side of things\n \n Still Mixed Citrus Fruit Juice\n Contains sugars and sweeteners\n Natural Flavours\n \n Serve cold for maximum refreshment.\"",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Glaceau Smartwater 600ml",
+            "description": "Sometimes the answer is right under your nose, and other times it's floating above your head… in our case, it was the humble cloud that got us thinking. Inspired by the water cycle, we vapour distil our spring water and then add electrolytes to deliver a distinctive, clean, crisp taste, smart because it's designed that way",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Glaceau Smartwater Sparkling 600ml",
+            "description": "Sometimes the answer is under your nose, and other times it's floating above your head… inspired by clouds and the water cycle, we vapour distil our spring water, adding electrolytes and now a light effervescence. Enjoy the distinctive, clean, crisp and refreshing taste of sparkling smartwater. Smart because it's made that way.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wholeearth Organic Apple",
+            "description": "Refreshing organic apple drink, perfect for a cool, crisp taste experience.. Certified Vegan",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Appletiser Sparkling Apple Juice 250ml",
+            "description": "\"Appletiser is made with gently sparkling 100% apple juice. 150ml officially counts as one of your 5-a-day, Appletiser makes any meal more Appletising.\n \n No added preservatives\n Sparkling apple juice from concentrate\n \n Serve chilled\"",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Raspberry Lemonade Juiceburst  500ml Btl",
+            "description": "500ml Raspberry Lemonade Juiceburst",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Diet Coke 330ml",
+            "description": "\"Love it light? Add some sparkle to your day, minus the calories with Diet Coke\n \n Diet Coke is a sugar free, low calorie soft drink.\n No Sugar\n No Calories\n Gluten-free, dairy-free and nut-free\n Contains vegetables extracts and sweeteners\n \n Serve over ice with a slice of lime.\"",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Whole Earth Organic lightly Sparkling Cranberry (V)(VG)",
+            "description": "Organic Sparkling lightly carbonated Cranberry flavoured drink",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.20",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Monster  Energy Juiced 500ml",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Juiceburst Orange 400ml Btl",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Juiceburst Apple 500ml Btl",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Rio 500ml",
+            "description": "Rio Tropical 500ml",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Capri Sun Cherry 330ml Pouch",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.20",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Hot Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "12oz Americano",
+            "description": "12oz freshly ground barista made Americano Coffee proudly supplied by Wogans and with your choice of Milk at NO extra cost! \nAll our cups &amp; lids are 100% biodegradable.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.70",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "12oz Tea",
+            "description": "12oz fresh barista made Tea with your choice of Milk at NO extra cost! \nAll our cups &amp; lids are 100% biodegradable.\n*Please note due to how busy we get at weekends Hot Drinks are only available Mon - Friday!",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "12oz Hot Chocolate",
+            "description": "12oz fresh barista made Hot Chocolate with Cream &amp; Marshmallows and your choice of Milk at NO extra cost! \nAll our cups &amp; lids are 100% biodegradable.\n*Please note due to how busy we get at weekends Hot Drinks are only available Mon - Friday!",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "12oz Latte",
+            "description": "12oz freshly ground barista made Latte proudly supplied by Wogans and with your choice of Milk at NO extra cost! \nAll our cups &amp; lids are 100% biodegradable.\n*Please note due to how busy we get at weekends Hot Drinks are only available Mon - Friday!",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "12oz Cappuccino",
+            "description": "12oz freshly ground barista made Cappuccino proudly supplied by Wogans and with your choice of Milk at NO extra cost! \nAll our cups &amp; lids are 100% biodegradable.\n*Please note due to how busy we get at weekends Hot Drinks are only available Mon - Friday!",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "8oz Flat White",
+            "description": "8oz freshly ground barista made Flat White Coffee proudly supplied by Wogans and with your choice of Milk at NO extra cost! \nAll our cups &amp; lids are 100% biodegradable.\n*Please note due to how busy we get at weekends Hot Drinks are only available Mon - Friday!",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.70",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

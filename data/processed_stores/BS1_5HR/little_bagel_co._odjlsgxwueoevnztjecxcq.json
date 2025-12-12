@@ -1,0 +1,728 @@
+{
+  "restaurant_id": "littlebagelcoqueensrd-BS81QU-51",
+  "source_id": "39d265b2-0c70-5043-84be-766d25e0b109",
+  "restaurant_url": "https://www.ubereats.com/store/little-bagel-co-queens-rd/OdJlsgxwUEOEvnZtJeCxCQ",
+  "source": "Uber Eats",
+  "lastScrapedAt": "2025-09-17T13:41:34.475Z",
+  "restaurant": {
+    "name": "Little Bagel Co. (Queens Rd.)",
+    "slug": "little-bagel-co-queens-rd",
+    "citySlug": "bristol",
+    "isOrderable": true,
+    "phoneNumber": "+441173048118",
+    "isWithinDeliveryRange": true,
+    "fullAddress": "80 Queens Road, Bristol, England BS8 1QU",
+    "streetAddress": "80 Queens Road",
+    "addressCity": "bristol-eng",
+    "neighborhood": "clifton-bristol-eng",
+    "addressRegion": "England",
+    "postalCode": "BS8 1QU",
+    "addressCountry": "GB",
+    "latitude": 51.4572105,
+    "longitude": -2.6084127,
+    "geohash": "gcnhsx",
+    "etaRange": "170–185 Min",
+    "ratingAvg": 4.7,
+    "totalReviews": "900+",
+    "workingHours": "Open until 8:00 PM",
+    "deliveryTime": "",
+    "cuisineList": [
+      "Bagels",
+      "Breakfast and Brunch",
+      "Sandwiches",
+      "Vegan Friendly"
+    ],
+    "priceBucket": "₹₹₹"
+  },
+  "openingHours": [
+    {
+      "day": "Sunday",
+      "hours": [
+        {
+          "open": "09:00",
+          "close": "14:30",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Monday - Friday",
+      "hours": [
+        {
+          "open": "07:30",
+          "close": "15:30",
+          "section": ""
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "hours": [
+        {
+          "open": "09:00",
+          "close": "15:30",
+          "section": ""
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "section": "Meal Deals",
+      "items": [
+        {
+          "id": "1aa37760-172e-4c07-8cf4-a99e07bd47c0",
+          "name": "Chicken Salad Meal Deal",
+          "description": "free range chicken, mayonnaise dressing, rocket & tomato - with a drink and crisps.",
+          "price": "£11.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1100,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/81e092f32b107f19a2496d6d7d31a819/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "9ed60342-c4a6-4624-847b-6d2ce555a1f8",
+          "name": "BEC Meal Deal",
+          "description": "smoked streaky bacon, egg & american cheese - with a drink and crisps.",
+          "price": "£10.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1045,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/833478ae7c66f9c53655e856681b95f9/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "08cfcf4a-b344-46ac-ab4e-e343c67e1b01",
+          "name": "Reuben Meal Deal",
+          "description": "salt beef, emmental, mustard, homemade sauerkraut & dill pickles - with crisps and a drink.",
+          "price": "£12.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1265,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/85fa0370969503f790d7cafaa5f0217c/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "2308e1a0-f71a-4f4f-8b11-1a554d525ffa",
+          "name": "Salmon Lox Meal Deal",
+          "description": "smoked salmon, cream cheese, dill, capers, pickled red onion & tomato - with a drink and crisps.",
+          "price": "£12.65",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1265,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bd61a93fb112c2cb46202d259a7a324d/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4bfc5907-e204-4272-95f7-358c27c2ce6f",
+          "name": "Vegan BLT Meal Deal",
+          "description": "smoked tofu, old bay mayonnaise, lettuce & tomato - with a drink and crisps.",
+          "price": "£10.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1090,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/22b96608c118c7d19988e8427f5f054a/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a28c1ebf-e533-42db-be15-e0708859a0d4",
+          "name": "Vegan Breakfast Bagel Meal Deal",
+          "description": "oyster mushroom, hashbrown & chimichurri - with a drink and crisps.",
+          "price": "£10.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1045,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5957e0db94fc82f65fb71d44457211a8/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Bagels",
+      "items": [
+        {
+          "id": "72b48f27-fcc1-4557-ae43-86a3eea1a5bb",
+          "name": "Salmon Lox",
+          "description": "smoked salmon, cream cheese, dill, capers, pickled red onion & tomato",
+          "price": "£9.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 990,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7aa93b6ecbce75b93db571f85f894c86/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "aa04b0ff-e4e6-4306-a441-8ab7d15b7762",
+          "name": "Reuben",
+          "description": "salt beef, emmental, Russian Dressing,  homemade sauerkraut & dill pickles",
+          "price": "£9.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 990,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ef573eaa8b299ec96315080add98674d/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "387049d3-0c4a-40c7-ada3-f460e8ad55b2",
+          "name": "Schmear Deluxe",
+          "description": "cream cheese, capers, dill, pickled onions & tomato",
+          "price": "£5.75",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 575,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/136fbfcc75f068f6d172b0ed1efdb614/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a0f07715-24d9-42b8-8f7a-ef0a41251367",
+          "name": "Chicken Salad",
+          "description": "free range chicken, mayonnaise dressing, rocket & tomato",
+          "price": "£8.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 825,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1405bdfb46253b2c4ca94a64f77a165c/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "25b74daf-29c8-4c51-ac42-7bde8d40f0f5",
+          "name": "Vegan Lox",
+          "description": "smoked carrot, homemade cashew cream cheese, dill capers, pickled red onion & tomato",
+          "price": "£7.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 770,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b001060dfb0a0354bdfaa87294a75508/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b38377d8-f6c2-4b18-b1a9-fc5625b195ba",
+          "name": "PBJ",
+          "description": "peanut butter & homemade raspberry jam",
+          "price": "£4.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 495,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4c7e4421a80c01e5e3a73b2f64879b3a/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "cad3943c-e01a-4c7c-a0f8-8ba84b55d6ff",
+          "name": "Vegan Reuben",
+          "description": "grilled broccoli, mustard, homemade sauerkraut & dill pickles",
+          "price": "£7.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 715,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2e7fc5e0069bcbfaa909daf5be76c3d9/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "3d38b6b0-98a2-4e85-8575-757b1f3a0fe0",
+          "name": "Elvis",
+          "description": "peanut butter & sliced banana",
+          "price": "£5.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 550,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6c22e06eebca0b13afd08f3a13c238d7/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "85661c5e-f006-58ad-9e66-f3a13ffd34d4",
+          "name": "BLT",
+          "description": "smoked streaky bacon, old bay mayonnaise, lettuce & tomato",
+          "price": "£8.80",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 880,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aad455e1d3fb566f34de4a1865cfa8c7/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "371447ee-d25f-56ac-bc18-0cff951b9d3f",
+          "name": "Kimcheesy",
+          "description": "homemade kimchi & grilled extra mature cheddar",
+          "price": "£6.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 660,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/63cb4963e0df33f8ba3443df2512ffb4/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "44e10f07-6e8b-57db-b5d2-8865faf24021",
+          "name": "Spicy Lox",
+          "description": "smoked salmon, tabasco, spicy schmear, tomato, pickled red onion & smashed avo",
+          "price": "£10.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1070,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/841cffed9e7cf51e0364abbe9199c28d/70aa2a4db7f990373ca9c376323e3dea.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "d6e06037-3f0b-5087-9925-8cca812a05f0",
+          "name": "The Rachel",
+          "description": "turkey pastrami, russian dressing, house slaw & melted emmental",
+          "price": "£9.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 990,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/162f41f0341d0be4b7f8103884a5c2d3/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "ebef5fa4-2539-5262-ae58-1689b4ecfeb3",
+          "name": "Turkey Club",
+          "description": "turkey pastrami, bacon, fried egg, chilli jam, rocket, emmental & mayonnaise",
+          "price": "£10.70",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1070,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/25eb601b71c14f30d0b39eaf8ae2e113/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c27446df-2fe9-5602-99e8-9ae0b4fe6be7",
+          "name": "Vegan BLT",
+          "description": "smoked tofu, old bay mayonnaise, lettuce & tomato",
+          "price": "£8.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 825,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/584f7fc67f0f716f34a2a8d73fe70611/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "a180252b-90a8-598e-8f55-64f20a148efa",
+          "name": "Vegan Kimcheesy",
+          "description": "homemade kimchi & grilled vegan smoked applewood",
+          "price": "£6.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 630,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/63cb4963e0df33f8ba3443df2512ffb4/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Breakfast",
+      "items": [
+        {
+          "id": "47ffac24-5d22-415e-844f-affdbfdd010c",
+          "name": "Bacon Bagel",
+          "description": "dry cured smoked streaky bacon, your choice of sauce",
+          "price": "£7.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 715,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e2bccbb68fc7ef919a97fe1f37dd9386/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "4300e1ce-960d-52ca-b4ea-50d61acc2a9f",
+          "name": "Bacon Cream Cheese",
+          "description": "Bacon & Cream Cheese",
+          "price": "£8.25",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 825,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cb82d93cb93b54c9bc368605bb3c3e69/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c99ca2d6-bf4d-53fb-9b5d-58823651990f",
+          "name": "BEC",
+          "description": "smoked streaky bacon, egg & american cheese",
+          "price": "£7.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 795,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/179a7b92188edcee1c7bf3328c22c650/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "c89e3719-e34e-5257-bfc3-b0ff6f6288ab",
+          "name": "Cream Cheese Bagel",
+          "description": "Soft and creamy cheese spread on a toasted bagel.",
+          "price": "£4.40",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 440,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/41c66b5b56f7b7ebb6e4c6900be026b2/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b41706ed-a24f-4214-99e8-4a08f08a89b2",
+          "name": "Egg & Cheese",
+          "description": "double egg & american cheese",
+          "price": "£7.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 715,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/30c98709875f8f964b1a28717751336e/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "6a3cf665-70f3-5f7c-b0e6-e396a1f5df89",
+          "name": "Kimchi Breakfast",
+          "description": "house kimchi, bacon, egg & cheese",
+          "price": "£10.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1045,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cf9dc8d82ee45f8c9c3f5c8a98b2bf36/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "21bd5ae3-237d-58d1-9549-e2840a9083c4",
+          "name": "SEA",
+          "description": "smoked salmon, smashed avo, egg & emmental",
+          "price": "£9.90",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 990,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/867736a41bc946851ec4b6882ece0d7a/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "b4443984-3dab-4220-9e1d-14a35ee58988",
+          "name": "Super BEC",
+          "description": "bacon, egg, american cheese, hash brown & smashed avo",
+          "price": "£10.15",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 1015,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d46a2b47f4ce6d6945513d51c358ec8c/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "32be6d42-24a7-538d-a89e-02af4ff79be5",
+          "name": "Super VBB",
+          "description": "smoked tofu, oyster mushrooms, hashbrown, avocado & chilli jam",
+          "price": "£9.60",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 960,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ac8e566883773c5f7bee01bdf613b112/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        },
+        {
+          "id": "66d968b7-61c8-51f7-9c71-801092341f6f",
+          "name": "Vegan Breakfast Bagel",
+          "description": "oyster mushroom, hashbrown & chimichurri",
+          "price": "£7.95",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 795,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/58da879d09b901235c904c554717fcc2/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": true
+        }
+      ]
+    },
+    {
+      "section": "Cookies",
+      "items": [
+        {
+          "id": "e66d7837-7a6d-4ae7-a841-9e6ae52030ac",
+          "name": "Everything Cookie",
+          "description": "Soft-baked cookie packed with a mix of sweet treats.",
+          "price": "£3.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 300,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/069effb85c3f659edb68d8a8ddfea9ca/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "64ff62c6-345f-46c6-b67c-5bed2675f4c2",
+          "name": "Triple Chocolate Cookie",
+          "description": "Rich, velvety chocolate in every bite.",
+          "price": "£3.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 385,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/262b5853de8c653d2ddadd8c79909eef/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "03790105-bcd3-58b3-8040-195d739f39d2",
+          "name": "Vegan Pecan & Dark Chocolate Cookie",
+          "description": "Rich, dark chocolate and crunchy pecans come together in a delicious vegan cookie.",
+          "price": "£3.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 330,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/20b44b65cb15c5fb6fc911c88aa2d4ab/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "2daf62cc-c102-5c66-875b-e1b06278ee73",
+          "name": "Walnut & Dark Chocolate Cookie",
+          "description": "Rich, crunchy walnut and dark chocolate combination in every bite.",
+          "price": "£3.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 385,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2a1847f2bbc549518b0e305d592fa94a/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Crisps",
+      "items": [
+        {
+          "id": "d803a125-5fca-5242-b8d3-3f3da5eb62b9",
+          "name": "Chilli Crisps",
+          "description": "Spicy and crunchy crisps with a chilli kick.",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/da2b926478fc5d9a94fb7c71faeef077/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "53b9f17e-2555-565c-a34b-f917dade3195",
+          "name": "Cretan Herb Crisps",
+          "description": "Crispy crisps infused with the essence of Cretan herbs.",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c3d7346919172ee2a909f0f84522d908/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "027f57ae-7d4a-5b85-b40e-10547b8097cb",
+          "name": "Salt Crisps",
+          "description": "Crunchy, savoury crisps with a touch of salt.",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/90bdefe0efe5d207c9f42bb14be79864/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "0b722be1-b3a5-547b-9a18-9700c5807c35",
+          "name": "Truffle Crisps",
+          "description": "Thin, crispy crisps infused with the rich flavour of truffle.",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/78ee8953dab09d888e7ff4ba92792ee8/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "7d872035-12ec-55ae-a705-758b580423f8",
+          "name": "Yellow Paprika Crisps",
+          "description": "Crispy paprika flavoured crisps.",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f9da45ecab20c6e40ca4484fe95ed508/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    },
+    {
+      "section": "Soft Drinks",
+      "items": [
+        {
+          "id": "0e4c891a-3e5a-50aa-bad2-32f04623c1cc",
+          "name": "Raspberry Elderflower Kombucha",
+          "description": "N/A",
+          "price": "£4.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 410,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f8e4469d3321e36f3d547010b1c0c1b1/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ef1bd0a8-2ff9-56bf-b51a-641a9d639b0a",
+          "name": "Blood Orange Lemonade",
+          "description": "N/A",
+          "price": "£3.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 385,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/45496023538f1f7e5e757ff66caab9ac/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "667bcf14-bc55-495b-907b-1c2effeddc96",
+          "name": "Coca Cola",
+          "description": "classic coke",
+          "price": "£2.45",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 245,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d74ee83be818207dcb51c8b6c93acd0f/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "09e905ea-a41f-5c75-bfd0-cd2e71589a7d",
+          "name": "Diet Coke",
+          "description": "N/A",
+          "price": "£2.20",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 220,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a14e53c7409e414095e6c6378a5dc35a/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9c8809f0-d480-5bba-a0fc-5318343ce854",
+          "name": "Ginger Beer",
+          "description": "N/A",
+          "price": "£4.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 410,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dbb1627ff9f74fc7f037679cbfe9c7ab/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "55de6c36-459a-5a01-bf60-155aa9d53bc5",
+          "name": "Ginger Kick",
+          "description": "Ginger-infused drink with a spicy kick.",
+          "price": "£3.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 385,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5eea8104d428d7dc33ff1a8aa08b37f4/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "9f5ccdc5-9e93-5b46-b162-524367b74755",
+          "name": "Citrus Yuzu Kombucha",
+          "description": "N/A",
+          "price": "£4.10",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 410,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/668fb93af0fe8892aa679412afeab590/bc9c318a9c96996e2d990faf2b0c65f6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "72dbe681-9332-5d0d-90dd-79d62a71eaec",
+          "name": "Lemonade",
+          "description": "Refreshing drink with a tangy twist.",
+          "price": "£3.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 330,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f785aa1ce71ebda0eef3bfde6859190c/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "b8132d88-d9de-59b3-9de0-7a949d82bfb4",
+          "name": "Lime Lemonade",
+          "description": "Refreshing drink with a zesty lime and lemon twist.",
+          "price": "£3.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 385,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c5bded41a5c826439b555849dedfb222/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8b590781-ac28-5df1-b50d-58e1d4a259fb",
+          "name": "Mango, Ginger & Lime Kombucha",
+          "description": "Fermented tea drink infused with mango, ginger and lime flavours.",
+          "price": "£4.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 430,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0da50608c57ed0306ec93aa7d03663ca/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "ced569b0-23a6-56aa-a6e0-8b4967e0d45d",
+          "name": "Orangeade",
+          "description": "N/A",
+          "price": "£3.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 330,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0511a2b810f67fb4eeee920208cd8e80/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "223f67b3-5851-55ac-b4a2-cfc9dbd21a92",
+          "name": "Passionfruit Lemonade",
+          "description": "Refreshing drink blending passionfruit and lemonade.",
+          "price": "£3.85",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 385,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/af21e307278180412b4585dd1aeaa320/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "6e9e4dba-6e77-55b0-984c-2f7a564ea866",
+          "name": "Raspberry Lemonade",
+          "description": "Freshly squeezed lemonade infused with sweet raspberry flavour.",
+          "price": "£3.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 330,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4e3ab26bfec537cffb9a56f07c8b839f/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "00d16cbe-1a25-5a53-b425-9e3573b7882d",
+          "name": "Rhubarb & Hibiscus Kombucha",
+          "description": "Fruity and floral fermented tea drink",
+          "price": "£4.30",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 430,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8fcd5b7dc9b80edb901dac6b8c423018/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f3844305-9f60-5db4-b59b-178687655bcd",
+          "name": "Rio Tropical",
+          "description": "Fruity and refreshing tropical drink.",
+          "price": "£2.50",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 250,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/336202605b6fde9459b5dfa2e4fb4f6e/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "8bd77cb2-1798-4c5d-9b79-8d2cdaa8d2f5",
+          "name": "Sparkling Water",
+          "description": "Fresh and bubbly water, perfect for any occasion.",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1f7900778d962a61077eaf9a681cc46b/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        },
+        {
+          "id": "f1be6bd8-8b10-4d0d-b7fc-be967f0d61d1",
+          "name": "Still Water",
+          "description": "N/A",
+          "price": "£2.00",
+          "priceCurrency": "GBP",
+          "priceAccToPriceBucket": 200,
+          "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/45a396fd81aaf4eb4667d10de8464f06/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+          "isSoldOut": false,
+          "hasCustomizations": false
+        }
+      ]
+    }
+  ]
+}

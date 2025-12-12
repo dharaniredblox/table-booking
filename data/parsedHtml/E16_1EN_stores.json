@@ -1,0 +1,832 @@
+{
+  "source": "UberEats",
+  "postalCode": "E16_1EN",
+  "timestamp": "2025-09-15T09:57:19.434Z",
+  "count": 97,
+  "data": [
+    {
+      "name": "Co-op",
+      "rating": "4.4",
+      "reviewCount": "6,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items",
+        "In-store prices"
+      ],
+      "url": "https://www.ubereats.com/store/co-op-canning-town/fKSxZUArWIimDo2VEvpzGA"
+    },
+    {
+      "name": "Iceland",
+      "rating": "4.3",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/iceland-plaistow/R2rP7qpuTK2Td0doJk2Otw"
+    },
+    {
+      "name": "Sainsbury's Local",
+      "rating": "4.2",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/sainsburys-local-london-city-island/TGCXGGAmTyKnbRlNBVlhqQ"
+    },
+    {
+      "name": "Waitrose & Partners",
+      "rating": "4.2",
+      "reviewCount": "6,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/waitrose-%26-partners-canary-wharf/h5WqVORQU6aaS8wng6ZDGQ"
+    },
+    {
+      "name": "Starbucks ®",
+      "rating": "4.4",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/starbucks-canning-town/fZWkkQC0QPiDCBky0HpdDw"
+    },
+    {
+      "name": "Subway HALAL",
+      "rating": "4.0",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/subway-halal-newport-avenue/Shn9wCPrTqOdvYkKQLfINA"
+    },
+    {
+      "name": "Gopuff Groceries",
+      "rating": "4.7",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/gopuff-groceries-canary-wharf-%26-bow/aM0xuhEPUWWhm2GXOAUA_A"
+    },
+    {
+      "name": "Asda Express",
+      "rating": "4.3",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/asda-express-bow-express-petrol/gCcFF_KXU9upVLvdXENxuA"
+    },
+    {
+      "name": "Ole & Steen",
+      "rating": "4.3",
+      "reviewCount": "360+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ole-%26-steen-canary-wharf/YjGd2LT0UYaI7t7fHIEy3A"
+    },
+    {
+      "name": "Greggs",
+      "rating": "4.3",
+      "reviewCount": "20",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/greggs-poplar-chrisp-st-16-mkt-sq/7110avX0VoCiHEXDfyb35A"
+    },
+    {
+      "name": "Zoom by Ocado",
+      "rating": "4.4",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/zoom-by-ocado-leyton/__ey35VQX3mFRXrX_hKWvA"
+    },
+    {
+      "name": "Poplar Cafe",
+      "rating": "4.5",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/poplar-cafe/AIogCvS-Rpa2XqA_wXKD0Q"
+    },
+    {
+      "name": "Eggslut",
+      "rating": "4.3",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/eggslut-stratford/iFWAz3qyWpOnsAMjK-ta9w"
+    },
+    {
+      "name": "Pret A Manger",
+      "rating": "4.4",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/pret-a-manger-canning-town/s4eWBiQGUqe-wrdbP-qf2w"
+    },
+    {
+      "name": "Burger King",
+      "rating": "4.0",
+      "reviewCount": "8,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Free Item (Spend £25)"
+      ],
+      "url": "https://www.ubereats.com/store/burger-king-stratford-sc/8CzIfdWJSNyAJLuXUv0TQw"
+    },
+    {
+      "name": "Vasantha Vilas",
+      "rating": "4.2",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/vasantha-vilas/fYSHhYf6ThW_CPLNDlCYjg"
+    },
+    {
+      "name": "EggsQuisite",
+      "rating": "4.3",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/eggsquisite-olympic-park/Rt3mVMQkS3-Dzq-Y5-eF0w"
+    },
+    {
+      "name": "Black Sheep Coffee",
+      "rating": "4.2",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/black-sheep-coffee-jubilee-centre/XhKnIyZ_TYWetnt56HrBrg"
+    },
+    {
+      "name": "Papa Johns Pizza",
+      "rating": "4.3",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/papa-johns-pizza-docklands/HUN24eYrRmaJVpN-ZiETIw"
+    },
+    {
+      "name": "Holy Bagel",
+      "rating": "4.1",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/holy-bagel-olympic-park/BSvW6l5ITlSfeLKHCso04w"
+    },
+    {
+      "name": "Popeyes",
+      "rating": "3.8",
+      "reviewCount": "350+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/popeyes-stratford/HxSvF6McUaSMvp-fNIEuag"
+    },
+    {
+      "name": "Acai Berry",
+      "rating": "4.2",
+      "reviewCount": "380+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/acai-berry-canary-wharf/UleMFvmcXh-oWi7f7i_eHA"
+    },
+    {
+      "name": "Small Square Cafe",
+      "rating": "4.5",
+      "reviewCount": "24",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/small-square-cafe/xcEX3k-2SUSYnPUqKBCmWg"
+    },
+    {
+      "name": "Boots",
+      "rating": "4.7",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Offers available"
+      ],
+      "url": "https://www.ubereats.com/store/boots-london-liverpool-street-station/z8EA6SxEX7ep9eJ7ivQKwQ"
+    },
+    {
+      "name": "BHAKTI FOODS",
+      "rating": "3.3",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bhakti-foods/gZrLi8TjR52v_EebXXmioQ"
+    },
+    {
+      "name": "Londis",
+      "rating": "4.6",
+      "reviewCount": "5,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/londis-whitefield/DR1mqQy5Qu6pMG1JWFxIaQ"
+    },
+    {
+      "name": "Karapincha",
+      "rating": "4.0",
+      "reviewCount": "47",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/karapincha-canary-wharf/MiSbNlMDW-iui5PR0CsW7g"
+    },
+    {
+      "name": "Hisashi Coffee Company",
+      "rating": "4.4",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/hisashi-coffee-company/EGnXfu_xRGeocTRnwSWRmQ"
+    },
+    {
+      "name": "Plaistow Cafe",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/plaistow-cafe/jPnzels8RnypuRYqhJI08g"
+    },
+    {
+      "name": "Zapp 24/7",
+      "rating": "4.7",
+      "reviewCount": "3,000+",
+      "deliveryTime": "",
+      "offers": [
+        "£0 Delivery Fee (Spend £35)"
+      ],
+      "url": "https://www.ubereats.com/store/zapp-24-7-canary-wharf/7z7IT-vMVfCVi9JQBmcQTw"
+    },
+    {
+      "name": "Caffe Arabica",
+      "rating": "4.3",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/caffe-arabica/syEQX40GR_OxKmb2QAzVpQ"
+    },
+    {
+      "name": "Parkside Cafe",
+      "rating": "4.5",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/parkside-cafe/xnNwsl3HSmS0Kd5CUzy_ng"
+    },
+    {
+      "name": "Mad About Doner",
+      "rating": "3.8",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "offers": [
+        "Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/mad-about-doner-olympic-park/WoL6PfFqUXyVICtIvYrkhA"
+    },
+    {
+      "name": "PAUL",
+      "rating": "4.5",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/paul-cabot-place/6R21tPA2RAu5pLcrpDiGbw"
+    },
+    {
+      "name": "Anchor Cafe",
+      "rating": "4.8",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/anchor-cafe/7pwhET6uSr20Cijeu8sY9A"
+    },
+    {
+      "name": "LEON",
+      "rating": "4.4",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "15% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/leon-jubilee-place/Lyya4fqcRtOTnnSQ7x-dsQ"
+    },
+    {
+      "name": "Krispy Kreme",
+      "rating": "4.6",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/krispy-kreme-canary-wharf/-OPnIUNlQg-H04VSb3pLuQ"
+    },
+    {
+      "name": "Caffe Nero",
+      "rating": "4.0",
+      "reviewCount": "120+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/caffe-nero-canary-wharf-station/KxbqjCiYVG-OX9nJzVTYbQ"
+    },
+    {
+      "name": "Fiesta cafe",
+      "rating": "4.2",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/fiesta-cafe/Yb-JXLIXQgi3S1Tt-L35Hg"
+    },
+    {
+      "name": "Co-op Food",
+      "rating": "4.4",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/co-op-food-winmill-road/abyp_7wEVBervmEaCFVgzg"
+    },
+    {
+      "name": "Yolk",
+      "rating": "4.2",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/yolk-canary-wharf/U61FZP-qXJ6m0hsp0CGnMg"
+    },
+    {
+      "name": "Himalaya Indian Restaurant & Bar",
+      "rating": "4.2",
+      "reviewCount": "200+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/himalaya-indian-restaurant-%26-bar/X376r2rxW-e6xk9loMNA9A"
+    },
+    {
+      "name": "bp Newham Way",
+      "rating": "4.7",
+      "reviewCount": "65",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/bp-newham-way/_Usf1uCTXPWPvof8y1gQSA"
+    },
+    {
+      "name": "Pure",
+      "rating": "4.0",
+      "reviewCount": "24",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/pure-canary-wharf/12wEoSWTXr2gfhPPr50i1Q"
+    },
+    {
+      "name": "Coco di Mama",
+      "rating": "4.0",
+      "reviewCount": "460+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/coco-di-mama-canary-wharf/3xF7X8DoV5GpvQjmJVZwvg"
+    },
+    {
+      "name": "Paris Baguette",
+      "rating": "4.5",
+      "reviewCount": "36",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/paris-baguette-canary-wharf/JVSb11_bXSOZMHHX4CSeRw"
+    },
+    {
+      "name": "Ethical Bean Company",
+      "rating": "4.9",
+      "reviewCount": "250+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ethical-bean-company/PcIjeSQASi-xS-11ePUopQ"
+    },
+    {
+      "name": "San Marino Café",
+      "rating": "4.6",
+      "reviewCount": "600+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/san-marino-cafe-leytonstone/NXWHnN_JS8KBXDM4ulYEeQ"
+    },
+    {
+      "name": "Bagels & Spudz",
+      "rating": "4.1",
+      "reviewCount": "490+",
+      "deliveryTime": "",
+      "offers": [
+        "20% off (Spend £30)"
+      ],
+      "url": "https://www.ubereats.com/store/bagels-%26-spudz/1SHp9sv6Tke1WdjGIFaEZQ"
+    },
+    {
+      "name": "Mighty Bite Cafe",
+      "rating": "4.5",
+      "reviewCount": "15",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mighty-bite-cafe/Qo-y8ofWS1-dEJLqlydolA"
+    },
+    {
+      "name": "BITE ITALIAN",
+      "rating": "4.6",
+      "reviewCount": "380+",
+      "deliveryTime": "",
+      "offers": [
+        "3 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/bite-italian/LsyBLdYbS-2l586LFT_Eaw"
+    },
+    {
+      "name": "Mess Cafe",
+      "rating": "4.4",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/mess-cafe/r7fwoqKDRT-8tz6w-Tjjmw"
+    },
+    {
+      "name": "Thames Cafe",
+      "rating": "4.8",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/thames-cafe/Mncp16heS8qCCWVNvbqPwQ"
+    },
+    {
+      "name": "The Coffee Room",
+      "rating": "4.6",
+      "reviewCount": "110+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/the-coffee-room-mile-end/Xh6LhMFjS0qGFjdGacLgzw"
+    },
+    {
+      "name": "Polo Bar",
+      "rating": "4.4",
+      "reviewCount": "4,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/polo-bar-24-hour-great-british-cafe/JhrJ_e5URZ-KuGjNbvRMHA"
+    },
+    {
+      "name": "Dilarascafe",
+      "rating": "4.3",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/dilarascafe/BmsaIu7STyenrnV7GPimdQ"
+    },
+    {
+      "name": "Wicked Wings",
+      "rating": "4.0",
+      "reviewCount": "480+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/wicked-wings-olympic-park/Zrlp3qnxSxe1PrhSnn6i3w"
+    },
+    {
+      "name": "B B Cafe",
+      "rating": "4.7",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/b-b-cafe/QjswaeciSGGIdcFLvTn3Qg"
+    },
+    {
+      "name": "Brekkie Bagels",
+      "rating": "4.5",
+      "reviewCount": "17",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/brekkie-bagels-cranbrook-rd/SmGlYW4SV86LqTyAXlq4HA"
+    },
+    {
+      "name": "Bagel Master",
+      "rating": "4.4",
+      "reviewCount": "800+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/bagel-master/FaQLrK3XTLu6b-4LWql4Sw"
+    },
+    {
+      "name": "Wenzel's the Bakers",
+      "rating": "4.0",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wenzels-the-bakers-ilford/EtExIKjiUU-MKgod5eldHg"
+    },
+    {
+      "name": "Honest Smash + Grab",
+      "rating": "4.2",
+      "reviewCount": "900+",
+      "deliveryTime": "",
+      "offers": [
+        "30% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/honest-smash-%2B-grab-liverpool-st/g-G6BejsWn2yi3fBI2pxEQ"
+    },
+    {
+      "name": "Arches Cafe",
+      "rating": "4.8",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/arches-cafe-established-1984/2T1YizGWRb2s_kV9AHDIJQ"
+    },
+    {
+      "name": "KOOX Organic Juices",
+      "rating": "4.7",
+      "reviewCount": "330+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/koox-organic-juices-canary-wharf/bEX1XFbRX3SRYnfFb7Dp5Q"
+    },
+    {
+      "name": "Cafe Brunch",
+      "rating": "4.6",
+      "reviewCount": "240+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/cafe-brunch/E-fSQCWPWAe3458NlCKYNw"
+    },
+    {
+      "name": "Smash Burger Co",
+      "rating": "4.1",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/smash-burger-co-olympic-park/_lWVRcdwT6O0VamOVt96LA"
+    },
+    {
+      "name": "Co-operative",
+      "rating": "4.4",
+      "reviewCount": "500+",
+      "deliveryTime": "",
+      "offers": [
+        "10% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/co-operative-nisa-local/Hm73nxvKWOGzJb1BRdxcjw"
+    },
+    {
+      "name": "Elm Park Cafe",
+      "rating": "4.7",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/elm-park-cafe/YsixWvYFTFK5v2VAW6MRLg"
+    },
+    {
+      "name": "Zeus On The Loose",
+      "rating": "3.5",
+      "reviewCount": "75",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £20)"
+      ],
+      "url": "https://www.ubereats.com/store/zeus-on-the-loose-eleanor-st/nKA_kcBtVkKoWquHXRZ-4A"
+    },
+    {
+      "name": "Urban Bites",
+      "rating": "4.5",
+      "reviewCount": "430+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/urban-bites/f_LHrrAzS3eMSzRAkVCabw"
+    },
+    {
+      "name": "Wicked Burgers",
+      "rating": "4.3",
+      "reviewCount": "2,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/wicked-burgers-olympic-park/Kz9OG_YBTkWbn_30bXVUNg"
+    },
+    {
+      "name": "Best Pizza Shop Brick Lane",
+      "rating": "4.5",
+      "reviewCount": "72",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/best-pizza-shop-brick-lane/Icw97r0wV4e0q-hnIzGf7Q"
+    },
+    {
+      "name": "Bagel Factory",
+      "rating": "4.4",
+      "reviewCount": "300+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/bagel-factory-canary-wharf-station/I92JtsOvTPeJp_n_juDB7g"
+    },
+    {
+      "name": "The Pop In Cafe",
+      "rating": "4.6",
+      "reviewCount": "100+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-pop-in-cafe/9z_vBTQkWcm27ndNsohGyA"
+    },
+    {
+      "name": "Brick Lane Cakes Milkshakes & Gelato shop",
+      "rating": "4.2",
+      "reviewCount": "400+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/brick-lane-cakes-milkshakes-%26-gelato-shop/HoinW7vGVa-T3aMnXvv53A"
+    },
+    {
+      "name": "Ali Curry House",
+      "rating": "3.7",
+      "reviewCount": "230+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/ali-curry-house/H66r48MSQPGjpG-1Jo75RA"
+    },
+    {
+      "name": "The Bagel House",
+      "rating": "4.6",
+      "reviewCount": "5,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-bagel-house/Ge2qfpwaSvGj7R5QuU5-PQ"
+    },
+    {
+      "name": "Branché French Tacos",
+      "rating": "3.3",
+      "reviewCount": "10",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/branche-french-tacos/t7KtPBomXoWV3hAReh9w7w"
+    },
+    {
+      "name": "Wood Oven",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/wood-oven/sJAD-g3GTjGS0MWrDhjxCQ"
+    },
+    {
+      "name": "(Yellow) Beigel Shop",
+      "rating": "4.2",
+      "reviewCount": "66",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/yellow-beigel-shop/0BMH7uCEXI-7rk7jqnforg"
+    },
+    {
+      "name": "Upper Clapton Cafe",
+      "rating": "4.1",
+      "reviewCount": "130+",
+      "deliveryTime": "",
+      "offers": [
+        "2 Offers Available"
+      ],
+      "url": "https://www.ubereats.com/store/upper-clapton-cafe/4w7frVOdTr6Kv-WvFiAwtw"
+    },
+    {
+      "name": "Yakuza Wagyu",
+      "rating": "4.2",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/yakuza-wagyu/YJZVzyTtXriGzxM1KLHbxw"
+    },
+    {
+      "name": "Morrisons Daily",
+      "rating": "4.1",
+      "reviewCount": "85",
+      "deliveryTime": "",
+      "offers": [
+        "£0 Delivery Fee (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/morrisons-daily-orient/FzEJZx4ZXc--zhUaUhzLuw"
+    },
+    {
+      "name": "Boujee Breakfast & Brunch",
+      "rating": "4.2",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/boujee-breakfast-%26-brunch/dpBsFXMUXBiHIG9Y5_H89A"
+    },
+    {
+      "name": "Dim Dum Korean Fried Chicken and Bao",
+      "rating": "4.0",
+      "reviewCount": "170+",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/dim-dum-korean-fried-chicken-and-bao-olympic-park/025P__3uWO6rUXfuh3yVHA"
+    },
+    {
+      "name": "The Britannia",
+      "rating": "4.8",
+      "reviewCount": "280+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/the-britannia/tA2WAnAoV7S7DX0qrYR-Jw"
+    },
+    {
+      "name": "Bun Boy",
+      "rating": "3.9",
+      "reviewCount": "1,500+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/bun-boy/IoSBYjXNU_WyPBOoPSItHA"
+    },
+    {
+      "name": "Morning Birds",
+      "rating": "4.4",
+      "reviewCount": "400+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/morning-birds/snf1bPDkRT6ar7HJQLefPA"
+    },
+    {
+      "name": "Halal Breakfasts and Lunch",
+      "rating": "4.3",
+      "reviewCount": "700+",
+      "deliveryTime": "",
+      "offers": [
+        "Spend £15, Save £3"
+      ],
+      "url": "https://www.ubereats.com/store/halal-breakfasts-and-lunch/ZUneWqspRca6a_rDUF8WTA"
+    },
+    {
+      "name": "Yummy London",
+      "rating": "1.8",
+      "reviewCount": "18",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • Buy 1, Get 1 Free"
+      ],
+      "url": "https://www.ubereats.com/store/yummy-london/oDco5cTnW_eveRNgDKO-dg"
+    },
+    {
+      "name": "Sandwich Sandwich",
+      "rating": "4.4",
+      "reviewCount": "97",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 30% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/sandwich-sandwich-mark-lane/fMt7s-zVUMuDEljmwXN7Jg"
+    },
+    {
+      "name": "Sofra Hasjane London",
+      "rating": "4.1",
+      "reviewCount": "44",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/sofra-hasjane-london/jxPdpbBRRTOcZJJr7Ow-bg"
+    },
+    {
+      "name": "Selen Cafe",
+      "rating": "4.7",
+      "reviewCount": "1,000+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/selen-cafe/bsxW8yIUQtm1gQX4nCiNBA"
+    },
+    {
+      "name": "Nina's Cafe",
+      "rating": "4.7",
+      "reviewCount": "430+",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/ninas-cafe/_WQBkCzwSf2oA0JCbEjE-w"
+    },
+    {
+      "name": "Jack The Chipper Aldgate",
+      "rating": "4.4",
+      "reviewCount": "33",
+      "deliveryTime": "",
+      "url": "https://www.ubereats.com/store/jack-the-chipper-aldgate/GIwQEhl-X92_T__9vfGw4w"
+    },
+    {
+      "name": "Maida Biryani",
+      "rating": "2.9",
+      "reviewCount": "140+",
+      "deliveryTime": "",
+      "offers": [
+        "Top Offer • 20% off (Spend £15)"
+      ],
+      "url": "https://www.ubereats.com/store/maida-biryani-walthamstow/tvHZ4DszWRO8YE8k31vgSA"
+    },
+    {
+      "name": "Baskin Robbins",
+      "rating": "3.7",
+      "reviewCount": "28",
+      "deliveryTime": "",
+      "offers": [
+        "Save on Select Items"
+      ],
+      "url": "https://www.ubereats.com/store/baskin-robbins-olympic-park/x8ERuTwLUxq01y2riXCeLg"
+    }
+  ]
+}
