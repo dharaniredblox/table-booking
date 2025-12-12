@@ -1,0 +1,144 @@
+{
+  "restaurantId": "chitchaat_EN55UZ_51",
+  "restaurant_url": "https://www.opentable.co.uk/restaurant/profile/360126",
+  "sources": [
+    "Opentable"
+  ],
+  "lastScrapedAt": "2025-11-28T05:48:19.109Z",
+  "Venue_Information": {
+    "restaurantName": "Chit Chaat",
+    "cuisineType": "Indian, Cocktail Bar, Bar / Lounge / Bottle Service",
+    "address": "135 High St",
+    "website": "https://chitchaat.co/",
+    "postcode": "EN5 5UZ",
+    "latitude": 51.6559742,
+    "longitude": -0.2021239,
+    "phone": "020 8440 3631",
+    "googleMap": "https://www.google.com/maps/dir//51.6559742,-0.2021239",
+    "priceLevel": "£25 and under",
+    "description": "Modern Indian Street Food in Barnet, North London. Offering a twist on modern Indian food. Dine in at our Indian Restaurant in Barnet. Order a takeaway/collection. We deliver via the delivery platforms locally. We have a fully stocked cocktail bar on site. We offer private hire of our venue for birthday parties, anniversary celebrations, corporate events and offer outdoor catering.",
+    "meals": [],
+    "ambience": [],
+    "amenities": [],
+    "images": [
+      "https://resizer.otstatic.com/v3/photos/80451228-1?width=1280&height=720&webp=true",
+      "/static/cfe/14/images/opentable-logo-ZGYRVF2L.svg",
+      "/static/cfe/14/images/ic_photos-DSAVRTDM.svg",
+      "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+      "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg"
+    ]
+  },
+  "Combine_details": [
+    {
+      "platform": "opentable",
+      "Reservation_Details": {
+        "openingHours": [
+          "Daily 12:00–23:00"
+        ],
+        "availableTimes": [
+          "18:30",
+          "18:45",
+          "19:00",
+          "19:15",
+          "19:30"
+        ],
+        "partySizeOptions": [
+          "1 person",
+          "2 people",
+          "3 people",
+          "4 people",
+          "5 people",
+          "6 people",
+          "7 people",
+          "8 people",
+          "9 people",
+          "10 people",
+          "11 people",
+          "12 people",
+          "13 people",
+          "14 people",
+          "15 people",
+          "16 people",
+          "17 people",
+          "18 people",
+          "19 people",
+          "20 people"
+        ],
+        "averageDiningDuration": null,
+        "seatingAreas": [],
+        "bookingPolicy": "",
+        "specialExperienceBookings": true,
+        "integrationWithGoogleReserve": "Available"
+      },
+      "Ratings_and_Reviews": {
+        "overallRating": 4.8,
+        "totalReviews": 8,
+        "ratingsBreakdown": {
+          "food": "4.8",
+          "service": "4.6",
+          "ambience": "4.7",
+          "value": "4.1"
+        },
+        "reviews": [
+          {
+            "author": "Loraine",
+            "date": "2025-09-14T15:30:00+01:00",
+            "stars": "4",
+            "snippet": "Lovely restaurant. Reason didn’t give 5 stars is not anything on menu for a 5 year old. The butter chicken was still too spicy.   Even though we asked if could be really mild.  Was told it was. Food was really nice. Different and ambiance was great.",
+            "tags": null
+          },
+          {
+            "author": "Malini",
+            "date": "2025-06-04T19:15:00+01:00",
+            "stars": "3",
+            "snippet": "Food was delicious . Lovely flavours .\nWe had a variety of food and all was yum !",
+            "tags": null
+          },
+          {
+            "author": "Kripani",
+            "date": "2025-05-20T18:30:00+01:00",
+            "stars": "4",
+            "snippet": "Catered amazingly well to our vegetarian and vegan group, as usual. Always reliably friendly service. Great ambience and great quality food. Enjoyed by kids and adults alike. Thank you! We’ll be back.",
+            "tags": null
+          },
+          {
+            "author": "Anna",
+            "date": "2025-03-01T20:00:00+00:00",
+            "stars": "4",
+            "snippet": "Authentic Indian food. The puri's were divine. The samosa's were served with a chickpea sauce - not something I would choose but turned out they were delicious. Shared the meat platter which was all cooked to perfection and spiced beautifully. \n\nWine by the bottle was reasonably priced and, if i recall, all under £30. \n\nI didn't have a child with me but was delighted to see that the kids menu was all authentic Indian food also - no fish fingers/burgers or nuggets here \n\nService was relaxed but professional, if a little hectic - but they did have a birthday party to tend to which seemed to be around 50ppl of all ages, which they managed very well and didn't impede the other diners.\n\nOverall, a great restaurant which i will definitely be going back to.",
+            "tags": null
+          },
+          {
+            "author": "Thomas",
+            "date": "2025-02-19T18:30:00+00:00",
+            "stars": "4",
+            "snippet": "Lovely food and excellent service. Really great to see an elevated Indian restaurant experience in Barnet",
+            "tags": null
+          },
+          {
+            "author": "Sharon",
+            "date": "2025-01-18T14:30:00+00:00",
+            "stars": "4",
+            "snippet": "Lovely experience. We've now been to Chit Chaat for lunch,  dinner and afternoon tea. The light meals and afternoon tea were very good. Main meals are mild and a little under spiced but still delicious.  They provided a gluten free afternoon tea which was beautifully presented and tasted amazing and also made my elderly mother feel very welcome on her birthday celebration. Lovely surroundings and friendly staff. Some teething  problems when booking online in that the restaurant was not receiving the bookings; would advise any customers to book via telephone or follow up an online booking with a call.",
+            "tags": null
+          },
+          {
+            "author": "Lucy",
+            "date": "2025-01-11T20:15:00+00:00",
+            "stars": "5",
+            "snippet": "Fully recommend this restaurant! Our favourite Indian cuisine.",
+            "tags": null
+          },
+          {
+            "author": "Fola",
+            "date": "2024-12-10T19:00:00+00:00",
+            "stars": "5",
+            "snippet": "This was our first time at Chit Chaat and we had a lovely experience. The food was great, the ambience was intimate and friendly and the service was excellent. We will be back.",
+            "tags": null
+          }
+        ],
+        "tagsFromReviews": []
+      }
+    }
+  ]
+}

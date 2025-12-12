@@ -1,0 +1,319 @@
+{
+  "restaurantId": "leicestersquarekitchen_WC2H7LH_51",
+  "restaurant_url": "https://www.opentable.co.uk/restaurant/profile/68545",
+  "sources": [
+    "Opentable",
+    "Quandoo"
+  ],
+  "lastScrapedAt": "2025-11-28T05:44:06.697Z",
+  "Venue_Information": {
+    "restaurantName": "Leicester Square Kitchen",
+    "cuisineType": "Mexican, Peruvian, Tapas / Small Plates",
+    "address": "Radisson Blu Hotel Leicester Square",
+    "postcode": "WC2H 7LH",
+    "latitude": 51.5098516,
+    "longitude": -0.1297811,
+    "phone": "020 7666 0902",
+    "googleMap": "https://www.google.com/maps/dir//51.5098516,-0.1297811",
+    "priceLevel": "£26 to £40",
+    "description": "Set on London’s most vibrant square, Leicester Square Kitchen introduces a Mexican and Peruvian dining experience serving small plates and innovative cocktails. From exquisite tacos to fine skewered meats from the Peruvian barbecue, the menu takes diners on a journey through the unique flavours of South America. With Soho and Covent Garden on the doorstep, Leicester Square Kitchen is the perfect place to enjoy a pre-theatre dinner. The restaurant is just a few minutes' walk from iconic West End theatres such as Harold Pinter Theatre, Garrick Theatre, Her Majesty's Theatre and many more. We invite you to join us for a pre-dinner drink on our terrace or in the neighbouring At The Hampshire Lounge Bar prior to your dining experience. At weekends, resident DJs provide a backing track to a fun and memorable night in town.Please note that from Sunday to Tuesday the menu will be limited to the lounge bar menu. ",
+    "meals": [],
+    "ambience": [],
+    "amenities": [],
+    "images": [
+      "https://resizer.otstatic.com/v3/photos/51888623-6?width=1280&height=720&webp=true",
+      "/static/cfe/14/images/opentable-logo-ZGYRVF2L.svg",
+      "/static/cfe/14/images/ic_photos-DSAVRTDM.svg",
+      "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+      "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg"
+    ],
+    "website": "http://www.radissonhotels.com/en-us/hotels/radisson-blu-london-hampshire/restaurant-bar/leicester-square-kitchen"
+  },
+  "Combine_details": [
+    {
+      "platform": "Quandoo",
+      "Reservation_Details": {
+        "openingHours": null,
+        "availableTimes": [
+          "12:00 pm",
+          "12:15 pm",
+          "12:30 pm",
+          "12:45 pm",
+          "1:00 pm",
+          "1:15 pm",
+          "1:30 pm",
+          "1:45 pm",
+          "2:00 pm",
+          "2:15 pm",
+          "2:30 pm",
+          "2:45 pm",
+          "3:00 pm",
+          "3:15 pm",
+          "3:30 pm",
+          "3:45 pm",
+          "4:00 pm",
+          "4:15 pm",
+          "4:30 pm",
+          "4:45 pm",
+          "5:00 pm",
+          "5:15 pm",
+          "5:30 pm",
+          "5:45 pm",
+          "6:00 pm",
+          "6:15 pm",
+          "6:30 pm",
+          "6:45 pm",
+          "7:00 pm",
+          "7:15 pm",
+          "7:30 pm",
+          "7:45 pm",
+          "8:00 pm",
+          "8:15 pm",
+          "8:30 pm",
+          "8:45 pm",
+          "9:00 pm",
+          "9:15 pm"
+        ],
+        "averageDiningDuration": null,
+        "seatingAreas": [
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Outdoor"
+          },
+          {
+            "area": "Outdoor"
+          },
+          {
+            "area": "Outdoor"
+          },
+          {
+            "area": "Outdoor"
+          },
+          {
+            "area": "Outdoor"
+          },
+          {
+            "area": "Outdoor"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          },
+          {
+            "area": "Bar"
+          }
+        ],
+        "partySizeOptions": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "bookingPolicy": null,
+        "specialExperienceBookings": true,
+        "integrationWithGoogleReserve": "Not Available"
+      },
+      "Ratings_and_Reviews": {
+        "overallRating": "5.2/6",
+        "totalReviews": "38 reviews",
+        "ratingsBreakdown": {
+          "food": null,
+          "service": null,
+          "ambience": null,
+          "value": null
+        },
+        "reviewSnippets": [],
+        "tagsFromReviews": []
+      }
+    },
+    {
+      "platform": "opentable",
+      "Reservation_Details": {
+        "openingHours": [
+          "Mon–Fri 12:00–21:30",
+          "Sat 12:30–21:30",
+          "Sun 12:30–20:00"
+        ],
+        "availableTimes": [
+          "18:30",
+          "18:45",
+          "19:00",
+          "19:15",
+          "19:30"
+        ],
+        "partySizeOptions": [
+          "1 person",
+          "2 people",
+          "3 people",
+          "4 people",
+          "5 people",
+          "6 people",
+          "7 people",
+          "8 people",
+          "9 people",
+          "10 people",
+          "11 people",
+          "12 people",
+          "13 people",
+          "14 people",
+          "15 people",
+          "16 people",
+          "17 people",
+          "18 people",
+          "19 people",
+          "20 people"
+        ],
+        "averageDiningDuration": null,
+        "seatingAreas": [],
+        "bookingPolicy": "",
+        "specialExperienceBookings": true,
+        "integrationWithGoogleReserve": "Available"
+      },
+      "Ratings_and_Reviews": {
+        "overallRating": 4.3,
+        "totalReviews": 1948,
+        "ratingsBreakdown": {
+          "food": "4.4",
+          "service": "4.2",
+          "ambience": "4.2",
+          "value": "4.0"
+        },
+        "reviews": [
+          {
+            "author": "Derek",
+            "date": "2025-11-22T20:00:00+00:00",
+            "stars": "3",
+            "snippet": "Friendly staff, good food which was very varied. There are cheaper alternatives.",
+            "tags": null
+          },
+          {
+            "author": "John",
+            "date": "2025-11-21T18:00:00+00:00",
+            "stars": "4",
+            "snippet": "Excellent food choice &amp; reasonable prices for London. Very handy for pre theatre dinner. Recommended",
+            "tags": null
+          },
+          {
+            "author": "Steven",
+            "date": "2025-11-10T17:45:00+00:00",
+            "stars": "3",
+            "snippet": "We had a delicious meal and our waitress was very attentive. We’ve eaten here twice and there isn’t anything on the menu we wouldn’t recommend.",
+            "tags": null
+          },
+          {
+            "author": "Michael",
+            "date": "2025-10-21T18:00:00+01:00",
+            "stars": "5",
+            "snippet": "Excellently prepared creative food served promptly by a helpful server.",
+            "tags": null
+          },
+          {
+            "author": "Ruth",
+            "date": "2025-10-20T17:00:00+01:00",
+            "stars": "5",
+            "snippet": "we were a little unsure about what to order, but love trying food new to us.  The lady serving us was lovely and very helpful. The food was delicious",
+            "tags": null
+          },
+          {
+            "author": "Maria",
+            "date": "2025-10-18T17:30:00+01:00",
+            "stars": "4",
+            "snippet": "Great menu and excellent service. Food was delicious.",
+            "tags": null
+          },
+          {
+            "author": "Ingela",
+            "date": "2025-10-16T17:00:00+01:00",
+            "stars": "4",
+            "snippet": "Great meal before the theatre all very delicious and attentive service.",
+            "tags": null
+          },
+          {
+            "author": "Jean-Marc Marc",
+            "date": "2025-10-15T19:15:00+01:00",
+            "stars": "3",
+            "snippet": "Place was very quiet! Food was amazing but a bit pricey! But overall i will go back!",
+            "tags": [
+              "quiet"
+            ]
+          },
+          {
+            "author": "Justin",
+            "date": "2025-10-05T13:00:00+01:00",
+            "stars": "4",
+            "snippet": "Great food and friendly staff. Went for lunch on Sunday and it was very quiet, which obviously wasn't a problem!",
+            "tags": [
+              "quiet"
+            ]
+          },
+          {
+            "author": "Ken",
+            "date": "2025-09-20T17:30:00+01:00",
+            "stars": "3",
+            "snippet": "We had a solid although not spectacular experience at Leicester Square Kitchen.  The food was good but the service slow.  We told the server we were going to theatre but had to chase someone down at the end of the meal after waiting over ten minutes for someone to come over for us to pay the bill.  The ambiance wasn't helped by the deafening din from a very large group (dozens) in a private function taking place right beside the main dining room.",
+            "tags": null
+          }
+        ],
+        "tagsFromReviews": [
+          [
+            "quiet"
+          ],
+          [
+            "quiet"
+          ]
+        ]
+      }
+    }
+  ]
+}

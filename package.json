@@ -1,0 +1,49 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "A collection of Node.js scripts for scraping restaurant data from Uber Eats.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrape": "node src/main.js",
+    "puppeter": "node src/scrapers/restroScrapperWithPup.js",
+    "mainPageScrape": "node src/scrapers/mainPageScrapper.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayanks-1908/scrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayanks-1908/scrapper/issues"
+  },
+  "homepage": "https://github.com/mayanks-1908/scrapper#readme",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.929.0",
+    "@aws-sdk/client-s3": "^3.940.0",
+    "@aws-sdk/credential-providers": "^3.908.0",
+    "@aws-sdk/lib-dynamodb": "^3.929.0",
+    "ajv": "^8.17.1",
+    "aws-sdk": "^2.1692.0",
+    "axios": "^1.13.1",
+    "cheerio": "^1.1.2",
+    "dayjs": "^1.11.19",
+    "dotenv": "^17.2.3",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.3.1",
+    "inquirer": "^12.10.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "mongodb": "^6.20.0",
+    "node-fetch": "^3.3.2",
+    "p-limit": "^7.2.0",
+    "puppeteer": "^24.31.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-real-browser": "^1.4.4",
+    "scrape": "^0.2.3",
+    "uuid": "^13.0.0"
+  }
+}

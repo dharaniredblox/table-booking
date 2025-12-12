@@ -1,0 +1,103 @@
+{
+  "restaurantId": "amelias_SW33NT_51",
+  "restaurant_url": "https://www.opentable.co.uk/restaurant/profile/353010",
+  "sources": [
+    "Opentable"
+  ],
+  "lastScrapedAt": "2025-11-28T05:52:32.379Z",
+  "Venue_Information": {
+    "restaurantName": "Amelia’s",
+    "cuisineType": "Mediterranean",
+    "address": "19-21 Elystan St",
+    "website": "",
+    "postcode": "SW3 3NT",
+    "latitude": 51.4911776,
+    "longitude": -0.1671405,
+    "phone": "020 7589 3718",
+    "googleMap": "https://www.google.com/maps/dir//51.4911776,-0.1671405",
+    "priceLevel": "£26 to £40",
+    "description": "Experience a culinary journey like no other at Amelia's: Made With Love. Simply Delicious. Nestled in the heart of Chelsea, our restaurant brings the flavors and ambiance of Greece and Italy to your table.Indulge in our extensive menu featuring a diverse array of seafood, meats, and green dishes, all prepared with love and care. Amelia's is where passion meets perfection in every bite.",
+    "meals": [],
+    "ambience": [],
+    "amenities": [],
+    "images": [
+      "https://resizer.otstatic.com/v3/photos/76990189-2?width=1280&height=720&webp=true",
+      "/static/cfe/14/images/opentable-logo-ZGYRVF2L.svg",
+      "/static/cfe/14/images/ic_photos-DSAVRTDM.svg",
+      "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+      "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg"
+    ]
+  },
+  "Combine_details": [
+    {
+      "platform": "opentable",
+      "Reservation_Details": {
+        "openingHours": [
+          "Mon–Sat 12:00–15:00",
+          "Mon–Sat 18:00–23:00"
+        ],
+        "availableTimes": [
+          "18:30",
+          "18:45",
+          "19:00",
+          "19:15",
+          "19:30"
+        ],
+        "partySizeOptions": [
+          "1 person",
+          "2 people",
+          "3 people",
+          "4 people",
+          "5 people",
+          "6 people",
+          "7 people",
+          "8 people",
+          "9 people",
+          "10 people",
+          "11 people",
+          "12 people",
+          "13 people",
+          "14 people",
+          "15 people",
+          "16 people",
+          "17 people",
+          "18 people",
+          "19 people",
+          "20 people"
+        ],
+        "averageDiningDuration": null,
+        "seatingAreas": [],
+        "bookingPolicy": "",
+        "specialExperienceBookings": true,
+        "integrationWithGoogleReserve": "Available"
+      },
+      "Ratings_and_Reviews": {
+        "overallRating": 4.3,
+        "totalReviews": 2,
+        "ratingsBreakdown": {
+          "food": "4.3",
+          "service": "3.8",
+          "ambience": "4.0",
+          "value": "3.8"
+        },
+        "reviews": [
+          {
+            "author": "Peter",
+            "date": "2025-07-30T19:30:00+01:00",
+            "stars": "5",
+            "snippet": "A lovely local restaurant providing great food, charming service and great value for money",
+            "tags": null
+          },
+          {
+            "author": "graham",
+            "date": "2025-07-23T20:30:00+01:00",
+            "stars": "4",
+            "snippet": "Great service, dood food and wine, decent value (for Chelsea!)",
+            "tags": null
+          }
+        ],
+        "tagsFromReviews": []
+      }
+    }
+  ]
+}

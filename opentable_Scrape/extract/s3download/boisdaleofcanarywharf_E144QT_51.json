@@ -1,0 +1,217 @@
+{
+  "restaurantId": "boisdaleofcanarywharf_E144QT_51",
+  "restaurant_url": "https://www.opentable.co.uk/restaurant/profile/81073",
+  "sources": [
+    "Opentable"
+  ],
+  "lastScrapedAt": "2025-11-28T05:43:13.870Z",
+  "Venue_Information": {
+    "restaurantName": "Boisdale of Canary Wharf",
+    "cuisineType": "British, Scottish, Seafood",
+    "address": "Cabot Place Canary Wharf",
+    "postcode": "E14 4QT",
+    "latitude": 51.5051005,
+    "longitude": -0.0214361,
+    "phone": "020 7715 5818",
+    "website": "http://www.boisdale.co.uk/canary-wharf/",
+    "googleMap": "https://www.google.com/maps/dir//51.5051005,-0.0214361",
+    "priceLevel": "£41 and over",
+    "description": "A live­ly restau­rant and music venue serv­ing mod­ern British food, featuring the UK's largest whisky bar, a heated garden ter­race, a cig­ar shop and humidor, over­look­ing the City of London skyline. The high capacity restaurant is on the second floor of a Gotham City-style Art Deco building overlooking the fountains in Cabot Square, Boisdale of Canary Wharf Restaurant is one of the most majestic premises to have opened in the area. It bears the distinctive Boisdale design of lacquer red and dark green walls, rich mahogany panelling, and an eclectic collection of classical and modern original artwork. The Whisky bar is one of the most extensive in the world, with over 1000 malt whiskeys and expert bartenders are on hand to guide you through the impressive range, and create hand-crafted unique cocktails suited to your taste. There is also a ticketed live music show every night except for Mondays, and Jools Holland is Boisdale's Patron of Music.",
+    "meals": [],
+    "ambience": [],
+    "amenities": [],
+    "images": [
+      "https://resizer.otstatic.com/v3/photos/58710516-2?width=1280&height=720&webp=true",
+      "/static/cfe/14/images/opentable-logo-ZGYRVF2L.svg",
+      "/static/cfe/14/images/ic_photos-DSAVRTDM.svg",
+      "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+      "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "https://resizer.otstatic.com/v3/photos/58710516-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/43808263-4?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/43808328-3?width=752&height=752&webp=true",
+      "https://www.opentable.co.uk/static/cfe/14/images/ic_photos-DSAVRTDM.svg",
+      "https://resizer.otstatic.com/v3/photos/52276404-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/58710514-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/63840057-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/58710500-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/58710508-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/58710583-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/52276494-3?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/52276493-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/63840333-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/52276386-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/52276477-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/63840056-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/58710581-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/63840288-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/52276387-3?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/58710571-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/63840053-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/63840283-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/63840138-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/63840287-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/63840291-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/63840293-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/52276449-3?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/58710565-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/63840311-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/63840312-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/52276396-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/52276402-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/63840298-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/52276491-3?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/52276401-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/52276397-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/52276393-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/52276395-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/63840296-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/63840080-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/29860663-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/25789280-0?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/25789279-0?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/50191390-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/73585295-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/67244353-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/67244366-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/67244351-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/67244365-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/67244362-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/67244347-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/67244355-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/67244371-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/27101574-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/27101541-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/26207192-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/25772792-0?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/64728870-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/64728871-1?width=752&height=423&webp=true"
+    ]
+  },
+  "Combine_details": [
+    {
+      "platform": "opentable",
+      "Reservation_Details": {
+        "openingHours": [
+          "Tue, Wed 18:00–23:00",
+          "Thu, Fri 18:00–00:00",
+          "Sat 12:00–00:00",
+          "Sun 12:00–17:00"
+        ],
+        "availableTimes": [
+          "16:30",
+          "16:45"
+        ],
+        "partySizeOptions": [
+          "1 person",
+          "2 people",
+          "3 people",
+          "4 people",
+          "5 people",
+          "6 people",
+          "7 people",
+          "8 people",
+          "9 people",
+          "10 people",
+          "11 people",
+          "12 people",
+          "13 people",
+          "14 people",
+          "15 people",
+          "16 people",
+          "17 people",
+          "18 people",
+          "19 people",
+          "20 people"
+        ],
+        "averageDiningDuration": null,
+        "seatingAreas": [],
+        "bookingPolicy": "",
+        "specialExperienceBookings": true,
+        "integrationWithGoogleReserve": "Available"
+      },
+      "Ratings_and_Reviews": {
+        "overallRating": 4.1,
+        "totalReviews": 524,
+        "ratingsBreakdown": {
+          "food": "4.0",
+          "service": "4.0",
+          "ambience": "4.1",
+          "value": "3.6"
+        },
+        "reviews": [
+          {
+            "author": "Alan",
+            "date": "2025-10-15T19:30:00+01:00",
+            "stars": "3",
+            "snippet": "Delicious food but we couldn’t hear anything over the music. Needs to decide whether it’s a restaurant or a concert venue",
+            "tags": null
+          },
+          {
+            "author": "Magdalena",
+            "date": "2025-06-11T19:30:00+01:00",
+            "stars": "4",
+            "snippet": "Great food, set menu very reasonable but the cocktails are overpriced",
+            "tags": null
+          },
+          {
+            "author": "Samuel",
+            "date": "2025-05-31T19:00:00+01:00",
+            "stars": "3",
+            "snippet": "I believe my experience isn’t representative of Boisdale but I was informed the Scottish Steak Supper I booked wasn’t available on Saturdays. The manager was indifferent and kept my family waiting.\nWe ordered something else but the steak was overcooked and nowhere near medium. The service standard isn’t up to par with modern establishments. Staff need better training.",
+            "tags": null
+          },
+          {
+            "author": "amo",
+            "date": "2025-02-15T20:15:00+00:00",
+            "stars": "2",
+            "snippet": "Wouldn't go again. Super expensive for what it was. We had the herring starter which was sold out but a variant gravalax was given (we were told which was fine) but it had no flavour whatsoever. My rib eye was slightly warm on arrival and no seasoning or flavour. We also has to wait for 10 minutes before being served when sat even though staff were flying past us attending to others. Attentative after being told so maybe just bad luck. Not worth the very high bill at all. If you like live jazz and whisky go. If your a foodie, maybe try elsewhere.",
+            "tags": null
+          },
+          {
+            "author": "Justine",
+            "date": "2025-01-24T20:30:00+00:00",
+            "stars": "3",
+            "snippet": "Absolut tolle Atmosphäre super Musik immer wieder gerne",
+            "tags": null
+          },
+          {
+            "author": "Richard",
+            "date": "2025-01-21T18:00:00+00:00",
+            "stars": "4",
+            "snippet": "We went at 6 pm, which is very early so rather empty. However, the food was excellent and the service really good.",
+            "tags": null
+          },
+          {
+            "author": "Chris",
+            "date": "2024-12-12T18:45:00+00:00",
+            "stars": "2",
+            "snippet": "It is a convenient location close to the tube and DLR. We went early evening and so it wasn't too busy. There seemed to be a lot of staff, but they were not particularly attentive. We had to chase for drinks that were slow in arriving and the food also took a while to arrive. The food was Ok, but nothing special.",
+            "tags": null
+          },
+          {
+            "author": "Marcus",
+            "date": "2024-12-12T12:30:00+00:00",
+            "stars": "3",
+            "snippet": "Loved the food.\nThe band were great if a little too loud to follow a conversation",
+            "tags": null
+          },
+          {
+            "author": "Patricia",
+            "date": "2024-11-19T18:45:00+00:00",
+            "stars": "5",
+            "snippet": "Fantastic food, service and ambience!\nHighly recommend the live music for a fantastic evening",
+            "tags": null
+          },
+          {
+            "author": "Mpho",
+            "date": "2024-10-26T18:30:00+01:00",
+            "stars": "1",
+            "snippet": "We found the reception staff to be a bit cold\nThe atmosphere was okay\nWe were served the wrong dish and drinks. We complained about drink which was replaced served with long and stern face\nWe payed for overpriced mediocre meal and left vowing not to go back to this restaurant again",
+            "tags": null
+          }
+        ],
+        "tagsFromReviews": []
+      }
+    }
+  ]
+}

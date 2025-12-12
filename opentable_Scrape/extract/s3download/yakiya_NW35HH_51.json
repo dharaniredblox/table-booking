@@ -1,0 +1,195 @@
+{
+  "restaurantId": "yakiya_NW35HH_51",
+  "restaurant_url": "https://www.opentable.co.uk/restaurant/profile/374727",
+  "sources": [
+    "Opentable"
+  ],
+  "lastScrapedAt": "2025-11-28T05:43:51.106Z",
+  "Venue_Information": {
+    "restaurantName": "Yaki Ya",
+    "cuisineType": "Japanese",
+    "address": "14/15 Frognal Parade, 158 Finchley Road",
+    "website": "https://yakiya.co.uk/",
+    "postcode": "NW3 5HH",
+    "latitude": 51.5492257,
+    "longitude": -0.1812459,
+    "phone": "020 4568 5212",
+    "googleMap": "https://www.google.com/maps/dir//51.5492257,-0.1812459",
+    "priceLevel": "£25 and under",
+    "description": "Since 2019, Yaki Ya! has served vibrant Japanese street food, starting at Bang Bang Oriental Food Hall and now expanding to Finchley Road, London. Honoured to be named North London’s Restaurant of the Year by ARTA, Yaki Ya! believes food is more than fuel – it’s an experience. Our Chicken Katsu Curry is iconic, with crispy, golden panko-coated chicken in savoury curry sauce. Tantalizing Fusionend Ramen Soup that’s a party in your mouth. Love street food classics? Try our crispy Takoyaki, perfect for sharing (or not!), and our Tiger Prawn Tempura – golden and addictive. For noodle lovers, Yakisoba and Udon are loaded with flavours that bring joy to every bite.Our entire menu is HALAL and created with bold, unforgettable flavours. Finchley Road’s ambiance is warm and stylish, with wood-panelled walls, chic benches, and pendant lighting creating a cosy space.Join us at Yaki Ya! Finchley Road – we promise you’ll leave with a happy heart and full stomach. See you soon!",
+    "meals": [],
+    "ambience": [],
+    "amenities": [],
+    "images": [
+      "https://resizer.otstatic.com/v3/photos/70132288-2?width=1280&height=720&webp=true",
+      "/static/cfe/14/images/opentable-logo-ZGYRVF2L.svg",
+      "/static/cfe/14/images/ic_photos-DSAVRTDM.svg",
+      "https://resizer.otstatic.com/v2/photos/small/2/72451717.jpg",
+      "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+      "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "https://resizer.otstatic.com/v3/photos/70132288-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74950085-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74952806-1?width=752&height=752&webp=true",
+      "https://www.opentable.co.uk/static/cfe/14/images/ic_photos-DSAVRTDM.svg",
+      "https://resizer.otstatic.com/v3/photos/74951454-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74950188-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74951430-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74952812-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74949499-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/70133556-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74949329-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74951426-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74952808-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74950060-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74951450-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74949509-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74949328-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74951434-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74949419-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74951425-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74953019-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74949332-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74951964-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74952099-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74951436-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74953018-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74952250-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74950084-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74951431-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74951438-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74949436-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74952110-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/70134296-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74952578-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74952252-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74953013-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74952104-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/70133491-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/70133615-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/70133550-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74948688-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74951427-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74948822-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74949506-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74949252-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74949030-2?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/74949029-2?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/79236335-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/79574344-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/79574590-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/71323863-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/71822496-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/71323861-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/71323862-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/71357938-1?width=752&height=752&webp=true",
+      "https://resizer.otstatic.com/v3/photos/71357941-1?width=752&height=423&webp=true",
+      "https://resizer.otstatic.com/v3/photos/71260751-1?width=752&height=423&webp=true"
+    ]
+  },
+  "Combine_details": [
+    {
+      "platform": "opentable",
+      "Reservation_Details": {
+        "openingHours": [
+          "Daily 12:00–21:30"
+        ],
+        "availableTimes": [
+          "18:30",
+          "18:45",
+          "19:00",
+          "19:15",
+          "19:30"
+        ],
+        "partySizeOptions": [
+          "1 person",
+          "2 people",
+          "3 people",
+          "4 people",
+          "5 people",
+          "6 people",
+          "7 people",
+          "8 people",
+          "9 people",
+          "10 people",
+          "11 people",
+          "12 people",
+          "13 people",
+          "14 people",
+          "15 people",
+          "16 people",
+          "17 people",
+          "18 people",
+          "19 people",
+          "20 people"
+        ],
+        "averageDiningDuration": null,
+        "seatingAreas": [],
+        "bookingPolicy": "",
+        "specialExperienceBookings": true,
+        "integrationWithGoogleReserve": "Available"
+      },
+      "Ratings_and_Reviews": {
+        "overallRating": 4.3,
+        "totalReviews": 7,
+        "ratingsBreakdown": {
+          "food": "4.3",
+          "service": "4.3",
+          "ambience": "4.2",
+          "value": "4.3"
+        },
+        "reviews": [
+          {
+            "author": "Juliet",
+            "date": "2025-07-05T19:15:00+01:00",
+            "stars": "5",
+            "snippet": "I had a wonderful time with great food, great service, and wonderful company",
+            "tags": null
+          },
+          {
+            "author": "Faruk",
+            "date": "2025-01-29T13:00:00+00:00",
+            "stars": "5",
+            "snippet": "Great little place for Japanese food. All menu is halal. Staff are super friendly and accommodating.",
+            "tags": null
+          },
+          {
+            "author": "Temi",
+            "date": "2024-12-21T20:30:00+00:00",
+            "stars": "5",
+            "snippet": "Really enjoyed the chicken and beef Udon noodles. Lovely, friendly staff and just a very calm dinning experience on a cold night.",
+            "tags": null
+          },
+          {
+            "author": "Fatema",
+            "date": "2024-12-14T21:30:00+00:00",
+            "stars": "5",
+            "snippet": "🍜🍗 Craving comfort? Yaki Ya!'s got you covered! 😋\n\nJust had their Seafood Udon Soup and OMG 🤤 So. Much. Flavor! Fresh seafood + perfect noodles = heaven in a bowl!\n\nAnd don't get me started on that Chicken Teriyaki Bowl 🔥 Juicy chicken, killer sauce, fluffy rice. Lunch goals, anyone?\n\nTrust me, your taste buds will thank you!",
+            "tags": null
+          },
+          {
+            "author": "k",
+            "date": "2024-12-13T21:15:00+00:00",
+            "stars": "5",
+            "snippet": "I tried 3 items gyoza, beef teriyaki, and salmon bento box and they are fantastic! The gyoza are crispy and flavorful, the teriyaki beef is tender and delicious, and the salmon bento is a perfect, well-balanced meal.\n\nA must-try for Japanese food lovers!",
+            "tags": null
+          },
+          {
+            "author": "Billy",
+            "date": "2024-12-12T20:00:00+00:00",
+            "stars": "5",
+            "snippet": "Had a delightful time at Yaki Ya. The portion sizes were excellent and very reasonably priced! The Teriyaki duck noodles were delicious as was the chicken katsu curry.",
+            "tags": null
+          },
+          {
+            "author": "Yamina",
+            "date": "2024-12-12T17:45:00+00:00",
+            "stars": "5",
+            "snippet": "Loved it!\nVery welcoming and amazing food ❤️\nI loved the prawn katsu, mochis, yakisoba and spicy koji chicken! Would highly recommend to everyone 😍",
+            "tags": null
+          }
+        ],
+        "tagsFromReviews": []
+      }
+    }
+  ]
+}
