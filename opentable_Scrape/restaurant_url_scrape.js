@@ -1,12 +1,12 @@
 import puppeteer from "puppeteer";
 import fs from "fs";
-import { generateRestaurantId } from "../../src/utils/normalize.js";
-import { upsertTableBooking } from "../../src/utils/dynamo.js";
+import { generateRestaurantId } from "../src/utils/normalize.js";
+import { upsertTableBooking } from "../src/utils/dynamo.js";
 
 const BASE_URL = "https://www.opentable.co.uk/metro";
 const START_URL = `${BASE_URL}/london-restaurants`;
 const OUTPUT_FILE = "extract";
-const OUTPUT_PATH = `${OUTPUT_FILE}/restaurant_url_scrape.json`;
+const OUTPUT_PATH = `${OUTPUT_FILE}/url-scrape/restaurant_url.json`;
 
 (async () => {
   console.log("🚀 Launching browser...");

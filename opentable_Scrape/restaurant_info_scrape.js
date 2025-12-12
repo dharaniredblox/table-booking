@@ -10,7 +10,7 @@ import {
   getAllBookingItems,
   updateScrapeStatus,
   BOOKING_TABLE_NAME,
-} from "../../src/utils/dynamo.js";
+} from "../src/utils/dynamo.js";
 
 // --- ESM-safe __dirname ---
 const __filename = fileURLToPath(import.meta.url);
@@ -46,7 +46,7 @@ const s3Client = new S3Client({ region: AWS_REGION });
 // --- Directories ---
 const RAW_DIR = path.join(__dirname, "extract/raw-html-json");
 const CLEANED_DIR = path.join(__dirname, "extract/cleaned-json");
-const S3DOWNLOAD_DIR = path.join(__dirname, "extract/s3download");
+const S3DOWNLOAD_DIR = path.join(__dirname, "extract/s3-scrape");
 const MERGED_DIR = path.join(__dirname, "extract/merged");
 const DELAY_MS = 2000;
 const S3_TARGET_PREFIX = S3_BOOKING_FOLDER_PREFIX.replace(/^\/+|\/+$/g, "");

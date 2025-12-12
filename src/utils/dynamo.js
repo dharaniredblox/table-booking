@@ -16,6 +16,7 @@ dotenv.config({ path: path.resolve(__dirname, "../../.env") });
 
 export const TABLE_NAME = process.env.DYNAMO_TABLE_NAME || "";
 export const BOOKING_TABLE_NAME = process.env.DYNAMO_BOOKING_TABLE_NAME || "";
+console.log("BOOKING_TABLE_NAME",BOOKING_TABLE_NAME)
 
 if (!process.env.AWS_REGION) {
   console.error("❌ AWS_REGION missing in .env");
