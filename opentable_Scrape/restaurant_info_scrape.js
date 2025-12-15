@@ -781,7 +781,7 @@ async function main() {
   }
   console.log(`📋 Found ${urls.length} URLs. Starting scrape...`);
   const browser = await puppeteer.launch({
-    headless: false,
+    headless: "auto",
     protocolTimeout: 120000,
     args: ["--no-sandbox", "--disable-setuid-sandbox"],
   });

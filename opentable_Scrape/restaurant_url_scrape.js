@@ -11,12 +11,9 @@ const OUTPUT_PATH = `${OUTPUT_FILE}/url-scrape/restaurant_url.json`;
 (async () => {
   console.log("🚀 Launching browser...");
   const browser = await puppeteer.launch({
-    headless: false,
-    args: [
-      "--no-sandbox",
-      "--disable-setuid-sandbox",
-      "--disable-features=IsolateOrigins,site-per-process",
-    ],
+    headless: "auto",
+    defaultViewport: null,
+    args: ["--no-sandbox"],
   });
 
   const page = await browser.newPage();
