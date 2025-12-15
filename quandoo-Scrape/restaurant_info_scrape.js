@@ -28,7 +28,7 @@ if (
   !S3_BOOKING_FOLDER_PREFIX
 ) {
   console.error(
-    "❌ Missing AWS credentials, bucket name, table name, or S3 folder prefix in .env"
+    " Missing AWS credentials, bucket name, table name, or S3 folder prefix in .env"
   );
   process.exit(1);
 }
@@ -190,7 +190,7 @@ async function getExistingS3JSON(filename) {
     return JSON.parse(obj.Body.toString("utf-8"));
   } catch (err) {
     if (err.code === "NoSuchKey") return null;
-    console.error("❌ Error reading existing S3 file:", err);
+    console.error(" Error reading existing S3 file:", err);
     return null;
   }
 }
@@ -202,11 +202,11 @@ async function uploadCleanedJSONToS3(cleanedJSON, filename) {
   let finalJSON = cleanedJSON;
 
   if (existing) {
-    console.log(`🔄 Merging S3 JSON with cleaned JSON: ${filename}`);
+    console.log(` Merging S3 JSON with cleaned JSON: ${filename}`);
     finalJSON = mergeRestaurantData(existing, cleanedJSON);
     const mergedPath = path.join(MERGING_DIR, filename);
     await fs.writeFile(mergedPath, JSON.stringify(finalJSON, null, 2), "utf-8");
-    console.log(`💾 Saved merged JSON locally → ${mergedPath}`);
+    console.log(` Saved merged JSON locally → ${mergedPath}`);
   }
 
   await s3
@@ -216,7 +216,7 @@ async function uploadCleanedJSONToS3(cleanedJSON, filename) {
       Body: JSON.stringify(finalJSON, null, 2),
     })
     .promise();
-  console.log(`⬆️ Uploaded final JSON to S3: ${filename}`);
+  console.log(` Uploaded final JSON to S3: ${filename}`);
 }
 
 // ---------- SCRAPER ----------
@@ -619,12 +619,12 @@ async function scrapeRestaurantDetails(restaurant, page) {
     const rawJsonPath = path.join(OUTPUT_DIR, `${resId}.json`);
     await fs.writeFile(rawJsonPath, JSON.stringify(rawData, null, 2), "utf-8");
 
-    console.log(`✅ Scraped & merged: ${resId}`);
+    console.log(`Scraped & merged: ${resId}`);
     await updateScrapeStatus(resId, "completed");
     await new Promise((r) => setTimeout(r, DELAY_MS));
   } catch (err) {
     console.error(
-      `❌ Failed scraping ${restaurant.quandoo_restaurant_url}: ${err.message}`
+      ` Failed scraping ${restaurant.quandoo_restaurant_url}: ${err.message}`
     );
   }
 }
@@ -634,12 +634,19 @@ async function main() {
   const all = await getRestaurantsFromDynamo();
   const restaurants = all.filter((r) => r.quandoo_restaurant_url);
 
-  console.log(`📌 Total restaurants in DB: ${all.length}`);
-  console.log(`🍽️ Quandoo restaurants to scrape: ${restaurants.length}`);
+  console.log(`Total restaurants in DB: ${all.length}`);
+  console.log(`Quandoo restaurants to scrape: ${restaurants.length}`);
 
   const browser = await puppeteer.launch({
-    headless: false,
+    headless: "new",
     defaultViewport: null,
+    args: [
+    "--no-sandbox",
+    "--disable-setuid-sandbox",
+    "--disable-dev-shm-usage",
+    "--disable-gpu",
+    "--single-process",
+  ],
   });
   const page = await browser.newPage();
 

@@ -71,7 +71,7 @@ async function fetchRestaurantDetails(url) {
     }
     return { postalCode: "", latitude: null, longitude: null, address: "" };
   } catch (err) {
-    console.error(`⚠️ Failed to fetch details for ${url}: ${err.message}`);
+    console.error(` Failed to fetch details for ${url}: ${err.message}`);
     return { postalCode: "", latitude: null, longitude: null, address: "" };
   }
 }
@@ -97,9 +97,9 @@ async function saveRestaurantLocally(restaurantObj) {
     }
 
     await fs.writeFile(`${OUTPUT_FILE}/restaurant_url_scrape.json`, JSON.stringify(existing, null, 2), "utf-8");
-    console.log(`💾 Saved locally (${existing.length} total): ${restaurantObj.restaurant_id}`);
+    console.log(` Saved locally (${existing.length} total): ${restaurantObj.restaurant_id}`);
   } catch (err) {
-    console.error(`❌ Error writing to ${`${OUTPUT_FILE}/restaurant_url_scrape.json`}: ${err.message}`);
+    console.error(` Error writing to ${`${OUTPUT_FILE}/restaurant_url_scrape.json`}: ${err.message}`);
   }
 }
 
@@ -112,12 +112,12 @@ async function scrapeAllRestaurants() {
   try {
     while (true) {
       const url = `${START_URL}?page=${page}`;
-      console.log(`📄 Scraping page ${page}: ${url}`);
+      console.log(` Scraping page ${page}: ${url}`);
 
       const $ = await fetchPageHtml(url);
       const cards = $('[data-qa="merchant-card-wrapper"]');
       if (!cards || cards.length === 0) {
-        console.log(`⚠️ No restaurant cards found on page ${page}. Stopping.`);
+        console.log(` No restaurant cards found on page ${page}. Stopping.`);
         break;
       }
 
@@ -178,11 +178,11 @@ async function scrapeAllRestaurants() {
           quandoo_status: "pending"
         };
 
-      console.log(`✅ Found ${cards.length} restaurants on page ${page}`);
+      console.log(` Found ${cards.length} restaurants on page ${page}`);
 
       console.log("restaurantObj",restaurantObj);
 
-        // console.log(`🆔 ${restaurant_id} | ${name}`);
+        // console.log(` ${restaurant_id} | ${name}`);
 
         // ✅ Save locally
         await saveRestaurantLocally(restaurantObj);
@@ -195,13 +195,13 @@ async function scrapeAllRestaurants() {
           console.log(`Saved ${restaurantObj.restaurant_id} in DynamoDB`);
           
         } catch (err) {
-          console.error(`⚠️ DynamoDB upsert failed for ${restaurant_id}: ${err.message}`);
+          console.error(` DynamoDB upsert failed for ${restaurant_id}: ${err.message}`);
         }
 
         await new Promise((r) => setTimeout(r, POLITE_DELAY_MS));
       }
 
-      console.log(`✅ Page ${page}: ${cards.length} restaurants scraped`);
+      console.log(` Page ${page}: ${cards.length} restaurants scraped`);
 
       const sortedIds = [...new Set(pageIds)].sort();
       const currentPageHash = sortedIds.join("|");
@@ -214,11 +214,11 @@ async function scrapeAllRestaurants() {
       lastPageIdsHash = currentPageHash;
 
       if (repeatedPageCount >= 2) {
-        console.log("🛑 Detected repeated page content — stopping.");
+        console.log(" Detected repeated page content — stopping.");
         break;
       }
 
-      // console.log(`💾 Progress saved: ${deduped.length} total restaurants`);
+      // console.log(` Progress saved: ${deduped.length} total restaurants`);
 
       page++;
       await new Promise((r) => setTimeout(r, POLITE_DELAY_MS));
@@ -226,7 +226,7 @@ async function scrapeAllRestaurants() {
 
     console.log("🎉 Finished scraping all restaurants.");
   } catch (err) {
-    console.error("❌ Scraper error:", err.message);
+    console.error(" Scraper error:", err.message);
   }
 }
 
